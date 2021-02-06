@@ -1,0 +1,265 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2462" group="TODOS" logo="https://i.imgur.com/R8qQGoZ.png", REDE FAMÍLIA
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://store-images.s-microsoft.com/image/apps.55915.13510798887418877.dec4357d-1496-4288-9993-c679af19f944.1d3b8383-3d84-48b2-9b49-403c786e1b83?mode=scale&q=90&h=300&w=300", TV MAR (MACEIÓ)
+https://virtues.es:1936/tvmar/tvmar/chunklist_w85835424.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Shoptime_logo.svg/1280px-Shoptime_logo.svg.png", SHOPTIME
+https://www.youtube.com/watch?v=ZC0_rKob80I
+#EXTINF:0 type="stream" channelId="2892" group="ANTENA UHF RJ" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo RJ HD (ANTENA)
+dtv://antenna:29/atsc/4/1
+#EXTINF:0 type="stream" channelId="2467" group="TODOS" logo="https://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg", Tv Cultura
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w379252300.m3u8
+#EXTINF:0 type="stream" channelId="2436" group="ANTENA UHF RJ" logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D.png", RedeTV! HD (ANTENA)
+dtv://antenna:21/atsc/6/1
+#EXTINF:0 type="stream" channelId="2563" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND HD (ANTENA)
+dtv://antenna:35/atsc/7/1
+#EXTINF:0 type="stream" channelId="2571" group="ANTENA UHF RJ" logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20190825030134", SBT HD (ANTENA)
+dtv://antenna:24/atsc/11/1
+#EXTINF:0 type="stream" channelId="2562" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
+dtv://antenna:39/atsc/13/1
+#EXTINF:0 type="stream" channelId="-1" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", RBTV HD (ANTENA)
+dtv://antenna:51/atsc/51/1
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://bit.ly/2kYTnTd", Rede Super
+http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:0 type="stream" channelId="2449" group="TODOS" logo="http://bit.ly/2ktjLV3", Canção Nova [HD]
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:0 type="stream" channelId="2609" group="TODOS" logo="https://lh3.googleusercontent.com/proxy/Z_j1y5I9kDXiKE_LVJjjhvSzJH8liG7Qeztlr2LQc7yWngjVc2mfFYkpYQaQ_BB2ajz-1tJ_hQQ5Ts9Q_jBdQrvnFiYWzVZCzYdKNfqp3I7xhKwc4sDlacepvJzHZRWAlPjvnbLLExLsOV0sAT85QY8XeEafkxYH_1Z9CDZC1sheo3EKFTa5A4aDJ4z7", TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://imagensbrasil.org/images/2019/10/24/TV-NATAL.png" aspect-ratio="16:9", TV NATAL
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1605886703.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/544-x-180px-300x99.png" aspect-ratio="16:9", TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w638865174.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1392640.m3u8?sts=st=1590245915~exp=1590252515~acl=/*~hmac=8cbfabdb496ba5e48cdb904a6344084708d1047525b3fc09a490514a0e453035
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://tvzoom.com.br/wp-content/uploads/2019/03/TV-ZOOM-LOGO-2018-RGB.png", TV Zoom Nova Friburgo
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/7LsGyuP.png", TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://pa.srvsite.com/arquivos/5331/cabecalho-5331-20200108121459.png", TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/chunklist_w179349501.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV LIBERDADE
+http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1943291987.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/DkY6TIU.png", CINE TRIANON
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8?wowzasessionid=1724480158
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/Ok8QCbO.png", MKK WEB TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w188642796.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w156986052.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png", TV MON
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?wowzasessionid=1167800536
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://img77.uenicdn.com/image/upload/v1583204429/business/733d9293-a359-48f2-a11a-488bca886e6f.png", REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://pbs.twimg.com/profile_images/491641886533120002/lpdEPhkp_400x400.png", TV SOL
+http://streaming03.zas.media:1935/tvsol/tvsol/chunklist_w1113518171.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2434" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2571" group="TODOS", SBT / TV JORNAL
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:0 type="stream" channelId="1031" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
+http://177.130.81.30/hls/metropole.m3u8
+#EXTINF:0 type="stream" channelId="2459", TV DIARIO
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZfp1p20LiHY1VJzMjpqiPm0)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! TO
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+#EXTINF:0 type="stream" channelId="2438" group="TODOS" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", Rede Brasil de Televisão
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w171615111.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/y1p8QSo.png", JORNAL DO NORDESTE (FILMES)
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w199511178.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="data:image/png;base64,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" aspect-ratio="16:9", TRIP BRASIL CHANNEL
+https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://imperialtv.com.br/wp-content/uploads/2020/02/LOGO-TV2.png", IMPERIAL TV
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w1988637756.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/loadvermelho.png", LOADING HD
+https://aws-br.cdn.booyah.live/hls/1000009/34850987_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://pbr-str.srvsite.com/arquivos/8411/cabecalho-8411-20201030114817.png" aspect-ratio="16:9", REDE H
+https://stmv3.samcast.com.br/hugo3090/hugo3090/chunklist_w31925552.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
+https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1575376867.m3u8
+#EXTINF:0 type="stream" channelId="2463" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png", TOP TV
+https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png", SUMMER TV [HD]
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
+#EXTINF:0 type="stream" channelId="2496" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/9f41c575-ceca-4863-89e7-85e1628fab94.png", 98 Live
+https://cdn.jmvstream.com/w/LVW-8202/LVW8202_WXoGmOx1th/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://cbtvnow.com/images/logo-white.png", CBTV BRAZI TV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:0 type="stream" channelId="2461" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png", TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://bit.ly/2kYbkB8", Portal Foxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://www.toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", TOP LATINO TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w365122517.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://www.radiocontact.be/GED/00110000/118600/118657.png", RADIO CONTACT TV
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", MTV LATINO
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/uFbyigf.png", M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0 type="stream" channelId="1476" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/1hd.png", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+#EXTINF:0 type="stream" channelId="3595" group="TODOS", TV 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:0 type="stream" channelId="1852" group="TODOS" logo="https://i.imgur.com/9TbpsS0.png", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://lh3.googleusercontent.com/proxy/Mx3p6IByjazel1f-I9UVR-HqvuuUWJk7U_bWacVfHWxd7t__xzeNcynYtSmlFcEZ8XpQ-J-fjm80qGS0z09FeXrTzji-_zG0nde6YI7L2zx5", CONECTA WEB TV
+http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w695211007.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/tvliberdadelogo.png", TV LIBERDADE
+https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", PPTV CHANNEL
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/chunklist_w1559217084.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://www.londrinatv.com.br/img/296456793.jpg", LONDRINA TV
+https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w946006264.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://4.bp.blogspot.com/-JwZlc2K1-vw/XqeJPjzZWqI/AAAAAAAACqU/SQ01_WsB9wQQmRpVaC1EMa1PPcy6LSrugCLcBGAsYHQ/s320/Screenshot_2020-04-27-22-35-28.png", TV LATINA SAT
+https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2569" group="TODOS" logo="https://tvescola.org.br/wp-content/uploads/2019/03/tv-escola-vetor-horizontal-pt.png" aspect-ratio="16:9", TV ESCOLA
+https://video-rvd-pe-cdc-gw-1-1.rnp.br/live/ocp(t(FkB3-trbF4U)r(fVR9ug)a(syKLFw)p(d(2xc)k(q8E)m(jrB8ITS6qblGyhNYpWWptg)n(a(1srVEw)s(9DE)'a(jONJsA)s(giQ)))s(s(dhw)b(rss7iUY6bRhKL9UoR3ASnlxmG_E_HrkREiT4MFBJMTPMODFDlO3wXgsT0IoIC_lHCcrVxJ9O8gQ3SMfEFQ)'s(EAI)b(fRkb3Ej5PqBig6ZqDTn6in6_ANAkez4PUbPKWSOkDoPHd9qqp0H7A4kSfDQ1D356NqUdOj58jyBX241KhOkvEZtf-8PM7XkNbsZ0KtuA)'s(vwc)b(wpDD18q9))m(0))/tvescola_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png", RTP 3 PORTUGAL
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
+#EXTINF:0 type="stream" channelId="2855" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg", PORTO CANAL
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="1333" group="TODOS" logo="http://bit.ly/2ktg4i9", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://img.radios.com.br/radio/xl/radio32383_1439401807.jpg", Sad FM (GO)
+https://hls.brasilstream.com.br/live/sadfmtv/sadfmtv/mono.m3u8?token=5614193375041293000
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://difusora95.com.br/wp-content/themes/difusora-95/img/logo.png", RADIO DIFUSORA FM
+https://hls.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://thathi.com.br/wp-content/uploads/2019/10/tvthathi2-300x135.png", TV THATHI
+https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="4647" group="TODOS" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:0 type="stream" channelId="2573" group="TODOS", Band News
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w2128112813.m3u8
+#EXTINF:0 type="stream" channelId="2456" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2-840x560.png", MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?wowzasessionid=1841437714
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV ESTILO
+https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w1504006350.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://4.bp.blogspot.com/-WklrIl-gavo/XVb2yDFHKkI/AAAAAAAABfw/ah6IF1qpE2E8wEm_zs97MmaiCN8zsTZcQCPcBGAYYCw/s320/Screenshot_2019-08-16-15-24-43.png", TV ARTE MAIS
+https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TVE PORTO ALEGRE
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CANAL%2B29.png", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1073861481.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" aspect-ratio="16:9", NOSSA TV
+https://cdn.jmvstream.com/w/AVJ-9081/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png", TV CARIOCA
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1737414436.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" aspect-ratio="16:9", ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w568238538.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", ENTORNO SUL WEB TV
+http://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w211452640.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", MANAUS MIX WEB TV
+https://stmv1.srvif.com/manaus/manaus/chunklist_w619210877.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
+http://stm21.srvstm.com:8098/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
+http://95.216.27.138:9302/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
+http://shout35.crossradio.com.br:8086/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://rio.fm/wp-content/uploads/2019/01/LOGO_RIOFM_NOVA-1.png", Radio Rio FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIOFM.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/YQqjvP6.png", Radio Embalo FM
+https://node-15.zeno.fm/v9m05yf0mwzuv.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png", Radio Transamerica FM RJ
+http://transamerica.crossradio.com.br:9112/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/f46EPhy.png", Radio Onda Beat
+http://192.254.68.106:10172/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/PgI2RD1.png", RPC FM
+http://stream.zeno.fm/594tp3bm7tzuv.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/nfHNQSU.png", Estação Sat RJ
+http://stream.zeno.fm/tfp19fb4czzuv.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
+http://radio.servercsi.com.br:9422/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/JF9mLv6.png", Radio Charme RJ
+http://stm21.srvstm.com:7636/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://lh3.googleusercontent.com/MP5jsQOttiemHu2R4d0tVFrYUVuEakt_e-q7XUdjiUe1TixR3JeN4Nl79Iz6tira2AaK=w720-h310", Radio Onda Black
+https://player.painelvox.com/player-ssl/6720/.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.ytimg.com/vi/gVUAIz-yOWw/hqdefault.jpg", Radio Funk Antigo
+http://stm1.xcast.com.br:6906//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
+http://stm19.stmsrv.com:31910/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://img.radios.com.br/radio/lg/radio43838_1488835937.jpg", Rap Soul Funk Old School RJ
+http://stm4.painelvox.com:8152/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://metropolitanafm.com.br/assets/imgs/funk-novo.png", Metropolitana Funk
+https://paineldj.com.br:2306/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.totalremix.com.br/logo/Logo_Novo_Slogan.png", Radio Total Remix
+https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/uOTnoPE.png", So Kakarecos Disco
+http://192.99.110.163:9000/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://seeklogo.com/images/R/radio-mundial-am-860-khz-logo-0150C7A4DB-seeklogo.com.gif", Radio Mundial Rio
+http://server03.stmsg.com.br:12966/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/dabf05O.png", Radio Antena Jovem FM
+http://51.75.145.68:11968/stream/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", Mix FM SP
+http://mixaac.crossradio.com.br:10000/;stream/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://metropolitanafm.com.br/assets/imgs/pop.png", Metropolitana Pop
+https://paineldj.com.br:2510/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.brasilradios.com.br/wp-content/uploads/2015/06/jovem-pan-bh-fm-99-1.png", Radio Jovem Pan BH
+http://8a3c.live.upx.net.br:8036/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://img.radios.com.br/radio/xl/radio14937_1549666643.jpg", Tribuna FM
+http://stream.hostpg.com.br:8084/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1200px-Dumont_FM_logo.svg.png", Radio Dumont FM
+https://64-237-45-183.webnow.com.br/dumont.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
+http://radyo.yayin.com.tr:5998//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Top_FM.png", Top FM
+http://cloud2.cdnseguro.com:23642//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.poolfm.com.br/wp-content/uploads/2013/06/logo.png", Radio Pool FM
+http://208.115.213.242:8010/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://us0-cdn.onlineradiobox.com/img/logo/1/49401.v2.png", Radio Circuito Mix
+http://173.236.30.162:8215//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
+http://listen.181fm.com:7080/181-energy98_128k.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
+http://sc.powerhitz.com:5040/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.questlondonradio.com/wp-content/uploads/2012/02/QuestLondonLogo_400x188-trans.png", Quest London Radio
+https://questlondonradio.com:3443/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/P9Wuehe.png", Radio Musical FM (ES)
+http://stm7.painelvox.com:8298/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", Radio SIM FM (ES)
+http://stm7.painelvox.com:8290/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/NOVABRASIL_FM_logo_2019.png", Nova Brasil FM
+https://20283.live.streamtheworld.com/NOVABRASIL_SP.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
+http://cast.midiaip.com.br:9770/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/oBybyfW.png", Radio Flash Beat
+http://sv11.hdradios.net:6976/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://retrofmbr.com/wp-content/uploads/2020/02/retro_br-300x254.png", Retrô FM
+http://45.76.239.210:5036/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
+http://stm11.xcast.com.br:10392/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios", Hertz FM
+https://player.painelvox.com/player-ssl/8318/stream.mp3
