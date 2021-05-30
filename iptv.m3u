@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2462" group="TODOS" logo="https://i.imgur.com/R8qQGoZ.png", REDE FAMÍLIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?IMDSFULL
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://1.bp.blogspot.com/-1PtAsgWkKvA/YD5hknTNbHI/AAAAAAAAEXE/2E1kcfpM6xkCHsgjaYWpfQcJpSVHtHthQCLcBGAsYHQ/s0/ORBTV.png", ORB TV
-https://srv1.zcast.com.br/antonio8877/antonio8877/chunklist_w1046734925.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", CMN TV
+http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="ANTENA UHF RJ" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo RJ HD (ANTENA)
@@ -21,18 +21,18 @@ dtv://antenna:39/atsc/13/1
 dtv://antenna:51/atsc/51/1
 #EXTINF:0 type="stream" channelId="5077" group="TODOS" logo="http://bit.ly/2kYTnTd", Rede Super
 http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png", RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1310858161.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV CIDADE - 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="2609" group="TODOS" logo="https://lh3.googleusercontent.com/proxy/Z_j1y5I9kDXiKE_LVJjjhvSzJH8liG7Qeztlr2LQc7yWngjVc2mfFYkpYQaQ_BB2ajz-1tJ_hQQ5Ts9Q_jBdQrvnFiYWzVZCzYdKNfqp3I7xhKwc4sDlacepvJzHZRWAlPjvnbLLExLsOV0sAT85QY8XeEafkxYH_1Z9CDZC1sheo3EKFTa5A4aDJ4z7", TV NOVO TEMPO
 http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?IMDSFULL
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS RJ
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://imagensbrasil.org/images/2019/10/24/TV-NATAL.png" aspect-ratio="16:9", TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1605886703.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/544-x-180px-300x99.png" aspect-ratio="16:9", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS", BONS TEMPOS TV
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w638865174.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1969698327.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
@@ -61,8 +61,8 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2571" group="TODOS", SBT / TV JORNAL
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2571" group="TODOS", SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w157034876_b1000000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
@@ -70,7 +70,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:0 type="stream" channelId="2459", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQEmpfIonhehSwtGqxUXBpY)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYnB4yszR_gQ7Im34i2lbYo)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
@@ -83,10 +83,10 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1716151
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w199511178.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS", J SID
-https://5e36c064a2f6a.streamlock.net:1936/8262/8262/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/loadvermelho.png", LOADING HD
-https://centurylink.br.cdn.booyah.live/hls/1000001/master_34850987.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", C TV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1228341213.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", REDE NOVA TV
+https://5d2c98775bafe.streamlock.net/8058/8058/chunklist_w1529634554.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1575376867.m3u8
 #EXTINF:0 type="stream" channelId="2463" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png", TOP TV
@@ -95,10 +95,12 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
 #EXTINF:0 type="stream" channelId="2496" group="TODOS" logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", URBAN TV
+https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://cbtvnow.com/images/logo-white.png", CBTV BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/9f41c575-ceca-4863-89e7-85e1628fab94.png", 98 Live
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW-WMdV8v503VSpPrSQdV1Rc)/dm/3/x7zzmp4/d/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", FM O DIA
+https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?44ebe47aa959fb99b7f1d9e4908237a2
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
@@ -111,8 +113,6 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 https://5ea08e6dcbfc8.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w1107944239.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="http://bit.ly/2kYbkB8", Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://www.toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png", TOP LATINO TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w365122517.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://www.radiocontact.be/GED/00110000/118600/118657.png", RADIO CONTACT TV
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png", MUSIC TOP
