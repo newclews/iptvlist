@@ -62,7 +62,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2571" group="TODOS", SBT
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w157034876_b1000000.m3u8
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
@@ -135,8 +135,8 @@ http://189.14.233.254:1935/WebTV/WebTV.stream/chunklist_w695211007.m3u8
 https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logotipo_da_TV_Pampa.png", TV PAMPA
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
-http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
+https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
 #EXTINF:0 type="stream" channelId="2663" group="TODOS", TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
@@ -151,10 +151,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://hls.brasilstream.com.br/live/sadfmtv/sadfmtv/mono.m3u8?token=5614193375041293000
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://difusora95.com.br/wp-content/themes/difusora-95/img/logo.png", RADIO DIFUSORA FM
 https://hls.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://thathi.com.br/wp-content/uploads/2019/10/tvthathi2-300x135.png", TV THATHI
-https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="4647" group="TODOS" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN Brasil
-https://www.youtube.com/watch?v=dBLL6WaZBPQ
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV GOSPEL MOVIE
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TODOS", Band News
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w2128112813.m3u8
 #EXTINF:0 type="stream" channelId="2456" group="TODOS" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
@@ -167,8 +167,8 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w1504006350.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://4.bp.blogspot.com/-WklrIl-gavo/XVb2yDFHKkI/AAAAAAAABfw/ah6IF1qpE2E8wEm_zs97MmaiCN8zsTZcQCPcBGAYYCw/s320/Screenshot_2019-08-16-15-24-43.png", TV ARTE MAIS
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS", TVE PORTO ALEGRE
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV8 BRASIL
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CANAL%2B29.png", CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1073861481.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" aspect-ratio="16:9", NOSSA TV
@@ -176,13 +176,13 @@ https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png", TV CARIOCA
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1737414436.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" aspect-ratio="16:9", ISTV
-https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w568238538.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS", ENTORNO SUL WEB TV
-http://video01.kshost.com.br/manoel2072/manoel2072/chunklist_w211452640.m3u8
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV RIO MADEIRA
+https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TODOS", MANAUS MIX WEB TV
-https://stmv1.srvif.com/manaus/manaus/chunklist_w619210877.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TV LATINA SAT
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1805688133.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://stm21.srvstm.com:8098/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
@@ -190,9 +190,9 @@ http://95.216.27.138:9302/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://rio.fm/wp-content/uploads/2019/01/LOGO_RIOFM_NOVA-1.png", Radio Rio FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIOFM.mp3
+https://14543.live.streamtheworld.com/RIOFMMP3.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/YQqjvP6.png", Radio Embalo FM
-https://node-15.zeno.fm/v9m05yf0mwzuv.mp3
+https://ice.fabricahost.com.br/radioembalofm/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png", Radio Transamerica FM RJ
 http://transamerica.crossradio.com.br:9112/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/f46EPhy.png", Radio Onda Beat
