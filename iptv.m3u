@@ -70,7 +70,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:0 type="stream" channelId="2459", TV DIARIO
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYnB4yszR_gQ7Im34i2lbYo)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZx1-7ZjNJn3cKwVc6G-UUI)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! ES
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 #EXTINF:0 type="stream" channelId="-1" group="TODOS" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
