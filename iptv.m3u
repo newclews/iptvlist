@@ -183,6 +183,32 @@ https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TODOS", TV LATINA SAT
 https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w1805688133.m3u8
+#EXTINF:0 type="stream" channelId="2610" group="TODOS", TELECINE PREMIUM
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TODOS", TELECINE ACTION
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2608", TELECINE PIPOCA
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2611", TELECINE TOUCH
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2584", HBO FAMILY
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2896", SPACE
+http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", STAR CHANNEL
+http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2900", TNT
+http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="41" group="Variedades", Nick
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3317", UNIVERSAL CHANNEL
+http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://stm21.srvstm.com:8098/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
