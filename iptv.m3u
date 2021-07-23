@@ -7,8 +7,8 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?IMDSFU
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="ANTENA UHF RJ" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo RJ HD (ANTENA)
 dtv://antenna:29/atsc/4/1
-#EXTINF:0 type="stream" channelId="2467" group="TV AO VIVO" logo="https://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg", Tv Cultura
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlxWMA5dTmWwurDuegIRwu00)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA (MS)
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w1321631232.m3u8
 #EXTINF:0 type="stream" channelId="2436" group="ANTENA UHF RJ" logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D.png", RedeTV! HD (ANTENA)
 dtv://antenna:21/atsc/6/1
 #EXTINF:0 type="stream" channelId="2563" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND HD (ANTENA)
@@ -127,12 +127,12 @@ https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Strea
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RETRÔ CARTOON 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://lh3.googleusercontent.com/proxy/r0GQGCG01y4FJ8HSlMUF5Xr_9VWZW3qZlz3vXSs8WD3BS3x2ooIYDDTS64k17zaWTrYkbxYIevHVNkGVWVcodfVAA4UAcxOJYGbQm054IOfsMtIX", TV ANIME STATION
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w335012189.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/5860/logo_face-5860-20200626093547.jpg", TV IBATÉ
-https://5eaa6849d0971.streamlock.net/8034/8034/chunklist_w1714650279.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GAMA
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692596/index_150_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="4673" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20210115023530", CANAL RURAL
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1065744162_b1265000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
@@ -231,175 +231,5 @@ http://cast.midiaip.com.br:9770/;stream/1.mp3
 http://stm11.xcast.com.br:10392/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios", Hertz FM
 https://player.painelvox.com/player-ssl/8318/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", BETERRABA E PETERETE - PISTOLA DE BRINQUEDO
-https://proxy-15.nyc.dailymotion.com/sec(eONP7ymDWd7NtSmSfJBos9AhwFIsmENFAra-JEBIRkCVoPy5BA4icoq00A2VN5Ub3pfxkdyhyyqlOKJvbcaT4RyacgVlY3q3YPLuUg5aUdM)/video/943/912/488219349_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", BETERRABA E PETERETE - Tentando Assaltar Uma Casa
-https://proxy-21.nyc.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq5S3OfSsvU3MMUElXOyKNUzdNhXAvgucj7rHKnWozsfnVOJPEGmYkPOmY1aMCzSgkrb2vwkMjYEPsh04X7pRyk4)/video/437/912/488219734_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DOM CAVEIRA - O fantasma de Desdêmona
-https://proxy-023.dc3.dailymotion.com/sec(QRmsThsc0NdxOo1LPpbD198r93AJNE9zEoJqveMGweK9pKcCVnqNo7x5xPziDCEQwqFPER-sTRIdsncsH-L8wTvQxDWXh2L78HyI3Hgt1rk)/video/115/614/474416511_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DOM CAVEIRA - Esses velhinhos são de morte
-https://proxy-012.dc3.dailymotion.com/sec(gGqtclnn_bIC9m3nn5-WqBqZy_-X1R1a0BxWPTlIZNTfjSWF8nZ6NNGdX249zQ8aIp5FjmoEEVvus1BV3-qQPC8s_5x_msukzwzfTxYQkps)/video/513/614/474416315_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DOM CAVEIRA - A viúva alegre digo muito alegre
-https://proxy-002.ix7.dailymotion.com/sec(No_TQeY4Fy-YPTx9YHcvG9vhgVmxU4RZVFvJCQnEbPqDKe-yPGabGpVxZd9Bi0A2gNQ5_WCfRcyRObCXDRwPs3PIkqOqF-HcLMHfcxM4EBk)/video/198/514/474415891_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DOM CAVEIRA - A empregada da viúva
-https://proxy-044.dc3.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fW6VICpFefHJuRKyX_p0xg-xO8jdW5RpqpAY3ysGNoNEbGYrJce2n2rIN4es9uaKpezZPpbn8wb5zg8NZNKGGEqU)/video/306/333/474333603_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DR CHAPATIN - Acudam o toureiro
-https://proxy-029.ix7.dailymotion.com/sec(vlh-KpwGb8HUr2KugsbYOWPnvaxKoFZ95kGwIGTOJ6qZ5wjFrI4exWhix81R_5BaSlP7eIHs5sQ1Xqwa_GzH7j_Kkn27XlddKyq8fSu3XAI)/video/418/614/474416814_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", DR CHAPATIN - CRIANDO CASO
-https://proxy-038.ix7.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq2ltY67lzOR92YypZbDCr8X6Bb-LmXaYtNl-elSZ1IHUVQJX_xDD9E-vLyGU2MKnX3dis90SPcH8s1ZRVlHk02k)/video/437/621/474126734_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", CHESPIRITO - Contra-Regra
-https://proxy-020.dc3.dailymotion.com/sec(06B2xrQvupyx3v5AXa2ZbUEZoLAn9jM6VunRaK1IRzEUoR-yu35ujGTuP__OxZ_VpPegypRTAPGYOCwIpLaX6lvfwj3ID2bcxmctXfu6AkE)/video/167/173/488371761_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", LA CHICHARRA - O Minsterio de Chambon
-https://proxy-09.nyc.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmh3HZ6E1dRANkiNNWa-o5Nw1PS6f7p-NVCYCWHUTrEQEeqErPN7OJL3TaY0shNG2JFCmTeScrEZ2gNuaU072Jd0)/video/067/953/488359760_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVECO", CHAVECO - Uma Janela Mais Do Que Indiscreta
-https://proxy-029.dc3.dailymotion.com/sec(LBJP6M936EOr43Frn-NvymeEfEgeihWzvJtxJdG_jf2wjfRsrACafYW-TDvlE7g1MJ9DTNDL8jXPZxcUjaGOFqnXvH_9fUHhEPQABd1Bpgk)/video/869/103/474301968_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A cidade perdida
-https://proxy-15.nyc.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOWfI9NXuX8xxoJELG57OLNhrOyakOs3hn8p81zovDBjxVFTncXutTLej8GSAz_N8eBOrOCqnPIZgW2BMPJsp-BY)/video/689/912/488219986_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A sessão espirita
-https://proxy-12.nyc.dailymotion.com/sec(czTSNzcdT4mYlcYSkbvIQ402D9KrbftbZ7Eb06b3W4zi1dpoeHcp2yC_Y--sRBB3rqShjGykZgvXZ0hDXRn9al5CdXTShRuqXkecSEtRvb8)/video/606/022/488220606_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Dando Tratos à Bola - A Vingança
-https://proxy-015.ix7.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjq4OgsDE31F8T_L2Dh_fEFtLeClFvnxPlejKI0joDI9llT1629epPpyMH-aEF5MIZU63mMtSZH07PbqVRyvyTemw)/video/433/090/474090334_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Não seja burro Chapolin
-https://proxy-04.nyc.dailymotion.com/sec(eONP7ymDWd7NtSmSfJBos8ffQanPkdhdUWMNbbDG5QdYy4_lVCwqayy8Xe-5xWmp5mFM4i1hbXmdtyHLbI57Gw9i4U7iNFSyGOY64AmFOYw)/video/942/122/488221249_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O abominável homem das neves
-https://proxy-028.ix7.dailymotion.com/sec(vlh-KpwGb8HUr2KugsbYOS82tgRKbbMjBPTUYKCu5ag6944wCk3h7PNeBwa5-9HgOJpt9Nl8QvsL0vpEJJ-CKaikes1YzEs02TOtJaCLuQI)/video/411/795/474597114_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O descobrimento da tribo perdida
-https://proxy-04.nyc.dailymotion.com/sec(2GAzbZ8__9P9i_IBM56mqAmC6w49XnNFJ3Lo5iavxAtjorZnUJyzcgY2IqH9PJLsMWVP49x-3LA670t9YAnl89KyT1dZLuVJwyfgZt8JrgQ)/video/807/522/488225708_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os Duendezinhos / O Prêmio Da Loteria
-https://proxy-10.nyc.dailymotion.com/sec(aOXeWEr3a_xENLWls5_zvoM0Pvi7dwRZTEumFRLdlJ-zGnwGl2SemfRYcbo1UMHV648qL6r02JW6NzAClTNf5OobK_Y0tVq9ASdLuk3RYTU)/video/378/090/486090873_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A Vendedora de Flores
-https://proxy-030.ix7.dailymotion.com/sec(Ag2kWK5ZJFfHITwn7VOjZL63ZdRmxqnE4qdQyVNaCXTKEgF7WEd8Chht2czZDuZvwEXF1WxMmtQsi1uN_GJ19HgkaqzynfE-ZBEfvFwXV7U)/video/551/280/473082155_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Gigante (1977)
-https://proxy-003.ix7.dailymotion.com/sec(s_13t_2f7O0wwaaFk-MzVQNQsPfjtCojoVN1YkjDXJEFbL6Up8eP0YfZ2uojUlJRw3EqL6SS6_c70As1GJRNrme2heUa0PwIe1oFFXyrTPk)/video/966/004/488400669_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os Marcianos
-https://proxy-002.ix7.dailymotion.com/sec(EHfdmWMWS3Jm1rUwOSzPqNrgaUKiMxYLf2ZtjBMMYDzB2uJ6pjJLiQ1Mr60k_DKDAyR7C4MlyGgEo_odfXkw_pP-fnGfkDDRF7bHWMbT-Ts)/video/769/063/474360967_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Um Miado Ao Cair Da Noite
-https://proxy-012.dc3.dailymotion.com/sec(6mjGSXKUXBTNOsXCOTFc-fAk1Gs3KAyce7uDgkStAJoPA72UdGxnKLBfMDVhji0tut2F6DVJF33VlD90tnbE3PieoMYPmu1F3h9msRYMcZo)/video/141/236/473632141_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Espião Invisível
-https://proxy-17.nyc.dailymotion.com/sec(ODTxNQv7_D3l1m3AnKDufKaOsOYW7_UZwaLBlBw-mYueICBpEUq3eR-vv-bht7efjLPargg-rP6cDhtsxI4NgngwjeUaylgF58ZV8rMVhA0)/video/887/293/486392788_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Cão Raivoso
-https://proxy-07.nyc.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmVZ8u66GjRqW4KKru-ZRTi3x_O5EqI4BVmBWtPDFqIbc3HZRkB9iyQg_QX8vJVbRJ3FWNK3zhIHChArpm-uHrtI)/video/710/012/486210017_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O extrato de energia volátil
-https://proxy-08.nyc.dailymotion.com/sec(9d_o33l26xVh1uXFlXZKmFKEbPMXGj81wiUVRLdyHmDK_lwzdZDKRrn6BIcMwfOP5IWvDRIoEN0P8Tk265pqX7PonDMfixIizQlMNFUmUpg)/video/121/148/486841121_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Livrai-Nos Dos Metidos Senhor - E Livrai-Nos Também Dos Distraídos
-https://proxy-16.nyc.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0kBBH8jf1Q7QPNX4l50tmTagcbWL0IQf-Xi-6QbCqj-8128JSzqmqCXkeflRCaQ4zxX3PhBIRE35GihI8HqVwrk)/video/587/293/486392785_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A Invasão dos Marcianos (1974)
-https://proxy-09.nyc.dailymotion.com/sec(vH_amhAWVjdOjt9rQ-usyFBvM9JX8RXfDPZrVrJBCE4BFr4rluDAuAf8F6UalwzX0Y9DVVjbI2TVyNL6svADwFWwaPRc2_TKWyZSDuKJjC4)/video/780/853/488358087_mp4_h264_aac_hd.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Uma Múmia Bastante Egípcia
-https://proxy-021.dc3.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLaFpWwc5DpPn7-vbmcSbkBDdt2ngb8CljiyWIFNCAFDOmURpbBXXGwDSxxDAOILMtDXG-nS1XtqtcT1U8Gza4CY)/video/079/886/473688970_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN -  O Debilitador Potencial
-https://proxy-05.nyc.dailymotion.com/sec(f2DpPaaM8u15Kq2lKySPGM6_pzGUe16ADXl9PDsKVT_afefJc-gvggi_FVDV2KwjhWMJR_8EogT-FCtXrRkPbU7Ooew2Frz5r3ACT-mtLgk)/video/810/012/486210018_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Um Robô Desparafusado (CARLOS VILAGRAN)
-https://proxy-021.dc3.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0hcLCwzA3O7a5UykQk8H0Ovab3Dbz4YcqfCo1dmfEKmNoNL-oRiXyU3XeztG7zlqBl18HmdfnrhdAhZ_50JOGLY)/video/589/104/488401985_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Proibido Mexer Com Bombas Em Horas De Serviço
-https://proxy-05.nyc.dailymotion.com/sec(f7OPR3CuerPHnzETozIU-wwaMCp01JqX4o6cttQUjb092aLLy93gqMioz5VybWfF67ALnWjlKKhEPp4hN7N7X81WXe-CTDlX2NkSRQgUSP8)/video/877/754/486457778_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Anel De Brilhante
-https://proxy-21.nyc.dailymotion.com/sec(e6b6eNqYCtBTneU7sjdyOaPSk3sApwT4C_U_9-rMq8TRgV87CWt2fteXOQCL4CmrKHMn1pFH6Z2Te8v1Vw7GmTOd8UsINc9MuUpuYgk9mNw)/video/687/293/486392786_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Criando Caso / Ratos e Ratoeiras
-https://proxy-21.nyc.dailymotion.com/sec(MUrjIUhahIVoOWxx8o9LZsK8nu0vnnkA5bAISKpe1UgX6BMcScWm0idLSLsx089wUxAwGG5eOrOzXB8NeoRKrl9HPCTAPiY7a6pRVUfEFrY)/video/037/530/486035730_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Antiguidade não é o mesmo que velharia
-https://proxy-07.nyc.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSnKRL-b4HAeu9uptwtNJ-fhNU0YpwtRs8T4S1zrpcLgujSLQCcqb5cTSCBmtfFjHxbABI5opnYBfi0vJrvV_pEo)/video/727/530/486035727_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN -  Um Defunto Bastante Morto / O Gato E O Chimpanzé
-https://proxy-12.nyc.dailymotion.com/sec(fYlMOLHzXWLllXEdVcKhPELjCUgwNpB_vYjrTJt3bt2o7LvCwwFGcwqYmxoT5nIN9xgFLnHYEmJ6nc2XH9hulc7xTCCDGS_b8adXb8Tkvoc)/video/087/754/486457780_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Quando Os Brinquedos Voam (1973)
-https://proxy-04.nyc.dailymotion.com/sec(VCPt2gqlXqNXWRYfJNVmK9uw1c50H7r2zk9ZkJpl4GTSHWCcTyZytCgdzJr8VYsxby9zsFpnqBMWN_g_HK3lBkmHsDrYdwhruk35ORE4u-o)/video/977/754/486457779_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Ladrão do Museu de Cera
-https://proxy-04.nyc.dailymotion.com/sec(6nm4zlNbCOiZp0vrc3SGaXbb0AMUfuEOHjPMNImovQP_nLzMJbpt6QOgDjNp7QsqJCw9RlNYaaQ5c11J5mwZvkpq4OTiAV_dT7mHoxBCwnY)/video/527/530/486035725_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Paciente Teimoso - Injeção Não!
-https://proxy-15.nyc.dailymotion.com/sec(uI0lmEyiuZevWtjRWMybVQ4Qsapi-FlwBgtlsDehlUdse6EmEDnMgbEbNLt_UX6Y1PFwaT0sPXFgZwxbOuHCTuIwxtpH-1_NfutFSk8SMcI)/video/987/293/486392789_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Bandido
-https://proxy-14.nyc.dailymotion.com/sec(vH_amhAWVjdOjt9rQ-usyCTGigmLITcGDtF19aJnwRYYkbHaFvyydlSU4u1ufyVRits_UV4VboiyUl3K-VYU3BKflggUyTVjjzTJ53BYy3o)/video/787/293/486392787_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A Casa Mal Assombrada / Um Boneco Muito Vivo
-https://proxy-08.nyc.dailymotion.com/sec(LBJP6M936EOr43Frn-Nvyt5nBIxE9ksAZGxk_r220jp-O41Ct2Ot9RJFB4t-HUitSyL1NvGrHEZpTQafgmJOwy7_P6nYposyL1JL3qM4skI)/video/862/479/485974268_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os búfalos os caçadores e outros animais
-https://proxy-02.nyc.dailymotion.com/sec(SR36U2JEgenq7Sr8mbsN2nBS2s3wjMMKj0mCmhb1hR9_qkZkLQqllJBzkJP3SLD4mDpP6TUifg6lWuNTSiKtWt6KRU1xfOthXUs4DVmjKVU)/video/382/679/486976283_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Dando Um Fim No Chapolin
-https://proxy-20.nyc.dailymotion.com/sec(IEbO6Z1LHuUskp709C0fWwC34kKSN4OzleUcMBajCEdFQWd9_sagvNA0acDJl-8WGYEbi897Byob3EH1T6-OXfSkdYB1N00NPLQwhgSvVgA)/video/301/692/486296103_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Para Fugir Da Prisão
-https://proxy-16.nyc.dailymotion.com/sec(9d_o33l26xVh1uXFlXZKmGaOP_8mITfcscQftV6yAB3iFgX24KMpN-mYZX33CwJalwAS9Mpc0Kg_5UBk6HhLZI29Kfg2iKpsS14IeUE1vYA)/video/120/012/486210021_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Confusão No Celeiro - Encontro Às Escuras - Garçom Desastrado
-https://proxy-09.nyc.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBt26STy8mwGMdT26l9vO9-ONgU03myyuLqQEUcOeK3ee2NZ1hR1emI96d_qFVdnt6o124IbZh2Ilue-xzsXbl6cc)/video/533/571/486175335_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Arruaceiros - Os Prisioneiros - Jantar Executivo 2
-https://proxy-14.nyc.dailymotion.com/sec(3pK_lWmRm9K5a5rtJDyjqyN_IX8xdBwhbqmgiPhYgnXcnmK_J6ntHx8dIo5vhgI-kJ6KE3LGtyPqnU2whc_1-oqSJ6U86WYVT5Pif6HfE2k)/video/433/571/486175334_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os Duendezinhos / O Prêmio Da Loteria
-https://proxy-10.nyc.dailymotion.com/sec(aOXeWEr3a_xENLWls5_zvoM0Pvi7dwRZTEumFRLdlJ-zGnwGl2SemfRYcbo1UMHV648qL6r02JW6NzAClTNf5OobK_Y0tVq9ASdLuk3RYTU)/video/378/090/486090873_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Matador de Ratos parte 2
-https://proxy-10.nyc.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmdX0dgkfZnai8pnK77-Akh7z_bz3epVYbavZN9-A_LEzL6VSKdu__vL9jfH64gWIgEav3vLHVldNGlFKGJmG2nc)/video/717/530/486035717_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Duas Vezes Chapolin / Fila e fichas no hospital
-https://proxy-09.nyc.dailymotion.com/sec(eN_O0L9vhGgUcOMg9A9kEBwA800PccklvR_9iGrKoRtIax_apE29skQWVc-kartQXVWg47V5J71cjnqaBTy5k2dVFYnXocK6p8KHUZR3zwY)/video/910/012/486210019_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Roubo das Maças - A Fuga - Visita ao Museu
-https://proxy-06.nyc.dailymotion.com/sec(S79Vn__uekJ7THocE7ur5vy-gUSDHT9LSoj2nMEqdE_WR8az0kwdXINErKL67_sQzpsCYspoqJ1KdVthfkW6Dae_2aOhhJgvVQq5PMYfG4A)/video/133/571/486175331_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - O Bandido Mata Fácil - Parabéns Sargento - O Julgamento
-https://proxy-18.nyc.dailymotion.com/sec(BBhsj73YHmIC9ehhDvbGSqWi69zoystcSW4De-MRiF-U9nUSN_DeR9rfSt9wMJ5UR7SkRrwBcIGN_1dbFNJZXcb8m3kyH9O8vSRx4j0cyM0)/video/923/571/486175329_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os Microfones Ocultos - Um Brinde Aos Recém Casados
-https://proxy-07.nyc.dailymotion.com/sec(kQ-xm7K7XuJL2OOBtgtlOMv7357bkPT8IHA0ESqTwUdZCxMmjZZytT3eFd7jWtNOPopcpXViMX--jjLasGKH_alzqooFoMqHLBiqB7JEFTU)/video/153/035/486530351_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Os Piratas do Caribe - partes 1 e 2
-https://proxy-037.ix7.dailymotion.com/sec(S3gE9S9zMTHQTANoX-MBCRObv-0mjj8rqXXYJF6LQQ8cS4yJUYTuBn7AVce06c6pZi1Fd9Z704boM__4B6qThl4z4qJ6TIIDoPp2cRpA26c)/video/651/280/473082156_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - Cleópatra
-https://proxy-032.dc3.dailymotion.com/sec(Mkgc3P06SdNh4JR9hfG_1xbYRsHI_zbpVywTzOkG6yh3Bdqsn2I2schbTOVlNEeSFk-a431NyrxikK3ecu5plZE4yZ3ENhk0v6TkVmLrSH4)/video/575/414/474414575_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A mansão dos duendes
-https://proxy-015.ix7.dailymotion.com/sec(f7C1WGB23Wky-SSXeiIenVyEpRWqlMzSa0nmdjvwcZwLMfGK-l8Okpk0c1clJ0pk1wYlUCL4JdfOv7oOLoQLK_ckdcHFAYw5M3r6W2FIGTk)/video/052/547/473745250_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAPOLIN", CHAPOLIN - A volta do Super Sam
-https://proxy-017.dc3.dailymotion.com/sec(BpL1Vu9K0Q5jqlwLePgqqGUq1FrF3fgdXivXXF9mdNf_9ahi2KiQBHdSvvOhHjK98DpcjMoh6BHqeO31iEPJrPmoeuSMFHyeZwvYRYN0rwM)/video/094/461/474164490_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - O dia de São Valentim
-https://proxy-03.nyc.dailymotion.com/sec(hCRZ4giIu0onR2ZnmiaRMBx2Uj2ennxw-z4t1w1AW6rToTLe7ENl2p3RU6Wqr0f1j0VBqxrWvgELplwpnqriAJWtp-0YTKwU7bYz0SHTWYA)/video/660/161/322161066_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Santa ignorância
-https://proxy-002.ix7.dailymotion.com/sec(mY07IAeONRUUJhi-jD5EpbbzUJ-DIf_XLuy1HaiItDU1Xa2e30uBIrPnaXBYiUsu0pi4IUylDDgJ_hwUeT0GCjyQPdQFzLGXtwifF-hMoXo)/video/398/626/358626893_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Tempestade Em Balde D'agua
-https://proxy-15.nyc.dailymotion.com/sec(hOiji7g6z34TB2YxsjqIRALCu1TRb1Fau2ZAP87-kVo7gShXop0gDtg-kZrp1u27quWXUY17gGel6zxsvYhYc6VYpJZ7th8jiSdBZ4hLuKc)/video/630/004/487400036_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Nem Todos Os Bons Negócios São Negócios da China
-https://proxy-08.nyc.dailymotion.com/sec(vO9SD42pxLpuBzh8FBnsbXmMR1d1VJ-fbaq73qMe52Av_LHqVPBpKplo8A1WJ_tOQL-zJ_fMS1HXaQXt9vBERkyw8_z8y5fQsyP7k7j4fN4)/video/612/160/487061216_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A proposta
-https://proxy-048.ix7.dailymotion.com/sec(MuyucYrWgkoHg2i5QVRo5h0THP3hbnpHfN0EMWV5RyhXpF14hfw_cAxAePLagyxxjBfkihk0nUDyyxODKWSwM9fCCOLyLOSlGbsB0bvC3NQ)/video/318/792/467297813_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Seu Madruga o Sapateiro (1973)
-https://proxy-16.nyc.dailymotion.com/sec(gGqtclnn_bIC9m3nn5-WqNk5_d_ggDroLCeJLd49YLRZ-LJwLrersohikHTCHrrP50claVi2voNqJ_-mN6rB3cHOmGwJxoLZdO7VHg0EDLg)/video/519/321/474123915_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A Guerra e de terra
-https://proxy-08.nyc.dailymotion.com/sec(UoA1sdU9rYQHE4nL1sa5RN97LjxJrdZ-RVwDTVP4MNHP-yP5gTWAJQ6KZEL5ui-9W1Kugn_Psw-s_O9u2rOKV7KI2GYvsOpxqwkwmrv2f6k)/video/323/003/488300323_mp4_h264_aac_hd.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A volta da Chiquinha
-https://proxy-01.nyc.dailymotion.com/sec(wb8UD9xdr7EUNWDnSkNP3UbwTYkXIuIpBflw5hDRwXpz3FUcEUffhKu-3HtauVTXjY4dxfVpr9TlTljxLC8rV-il9NLW9LTSMhpVv1AtoJE)/video/858/003/488300858_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - As calças do seu Madruga
-https://proxy-19.nyc.dailymotion.com/sec(LL70bUvxgBlOH8BfPRBrX07k-PCk9hLZpC6BePSMyUsElXQ6nv6tfGnLGffX8lp3bpq3Vgh3ukWm-GWsJCaR1itS59ONr2lc43hjRjSQbWI)/video/211/103/488301112_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Dando Bolo
-https://proxy-016.dc3.dailymotion.com/sec(IbTcRogFtkG5Xv5BOy6JokEewLYqb54fyBf01CBsRIpo7XcDlpR18kVUdxBqLcC8nxXHM22VrbmBbsoIUGUCzO-w8-QFTSrqTYyvEYx3zgU)/video/401/199/418991104_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Como pegar o touro a unha
-https://proxy-15.nyc.dailymotion.com/sec(H0vpOyVbcEs_XQ6KAJPaZgAhpsMjMQfl_7iHlQzLjJOmGJwKZMldklZyInsN3lNOGx43W2N86LVt7wOa94yFN-s_VRF1lQPzYpdiDdOWFgM)/video/016/103/488301610_mp4_h264_aac_hq.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Os Balões
-https://proxy-043.ix7.dailymotion.com/sec(2GAzbZ8__9P9i_IBM56mqBQJfxWSK8jMci_rqKyXU3Xq-mOk5rKM7xYGDDyHK0y3x1ZURS-gy-BmHrjNu7z1MnV-plKRnve_2_NRozBk3QQ)/video/805/475/442574508_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Cuidando de Dona Florinda
-https://proxy-042.ix7.dailymotion.com/sec(wei31X4-J0DHtJ8pD26EwxIf3PBFLkmwfLPdp2TluwFjXsp6bB3GnMy0MwuoZVcQUlZqGZnPFXIqaQbcyNB1X3SZ3av58XuppoXU5dXDfP0)/video/259/681/472186952_mp4_h264_aac.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - O surto de catapora
-https://proxy-013.dc3.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSirbMNB08pX8GJH5tWH3EfwyQs6Q7Q_-0DmGpOdUX6uCgToL9GdJ64wsuVlhmU_wd7UDIGfElszxz5EBF6SIV8g)/video/720/285/442582027_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Dando bolo
-https://proxy-031.dc3.dailymotion.com/sec(OOjjrkNT3EtIOgQ6bbrwrfXiKPnPEC4theN9e0H7ggsCbLvZPlvUvl1_hNezVGoPJzK_cALzS_XPS30yRE3qaK40nJ3B6LZUtEJqzqpLgyQ)/video/368/085/442580863_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Pintores amadores
-https://proxy-023.dc3.dailymotion.com/sec(hCRZ4giIu0onR2ZnmiaRMMF_GLrohVmeRB244B6Qb_3v16tRhteTU_ByxV2KJRYVUH82-ZACCs7v6FD-66Ziv_peNZu-0tFYx16RpHT83pk)/video/667/875/442578766_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Era uma vez 1 e 2
-https://proxy-014.dc3.dailymotion.com/sec(eUr04nlHUdL_H2XQBfZlDw2-tZ_QpOpZ4ksnqtmmCbm_PX4qHDiTn6nUJaD25_QrVxCW8g-KyqkkygWcAd3lXH_VoRWbe5F7RKaoY8lZ7Ec)/video/562/933/488339265_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Errar é humano (As novas vizinhas)
-https://proxy-22.nyc.dailymotion.com/sec(hOiji7g6z34TB2YxsjqIROqjJrM2_bgO1F9ti6JJ1Z6vUjZBh4m86JxZO_2E03jHZse01MErqwnh0p3HuL-a78BJ9cuUn99xt3PUklNcCA4)/video/635/933/488339536_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Gente sim animal não
-https://proxy-12.nyc.dailymotion.com/sec(hOiji7g6z34TB2YxsjqIRHg4Qb19QR4W6M9euxx324VqvM6h_BevCukMCDrv2eCYnjSYo_Se4U1yz3VZV-72D0EALfdcQWZTDTtnjlOJnL8)/video/637/933/488339736_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Guerra as crianças
-https://proxy-05.nyc.dailymotion.com/sec(Y1vpsrJkRaxa6jF-j2RR0sR_sdnA3NH6K9zZEKVuIlftuurUuGRrgI3m4fiDqVfePsU4NtL5HzJRXC9KO8VR53eo4H0xXhJZFEKFQ8n3TXw)/video/582/273/488372285_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - O banho do Chaves
-https://proxy-10.nyc.dailymotion.com/sec(saQeXx3qXZg3T3rkC8HACLOIGUQyImlNpPoNksXHtxpfoOOVxi5LsvO2rt_v5_Qwdfy-lxmm4Rz8OtXWXzn2REZfuekthXrAJH2k07mvqlo)/video/489/273/488372984_mp4_h264_aac_hq.m3u8#cell=nyc
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - O bilhete de loteria
-https://proxy-048.ix7.dailymotion.com/sec(djkNaqskckCuO1ExU1TbM8GeWphPah8oh0N1uxP4aVIRb6NH08MYOOTRMA6qGwcDyEnKWJWQ6VznPpaXG1MSMCkobeM7zGxxClgCsYHkdMU)/video/107/473/488374701_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - O bilhete de Loteria (ES)
-https://proxy-010.dc3.dailymotion.com/sec(w5efqWj1U6D91t1Jg1W0Q6b-8BGMSVM4JxDN6fOW00oB_YpNKUFrE48UDhz-MXuMAQzGTrI-ZixVSNbgTegifNz_hb7741o1-zSB5ely0Gw)/video/933/104/488401339_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Os gatinhos de Chaves
-https://proxy-045.ix7.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmXz4ivcovJEIaaLnoGJrSPaOzQct6z1njDzqWm8p8xFa9b_8O44m39O3_x5V4uc51CZ5-GJPIvsFSuASyLzl3Fs)/video/714/573/488375417_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Uma aula de Historia
-https://proxy-044.dc3.dailymotion.com/sec(ie_KKMG3lngG0gpoPHy7FKd2owbIw8ZngMpDl7WEnqUHFOu8jC1IU60eYqulnz7EMZAF5gOKPMxS2Xh25ufNREdU4pPGNcRGLToa7_ALHn8)/video/171/308/474803171_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Animais proibidos (1976)
-https://proxy-002.dc3.dailymotion.com/sec(ehpNV9jmM-XDh5Y4selchk4RIrKIIIBsl7vHKxN4zd8i9iRnQqii_gPrwCFPXi-ZFkb4qb70s_4P1nZIUGdURPkXA5Nsbzk5S8RNi1MlMe8)/video/002/566/474665200_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A fonte dos desejos
-https://proxy-040.dc3.dailymotion.com/sec(yz7C7zAq75CjlYcDfiRgVcTMTGxP32Ky822EOy-uy1KXTXpLUuNgHYT9n-CkVWiaOGjNkqDt4E-Ln68RzwoIWZxhLSia0mXkkqVry79_Nv4)/video/339/095/474590933_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - Muito azar em sorte grande
-https://proxy-003.ix7.dailymotion.com/sec(fYlMOLHzXWLllXEdVcKhPKRM2vMwQEKmWSVTdA52g0cXZljoMroBuGCGrpfPY2UFrQQxZZRenHM8-exgYSppx9HhdbyhVbE5w38DO8bnZfA)/video/089/662/474266980_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A limpeza do patio
-https://proxy-031.dc3.dailymotion.com/sec(Z9sBt96T4qy4QdcnB69AdKFs4lBi-yUv2w1kedgchMkaW3rcUbvWaqF9KxGfFXXhsSH1BNx4ToFL0l8nLIahf0wSmdA9bRXUETUln15fxIs)/video/495/107/320701594_mp4_h264_aac_hq.m3u8#cell=core
-#EXTINF:0 type="stream" channelId="-1" group="CHAVES", CHAVES - A casinha do Kiko
-https://proxy-046.dc3.dailymotion.com/sec(jTKgwcrKhv91TFF2DjnhPk6xBEWOuDQtrs4FMzTFCJrW9dIcwuP2UXftU3GG0T0UlvVRo0MVFw6BVDIe15I9aSVJrtNcQyptJVfUH0qf5Bo)/video/676/976/408679676_mp4_h264_aac_hq.m3u8#cell=core
 #EXTINF:0 type="stream" channelId="-1" group="ATENÇÃO", ESSA LISTA PODE SER USADA EM QUALQUER APP IPTV / OS CANAIS (ANTENA) SÓ FUNCIONAM EM APARELHOS SMARTV DA LG PELA TV ABERTA UHF DO RIO DE JANEIRO. INSTALE UMA ANTENA DE UHF EM SUA SMARTV LG.
 http://192.254.68.106:10172/stream.mp3
