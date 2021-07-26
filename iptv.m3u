@@ -7,8 +7,8 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?IMDSFU
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="ANTENA UHF RJ" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo RJ HD (ANTENA)
 dtv://antenna:29/atsc/4/1
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA (MS)
-https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w1321631232.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV ATIVIDADE
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2436" group="ANTENA UHF RJ" logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D.png", RedeTV! HD (ANTENA)
 dtv://antenna:21/atsc/6/1
 #EXTINF:0 type="stream" channelId="2563" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND HD (ANTENA)
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaa_-N3atHKM7WKk4pr3_Z8)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZa277FJlSFztdxdWeIMSIyU)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! ES
@@ -131,8 +131,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GAMA
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692596/index_150_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4673" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20210115023530", CANAL RURAL
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1065744162_b1265000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
