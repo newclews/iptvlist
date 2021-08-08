@@ -61,14 +61,14 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO", SBT (TV JORNAL RECIFE
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1320544306_b216000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO", SBT
+http://a.srvbr.me:8880/live/fe951e/rb6m20/755.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSrD2c3U-fFJt43bQmPjpiA)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW24vyLmHu-oF6cmJ7oZqgI)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 http://187.33.200.235:9000/hls/redemetropole.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! TO
@@ -78,7 +78,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:0 type="stream" channelId="2438" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", Rede Brasil de Televisão
-https://video01.logicahost.com.br/redebrasil/redebrasil/chunklist_w949542544.m3u8
+http://177.11.96.110:9080/hls/sictv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/y1p8QSo.png", JORNAL DO NORDESTE (FILMES)
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w199511178.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
@@ -188,7 +188,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w99045217
 #EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO", TV BRASIL
 http://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MRL TV
-https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w1850880541.m3u8
+https://srv5.zcast.com.br/mrltv/mrltv/chunklist_w461744796.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
@@ -197,7 +197,7 @@ http://radio.radioroquettepinto.com.br:8300/stream.mp3
 http://95.216.27.138:9302/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/f46EPhy.png", Radio Onda Beat
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
 http://192.254.68.106:10172/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
 http://radio.servercsi.com.br:9422/live.mp3
@@ -241,3 +241,31 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="ATENÇÃO", ESSA LISTA PODE SER USADA EM QUALQUER APP IPTV / OS CANAIS (ANTENA) SÓ FUNCIONAM EM APARELHOS SMARTV DA LG PELA TV ABERTA UHF DO RIO DE JANEIRO. INSTALE UMA ANTENA DE UHF EM SUA SMARTV LG.
 http://192.254.68.106:10172/stream.mp3
+#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", Globo
+http://5ce.co:80/glauce1212/432tt67/35720
+#EXTINF:0 type="stream" channelId="2599" group="TV Ao Vivo", SPORTV
+http://dnsgox.com:80/rot55021329t/rot021329s/10054369
+#EXTINF:0 type="stream" channelId="2600", SPORTV2
+http://stv.mtvs.me:80/8581342812/1234567890/30795
+#EXTINF:0 type="stream" channelId="2601" group="TV Ao Vivo", SPORTV 3
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101884
+#EXTINF:0 type="stream" channelId="889" group="Adulto", Hustler HD
+http://dnsplay.xyz:80/jesswmcq/tuLCo88w45/35353
+#EXTINF:0 type="stream" channelId="889" group="Adulto", HOT
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/20389
+#EXTINF:0 type="stream" channelId="889" group="Adulto", VIVID RED
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31869
+#EXTINF:0 type="stream" channelId="889" group="Adulto", XY PLUS
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31863
+#EXTINF:0 type="stream" channelId="889" group="Adulto", RED LIGHT
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31898
+#EXTINF:0 type="stream" channelId="889" group="Adulto", XY MAX
+http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31865
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4035
+#EXTINF:0 type="stream" channelId="-1" group="TV Ao Vivo", CHAVES E CHAPOLIN
+http://fonteangelusiptv.com:25461/asewrmktuf/eqgcbs0p6n/235348
+#EXTINF:0 type="stream" channelId="-1", CHAVES 2
+http://xcui.vitvabc.xyz:8880/287994003534/287994003534/31676
+#EXTINF:0 type="stream" channelId="2608", TELECINE PIPOCA
+http://45.226.78.2:80/rpanta/123/197
