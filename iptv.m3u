@@ -69,8 +69,8 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW24vyLmHu-oF6cmJ7oZqgI)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", Globo
-http://sv1.casaplayer.cf:80/707353je/444958je/18771
+#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", GLOBO
+http://meumd.com:80/gffcoutinho/9OvBiSBR/109726
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w2111734917.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
