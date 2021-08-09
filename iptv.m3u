@@ -62,15 +62,15 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO", SBT
-http://a.srvbr.me:8880/live/fe951e/rb6m20/755.m3u8
+http://assistirpainel.net:8880/s483tjrhagc/kswvxdrgcj8/7179
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW24vyLmHu-oF6cmJ7oZqgI)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
-http://187.33.200.235:9000/hls/redemetropole.m3u8
+#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", Globo
+http://sv1.casaplayer.cf:80/707353je/444958je/18771
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV! TO
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w2111734917.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
@@ -241,14 +241,12 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="ATENÇÃO", ESSA LISTA PODE SER USADA EM QUALQUER APP IPTV / OS CANAIS (ANTENA) SÓ FUNCIONAM EM APARELHOS SMARTV DA LG PELA TV ABERTA UHF DO RIO DE JANEIRO. INSTALE UMA ANTENA DE UHF EM SUA SMARTV LG.
 http://192.254.68.106:10172/stream.mp3
-#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", Globo
-http://meumd.com:80/VladimirXC/fGZTPiWg/109708
 #EXTINF:0 type="stream" channelId="2599" group="TV Ao Vivo", SPORTV
-http://dnsgox.com:80/rot55021329t/rot021329s/10054369
+http://45.226.78.2:80/rpanta/123/188
 #EXTINF:0 type="stream" channelId="2600", SPORTV2
-http://stv.mtvs.me:80/8581342812/1234567890/30795
+http://45.226.78.2:80/rpanta/123/189
 #EXTINF:0 type="stream" channelId="2601" group="TV Ao Vivo", SPORTV 3
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101884
+http://45.226.78.2:80/rpanta/123/190
 #EXTINF:0 type="stream" channelId="889" group="Adulto", Hustler HD
 http://dnsplay.xyz:80/jesswmcq/tuLCo88w45/35353
 #EXTINF:0 type="stream" channelId="889" group="Adulto", HOT
@@ -265,7 +263,7 @@ http://royal-cdn.eu:8080/RestreamTorbaXXX/mQFt54yf/31865
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4035
 #EXTINF:0 type="stream" channelId="-1" group="TV Ao Vivo", CHAVES E CHAPOLIN
 http://fonteangelusiptv.com:25461/asewrmktuf/eqgcbs0p6n/235348
-#EXTINF:0 type="stream" channelId="-1", CHAVES 2
-http://xcui.vitvabc.xyz:8880/287994003534/287994003534/31676
+#EXTINF:0 type="stream" channelId="-1", CHRIS
+http://fonteangelusiptv.com:25461/asewrmktuf/eqgcbs0p6n/236634
 #EXTINF:0 type="stream" channelId="2608", TELECINE PIPOCA
 http://45.226.78.2:80/rpanta/123/197
