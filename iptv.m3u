@@ -259,3 +259,5 @@ http://45.226.78.2:80/rpanta/123/197
 http://natv.pw:80/Vandojose1/12110000733/18719
 #EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", GLOBO NEWS
 http://cdnrede.com:80/gabriel7114/482971/5184
+#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", BAND NEWS
+http://cdnrede.com:80/gabriel7114/482971/5186
