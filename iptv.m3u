@@ -89,7 +89,7 @@ https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1228341213.m3u8
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1575376867.m3u8
-#EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png", TOP TV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_596,h_152,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp", CENTRAL TV
 https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png", SUMMER TV [HD]
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
@@ -131,10 +131,10 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
-#EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO", REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4673" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20210115023530", CANAL RURAL
-https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1065744162_b1265000_sleng.m3u8
+https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1244085492_b2596000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
 #EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO", TELESUR
@@ -165,7 +165,7 @@ https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?wowzasessi
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV ESTILO
 https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w1504006350.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://4.bp.blogspot.com/-WklrIl-gavo/XVb2yDFHKkI/AAAAAAAABfw/ah6IF1qpE2E8wEm_zs97MmaiCN8zsTZcQCPcBGAYYCw/s320/Screenshot_2019-08-16-15-24-43.png", TV ARTE MAIS
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://4.bp.blogspot.com/-WklrIl-gavo/XVb2yDFHKkI/AAAAAAAABfw/ah6IF1qpE2E8wEm_zs97MmaiCN8zsTZcQCPcBGAYYCw/s320/Screenshot_2019-08-16-15-24-43.png", REDE TV MAIS
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://img.imgur.com/pnbqx6r.png", TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b1596000.m3u8
@@ -183,8 +183,8 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" channelId="2478" group="TV AO VIVO", REDE MASSA (SBT)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w990452172.m3u8
+#EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO", TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO", TV BRASIL
 http://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" aspect-ratio="Original", LOCOMOTION
@@ -241,31 +241,61 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="ATENÇÃO", ESSA LISTA PODE SER USADA EM QUALQUER APP IPTV / OS CANAIS (ANTENA) SÓ FUNCIONAM EM APARELHOS SMARTV DA LG PELA TV ABERTA UHF DO RIO DE JANEIRO. INSTALE UMA ANTENA DE UHF EM SUA SMARTV LG.
 http://192.254.68.106:10172/stream.mp3
-#EXTINF:0 type="stream" channelId="2599" group="TV Ao Vivo", SPORTV
+#EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
 http://45.226.78.2:80/rpanta/123/188
-#EXTINF:0 type="stream" channelId="2600", SPORTV2
+#EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
 http://45.226.78.2:80/rpanta/123/189
-#EXTINF:0 type="stream" channelId="2601" group="TV Ao Vivo", SPORTV 3
+#EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
 http://45.226.78.2:80/rpanta/123/190
-#EXTINF:0 type="stream" channelId="1052", TNT
+#EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4035
-#EXTINF:0 type="stream" channelId="-1", CHAVES 2
-http://xcui.vitvabc.xyz:8880/287994003534/287994003534/31676
-#EXTINF:0 type="stream" channelId="2608", TELECINE PIPOCA
+#EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
+http://45.226.78.2:80/rpanta/123/198
+#EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
 http://45.226.78.2:80/rpanta/123/197
-#EXTINF:0 type="stream" channelId="2892" group="TV Ao Vivo", GLOBO 2
+#EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO 2
 http://meumd.com:80/gffcoutinho/9OvBiSBR/109727
-#EXTINF:0 type="stream" channelId="2561" group="TV Ao Vivo", GLOBO NEWS
+#EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://cdnrede.com:80/gabriel7114/482971/5184
-#EXTINF:0 type="stream" channelId="2573" group="TV Ao Vivo", BAND NEWS
+#EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://cdnrede.com:80/gabriel7114/482971/5186
-#EXTINF:0 type="stream" channelId="4647", CNN BRASIL
+#EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
 http://br4.2tv.me:80/Raphaeltexeira001/654321/4736
-#EXTINF:0 type="stream" channelId="2590" group="TV Ao Vivo", MULTISHOW
+#EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
 http://dnsx.co:80/x634634/235233/72179
-#EXTINF:0 type="stream" channelId="2626", TRU TV
+#EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4037
-#EXTINF:0 type="stream" channelId="187", UNIVERSAL
+#EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4039
-#EXTINF:0 type="stream" channelId="113", ARTE 1
+#EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4054
+#EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4047
+#EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4056
+#EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4069
+#EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4077
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4002
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Hits_2021.svg/revision/latest/scale-to-width-down/250?cb=20210223133927", STAR HITS
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4003
+#EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4005
+#EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4007
+#EXTINF:0 type="stream" channelId="2585" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png", HBO +
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4009
+#EXTINF:0 type="stream" channelId="2725" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4014
+#EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4017
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAflBMVEUAAAD////y8vLV1dXu7u739/e0tLRkZGRRUVFISEhhYWGvr6/6+vro6Ojx8fHR0dGioqLc3NydnZ3GxsZaWlqVlZWBgYE3Nzfj4+MTExN0dHQmJiaNjY1AQECrq6tqamq/v7+Hh4csLCwODg4wMDAfHx95eXlUVFQ7OztDQ0P5wkhQAAAKhElEQVR4nO2d6VYqOxCFg4DKERBxYBARHM7R93/BK91kquxK0qxLmwT2P+gp/a0eKjW16Ni67R5PfXmQYecQXRxxaN1ezMAE/X1ELeRY5sv5AayOOTRxUx2jL+5TgSWe5VHm4vq2Iav++1GHdrmHJR56icASH5qWeL5pwmr4edyRKVhCPCYCS7zI43R3v1YX0bA+jjwwA5Z45+7FlmGJa3mg2+rn610cq69jj8uExd6LbcMSD/JI9/Xvl00Eq8HRh2XDYu7F1mGJV3mojfxnEjIlHo4/KgoL3ovtwxJLeaxL9dfTyMfqqoVBObDQvfgLsMSTPNjaGBlvSizbGBOA5d6LvwFLrOTRpsafb5eY1VMrQ4KwBLm2fgWWmMrDray/H4EpsWJ28T8rYVhizVw3S2pKPLY0oJRhCXXP0SfSi/Wsn7Q7nkRhCWVevdIlxghvWhtO2rD0/N6xotQQN+2NJnFYQhkL1/b/1MZvRanDEuph/m3+S2aPLSl5WEK5AGf6v2/5312rQ0kfllBvvmf5z0z+M293JBnAUqMZLurfypc6ankgOcAS0mavh6m89L22x5EFrHcZ8hnvfskfxw1OIGUBS3zKI/9cTGNyU7aoPGDpIMadejk+h7f6v5UJLPFFhnD04ARSLrDEwB7Cy2+MIRtYeoKz0/GDE0j5wBJXegAtBCeQMoKlgxiOw6Yl5QRLBjFaCU4gZQWrDmK0E5xAygvWLu7UUnACKTNYYt2awx0oN1i/qjOsBjrDaqAzrAY6w2qgM6wGOsNqoDOsBjrDaqAzrAbCsC7OsJAgLJpIfYZVC8Fad04L1kds8APAWlFWRcN6rFIphvcxqeEurFeKqmRYf3Qpwl04aOvAeum4KhbW1DqtYMiIwnoHrIqFRZPqQ7QoLFjyUSgst3oqsAGBhes9yoQFipQCPmsb1gSyKhMWui4CmYQWLPAiLBXWO3zeBNLjTFgfaPsyYf3FJxrI5zVhscXIpcH64OqIA0VABiy+mK8wWM50TmoY2FDDmnK7KAzWkq8fvg5sqmD941mVBGvmqeQPJucoWB5WBcFiCmEr/Yvcui+6hcIaPD1OH5d7H8zWc47ziOTnGtb4ybObfGF9qgtpePntbSBjFWKz2l9ZXla5wtpag/Y1Orh7i9qh7ybOHJbrxGQ0/Bu5x3JhvcWyii8bLhdW1Jn93IGz8K4a7TJLWN5mLFLDRsm85cKKObF1eDemThnWbdNaqXJhBcyhTq95mUa5sMbwVJQOyRCPakCYJSzvGR3WZSSqdWqOsJwCRUPdOIOdKs4YyREW7xkY/zlsjwNmf+R6yxAW36Q2asqMxBhul6RRb3awtiwqpwz9+Wm9ud9Mwlcb45i5yDzz79pnvNurbtWq/dBsmtnfS9aw2Na07tgHlnmx8e6WMRumWeeUeuIulYwX4ZIs8k1+nuHOqhB2trBeg42YtZPhwVnmie4wccKdvzpTWB/eSAKF5S7jUx2u3ZV3qoKyecKKmo0oWCjUyl5auI9/3WUpR1j+mIuSSrZFCzfMvunTba8afH6wvmO/4SAf8FdoIRe/x5PyfTZXdrBiWqDXkh8jwKlo33DvW7iubEmVGazoOM6P5FcusDWGHTfY2yD9YVnBGkR52+nYcc7DBh0Af69C9fzMCVb8HWiN3fd+I/LvKCNYIYOdPUcmmyb6EPqGzQXWivddjgI0GJMcRBHx7vXyLGAtmNzqnSa75zjM8JNbM25PN0cLX1iG+ZoBrCfP1EZ62NEbT27PfGXIzSqFq5kdnROHtVj5JoEj9f0dlO4gl/3BG1/SY2GopgsxaVhX/umyWSUBXnnqNPHWXXo0+FS0KjEShrXwf96pbxUrgQeTmhvi1DZaNrCFa1mrpAvru+MV6Q4PTlXBZOwzcjzoH7Pt/GRhLfysqB8d1NeooD1TZGF/yA66G0hFebKwvB88nDtf7AOhPpVjBCsrac4ytPO39kFShfXZ8QjUv83ctXTHQDzhsToKYgcpOUiqsJhbZ6ch8nKCMIM2pLBNa8VgoWsil44h/Pcq8bcswJWorz8cjr/0b54RLNZ1zJRzgbM1YMAMLtPQwhVRucBiKiKHXCU4gGUYF3B6aBpa+Gi5wMLJGY7VrQSeWcbKbuDQPjnmOs4GFhq/p6ISTA5N9x6cyujFTAwkG1iuz67va8YAYJmnCu9DtT8uHS4fWHT+4XgJLKFnnLEY1lgqjxYXs80I1sKkNQrUnqKLw1yO3odq4sewygmWYSmOggVKqLGOmU+KbAOZS8P1bcgLlvhad0fz20nEpxmQj8K8GMF0qLPZL2PTvPKCFS9kpFtedvDCk7YFx6pYWGgibM2UQSx7H5XnY2ylwkJmp22WgRXqBcgG6xUNC0UlbE8OeDJVNJFLor8uGhbKK7ItM/TOu2Jc7+uyYSGvMHHTR9Xj1JrdFA0LOQuJ54ttTOOoV3i7YDTvJm2f2D5YjqaFw0JZbjSryB+HNPSZIqyBE6SJ1Rv9Nh1yQ4/JOttIVndJdu1+PfTbhd9O7x1kWTpJtpGwVknC+nnfH1QRuHTz2L1JR1KRqYMiVViHVDDvriIKC3r36Ia+zmFaXZEsrM6m6VaVKU5hwYvG2TRQel5rF4ZOFVbTD7XX7gMKC7pZnG2j8lJ3KyYLq3PRoEXFbO/ypLBgJpezdSDbpFLluEkXVoOPiaotKCxoQ7nbRxSTVQ/RlGHRdBVO2pqisHBbbUdMHZOpKmEwaVhxvSqMpziFBVPRwC6CrOonaNqwPMFmJfNWo7DgiYN9BNtbPBqrJQur0wvMfZ6tiycGFiqTQ1EgS/WcInVYgfb/xG98KKxQZ7L95Dt9WE6iqKEtWZXAgm3/6LlWChTh7V3R6cLSz222hYAOsG8gLJiuRr0Otfyw9ld3urA+9Asdp/UZ5tGfawgLVlHgBvnezhkST7qwBsaFMXp3V1uoQQ6/JBYCC9pPGBZTnVJLxjhShmXyoG49g+RcnyuBBbPRYP2lv+udDGInDcvMeyc9MnUooorWYFjwsc10uvDU45Gyu2RhGe47K+dan1r9osKwoDuBcWcwzWZ2Uo/M1GEZt5IR8HMuOAwLOko53w8fuFBT1ORhGckd6gbSJqTsw4BhwVkMN4PiO44s7P2lDEt8Kk/msKpgflFB5J56Sf6DsKCjlLFDeFNLP+QygGUaVFdmdsKtswaBBY0nFhY3m56QNRKHZZzHSjuv9El8yvESWLCGjOQ6aHHdInXLlTxgoTyr+eRmL/0cJ7CgB3TDHhjXtl7oFfKA5bWvDRFY8AW3YQ+My6iMmenpwfJkzsN9GtnNRcOC9SQeVzV6xHed5YXCgi49DywUEzPTJ04Plq/BpvvUsgyNomHB15v3UwyOsWH5hs6wbBFadlu704MViEVujYzcLskgOMNy9HpzO++N5vfTL7rk9GBtDh/Z6cFi54ZhFQ0Lmg6s1yGs04PVMEvOVNGw4HQn8GFtn4qGhd3qh4/sDKuBioaF0x+bfk5N6wRhhT6tzatoWLiPW6PvP1oqGhZOjfH0rgkoQVj7GODM/Ssokj6Cq3Iafi7T0EGVrOOLY2qfz2L9FwnL3tEYl/QODx2+3J+9PS1m+Q+jOoeUGIeYygAAAABJRU5ErkJggg==", MTV
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4018
+#EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4019
+#EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4025
+#EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
+http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4030
