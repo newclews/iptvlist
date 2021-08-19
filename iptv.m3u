@@ -254,9 +254,9 @@ http://45.226.78.2:80/rpanta/123/198
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
 http://45.226.78.2:80/rpanta/123/197
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO 2
-http://meumd.com:80/gffcoutinho/9OvBiSBR/109727
+http://pfsv.io:80/dx6PVjx2/29993/375
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
-http://cdnrede.com:80/gabriel7114/482971/5184
+http://pfsv.io:80/dx6PVjx2/29993/512
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://cdnrede.com:80/gabriel7114/482971/5186
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
@@ -270,7 +270,7 @@ http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4039
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4054
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4047
+http://pfsv.io:80/dx6PVjx2/29993/551
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4056
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -299,3 +299,9 @@ http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4019
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4025
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4030
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHRIS
+http://xcui.vitvabc.xyz:8880/287994003065/287994003065/31765
+#EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK 4K
+http://pfsv.io:80/dx6PVjx2/29993/591
+#EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO SP
+http://pfsv.io:80/dx6PVjx2/29993/361
