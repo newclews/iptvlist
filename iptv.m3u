@@ -70,7 +70,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUPmXxfSQuESaPKIWxvVERM)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
-http://dnsl.me:80/0466727/3963967/48522
+http://cdnrede.com:80/jpfranca88998/w792697/25584
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
