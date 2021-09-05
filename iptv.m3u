@@ -41,12 +41,12 @@ https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w2091951077.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GIRO TV NEWS
-https://596639ebdd89b.streamlock.net/8096/8096/chunklist_w127416716.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="Original", TV LIBERDADE
-http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1943291987.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TVT
+https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_PExjL07kaX0EVFiQbZDzk)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV DIARIO (AMAPA)
+https://livefocamundo.com:8081/tvdiariomacapa/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
 http://dnsgox.com:80/PriscyllaFernandes19/FCd5yUY6b/10027033
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GALEGA
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTTPhAVBIHgrJ_BAeNRJZOc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQvZD-GgIe1WrzCdI8fc7T8)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://cdnrede.com:80/jpfranca88998/w792697/25584
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -123,8 +123,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:0 type="stream" channelId="3595" group="TV AO VIVO", TV 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
-#EXTINF:0 type="stream" channelId="1852" group="TV AO VIVO" logo="https://i.imgur.com/9TbpsS0.png", CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV CLASSIC
+http://mylatinotv.com:8080/bonergediaz/3V8dSBZDbN/19584
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RETRÔ CARTOON 2
@@ -133,12 +133,12 @@ https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
-http://powermagic.cyou:8080/xg2NMUn8a4MM/bas7x5g2G1RZs/12668
+#EXTINF:0 type="stream" channelId="1971" group="TV AO VIVO", NOS STUDIOS
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9352
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
 #EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO", TELESUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4786" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SENAL COLOMBIA
@@ -371,3 +371,5 @@ http://pfsv.io:80/dx6PVjx2/29993/293
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101804
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHRIS
 http://xcui.vitvabc.xyz:8880/287994003065/287994003065/31765
+#EXTINF:0 type="stream" channelId="-1" group="TA AO VIVO", CHAVES
+http://xcui.vitvabc.xyz:8880/287994003557/287994003557/31676
