@@ -68,9 +68,9 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQvZD-GgIe1WrzCdI8fc7T8)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
-http://cdnrede.com:80/jpfranca88998/w792697/25584
+http://elitex.me:8880/RodolfoEUA01/adt701803s/2823
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
@@ -158,7 +158,7 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w55827
 #EXTINF:0 type="stream" channelId="2456" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w813735358.m3u8
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1028006080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2-840x560.png", MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?wowzasessionid=1841437714
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
@@ -246,7 +246,7 @@ http://pfsv.io:80/dx6PVjx2/29993/375
 #EXTINF:0 type="stream" channelId="2432", GLOBO 2
 http://pfsv.io:80/dx6PVjx2/29993/381
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO SP
-http://pfsv.io:80/dx6PVjx2/29993/361
+http://pfsv.io:80/live/33732940/14864/354.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://pdsrv.io:80/gvlzqivy/eamF0010/45590
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
@@ -391,8 +391,6 @@ http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31649
 http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31650
 #EXTINF:0 type="stream" channelId="-1" group="24 HORAS" aspect-ratio="4:3", CAVERNA DO DRAGÃO
 http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31674
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", CHAPOLIN
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31675
 #EXTINF:0 type="stream" channelId="-1" group="24 HORAS", CHAVES
 http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31676
 #EXTINF:0 type="stream" channelId="-1" group="24 HORAS", CHRIS
