@@ -42,11 +42,11 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w2091951077.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TVT
-https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G_PExjL07kaX0EVFiQbZDzk)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G9e6Qby9zxqnglnHYLmB6m0)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV DIARIO (AMAPA)
-https://livefocamundo.com:8081/tvdiariomacapa/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", NGT
+https://cdn.jmvstream.com/w/AVJ-9644/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
 http://dnsgox.com:80/PriscyllaFernandes19/FCd5yUY6b/10027033
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GALEGA
@@ -70,7 +70,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
-http://elitex.me:8880/RodolfoEUA01/adt701803s/2823
+http://s.pdsrv.io:80/Claytonsilva/21980416357/6113
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
