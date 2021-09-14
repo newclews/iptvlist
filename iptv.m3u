@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTUitn1HHvnN2rsI8NblsDs)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVn8IgVAjhCfsxkDsSoaKes)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://s.pdsrv.io:80/Claytonsilva/21980416357/6113
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -109,8 +109,8 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dr4z3umuxbjr.png" aspect-ratio="16:9", RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70b67399ad6f7a857be8f2bafc1d0a6e.webp", ALX TV
-https://srv3.zcast.com.br/alxtv/alxtv/chunklist_w1613124105.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://bit.ly/2kYbkB8", Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://www.radiocontact.be/GED/00110000/118600/118657.png", RADIO CONTACT TV
@@ -122,7 +122,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0 type="stream" channelId="1476" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1hd.png", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:0 type="stream" channelId="3595" group="TV AO VIVO", TV 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV CLASSIC
 http://mylatinotv.com:8080/bonergediaz/3V8dSBZDbN/19584
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
