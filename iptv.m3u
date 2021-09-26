@@ -42,7 +42,7 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w2091951077.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TVT
-https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G9e6Qby9zxqnglnHYLmB6m0)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3ZYz2F3fH9C_i1NLEUtVJ8)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
 #EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", NGT
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZVn8IgVAjhCfsxkDsSoaKes)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy-Tv-uI-ORbwuv6pM0kig)/dm/3/x7txn7q/s/live-3.m3u8#cell=lsv4
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://s.pdsrv.io:80/Claytonsilva/21980416357/6113
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -369,29 +369,17 @@ http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101904
 http://pfsv.io:80/dx6PVjx2/29993/293
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MAIS NA TELA
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101804
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", BATMAN ANIMATED
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31652
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", TURMA DO ZE COLMEIA
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31636
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", A PANTERA COR DE ROSA
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31637
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", MANDA CHUVA
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31640
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", ANIMANIACS
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31644
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", JACKIE CHAN
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31646
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", AS AVENTURAS DE TINTIM
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31647
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", TARTARUGAS NINJA
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31649
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", BABY LOONEY TUNES
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31650
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS" aspect-ratio="4:3", CAVERNA DO DRAGÃO
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31674
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", CHAVES
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31676
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", CHRIS
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31765
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS" aspect-ratio="4:3", CORAGEM O CÃO COVARDE
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31680
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 1
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101838
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 2
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101839
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 3
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101840
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREIMIERE 4
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101841
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 5
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101842
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 6
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101843
+#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 7
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101844
