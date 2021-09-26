@@ -70,7 +70,7 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-01.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy-Tv-uI-ORbwuv6pM0kig)/dm/3/x7txn7q/s/live-3.m3u8#cell=lsv4
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
-http://s.pdsrv.io:80/Claytonsilva/21980416357/6113
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101813
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
@@ -169,8 +169,8 @@ https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w1504006350.m3u8
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://img.imgur.com/pnbqx6r.png", TV8 BRASIL
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b1596000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://img.imgur.com/pnbqx6r.png", TV8 BRASIL (RO)
-https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w862933903.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TBO
+https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CANAL%2B29.png", CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1073861481.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="16:9", NOSSA TV
@@ -185,8 +185,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO", TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
-#EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO", TV BRASIL
-http://tvbrasil-stream.ebc.com.br/STsEBCLIVE_720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GUAREI
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" aspect-ratio="Original", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RTP AFRICA
@@ -308,7 +308,7 @@ http://ultrapremium.entrydns.org:8080/dolamee1146/florida/2265
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101872
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
-http://pfsv.io:80/dx6PVjx2/29993/298
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101805
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://pfsv.io:80/dx6PVjx2/29993/512
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
@@ -330,17 +330,19 @@ http://pfsv.io:80/dx6PVjx2/29993/043
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://pfsv.io:80/dx6PVjx2/29993/004
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101832
+http://pfsv.io:80/dx6PVjx2/29993/471
 #EXTINF:0 type="stream" channelId="935" group="TV AO VIVO", HBO 2
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101833
+http://pfsv.io:80/dx6PVjx2/29993/470
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", HBO +
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101835
 #EXTINF:0 type="stream" channelId="2584" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png", HBO FAMILY
 http://163.172.103.202:8880/287994003314/287994003314/31462
-#EXTINF:0 type="stream" channelId="2725" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
-http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4014
+#EXTINF:0 type="stream" channelId="361" group="TV AO VIVO", HBO POP
+http://pfsv.io:80/dx6PVjx2/29993/469
 #EXTINF:0 type="stream" channelId="2587" group="TV AO VIVO", HBO XTREME
-http://xcui.vitvabc.xyz:8880/2879940034fb/2879940034fb/31475
+http://pfsv.io:80/dx6PVjx2/29993/468
+#EXTINF:0 type="stream" channelId="2725" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
+http://pfsv.io:80/dx6PVjx2/29993/467
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO" logo="data:image/png;base64,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", MTV
 http://pfsv.io:80/dx6PVjx2/29993/001
 #EXTINF:0 type="stream" channelId="532" group="TV AO VIVO", MTV
@@ -359,6 +361,8 @@ http://pfsv.io:80/dx6PVjx2/29993/126
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101821
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://pfsv.io:80/dx6PVjx2/29993/127
+#EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101802
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
 http://pfsv.io:80/dx6PVjx2/29993/164
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
