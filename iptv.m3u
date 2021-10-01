@@ -70,9 +70,9 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
 https://stream-01.sv4.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQy-Tv-uI-ORbwuv6pM0kig)/dm/3/x7txn7q/s/live-3.m3u8#cell=lsv4
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101813
+http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-http://s1brazil.ddns.net:25461/sjVABnr64P/u3EG7s9kz5/4046
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
@@ -95,9 +95,9 @@ https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
 #EXTINF:0 type="stream" channelId="2496" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", URBAN TV
-https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", CBTV BRAZI TV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.m3u.cl/logo/783_Wham_TV_Classic.png", WHAM TV CLASSIC
+https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO", FM O DIA
 https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?44ebe47aa959fb99b7f1d9e4908237a2
@@ -123,12 +123,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 #EXTINF:0 type="stream" channelId="3595" group="TV AO VIVO", TV 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV CLASSIC
-http://mylatinotv.com:8080/bonergediaz/3V8dSBZDbN/19584
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
+http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RETRÔ CARTOON 2
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", RETRÔ CARTOON 2
+https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1087474171.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
@@ -167,7 +167,7 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w1504006350.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://4.bp.blogspot.com/-WklrIl-gavo/XVb2yDFHKkI/AAAAAAAABfw/ah6IF1qpE2E8wEm_zs97MmaiCN8zsTZcQCPcBGAYYCw/s320/Screenshot_2019-08-16-15-24-43.png", REDE TV MAIS
 https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://img.imgur.com/pnbqx6r.png", TV8 BRASIL
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b1596000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TBO
 https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
@@ -312,7 +312,7 @@ http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101805
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://pfsv.io:80/dx6PVjx2/29993/512
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-http://vipeiptv.com:25461/marco21/21marco/856485
+http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101815
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://pfsv.io:80/dx6PVjx2/29993/102
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
