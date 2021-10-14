@@ -90,7 +90,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
 https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1575376867.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_596,h_152,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp", CENTRAL TV
-https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/playlist.m3u8
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png", SUMMER TV [HD]
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
 #EXTINF:0 type="stream" channelId="2496" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX
@@ -413,3 +413,5 @@ http://natv.pw:80/Vandojose1/12110000733/53090
 http://natv.pw:80/Vandojose1/12110000733/53110
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SNOOPY
 http://natv.pw:80/Vandojose1/12110000733/53117
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", A FAZENDA 13
+http://elitex.me:80/FgaJorgeane/KPNqNubf00/10068989
