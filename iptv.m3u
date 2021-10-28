@@ -155,7 +155,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
 #EXTINF:0 type="stream" channelId="2456" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png", JOVEM PAN NEWS
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Jovem_Pan_News_logo.png", JOVEM PAN NEWS
 https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_7.m3u8?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNTk3MDk0OSwiZmlkIjoiZHBKekNnTzdSdEdNazRJUk5TNktOWCIsInByb2plY3ROdW1iZXIiOjQ4MjMyNTc1MDUxMX0.AB2LPV8wRgIhAMHyzmzdGGaX9YqE-qk6zqcxYDALiCVx_9hDYu8Kb8KyAiEAhzGGlVEyAPxnhDQKpRCDJPtj0NFxdR6pHsIM0iKvLks&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1028006080.m3u8
