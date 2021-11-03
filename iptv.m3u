@@ -72,7 +72,7 @@ https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTwNHD-ZdntG3nXmCr
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-http://45.226.78.2:80/rpanta/123/254
+http://srv.mtvs.me:8880/donaleninha/1234567890/30783
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
