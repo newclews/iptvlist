@@ -33,8 +33,8 @@ https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreamingg
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1605886703.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/544-x-180px-300x99.png" aspect-ratio="16:9", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://eutv.com.br/wp-content/uploads/2021/08/EuTVLogo3.png", EUTV
-https://cdn.jmvstream.com/w/AVJ-10423/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/5Z8aHIc.png", TELA VIVA TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZQMBpvm1EWKh7CxJ6f8kZwE)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTwNHD-ZdntG3nXmCrDdbBc)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -187,20 +187,24 @@ https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GUAREI
 https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", TV CINE (CHAVES)
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CINE TV (CHAVES)
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", AW TV
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC TV
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://radio.radioroquettepinto.com.br:8300/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
-http://95.216.27.138:9302/;stream/1.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
-http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
 http://192.254.68.106:10172/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
 http://radio.servercsi.com.br:9422/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
+http://95.216.27.138:9302/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
+http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.hits99fm.com.br/imagens/logo.png", HITS FM (MACAÉ)
 https://paineldj.com.br:20028/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.ytimg.com/vi/gVUAIz-yOWw/hqdefault.jpg", Radio Funk Antigo
