@@ -48,7 +48,7 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w18858329
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
-http://dnsgox.com:80/PriscyllaFernandes19/FCd5yUY6b/10027033
+http://main.cteam.me:80/UruraiCampos/030954/862339
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV SUL
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYkpIROtKdBlZlmFAP8U02M)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUHqjfXQn83QPD95PRzReys)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -88,7 +88,7 @@ https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1228341213.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
-https://stmv6.srvstm.com/leandro9908/leandro9908/chunklist_w1575376867.m3u8
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_596,h_152,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png", SUMMER TV [HD]
@@ -156,7 +156,7 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w55827
 #EXTINF:0 type="stream" channelId="2456" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="data:image/png;base64,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", JOVEM PAN NEWS
-https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_7.m3u8?siteid=431392&pgid=1414778&live=0&ab=2&pgdomain=com.jovempan.panflix&ctd=-1&uid=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NDgyMzI1NzUwNTExOmFuZHJvaWQ6OGEwOGJkZTMxOGM1NTM3ZDI3MzExYSIsImV4cCI6MTYzNTk3MDk0OSwiZmlkIjoiZHBKekNnTzdSdEdNazRJUk5TNktOWCIsInByb2plY3ROdW1iZXIiOjQ4MjMyNTc1MDUxMX0.AB2LPV8wRgIhAMHyzmzdGGaX9YqE-qk6zqcxYDALiCVx_9hDYu8Kb8KyAiEAhzGGlVEyAPxnhDQKpRCDJPtj0NFxdR6pHsIM0iKvLks&appname=Panflix&buid=com.jovempan.panflix&srl=https://play.google.com/store/apps/details&id=com.jovempan.panflix
+https://d233lioynu5inr.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1028006080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2-840x560.png", MASTER SHOW TV
@@ -318,7 +318,7 @@ http://pfsv.io:80/dx6PVjx2/29993/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://pfsv.io:80/dx6PVjx2/29993/512
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-http://cdnrede.com:80/gabriel7114/482971/5188
+http://main.cteam.me:80/UruraiCampos/030954/862353
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://pfsv.io:80/dx6PVjx2/29993/102
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
@@ -417,5 +417,3 @@ http://natv.pw:80/Vandojose1/12110000733/53090
 http://natv.pw:80/Vandojose1/12110000733/53110
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SNOOPY
 http://natv.pw:80/Vandojose1/12110000733/53117
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", A FAZENDA 13
-http://elitex.me:80/FgaJorgeane/KPNqNubf00/10068989
