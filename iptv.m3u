@@ -68,11 +68,11 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZKBboIJU1w0nwiYYaXQSdQ)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYs-dbTz6hIMF7Q22NJQoCY)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8
+http://disfruta.net:80/erodriguez/jqD9QDy9VL/3255
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
@@ -252,13 +252,13 @@ http://pfsv.io:80/dx6PVjx2/29993/381
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO SP
 http://pfsv.io:80/dx6PVjx2/29993/361
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://pdsrv.io:80/gvlzqivy/eamF0010/45590
+http://pfsv.io:80/dx6PVjx2/29993/545
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://45.226.78.2:80/rpanta/123/188
+http://natv.pw:80/GNTV04DL/38978251532/18861
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
-http://45.226.78.2:80/rpanta/123/189
+http://natv.pw:80/GNTV04DL/38978251532/18853
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://45.226.78.2:80/rpanta/123/190
+http://natv.pw:80/GNTV04DL/38978251532/18858
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://pfsv.io:80/dx6PVjx2/29993/249
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", FOX SPOTS 1
@@ -266,17 +266,17 @@ http://pfsv.io:80/dx6PVjx2/29993/255
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://pfsv.io:80/dx6PVjx2/29993/252
 #EXTINF:0 type="stream" channelId="2603" group="TV AO VIVO", TELECINE ACTION
-http://45.226.78.2:80/rpanta/123/194
+http://pfsv.io:80/dx6PVjx2/29993/562
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
-http://45.226.78.2:80/rpanta/123/198
+http://pfsv.io:80/dx6PVjx2/29993/565
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
-http://45.226.78.2:80/rpanta/123/197
+http://pfsv.io:80/dx6PVjx2/29993/564
 #EXTINF:0 type="stream" channelId="2611" group="TV AO VIVO", TELECINE TOUCH
 http://pfsv.io:80/dx6PVjx2/29993/571
 #EXTINF:0 type="stream" channelId="2606" group="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
-http://pfsv.io:80/dx6PVjx2/29993/563
+http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5556.ts
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
-http://pfsv.io:80/dx6PVjx2/29993/246
+http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5555.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://pfsv.io:80/dx6PVjx2/29993/287
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
@@ -324,7 +324,7 @@ http://pfsv.io:80/dx6PVjx2/29993/102
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
 http://pfsv.io:80/dx6PVjx2/29993/003
 #EXTINF:0 type="stream" channelId="2616" group="TV AO VIVO", VIVA
-http://ultrapremium.entrydns.org:8080/dolamee1146/florida/2263
+http://pfsv.io:80/dx6PVjx2/29993/105
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
@@ -378,11 +378,11 @@ http://pfsv.io:80/dx6PVjx2/29993/164
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
 http://pfsv.io:80/dx6PVjx2/29993/166
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101904
+http://pfsv.io:80/dx6PVjx2/29993/171
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
 http://pfsv.io:80/dx6PVjx2/29993/293
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MAIS NA TELA
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101804
+http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
 http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101810
 #EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 1
