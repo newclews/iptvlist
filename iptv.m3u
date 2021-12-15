@@ -127,8 +127,8 @@ https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_5.m
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", RETRÔ CARTOON 2
-https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1087474171.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
