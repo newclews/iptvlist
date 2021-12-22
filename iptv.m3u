@@ -8,7 +8,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="ANTENA UHF RJ" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo RJ HD (ANTENA)
 dtv://antenna:29/atsc/4/1
 #EXTINF:0 type="stream" channelId="2467" group="TV AO VIVO", TV CULTURA
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-8FthBxFoE7DNIS25aZFbY)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
+http://rec2.distv.net:80/live/Liliane/Liliane/102.m3u8
 #EXTINF:0 type="stream" channelId="2436" group="ANTENA UHF RJ" logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D.png", RedeTV! HD (ANTENA)
 dtv://antenna:21/atsc/6/1
 #EXTINF:0 type="stream" channelId="2563" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND HD (ANTENA)
@@ -17,14 +17,14 @@ dtv://antenna:35/atsc/7/1
 dtv://antenna:24/atsc/11/1
 #EXTINF:0 type="stream" channelId="2562" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
 dtv://antenna:39/atsc/13/1
-#EXTINF:0 type="stream" channelId="2466" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", TV BRASIL (ANTENA)
-dtv://antenna:41/atsc/2/1
+#EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", TV BRASIL
+http://rec2.distv.net:80/live/Liliane/Liliane/104.m3u8
 #EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", Rede Super
 http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
-#EXTINF:0 type="stream" channelId="2609" group="TV AO VIVO" logo="https://lh3.googleusercontent.com/proxy/Z_j1y5I9kDXiKE_LVJjjhvSzJH8liG7Qeztlr2LQc7yWngjVc2mfFYkpYQaQ_BB2ajz-1tJ_hQQ5Ts9Q_jBdQrvnFiYWzVZCzYdKNfqp3I7xhKwc4sDlacepvJzHZRWAlPjvnbLLExLsOV0sAT85QY8XeEafkxYH_1Z9CDZC1sheo3EKFTa5A4aDJ4z7", TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?IMDSFULL
+#EXTINF:0 type="stream" channelId="2452" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png", RIT
+http://rec2.distv.net:80/live/Liliane/Liliane/70.m3u8
 #EXTINF:0 type="stream" channelId="2447" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://urbantv.com.br/parceiros/logourbantv-transparente.png", URBAN TV
@@ -68,7 +68,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
-https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZU1hiPPKTxun9AY1PDsTyo)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
+http://pfsv.io:80/dx6PVjx2/29993/463
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -109,7 +109,7 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dr4z3umuxbjr.png" aspect-ratio="16:9", RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CMC
+#EXTINF:0 type="stream" channelId="1852" group="TV AO VIVO", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://bit.ly/2kYbkB8", Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -191,7 +191,7 @@ https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b3128000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
+#EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RTP AFRICA
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
