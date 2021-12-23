@@ -17,21 +17,21 @@ dtv://antenna:35/atsc/7/1
 dtv://antenna:24/atsc/11/1
 #EXTINF:0 type="stream" channelId="2562" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
 dtv://antenna:39/atsc/13/1
-#EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", TV BRASIL
+#EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://rec2.distv.net:80/live/Liliane/Liliane/104.m3u8
 #EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", Rede Super
 http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV CIDADE - 9
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="2452" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png", RIT
 http://rec2.distv.net:80/live/Liliane/Liliane/70.m3u8
 #EXTINF:0 type="stream" channelId="2447" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://urbantv.com.br/parceiros/logourbantv-transparente.png", URBAN TV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w32906010.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imagensbrasil.org/images/2019/10/24/TV-NATAL.png" aspect-ratio="16:9", TV NATAL
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1605886703.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tcm10hd.com.br/wp-content/uploads/2019/06/544-x-180px-300x99.png" aspect-ratio="16:9", TCM 10
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440" aspect-ratio="16:9", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
@@ -47,29 +47,29 @@ https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
 https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/nHpUC1S.png", TV OMINDARÉ
 https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist_w1018276236.m3u8
-#EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO", CNN BRASIL
+#EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
 http://main.cteam.me:80/UruraiCampos/030954/862339
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GALEGA
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV SUL
 https://novo.bitstreaming.info:1936/8032/8032/chunklist_w156986052.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/0048ba30afe4808a9a7ed1722c22b994.png", TV MON
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/0Rs9fxrvWK4pRjuoL-q-8lkvU_NLqwc6SXajWKyYv_FVQOsEkbFCCgJhNOPEBAYsIg", TV MON
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?wowzasessionid=1167800536
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://img77.uenicdn.com/image/upload/v1583204429/business/733d9293-a359-48f2-a11a-488bca886e6f.png", REDE UTV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C500%2C5000", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO", SBT
+#EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT
 http://pfsv.io:80/dx6PVjx2/29993/046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO", TV DIARIO
+#EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 http://pfsv.io:80/dx6PVjx2/29993/463
-#EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", GLOBO
+#EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://disfruta.net:80/erodriguez/jqD9QDy9VL/3255
@@ -91,15 +91,15 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_596,h_152,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/8fc99fbda2095d214c7d11397aa2415d.png", SUMMER TV [HD]
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/3393/logo_face-3393-20180323175239.png", SUMMER TV [HD]
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
-#EXTINF:0 type="stream" channelId="2496" group="TV AO VIVO" logo="http://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png", TV MAX
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", NGT
+#EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png", NGT
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b3128000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO", FM O DIA
+#EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?44ebe47aa959fb99b7f1d9e4908237a2
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
@@ -107,13 +107,13 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dr4z3umuxbjr.png" aspect-ratio="16:9", RADIO 51 TV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" aspect-ratio="16:9", RADIO 51 TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
-#EXTINF:0 type="stream" channelId="1852" group="TV AO VIVO", CMC
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://bit.ly/2kYbkB8", Portal Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://www.radiocontact.be/GED/00110000/118600/118657.png", RADIO CONTACT TV
+#EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://static.wikia.nocookie.net/radiofanon/images/5/53/Radio_Contact_%282006-.n.v.%29.png/revision/latest?cb=20180621145455", RADIO CONTACT TV
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1417360698_b2028000_sleng.m3u8
@@ -121,7 +121,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w14173606
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0 type="stream" channelId="1476" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1hd.png", 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:0 type="stream" channelId="3595" group="TV AO VIVO", TV 538
+#EXTINF:0 type="stream" channelId="3595" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
 https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_5.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -137,15 +137,15 @@ http://pfsv.io:80/dx6PVjx2/29993/548
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9352
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
-#EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO", TELESUR
+#EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4786" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SENAL COLOMBIA
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png", RTP 3 PORTUGAL
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
-#EXTINF:0 type="stream" channelId="2855" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg", PORTO CANAL
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8?token=1640408400_c7c3f108500905ce9472ecee99d6da482cb590ba
+#EXTINF:0 type="stream" channelId="2855" group="TV AO VIVO" logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png", PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -155,7 +155,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
 #EXTINF:0 type="stream" channelId="2456" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="data:image/png;base64,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", JOVEM PAN NEWS
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1028006080.m3u8
