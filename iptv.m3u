@@ -96,7 +96,7 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png", NGT
-https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b3128000.m3u8
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/chunklist_b1596000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
