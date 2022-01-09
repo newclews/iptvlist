@@ -185,8 +185,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO", TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VIA MORENA
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist_w822080461.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/yNXAB3p.png", CANAL TV RIO
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CINE TV (CHAVES)
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
