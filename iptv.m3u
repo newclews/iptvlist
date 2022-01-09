@@ -72,7 +72,7 @@ https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZS8eRQm6c1yOHa5QGT
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO
 http://pfsv.io:80/dx6PVjx2/29993/392
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-http://disfruta.net:80/erodriguez/jqD9QDy9VL/3255
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
