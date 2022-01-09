@@ -385,25 +385,21 @@ http://pfsv.io:80/dx6PVjx2/29993/293
 http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
 http://rec2.distv.net:80/live/Liliane/Liliane/129.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 1
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 1
 http://pfsv.io:80/dx6PVjx2/29993/524
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 2
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 2
 http://pfsv.io:80/dx6PVjx2/29993/525
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 3
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 3
 http://pfsv.io:80/dx6PVjx2/29993/526
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREIMIERE 4
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREIMIERE 4
 http://pfsv.io:80/dx6PVjx2/29993/527
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 5
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 5
 http://pfsv.io:80/dx6PVjx2/29993/528
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 6
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 6
 http://pfsv.io:80/dx6PVjx2/29993/529
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 7
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 7
 http://pfsv.io:80/dx6PVjx2/29993/530
-#EXTINF:0 type="stream" channelId="-1" group="24 HORAS", PREMIERE 8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 8
 http://pfsv.io:80/dx6PVjx2/29993/531
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAPOLIN
-http://natv.pw:80/Vandojose1/12110000733/53045
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES 2
-http://xcui.vitvabc.xyz:8880/287994003534/287994003534/31676
