@@ -143,8 +143,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png", RTP 3 PORTUGAL
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8?token=1640408400_c7c3f108500905ce9472ecee99d6da482cb590ba
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png", RTP 2 PORTUGAL
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9362
 #EXTINF:0 type="stream" channelId="2855" group="TV AO VIVO" logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png", PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GOSPEL MOVIE
@@ -193,8 +193,8 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
 #EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RTP AFRICA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TVI
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9374
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://radio.radioroquettepinto.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
@@ -403,3 +403,7 @@ http://pfsv.io:80/dx6PVjx2/29993/530
 http://pfsv.io:80/dx6PVjx2/29993/531
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", EUROSPORT 1
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AFRO MUSIC CHANNEL
+http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
