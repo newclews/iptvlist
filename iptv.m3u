@@ -254,11 +254,11 @@ http://pfsv.io:80/dx6PVjx2/29993/361
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://pfsv.io:80/dx6PVjx2/29993/545
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://natv.pw:80/GNTV04DL/38978251532/18861
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
-http://natv.pw:80/GNTV04DL/38978251532/18853
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://natv.pw:80/GNTV04DL/38978251532/18858
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://pfsv.io:80/dx6PVjx2/29993/249
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", FOX SPOTS 1
@@ -316,7 +316,7 @@ http://pfsv.io:80/dx6PVjx2/29993/282
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://pfsv.io:80/dx6PVjx2/29993/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
-http://pfsv.io:80/dx6PVjx2/29993/512
+http://50.7.34.155:2200/BR/Globo_News_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://pfsv.io:80/dx6PVjx2/29993/514
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
