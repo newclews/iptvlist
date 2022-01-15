@@ -129,8 +129,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.pngfind.com/pngs/m/29-295423_manchete-m-logo-rede-manchete-logo-png-transparent.png", MANCHETE WEB TV
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1048344956.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/dataclipe.png", TV DATA CLIPE
+https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://pfsv.io:80/dx6PVjx2/29993/548
 #EXTINF:0 type="stream" channelId="1971" group="TV AO VIVO", NOS STUDIOS
@@ -171,8 +171,8 @@ https://novo.bitstreaming.info:1936/8010/8010/chunklist_w1946704515.m3u8
 https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/6bA9LbZ.png", PEGADINHAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/w1200-h630-p-k-no-nu/CANAL%2B29.png", CANAL 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1073861481.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/zV6zESO.png", TV RIO GRANDE
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="16:9", NOSSA TV
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png", TV CARIOCA
@@ -230,7 +230,7 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.questlondonradio.com/wp-content/uploads/2012/02/QuestLondonLogo_400x188-trans.png", Quest London Radio
 https://questlondonradio.com:3443/;stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", Radio SIM FM (ES)
-http://stm7.painelvox.com:8290/;stream/1.mp3
+http://stm7.painelvox.com:80/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
 http://cast.midiaip.com.br:9770/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
@@ -401,7 +401,7 @@ http://pfsv.io:80/dx6PVjx2/29993/529
 http://pfsv.io:80/dx6PVjx2/29993/530
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", PREMIERE 8
 http://pfsv.io:80/dx6PVjx2/29993/531
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", EUROSPORT 1
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
