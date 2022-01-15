@@ -413,3 +413,5 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SIC NOTICIAS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", Shoptime
+http://168.205.87.198:8555/live/1499/123456/164.m3u8
