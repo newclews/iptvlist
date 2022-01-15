@@ -419,5 +419,4 @@ http://168.205.87.198:8555/live/1499/123456/164.m3u8
 http://168.205.87.198:8555/live/1499/123456/167.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", DUCK DODGERS
-http://dns.ccdns2.xyz:80/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36467.m3u8
+
