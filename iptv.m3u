@@ -403,7 +403,7 @@ http://pfsv.io:80/dx6PVjx2/29993/530
 http://pfsv.io:80/dx6PVjx2/29993/531
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="https://imgur.com/G5T3Lph.png", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AFRO MUSIC CHANNEL
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
