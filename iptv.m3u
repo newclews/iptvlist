@@ -36,7 +36,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+http://168.205.87.198:8555/live/1499/123456/175.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/akQQ1GI.png", TV CIDADE OESTE
@@ -158,7 +158,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-http://pfsv.io:80/dx6PVjx2/29993/514
+http://168.205.87.198:8555/live/1499/123456/174.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2-840x560.png", MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?wowzasessionid=1841437714
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
@@ -413,5 +413,11 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SIC NOTICIAS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", Shoptime
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SHOPTIME
 http://168.205.87.198:8555/live/1499/123456/164.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL DO BOI
+http://168.205.87.198:8555/live/1499/123456/167.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
+http://168.205.87.198:8555/live/1499/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", DUCK DODGERS
+http://dns.ccdns2.xyz:80/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/36467.m3u8
