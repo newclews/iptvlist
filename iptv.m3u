@@ -298,7 +298,7 @@ http://pfsv.io:80/dx6PVjx2/29993/278
 #EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
 http://pfsv.io:80/dx6PVjx2/29993/279
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
-http://pfsv.io:80/dx6PVjx2/29993/275
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
 http://pfsv.io:80/dx6PVjx2/29993/284
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
