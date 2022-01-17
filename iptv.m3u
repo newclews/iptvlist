@@ -284,7 +284,7 @@ http://pfsv.io:80/dx6PVjx2/29993/274
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/290
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
-http://pfsv.io:80/dx6PVjx2/29993/281
+http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/283
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
