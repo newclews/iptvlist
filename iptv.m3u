@@ -266,7 +266,7 @@ http://pfsv.io:80/dx6PVjx2/29993/255
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://pfsv.io:80/dx6PVjx2/29993/252
 #EXTINF:0 type="stream" channelId="2603" group="TV AO VIVO", TELECINE ACTION
-http://pfsv.io:80/dx6PVjx2/29993/562
+http://50.7.34.155:2201/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
 http://pfsv.io:80/dx6PVjx2/29993/565
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
@@ -278,7 +278,7 @@ http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5556.ts
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
 http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5555.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
-http://pfsv.io:80/dx6PVjx2/29993/287
+http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
 http://pfsv.io:80/dx6PVjx2/29993/274
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
@@ -310,9 +310,9 @@ http://pfsv.io:80/dx6PVjx2/29993/295
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
 http://pfsv.io:80/dx6PVjx2/29993/296
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
-http://pfsv.io:80/dx6PVjx2/29993/297
+http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
-http://pfsv.io:80/dx6PVjx2/29993/282
+http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://pfsv.io:80/dx6PVjx2/29993/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
