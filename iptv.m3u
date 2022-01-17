@@ -399,7 +399,7 @@ http://pfsv.io:80/dx6PVjx2/29993/528
 http://pfsv.io:80/dx6PVjx2/29993/529
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 7
 http://pfsv.io:80/dx6PVjx2/29993/530
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 8
+http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
 http://pfsv.io:80/dx6PVjx2/29993/531
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="https://imgur.com/G5T3Lph.png", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
@@ -419,4 +419,8 @@ http://168.205.87.198:8555/live/1499/123456/164.m3u8
 http://168.205.87.198:8555/live/1499/123456/167.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", logo="", BBB
+http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
+
+
 
