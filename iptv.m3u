@@ -261,7 +261,7 @@ http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3
 http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://pfsv.io:80/dx6PVjx2/29993/249
-#EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", FOX SPOTS 1
+#EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 4
 http://pfsv.io:80/dx6PVjx2/29993/255
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://pfsv.io:80/dx6PVjx2/29993/252
