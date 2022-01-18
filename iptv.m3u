@@ -405,6 +405,8 @@ http://pfsv.io:80/dx6PVjx2/29993/531
 http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 2
 http://efv.me:80/live/1702935and32576/958237/166121.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 3
+http://pvsrvs.xyz:80/marcelo475/marcelo249/77922
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/G5T3Lph.png", SAT TV WEB
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
