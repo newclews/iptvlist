@@ -188,7 +188,7 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/yNXAB3p.png", CANAL TV RIO
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CINE TV (CHAVES)
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1394894910.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
 #EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
