@@ -83,8 +83,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1427" group="TV AO VIVO", C TV
-https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1228341213.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV TAROBA
+https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
