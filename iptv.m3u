@@ -268,7 +268,7 @@ http://pfsv.io:80/dx6PVjx2/29993/252
 #EXTINF:0 type="stream" channelId="2603" group="TV AO VIVO", TELECINE ACTION
 http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10442
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
-http://pfsv.io:80/dx6PVjx2/29993/565
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109534
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
 http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10445
 #EXTINF:0 type="stream" channelId="2611" group="TV AO VIVO", TELECINE TOUCH
@@ -276,7 +276,7 @@ http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10447
 #EXTINF:0 type="stream" channelId="2606" group="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
 http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5556.ts
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
-http://tv-privado.live:8080/live/phklauraa/FS5csQbw1d/5555.ts
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109524
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
@@ -288,13 +288,13 @@ http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10433
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/283
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
-http://pfsv.io:80/dx6PVjx2/29993/292
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109511
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
 http://pfsv.io:80/dx6PVjx2/29993/276
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Hits_2021.svg/revision/latest/scale-to-width-down/250?cb=20210223133927", STAR HITS
-http://pfsv.io:80/dx6PVjx2/29993/277
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109510
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR HITS 2
-http://pfsv.io:80/dx6PVjx2/29993/278
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
 http://pfsv.io:80/dx6PVjx2/29993/279
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
@@ -324,11 +324,11 @@ http://pfsv.io:80/dx6PVjx2/29993/102
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
 http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10441
 #EXTINF:0 type="stream" channelId="2616" group="TV AO VIVO", VIVA
-http://pfsv.io:80/dx6PVjx2/29993/105
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109445
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
-http://pfsv.io:80/dx6PVjx2/29993/165
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109496
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://pfsv.io:80/dx6PVjx2/29993/005
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -429,7 +429,17 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SHOPTIME
 http://168.205.87.198:8555/live/1499/123456/164.m3u8
-#EXTINF:0 type="stream" channelId="2630" group="TV AO VIVO", CANAL DO BOI
-http://168.205.87.198:8555/live/1499/123456/167.m3u8
+#EXTINF:0 type="stream" channelId="2630" group="TV AO VIVO", PICA PAU
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109049
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109052
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAPOLIN
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109060
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CAVERNA DO DRAGAO
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109053
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CORAGEM
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109072
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SPEED RACER
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109075
