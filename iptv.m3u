@@ -433,13 +433,3 @@ http://168.205.87.198:8555/live/1499/123456/164.m3u8
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109049
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAVES
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109052
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAPOLIN
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109060
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CAVERNA DO DRAGAO
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109053
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CORAGEM
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109072
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SPEED RACER
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109075
