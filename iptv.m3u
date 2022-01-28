@@ -408,9 +408,21 @@ http://efv.me:80/live/1702935and32576/958237/166121.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 3
 http://pvsrvs.xyz:80/marcelo475/marcelo249/77922
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 4
-http://ccdn.ai:80/5SCeh/713FGZneh/147205.m3u8
+http://abreu.distv.net:8080/playnet/005544/325
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 5
+http://abreu.distv.net:8080/playnet/005544/326
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 6
+http://abreu.distv.net:8080/playnet/005544/327
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 7
+http://abreu.distv.net:8080/playnet/005544/328
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 8
+http://abreu.distv.net:8080/playnet/005544/330
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 9
+http://abreu.distv.net:8080/playnet/005544/331
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 10
+http://abreu.distv.net:8080/playnet/005544/333
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB MOSAICO
-http://ccdn.ai:80/5SCeh/713FGZneh/147208.m3u8
+http://abreu.distv.net:8080/playnet/005544/322
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB PORTUGAL
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/G5T3Lph.png", SAT TV WEB
