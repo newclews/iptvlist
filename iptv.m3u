@@ -443,3 +443,6 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 http://168.205.87.198:8555/live/1499/123456/164.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
