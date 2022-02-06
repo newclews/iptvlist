@@ -249,7 +249,7 @@ http://192.254.68.106:10172/stream.mp3
 http://pfsv.io:80/dx6PVjx2/29993/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", GLOBO 2
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109727
-#EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO SP
+#EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO MG
 http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1499/123456/103.m3u8
