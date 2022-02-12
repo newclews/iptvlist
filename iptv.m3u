@@ -19,7 +19,9 @@ dtv://antenna:24/atsc/11/1
 dtv://antenna:39/atsc/13/1
 #EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1499/123456/134.m3u8
-#EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", Rede Super
+#EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png", TV ESCOLA
+http://168.205.87.198:8555/live/1499/123456/137.m3u8
+#EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", REDE SUPER
 http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
