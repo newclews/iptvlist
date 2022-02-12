@@ -18,13 +18,11 @@ dtv://antenna:24/atsc/11/1
 #EXTINF:0 type="stream" channelId="2562" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
 dtv://antenna:39/atsc/13/1
 #EXTINF:0 type="stream" channelId="2466" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-http://rec2.distv.net:80/live/Liliane/Liliane/104.m3u8
+http://168.205.87.198:8555/live/1499/123456/134.m3u8
 #EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", Rede Super
 http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
-#EXTINF:0 type="stream" channelId="2452" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png", RIT
-http://rec2.distv.net:80/live/Liliane/Liliane/70.m3u8
 #EXTINF:0 type="stream" channelId="2447" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
@@ -83,8 +81,8 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV TAROBA
-https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL BRA
+http://168.205.87.198:8555/live/1499/123456/024.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
@@ -447,4 +445,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/locomotion.png" aspect-ratio="Original", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="Original", ESCOLINHA NA TV
+http://168.205.87.198:8555/live/1499/123456/019.m3u8
+
+
 
