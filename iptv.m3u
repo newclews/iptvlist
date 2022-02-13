@@ -280,11 +280,11 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109524
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
-http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10440
+http://pfsv.io:80/dx6PVjx2/29993/302
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/290
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
-http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10433
+http://pfsv.io:80/dx6PVjx2/29993/310
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/283
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
@@ -310,7 +310,7 @@ http://pfsv.io:80/dx6PVjx2/29993/295
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
 http://pfsv.io:80/dx6PVjx2/29993/296
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
-http://pfsv.io:80/dx6PVjx2/29993/241
+http://pfsv.io:80/dx6PVjx2/29993/297
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
 http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
@@ -368,13 +368,13 @@ http://pfsv.io:80/dx6PVjx2/29993/126
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
 http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10424
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101901
+http://pfsv.io:80/dx6PVjx2/29993/127
 #EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101802
+http://pfsv.io:80/dx6PVjx2/29993/136
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
 http://pfsv.io:80/dx6PVjx2/29993/164
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
-http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10423
+http://pfsv.io:80/dx6PVjx2/29993/169
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
 http://pfsv.io:80/dx6PVjx2/29993/171
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
