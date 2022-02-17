@@ -243,12 +243,12 @@ http://centova17.ciclanohost.com.br:8217/stream.mp3
 http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="ATENÇÃO", ESSA LISTA PODE SER USADA EM QUALQUER APP IPTV / OS CANAIS (ANTENA) SÓ FUNCIONAM EM APARELHOS SMARTV DA LG PELA TV ABERTA UHF DO RIO DE JANEIRO. INSTALE UMA ANTENA DE UHF EM SUA SMARTV LG.
-http://192.254.68.106:10172/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GLOBO SP
+http://pfsv.io:80/dx6PVjx2/29993/394
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", INTER TV
 http://pfsv.io:80/dx6PVjx2/29993/375
-#EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", GLOBO 2
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109727
+#EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
+http://pfsv.io:80/dx6PVjx2/29993/394
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", CLOBO MG
 http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
@@ -362,7 +362,7 @@ http://pfsv.io:80/dx6PVjx2/29993/253
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
 http://pfsv.io:80/dx6PVjx2/29993/133
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
-http://firetvset.com:25461/RMBo2uHLYABnjY1/aZKGeCRtHPRFw7g/101861
+http://pfsv.io:80/dx6PVjx2/29993/097
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
 http://pfsv.io:80/dx6PVjx2/29993/126
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
@@ -382,7 +382,7 @@ http://pfsv.io:80/dx6PVjx2/29993/293
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MAIS NA TELA
 http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
-http://rec2.distv.net:80/live/Liliane/Liliane/129.m3u8
+http://pfsv.io:80/dx6PVjx2/29993/098
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
 http://pfsv.io:80/dx6PVjx2/29993/524
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
