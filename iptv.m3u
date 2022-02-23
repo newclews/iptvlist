@@ -89,7 +89,7 @@ http://168.205.87.198:8555/live/1499/123456/024.m3u8
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/dL3Wt65.png" aspect-ratio="16:9", TV SERRA VERDE
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_596,h_152,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp", CENTRAL TV
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/3393/logo_face-3393-20180323175239.png", SUMMER TV [HD]
 http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
