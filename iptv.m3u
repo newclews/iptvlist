@@ -48,7 +48,7 @@ https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.canalsmart.com.br/imagens/logo.png", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w227054135.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
-http://pfsv.io:80/dx6PVjx2/29993/513
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="TV AO VIVO", TV8
