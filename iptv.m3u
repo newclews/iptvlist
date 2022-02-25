@@ -447,4 +447,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/locomotion.png" aspect-ratio="Original", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GLOBO
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
