@@ -143,8 +143,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b500000.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png", RTP 2 PORTUGAL
-http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9362
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", UNIVISION (MEXICO)
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5580.ts
 #EXTINF:0 type="stream" channelId="2855" group="TV AO VIVO" logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png", PORTO CANAL
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GOSPEL MOVIE
@@ -276,21 +276,21 @@ http://pfsv.io:80/dx6PVjx2/29993/571
 #EXTINF:0 type="stream" channelId="2606" group="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
 http://user.safeclient.live:8080/r72Pkvmg9u/4AWXbVCxu5/81187
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109524
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5555.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
-http://pfsv.io:80/dx6PVjx2/29993/302
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5545.ts
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/290
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
 http://pfsv.io:80/dx6PVjx2/29993/310
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
-http://pfsv.io:80/dx6PVjx2/29993/283
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5575.ts
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109511
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5487.ts
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
-http://pfsv.io:80/dx6PVjx2/29993/276
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5488.ts
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Hits_2021.svg/revision/latest/scale-to-width-down/250?cb=20210223133927", STAR HITS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109510
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR HITS 2
@@ -310,7 +310,7 @@ http://pfsv.io:80/dx6PVjx2/29993/295
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
 http://pfsv.io:80/dx6PVjx2/29993/296
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
-http://pfsv.io:80/dx6PVjx2/29993/297
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5578.ts
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
 http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
@@ -362,7 +362,7 @@ http://pfsv.io:80/dx6PVjx2/29993/002
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
 http://pfsv.io:80/dx6PVjx2/29993/253
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
-http://pfsv.io:80/dx6PVjx2/29993/133
+http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5579.ts
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
 http://pfsv.io:80/dx6PVjx2/29993/097
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
