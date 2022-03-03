@@ -254,11 +254,11 @@ http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1499/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44070.ts
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
-http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44068.ts
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44088.ts
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://pfsv.io:80/dx6PVjx2/29993/249
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 4
@@ -266,7 +266,7 @@ http://pfsv.io:80/dx6PVjx2/29993/255
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://pfsv.io:80/dx6PVjx2/29993/252
 #EXTINF:0 type="stream" channelId="2603" group="TV AO VIVO", TELECINE ACTION
-http://pfsv.io:80/dx6PVjx2/29993/568
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44112.ts
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
 http://pfsv.io:80/dx6PVjx2/29993/573
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
@@ -278,7 +278,7 @@ http://user.safeclient.live:8080/r72Pkvmg9u/4AWXbVCxu5/81187
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
 http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5555.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
-http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44117.ts
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
 http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5545.ts
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
@@ -298,7 +298,7 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
 http://pfsv.io:80/dx6PVjx2/29993/279
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
-http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44095.ts
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
 http://pfsv.io:80/dx6PVjx2/29993/284
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
@@ -360,7 +360,7 @@ http://cdn_usa.sledujtv.sk:3000/appletv/BaHCaa/249
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 http://pfsv.io:80/dx6PVjx2/29993/002
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
-http://pfsv.io:80/dx6PVjx2/29993/253
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44071.ts
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
 http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5579.ts
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
@@ -380,7 +380,7 @@ http://pfsv.io:80/dx6PVjx2/29993/169
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
 http://pfsv.io:80/dx6PVjx2/29993/171
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
-http://pfsv.io:80/dx6PVjx2/29993/293
+http://hidra.live/live/nlamlfia/v7e2NF91vt/44092.ts
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MAIS NA TELA
 http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
