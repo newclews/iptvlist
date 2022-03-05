@@ -316,7 +316,7 @@ http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTC
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://pfsv.io:80/dx6PVjx2/29993/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
-http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5495.ts
+http://line.crystalott.net:80/USYMRH9YBZ/OJXPCCEKDX/8509
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN
 http://pfsv.io:80/dx6PVjx2/29993/513
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
@@ -443,8 +443,6 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 http://168.205.87.198:8555/live/1499/123456/164.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/locomotion.png" aspect-ratio="Original", LOCOMOTION
