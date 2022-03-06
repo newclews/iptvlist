@@ -328,7 +328,7 @@ http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTC
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://ccdn.ai:80/rdyUN/913YVKcsh/71816.m3u8
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
-http://ccdn.ai:80/rdyUN/913YVKcsh/71998.m3u8
+http://ccdn.ai:80/rdyUN/913YVKcsh/71999.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN
 http://ccdn.ai:80/rdyUN/913YVKcsh/71798.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
