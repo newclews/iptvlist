@@ -280,7 +280,7 @@ http://hidra.live/live/nlamlfia/v7e2NF91vt/44017.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
 http://hidra.live/live/nlamlfia/v7e2NF91vt/44117.ts
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
-http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5545.ts
+http://ccdn.ai:80/rdyUN/913YVKcsh/71824.m3u8
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://pfsv.io:80/dx6PVjx2/29993/290
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
@@ -298,7 +298,7 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
 http://pfsv.io:80/dx6PVjx2/29993/279
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
-http://hidra.live/live/nlamlfia/v7e2NF91vt/44095.ts
+http://ccdn.ai:80/rdyUN/913YVKcsh/71833.m3u8
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
 http://pfsv.io:80/dx6PVjx2/29993/284
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
@@ -314,11 +314,11 @@ http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5578.ts
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
 http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
-http://pfsv.io:80/dx6PVjx2/29993/298
+http://ccdn.ai:80/rdyUN/913YVKcsh/71816.m3u8
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://ccdn.ai:80/rdyUN/913YVKcsh/71998.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN
-http://pfsv.io:80/dx6PVjx2/29993/513
+http://ccdn.ai:80/rdyUN/913YVKcsh/71798.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://ccdn.ai:80/rdyUN/913YVKcsh/71789.m3u8
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
@@ -332,7 +332,7 @@ http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://ccdn.ai:80/rdyUN/913YVKcsh/71777.m3u8
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
-http://pfsv.io:80/dx6PVjx2/29993/005
+http://ccdn.ai:80/rdyUN/913YVKcsh/71806.m3u8
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
 http://pfsv.io:80/dx6PVjx2/29993/043
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
@@ -366,9 +366,9 @@ http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5579.ts
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
 http://pfsv.io:80/dx6PVjx2/29993/097
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
-http://pfsv.io:80/dx6PVjx2/29993/126
-#EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
-http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10424
+http://ccdn.ai:80/rdyUN/913YVKcsh/71828.m3u8
+#EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
+http://ccdn.ai:80/rdyUN/913YVKcsh/71812.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://pfsv.io:80/dx6PVjx2/29993/127
 #EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
