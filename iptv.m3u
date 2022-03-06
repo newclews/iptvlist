@@ -370,7 +370,7 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/72171.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
 http://ccdn.ai:80/rdyUN/913YVKcsh/72173.m3u8
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
-http://pfsv.io:80/dx6PVjx2/29993/002
+http://ccdn.ai:80/rdyUN/913YVKcsh/72175.m3u8
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
 http://hidra.live/live/nlamlfia/v7e2NF91vt/44071.ts
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
