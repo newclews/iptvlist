@@ -261,10 +261,16 @@ http://hidra.live/live/nlamlfia/v7e2NF91vt/44068.ts
 http://hidra.live/live/nlamlfia/v7e2NF91vt/44088.ts
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://ccdn.ai:80/rdyUN/913YVKcsh/71842.m3u8
+#EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
+http://ccdn.ai:80/rdyUN/913YVKcsh/71911.m3u8
+#EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 2
+http://ccdn.ai:80/rdyUN/913YVKcsh/71919.m3u8
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 3
 http://ccdn.ai:80/rdyUN/913YVKcsh/71907.m3u8
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 4
 http://pfsv.io:80/dx6PVjx2/29993/255
+#EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN EXTRA
+http://ccdn.ai:80/rdyUN/913YVKcsh/71915.m3u8
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://pfsv.io:80/dx6PVjx2/29993/252
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", TNT SPORTS
