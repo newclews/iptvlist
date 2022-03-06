@@ -336,7 +336,7 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/71789.m3u8
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://ccdn.ai:80/rdyUN/913YVKcsh/72102.m3u8
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
-http://tigeriptv.xyz:8080/19vaurZFrK/WEyBvhQ5ZU/10441
+http://ccdn.ai:80/rdyUN/913YVKcsh/72182.m3u8
 #EXTINF:0 type="stream" channelId="2616" group="TV AO VIVO", VIVA
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109445
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
@@ -372,7 +372,7 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/72173.m3u8
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 http://ccdn.ai:80/rdyUN/913YVKcsh/72175.m3u8
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
-http://hidra.live/live/nlamlfia/v7e2NF91vt/44071.ts
+http://ccdn.ai:80/rdyUN/913YVKcsh/72209.m3u8
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
 http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5579.ts
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
@@ -385,6 +385,8 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/71812.m3u8
 http://ccdn.ai:80/rdyUN/913YVKcsh/71891.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://ccdn.ai:80/rdyUN/913YVKcsh/71871.m3u8
+#EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", NAT GEO KIDS
+http://ccdn.ai:80/rdyUN/913YVKcsh/72188.m3u8
 #EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
 http://ccdn.ai:80/rdyUN/913YVKcsh/72100.m3u8
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
