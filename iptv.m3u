@@ -309,6 +309,8 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 http://ccdn.ai:80/rdyUN/913YVKcsh/71966.m3u8
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
 http://ccdn.ai:80/rdyUN/913YVKcsh/71833.m3u8
+#EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", LIFETIME
+http://ccdn.ai:80/rdyUN/913YVKcsh/72154.m3u8
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
 http://pfsv.io:80/dx6PVjx2/29993/284
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
@@ -391,6 +393,8 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/71773.m3u8
 http://ccdn.ai:80/rdyUN/913YVKcsh/71862.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
 http://ccdn.ai:80/rdyUN/913YVKcsh/71883.m3u8
+#EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 1
+http://ccdn.ai:80/rdyUN/913YVKcsh/72146.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
 http://ccdn.ai:80/rdyUN/913YVKcsh/72106.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
