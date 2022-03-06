@@ -316,7 +316,7 @@ http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTC
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://pfsv.io:80/dx6PVjx2/29993/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
-http://s.pdsrv.io:80/639625804/963268406/100335
+ttp://50.7.34.155:2200/BR/Globo_News_HD-br/stereo.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN
 http://pfsv.io:80/dx6PVjx2/29993/513
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
