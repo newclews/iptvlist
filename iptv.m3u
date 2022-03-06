@@ -369,6 +369,8 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/71847.m3u8
 http://ccdn.ai:80/rdyUN/913YVKcsh/71828.m3u8
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
 http://ccdn.ai:80/rdyUN/913YVKcsh/71812.m3u8
+#EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
+http://ccdn.ai:80/rdyUN/913YVKcsh/71891.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://ccdn.ai:80/rdyUN/913YVKcsh/71871.m3u8
 #EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
@@ -378,7 +380,7 @@ http://ccdn.ai:80/rdyUN/913YVKcsh/71773.m3u8
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
 http://ccdn.ai:80/rdyUN/913YVKcsh/71862.m3u8
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
-http://pfsv.io:80/dx6PVjx2/29993/171
+http://ccdn.ai:80/rdyUN/913YVKcsh/71883.m3u8
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
 http://ccdn.ai:80/rdyUN/913YVKcsh/71760.m3u8
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MAIS NA TELA
