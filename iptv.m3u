@@ -131,7 +131,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://168.205.87.198:8555/live/1499/123456/131.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/dataclipe.png", RUNTIME
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
 https://stream.ads.ottera.tv/cl/9489a0d8-4536-40c7-827d-5e9d04efbe22/1280x720_2657600_2_true.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
