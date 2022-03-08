@@ -142,7 +142,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4786" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
-http://latinchannel.tv:8080/anual081021-0/136907411489/5271
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/senal.colombia.co.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", UNIVISION (MEXICO)
 http://tv-privado.live:8080/live/sergiocpe/y18fHvXSV1/5580.ts
 #EXTINF:0 type="stream" channelId="2855" group="TV AO VIVO" logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png", PORTO CANAL
