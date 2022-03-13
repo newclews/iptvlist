@@ -298,9 +298,9 @@ http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22234
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22219
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
-http://ccdn.ai:80/rdyUN/913YVKcsh/71936.m3u8
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054182
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
-http://ccdn.ai:80/rdyUN/913YVKcsh/71939.m3u8
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054345
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Hits_2021.svg/revision/latest/scale-to-width-down/250?cb=20210223133927", STAR HITS
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109510
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR HITS 2
@@ -329,10 +329,10 @@ http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTC
 http://ccdn.ai:80/rdyUN/913YVKcsh/71816.m3u8
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22248
-#EXTINF:0 type="stream" group="TV AO VIVO", CNN
-http://ccdn.ai:80/rdyUN/913YVKcsh/71798.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO", CNN BRASIL
+http://5ce.co:80/regi2525/regi3535/70824
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-http://ccdn.ai:80/rdyUN/913YVKcsh/71789.m3u8
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054277
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://ccdn.ai:80/rdyUN/913YVKcsh/72102.m3u8
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
@@ -365,12 +365,14 @@ http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22236
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22237
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO SIGNATURE
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22240
+#EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054166
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
 http://168.205.87.198:8555/live/1499/123456/072.m3u8
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO", MTV
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22233
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
-http://ccdn.ai:80/rdyUN/913YVKcsh/72173.m3u8
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054155
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 http://ccdn.ai:80/rdyUN/913YVKcsh/72175.m3u8
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
