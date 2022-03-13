@@ -429,6 +429,14 @@ http://pfsv.io:80/dx6PVjx2/29993/529
 http://pfsv.io:80/dx6PVjx2/29993/530
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 8
 http://pfsv.io:80/dx6PVjx2/29993/531
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 1
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054257
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 2
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054258
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 3
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 4
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 1
 http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 2
