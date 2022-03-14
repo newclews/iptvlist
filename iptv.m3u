@@ -254,15 +254,15 @@ http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1499/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22220
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054183
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
-http://hidra.live/live/nlamlfia/v7e2NF91vt/44068.ts
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054185
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22221
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054184
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22267
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22256
+
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 2
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22255
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 3
@@ -310,7 +310,7 @@ http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22249
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22268
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", LIFETIME
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22238
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054213
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22218
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
@@ -324,7 +324,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054198
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054153
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
-http://50.7.34.155:2201/BR/Space_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054186
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054268
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
@@ -336,7 +336,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054277
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054226
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22232
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054207
 #EXTINF:0 type="stream" channelId="2616" group="TV AO VIVO", VIVA
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054154
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
@@ -350,21 +350,21 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054232
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://pfsv.io:80/dx6PVjx2/29993/004
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22242
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054222
 #EXTINF:0 type="stream" channelId="935" group="TV AO VIVO", HBO 2
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22244
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054224
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", HBO +
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22241
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054225
 #EXTINF:0 type="stream" channelId="2584" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22243
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054223
 #EXTINF:0 type="stream" channelId="361" group="TV AO VIVO", HBO POP
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22235
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054220
 #EXTINF:0 type="stream" channelId="2587" group="TV AO VIVO", HBO XTREME
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22236
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054218
 #EXTINF:0 type="stream" channelId="2725" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22237
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054221
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO SIGNATURE
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22240
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054219
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054166
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
@@ -402,7 +402,7 @@ http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22265
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
 http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22212
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", NAT GEO
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22231
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054203
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054215
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
