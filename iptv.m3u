@@ -330,7 +330,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054268
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO", GLOBO NEWS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054230
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN BRASIL
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054263
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054922
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054277
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
@@ -341,12 +341,14 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054207
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054154
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
+#EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", PRIME
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054446
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054279
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054272
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054232
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054801
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://pfsv.io:80/dx6PVjx2/29993/004
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO
@@ -386,7 +388,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054265
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054271
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054245
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054851
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", NICK
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054202
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
@@ -398,7 +400,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054228
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054280
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054251
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054875
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054247
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", NAT GEO
