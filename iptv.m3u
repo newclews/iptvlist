@@ -36,7 +36,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
-https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w74788396.m3u8
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054282
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/akQQ1GI.png", TV CIDADE OESTE
@@ -296,7 +296,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054156
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054210
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22219
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054339
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054182
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
@@ -312,11 +312,11 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054264
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", LIFETIME
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054213
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22218
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054335
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
 http://pfsv.io:80/dx6PVjx2/29993/285
 #EXTINF:0 type="stream" channelId="2501" group="TV AO VIVO", AMC
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22277
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054281
 #EXTINF:0 type="stream" channelId="1573" group="TV AO VIVO", AXN
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054278
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
@@ -342,7 +342,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054154
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
-http://ccdn.ai:80/rdyUN/913YVKcsh/7177
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054279
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054272
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -396,7 +396,7 @@ http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22230
 #EXTINF:0 type="stream" channelId="2581" group="TV AO VIVO", GLOOB
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054228
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22276
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054280
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054251
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
@@ -408,7 +408,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054215
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054216
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
-http://assistirpainel.net:8880/va6rtsefn1q/mgpcf68au52/22278
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054283
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MODO VIAGEM
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054211
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
