@@ -254,19 +254,19 @@ http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1499/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054183
+http://login.companyiptv.com.br:8080/live/Maike7/1234567/116296.m3u8
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054185
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054184
+http://cdn99.one:80/724139/FVGWgY/72325.ts
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054262
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054240
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 2
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054241
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/172
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 3
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054242
+
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 4
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054234
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN EXTRA
