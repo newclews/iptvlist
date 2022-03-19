@@ -36,7 +36,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054282
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/akQQ1GI.png", TV CIDADE OESTE
@@ -256,7 +256,7 @@ http://168.205.87.198:8555/live/1499/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054369
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV 2
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054185
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054377
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054373
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
@@ -274,7 +274,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054833
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://tv.plusid.xyz:25461/imcvlngmail/rhxuEMT8Pk/9410
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", BAND SPORTS
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054276
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055012
 #EXTINF:0 type="stream" channelId="2603" group="TV AO VIVO", TELECINE ACTION
 http://hidra.live/live/nlamlfia/v7e2NF91vt/44112.ts
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
@@ -288,7 +288,7 @@ http://user.safeclient.live:8080/r72Pkvmg9u/4AWXbVCxu5/81187
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
 http://hidra.live/live/nlamlfia/v7e2NF91vt/44017.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054168
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055130
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054936
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
@@ -316,9 +316,9 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054335
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
 http://pfsv.io:80/dx6PVjx2/29993/285
 #EXTINF:0 type="stream" channelId="2501" group="TV AO VIVO", AMC
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054281
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055042
 #EXTINF:0 type="stream" channelId="1573" group="TV AO VIVO", AXN
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054278
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055028
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054198
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
@@ -332,7 +332,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054230
 #EXTINF:0 type="stream" group="TV AO VIVO", CNN BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054922
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054277
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055017
 #EXTINF:0 type="stream" channelId="2582" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://pfsv.io:80/dx6PVjx2/29993/102
 #EXTINF:0 type="stream" channelId="2590" group="TV AO VIVO", MULTISHOW
@@ -344,7 +344,7 @@ http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", PRIME
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054446
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
-http://pfsv.io:80/dx6PVjx2/29993/165
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055034
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://pfsv.io:80/dx6PVjx2/29993/005
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -368,13 +368,13 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054593
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO SIGNATURE
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054577
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054166
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055118
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
 http://168.205.87.198:8555/live/1499/123456/072.m3u8
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO", MTV
 http://pfsv.io:80/dx6PVjx2/29993/001
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
-http://pfsv.io:80/dx6PVjx2/29993/008
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055070
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 http://pfsv.io:80/dx6PVjx2/29993/002
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
@@ -413,7 +413,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054556
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054560
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054283
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055050
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MODO VIAGEM
 http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
@@ -486,8 +486,8 @@ http://168.205.87.198:8555/live/1499/123456/164.m3u8
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , CANAL DO BOI
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054267
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , TV DIARIO
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055095
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SIC NOTICIAS
 http://n1.mm136.ru:3000/Eepm9v/YO6dR2/3992
 
