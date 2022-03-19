@@ -253,12 +253,12 @@ http://pfsv.io:80/dx6PVjx2/29993/394
 http://168.205.87.198:8555/live/1499/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1499/123456/103.m3u8
-#EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV
-http://login.companyiptv.com.br:8080/live/Maike7/1234567/116296.m3u8
-#EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV2
+#EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV 1
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054369
+#EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV 2
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054185
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://cdn99.one:80/724139/FVGWgY/72325.ts
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054373
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054918
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
