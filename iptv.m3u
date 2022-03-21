@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="2462" group="TV AO VIVO" logo="https://i.imgur.com/R8qQGoZ.png", REDE FAMÍLIA
-https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?IMDSFULL
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CMN TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
