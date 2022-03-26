@@ -21,8 +21,8 @@ dtv://antenna:39/atsc/13/1
 http://168.205.87.198:8555/live/1499/123456/134.m3u8
 #EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png", TV ESCOLA
 http://168.205.87.198:8555/live/1499/123456/137.m3u8
-#EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", REDE SUPER
-http://api.new.livestream.com:80/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:0 type="stream" channelId="5077" group="TV AO VIVO" logo="http://bit.ly/2kYTnTd", TV ACRITICA
+http://168.205.87.198:8555/live/1499/123456/102.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" channelId="2447" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
@@ -131,8 +131,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://168.205.87.198:8555/live/1499/123456/131.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
-https://stream.ads.ottera.tv/cl/17ce1978-7f2f-4b3c-a56d-7ccd23da7d54/1280x720_2657600_2_false.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , MEGA TV
+http://168.205.87.198:8555/live/1499/123456/075.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
 #EXTINF:0 type="stream" channelId="1971" group="TV AO VIVO", NOS STUDIOS
@@ -342,7 +342,7 @@ http://pfsv.io:80/dx6PVjx2/29993/105
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
 http://pfsv.io:80/dx6PVjx2/29993/289
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", PRIME
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054446
+http://168.205.87.198:8555/live/1499/123456/083.m3u8
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055034
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
