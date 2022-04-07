@@ -91,8 +91,8 @@ https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CENTRAL TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/3393/logo_face-3393-20180323175239.png", SUMMER TV [HD]
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w2046018657.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VH1 CLASSIC
+http://streamx.link:8080/n4io2JB5L8/6sRwMkdZCv/9316
 #EXTINF:0 type="stream" channelId="2496" group="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", CANAL CUT
