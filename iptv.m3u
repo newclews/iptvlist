@@ -111,7 +111,7 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 #EXTINF:0 type="stream" channelId="1852" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", MTV CLASSIC
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="original", MTV CLASSIC
 http://tv.plusk.xyz:28000/jalaimostoraci/fe2twe2xpW/58069
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://static.wikia.nocookie.net/radiofanon/images/5/53/Radio_Contact_%282006-.n.v.%29.png/revision/latest?cb=20180621145455", RADIO CONTACT TV
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
