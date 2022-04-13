@@ -442,28 +442,6 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054258
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 4
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 1
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 2
-http://efv.me:80/live/1702935and32576/958237/166121.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 3
-http://pvsrvs.xyz:80/marcelo475/marcelo249/77922
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 4
-http://abreu.distv.net:8080/playnet/005544/325
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 5
-http://abreu.distv.net:8080/playnet/005544/326
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 6
-http://abreu.distv.net:8080/playnet/005544/327
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 7
-http://abreu.distv.net:8080/playnet/005544/328
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 8
-http://abreu.distv.net:8080/playnet/005544/330
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 9
-http://abreu.distv.net:8080/playnet/005544/331
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB 10
-http://abreu.distv.net:8080/playnet/005544/333
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB MOSAICO
-http://abreu.distv.net:8080/playnet/005544/322
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB PORTUGAL
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png", REDE GENESIS
@@ -486,8 +464,7 @@ http://168.205.87.198:8555/live/1499/123456/164.m3u8
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1499/123456/143.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , TV DIARIO
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055095
+
 
 
 
