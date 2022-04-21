@@ -328,7 +328,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054383
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054945
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054755
+http://api.magiaiptv.com/live/800328/755275/p2_JLtVbmIgNqEC
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054923
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
