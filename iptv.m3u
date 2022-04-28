@@ -198,7 +198,7 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9374
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://radio.radioroquettepinto.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
-http://cast2.my-control-panel.com:9336/mp3.mp3
+http://cast2.my-control-panel.com:9336/stream
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
 http://radio.servercsi.com.br:9422/live.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
