@@ -244,7 +244,7 @@ http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GLOBO SP
-http://pfsv.io:80/dx6PVjx2/29993/394
+http://streamx.link:8080/n4io2JB5L8/6sRwMkdZCv/80019
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", INTER TV
 http://pfsv.io:80/dx6PVjx2/29993/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
@@ -328,7 +328,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054383
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054946
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://streamx.link:8080/n4io2JB5L8/6sRwMkdZCv/80020
+http://pfsv.io:80/7262022437/6324/516
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 http://ccdn.pw:80/WY1NB/Felialagoas10/71839.ts
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
@@ -348,7 +348,7 @@ http://168.205.87.198:8555/live/1499/123456/083.m3u8
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055035
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
-http://pfsv.io:80/dx6PVjx2/29993/005
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054963
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054800
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
@@ -388,7 +388,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054914
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054931
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
-http://pfsv.io:80/dx6PVjx2/29993/125
+http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054958
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054849
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", NICK
@@ -420,7 +420,7 @@ http://pfsv.io:80/dx6PVjx2/29993/103
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
 http://pfsv.io:80/dx6PVjx2/29993/098
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
-http://pfsv.io:80/dx6PVjx2/29993/524
+http://streamx.link:8080/n4io2JB5L8/6sRwMkdZCv/80057
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
 http://pfsv.io:80/dx6PVjx2/29993/525
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 3
