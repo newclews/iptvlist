@@ -190,7 +190,7 @@ https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/p
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CINE TV (CHAVES)
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1394894910.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/chunklist_b2628000.m3u8
+https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 #EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" channelId="2647" group="TV AO VIVO", TVI
