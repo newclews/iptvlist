@@ -72,7 +72,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/111098
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-http://168.205.87.198:8555/live/1499/123456/102.m3u8
+http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
