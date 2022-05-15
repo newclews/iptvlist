@@ -100,7 +100,7 @@ http://168.205.87.198:8555/live/1501/123456/030.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
-https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?44ebe47aa959fb99b7f1d9e4908237a2
+https://cdn.livespanel.com/live/fmodia/chunks.m3u8?nimblesessionid=105073
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ESTUDIO AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
