@@ -48,7 +48,7 @@ https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist_w1099290131.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.canalsmart.com.br/imagens/logo.png", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w227054135.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+http://189.91.128.146:4444/udp/227.10.20.176:1234
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="TV AO VIVO", TV8
@@ -66,7 +66,7 @@ http://pfsv.io:80/dx6PVjx2/29993/046
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listhttps://playplusraiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://cdn99.one:80/595976/Y87H58/106638.ts
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/6306
+http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055098
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO
@@ -154,7 +154,7 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
 #EXTINF:0 type="stream" channelId="2456" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
@@ -260,6 +260,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054377
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054373
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
+http://189.91.128.146:4444/udp/227.10.20.172:1234
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054919
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054834
@@ -280,8 +281,8 @@ http://hidra.live/live/nlamlfia/v7e2NF91vt/44112.ts
 #EXTINF:0 type="stream" channelId="2610" group="TV AO VIVO", TELECINE PREMUM
 http://pfsv.io:80/7262022437/6324/573
 #EXTINF:0 type="stream" channelId="2608" group="TV AO VIVO", TELECINE PIPOCA
-http://pfsv.io:80/7262022437/6324/572
-#EXTINF:0 type="stream" channelId="2611" group="TV AO VIVO", TELECINE TOUCH
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:0 type="stream" channelId="26112437/6324/" group="TV AO VIVO", TELECINE TOUCH
 http://pfsv.io:80/7262022437/6324/571
 #EXTINF:0 type="stream" channelId="2606" group="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
 http://user.safeclient.live:8080/r72Pkvmg9u/4AWXbVCxu5/81187
@@ -402,9 +403,9 @@ http://pfsv.io:80/7262022437/6324/136
 #EXTINF:0 type="stream" channelId="50" group="TV AO VIVO", ANIMAL PLANET
 http://pfsv.io:80/7262022437/6324/164
 #EXTINF:0 type="stream" channelId="57" group="TV AO VIVO", DISCOVERY CHANNEL
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054875
+http://189.91.128.146:4444/udp/227.10.20.80:1234
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY TURBO
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054858
+http://189.91.128.146:4444/udp/227.10.20.82:1234
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", DISCOVERY SCI
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054866
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", NAT GEO
