@@ -459,8 +459,8 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 #EXTINF:0 type="stream" channelId="2646" group="TV AO VIVO", SIC NOTICIAS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SHOPTIME
-http://168.205.87.198:8555/live/1499/123456/164.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHRIS
+http://tv.factoryiptv.com:80/VxK9K1fnKj/factoryiptv/56467
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", CHESPIRITO
 http://168.205.87.198:8555/live/1499/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
