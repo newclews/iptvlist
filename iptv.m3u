@@ -250,9 +250,9 @@ http://pfsv.io:80/7262022437/6324/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
 http://pfsv.io:80/7262022437/6324/394
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", GLOBO MG
-http://168.205.87.198:8555/live/1499/123456/070.m3u8
+http://168.205.87.198:8555/live/1501/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://168.205.87.198:8555/live/1499/123456/103.m3u8
+http://168.205.87.198:8555/live/1501/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054369
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV 2
