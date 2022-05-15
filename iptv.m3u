@@ -43,7 +43,7 @@ https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE METROPOLE
 https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", RADIO TV 98
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", 98 LIVE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.canalsmart.com.br/imagens/logo.png", CANAL SMART
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w227054135.m3u8
