@@ -29,8 +29,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m
 https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w32906010.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imagensbrasil.org/images/2019/10/24/TV-NATAL.png" aspect-ratio="16:9", TV NATAL
-http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w1605886703.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
+https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440" aspect-ratio="16:9", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
