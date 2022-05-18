@@ -9,8 +9,8 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
 #EXTINF:0 type="stream" channelId="2467" group="TV AO VIVO", TV CULTURA
 http://168.205.87.198:8555/live/1501/123456/032.m3u8
-#EXTINF:0 type="stream" channelId="2436" group="ANTENA UHF RJ" logo="https://portal.comunique-se.com.br/wp-content/uploads/2019/11/REDETV-OFICIAL-3D.png", RedeTV! HD (ANTENA)
-dtv://antenna:21/atsc/6/1
+#EXTINF:0 type="stream" channelId="2436" group="TV AO VIVO", CANAL LIBRAS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
 #EXTINF:0 type="stream" channelId="2563" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png", BAND HD (ANTENA)
 dtv://antenna:35/atsc/7/1
 #EXTINF:0 type="stream" channelId="2571" group="ANTENA UHF RJ" logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20190825030134", SBT HD (ANTENA)
