@@ -45,14 +45,14 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", 98 LIVE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.canalsmart.com.br/imagens/logo.png", CANAL SMART
-https://5a57bda70564a.streamlock.net/smart/smart.sdp/chunklist_w227054135.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SERIES CLASSICAS
+http://168.205.87.198:8555/live/1501/123456/160.m3u8
 #EXTINF:0 type="stream" channelId="4647" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
 http://189.91.128.146:4444/udp/227.10.20.176:1234
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1076" group="TV AO VIVO", TV8
-https://stmv3.samcast.com.br/jose8272/jose8272/chunklist_w97015013.m3u8
+#EXTINF:0 type="stream" channelId="1076" group="TV AO VIVO", CINE BRASIL TV
+http://168.205.87.198:8555/live/1501/123456/145.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/0Rs9fxrvWK4pRjuoL-q-8lkvU_NLqwc6SXajWKyYv_FVQOsEkbFCCgJhNOPEBAYsIg", TV MON
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?wowzasessionid=1167800536
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C500%2C5000", REDE UTV
@@ -62,7 +62,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listhttps://playplusraiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://cdn99.one:80/595976/Y87H58/106638.ts
 #EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
@@ -175,8 +175,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="16:9", NOSSA TV
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pbr.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png", TV CARIOCA
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1737414436.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , CANAL SCH
+http://168.205.87.198:8555/live/1501/123456/105.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logo-istv.png" aspect-ratio="16:9", ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", ALL SPORTS
@@ -459,8 +459,8 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 #EXTINF:0 type="stream" channelId="2646" group="TV AO VIVO", SIC NOTICIAS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHRIS
-http://tv.factoryiptv.com:80/VxK9K1fnKj/factoryiptv/56467
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", SHOPTIME
+http://168.205.87.198:8555/live/1501/123456/164.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", CHESPIRITO
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
