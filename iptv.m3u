@@ -134,7 +134,7 @@ http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , MEGA TV
 http://168.205.87.198:8555/live/1501/123456/075.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
-https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1587802449.m3u8
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w919672298.m3u8
 #EXTINF:0 type="stream" channelId="1971" group="TV AO VIVO", NOS STUDIOS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9352
 #EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
