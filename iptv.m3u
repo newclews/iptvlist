@@ -36,7 +36,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055045
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/461842
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/redepremiumtv.png", REDE PREMIUM TV
 https://5c483b9d1019c.streamlock.net/8066/8066/chunklist_w1129764161.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/akQQ1GI.png", TV CIDADE OESTE
@@ -187,8 +187,8 @@ https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/yNXAB3p.png", CANAL TV RIO
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CINE TV (CHAVES)
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1394894910.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566162
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
 https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 #EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
@@ -463,6 +463,12 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 http://168.205.87.198:8555/live/1501/123456/164.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", CHESPIRITO
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CHAPOLIN
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566161
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", HE-MAN
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564078
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", THUNDERCATS
+http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564115
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 
