@@ -349,6 +349,8 @@ http://pfsv.io:80/7262022437/6324/289
 http://168.205.87.198:8555/live/1501/123456/083.m3u8
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
 http://168.205.87.198:8555/live/1501/123456/170.m3u8
+#EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", OFF
+http://ccdn.pw:80/WY1NB/Felialagoas10/72209.ts
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054963
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
