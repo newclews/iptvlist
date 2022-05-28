@@ -254,11 +254,11 @@ http://168.205.87.198:8555/live/1501/123456/070.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1501/123456/103.m3u8
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV 1
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054369
+http://ccdn.pw:80/WY1NB/Felialagoas10/72329.ts
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV 2
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054377
+http://ccdn.pw:80/WY1NB/Felialagoas10/72321.ts
 #EXTINF:0 type="stream" channelId="2601" group="TV AO VIVO", SPORTV 3
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054373
+http://ccdn.pw:80/WY1NB/Felialagoas10/72325.ts
 #EXTINF:0 type="stream" channelId="2595" group="TV AO VIVO", COMBATE
 http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 1
@@ -324,7 +324,7 @@ http://189.91.128.146:4444/udp/227.10.20.140:1234
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
 http://189.91.128.146:4444/udp/227.10.20.126:1234
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054383
+http://ccdn.pw:80/WY1NB/Felialagoas10/72317.ts
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054946
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
