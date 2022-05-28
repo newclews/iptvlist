@@ -421,6 +421,8 @@ http://189.91.128.146:4444/udp/227.10.20.129:1234
 http://189.91.128.146:4444/udp/227.10.20.115:1234
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MODO VIAGEM
 http://pfsv.io:80/7262022437/6324/103
+#EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MODO VIAGEM 2
+http://ccdn.pw:80/WY1NB/Felialagoas10/72162.ts
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
 http://pfsv.io:80/7262022437/6324/098
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
