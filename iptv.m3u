@@ -244,7 +244,7 @@ http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GLOBO SP
-http://streamx.link:8080/n4io2JB5L8/6sRwMkdZCv/80019
+http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", INTER TV
 http://pfsv.io:80/7262022437/6324/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
