@@ -294,7 +294,7 @@ http://189.91.128.146:4444/udp/227.10.20.127:1234
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054156
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054210
+http://ccdn.pw:80/WY1NB/Felialagoas10/72166.ts
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054339
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
@@ -380,7 +380,7 @@ http://pfsv.io:80/7262022437/6324/001
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055070
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
-http://pfsv.io:80/7262022437/6324/002
+http://ccdn.pw:80/WY1NB/Felialagoas10/72174.ts
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054200
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
