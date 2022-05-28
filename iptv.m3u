@@ -72,7 +72,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/111098
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
-http://189.91.128.146:4444/udp/227.10.20.164:1234
+http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
@@ -346,7 +346,7 @@ http://pfsv.io:80/7262022437/6324/289
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1501/123456/083.m3u8
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055035
+http://168.205.87.198:8555/live/1501/123456/170.m3u8
 #EXTINF:0 type="stream" channelId="2718" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054963
 #EXTINF:0 type="stream" channelId="2454" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -392,7 +392,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054958
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", DISNEY CHANNEL
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054849
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", NICK
-http://pfsv.io:80/7262022437/6324/131
+http://189.91.128.146:4444/udp/227.10.20.149:1234
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054869
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", NAT GEO KIDS
