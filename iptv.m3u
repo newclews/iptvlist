@@ -288,11 +288,11 @@ http://189.91.128.146:4444/udp/227.10.20.137:1234
 #EXTINF:0 type="stream" channelId="2605" group="TV AO VIVO", TELECINE CULT
 http://ccdn.pw:80/WY1NB/Felialagoas10/72350.ts
 #EXTINF:0 type="stream" channelId="1052" group="TV AO VIVO", TNT
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055132
+http://ccdn.pw:80/WY1NB/Felialagoas10/72375.ts
 #EXTINF:0 type="stream" channelId="188" group="TV AO VIVO", SONY CHANNEL
 http://189.91.128.146:4444/udp/227.10.20.127:1234
 #EXTINF:0 type="stream" channelId="187" group="TV AO VIVO", UNIVERSAL
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054156
+http://ccdn.pw:80/WY1NB/Felialagoas10/72419.ts
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
 http://ccdn.pw:80/WY1NB/Felialagoas10/72166.ts
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
@@ -374,7 +374,7 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054593
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO SIGNATURE
 http://189.91.128.146:4444/udp/227.10.20.158:1234
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10055118
+http://ccdn.pw:80/WY1NB/Felialagoas10/72386.ts
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
 http://168.205.87.198:8555/live/1501/123456/072.m3u8
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO", MTV
