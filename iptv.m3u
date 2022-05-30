@@ -26,7 +26,7 @@ http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
-https://cdn.jmvstream.com/w/LVW-8326/LVW8326_yo99Mzc7qZ/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w32906010.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
