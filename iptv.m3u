@@ -13,8 +13,8 @@ http://189.91.128.146:4444/udp/227.10.20.145:1234
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
-#EXTINF:0 type="stream" group="ANTENA UHF RJ" logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20190825030134", SBT HD (ANTENA)
-dtv://antenna:24/atsc/11/1
+#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://tva7.com.br/themes/tva7/assets/images/logo.png", TV A7
+https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist_w2032231102.m3u8
 #EXTINF:0 type="stream" group="ANTENA UHF RJ" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
 dtv://antenna:39/atsc/13/1
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
