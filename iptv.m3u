@@ -15,8 +15,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
-#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png", RECORD HD (ANTENA)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png", TV ESCOLA
