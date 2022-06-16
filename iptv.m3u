@@ -65,7 +65,7 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listhttps://playplusraiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://cortney.solanaflix.com:8080/play/jmCaIBwtWQE2SEBRR0N_Ki1AI1Ma2wi3jqv50Txx6QpF1Uowpxk0bC2Mo0uhLrue
-#EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV
+#EXTINF:0 type="stream" channelId="1031" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:0 type="stream" channelId="2459" group="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7txn7q?f=.m3u8
