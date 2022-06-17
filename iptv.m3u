@@ -185,10 +185,10 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO", TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/yNXAB3p.png", CANAL TV RIO
-https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/XIJ2IRczO14ecNZlXYsPTAyJ08gAatQo__GQXPSgDUbRDT2xtq91WRDWcFeAPzxltw", FRONTEIRA MOVIES
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://srv.newtop.tech:80/c2rjwxuf/x68cim84/566162
+http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
 https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 #EXTINF:0 type="stream" channelId="2645" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
