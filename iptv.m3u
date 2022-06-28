@@ -6,11 +6,11 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymoti
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", CANAL EDUCAÇÃO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 http://189.91.128.146:4444/udp/227.10.20.145:1234
 #EXTINF:0 type="stream" group="TV AO VIVO", CANAL LIBRAS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
@@ -44,7 +44,7 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/41z95njqMSL.png", 98 LIVE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12069/thumb_Fandom_TV_.jpg", FANDOM TV
 https://alanza.iptv2022.com/Fandom_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
