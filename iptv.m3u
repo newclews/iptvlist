@@ -270,7 +270,7 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:0 type="stream" channelId="1329" group="TV AO VIVO", ESPN EXTRA
-http://ccdn.pw:80/WY1NB/Felialagoas10/71915.ts
+http://line.live-main.live:80/4DAF57/A6F765/101663
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", FOX SPORTS 2
 http://ccdn.pw:80/WY1NB/Felialagoas10/71952.ts
 #EXTINF:0 type="stream" channelId="170" group="TV AO VIVO", BAND SPORTS
@@ -306,7 +306,7 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109510
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR HITS 2
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" channelId="1303" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
-http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054796
+http://line.live-main.live:80/4DAF57/A6F765/101673
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", CINEMAX
 http://189.91.128.146:4444/udp/227.10.20.159:1234
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", LIFETIME
