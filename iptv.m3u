@@ -60,7 +60,7 @@ https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png", YEEAAH TV
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x83vbd6?f=.m3u8
 #EXTINF:0 type="stream" channelId="2433" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg?f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listhttps://playplusraiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
