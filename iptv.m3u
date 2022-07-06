@@ -13,6 +13,8 @@ http://168.205.87.198:8555/live/1501/123456/152.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png", REDE GENESIS
+http://168.205.87.198:8555/live/1501/123456/098.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
@@ -157,6 +159,8 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9352
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/XIJ2IRczO14ecNZlXYsPTAyJ08gAatQo__GQXPSgDUbRDT2xtq91WRDWcFeAPzxltw", FRONTEIRA MOVIES
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/41z95njqMSL.png", 98 LIVE
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
 #EXTINF:0 type="stream" channelId="3163" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -187,70 +191,18 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" channelId="2647" group="TV AO VIVO", TVI
 http://giojo21.dnsalias.com:25461/Rena1444/DqtdBLAbbC/70519
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://alexandreporfirio.com/wp-content/uploads/2019/06/LOGO-MASTER-SHOW-TV-2-840x560.png", MASTER SHOW TV
-https://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?wowzasessionid=1841437714
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
-https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
+https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/6bA9LbZ.png", PEGADINHAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://imgur.com/zV6zESO.png", TV RIO GRANDE
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/XIJ2IRczO14ecNZlXYsPTAyJ08gAatQo__GQXPSgDUbRDT2xtq91WRDWcFeAPzxltw", FRONTEIRA MOVIES
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AW TV
-https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
-http://radio.radioroquettepinto.com.br:8300/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
-https://sonic1.transmissaodigital.com:7014/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
-http://radio.servercsi.com.br:9422/live.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
-http://95.216.27.138:9302/;stream/1.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
-http://shout35.crossradio.com.br:8086/live.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.hits99fm.com.br/imagens/logo.png", HITS FM (MACAÉ)
-https://paineldj.com.br:20028/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.ytimg.com/vi/gVUAIz-yOWw/hqdefault.jpg", Radio Funk Antigo
-http://stm1.xcast.com.br:6906//;stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
-http://stm19.stmsrv.com:31910/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://img.radios.com.br/radio/lg/radio43838_1488835937.jpg", Rap Soul Funk Old School RJ
-http://stm4.painelvox.com:8152/live.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.totalremix.com.br/logo/Logo_Novo_Slogan.png", Radio Total Remix
-https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.brasilradios.com.br/wp-content/uploads/2015/06/jovem-pan-bh-fm-99-1.png", Radio Jovem Pan BH
-http://8a3c.live.upx.net.br:8036/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1200px-Dumont_FM_logo.svg.png", Radio Dumont FM
-https://64-237-45-183.webnow.com.br/dumont.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
-http://radyo.yayin.com.tr:5998//;stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://classicosdofunk.net/novo/wp-content/uploads/2019/06/logotipo-classicos.png", CLASSICOS DO FUNK
-http://209.133.210.226:9812/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
-http://listen.181fm.com:7080/181-energy98_128k.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
-http://sc.powerhitz.com:5040/;stream/1.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.questlondonradio.com/wp-content/uploads/2012/02/QuestLondonLogo_400x188-trans.png", Quest London Radio
-https://questlondonradio.com:3443/;stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", Radio SIM FM (ES)
-http://stm7.painelvox.com:80/;stream/1.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
-http://cast.midiaip.com.br:9770/;stream/1.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
-http://stm11.xcast.com.br:10392/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios", Hertz FM
-https://player.painelvox.com/player-ssl/8318/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.pinimg.com/originals/e4/62/8c/e4628ce93a53e7d2e030ca5e7c8fe73a.png", CATEDRAL FM
-http://centova17.ciclanohost.com.br:8217/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://pbs.twimg.com/profile_images/1212486446/FM-101-30-ANOS7..png", RADIO 101 FM (MACAÉ)
-http://213.239.218.99:7052/stream.mp3
-#EXTINF:0 type="stream" channelId="-1" group="Radios", RADIO EMBALO FM
-http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", INTER TV
 http://pfsv.io:80/7262022437/6324/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
@@ -453,8 +405,6 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", BBB PORTUGAL
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png", REDE GENESIS
-http://168.205.87.198:8555/live/1501/123456/098.m3u8
 #EXTINF:0 type="stream" channelId="82" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AFRO MUSIC CHANNEL
@@ -471,4 +421,52 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TOONCAST
 http://line.live-main.live:80/4DAF57/A6F765/101753
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
+http://radio.radioroquettepinto.com.br:8300/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
+https://sonic1.transmissaodigital.com:7014/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
+http://radio.servercsi.com.br:9422/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
+http://95.216.27.138:9302/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
+http://shout35.crossradio.com.br:8086/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.hits99fm.com.br/imagens/logo.png", HITS FM (MACAÉ)
+https://paineldj.com.br:20028/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.ytimg.com/vi/gVUAIz-yOWw/hqdefault.jpg", Radio Funk Antigo
+http://stm1.xcast.com.br:6906//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
+http://stm19.stmsrv.com:31910/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://img.radios.com.br/radio/lg/radio43838_1488835937.jpg", Rap Soul Funk Old School RJ
+http://stm4.painelvox.com:8152/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.totalremix.com.br/logo/Logo_Novo_Slogan.png", Radio Total Remix
+https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.brasilradios.com.br/wp-content/uploads/2015/06/jovem-pan-bh-fm-99-1.png", Radio Jovem Pan BH
+http://8a3c.live.upx.net.br:8036/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1200px-Dumont_FM_logo.svg.png", Radio Dumont FM
+https://64-237-45-183.webnow.com.br/dumont.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
+http://radyo.yayin.com.tr:5998//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://classicosdofunk.net/novo/wp-content/uploads/2019/06/logotipo-classicos.png", CLASSICOS DO FUNK
+http://209.133.210.226:9812/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
+http://listen.181fm.com:7080/181-energy98_128k.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
+http://sc.powerhitz.com:5040/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.questlondonradio.com/wp-content/uploads/2012/02/QuestLondonLogo_400x188-trans.png", Quest London Radio
+https://questlondonradio.com:3443/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", Radio SIM FM (ES)
+http://stm7.painelvox.com:80/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
+http://cast.midiaip.com.br:9770/;stream/1.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
+http://stm11.xcast.com.br:10392/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios", Hertz FM
+https://player.painelvox.com/player-ssl/8318/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.pinimg.com/originals/e4/62/8c/e4628ce93a53e7d2e030ca5e7c8fe73a.png", CATEDRAL FM
+http://centova17.ciclanohost.com.br:8217/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://pbs.twimg.com/profile_images/1212486446/FM-101-30-ANOS7..png", RADIO 101 FM (MACAÉ)
+http://213.239.218.99:7052/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Radios", RADIO EMBALO FM
+http://stm9.painelvox.com:8362/stream.mp3
 
