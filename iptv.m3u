@@ -343,6 +343,8 @@ http://woman22.xyz:8080/play/0a8FlIvI2c9WOY1lueD0my2M937bEJXi2WxjjW1aRN0
 http://189.91.128.146:4444/udp/227.10.20.112:1234
 #EXTINF:0 type="stream" channelId="1190" group="TV AO VIVO", COMEDY CENTRAL
 http://line.live-main.live:80/4DAF57/A6F765/101644
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TOONCAST
+http://line.live-main.live:80/4DAF57/A6F765/101753
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
 http://line.live-main.live:80/4DAF57/A6F765/101640
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
@@ -417,10 +419,6 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 #EXTINF:0 type="stream" channelId="2646" group="TV AO VIVO", SIC NOTICIAS
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", CHESPIRITO
-http://168.205.87.198:8555/live/1501/123456/159.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TOONCAST
-http://line.live-main.live:80/4DAF57/A6F765/101753
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
 http://radio.radioroquettepinto.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
