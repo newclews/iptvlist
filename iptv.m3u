@@ -135,6 +135,8 @@ https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_5.m
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , MEGA TV
 http://168.205.87.198:8555/live/1501/123456/075.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
+http://168.205.87.198:8555/live/1501/123456/072.m3u8
 #EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", CANAL CUT
 http://168.205.87.198:8555/live/1501/123456/030.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL BRA
@@ -329,8 +331,6 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054593
 http://189.91.128.146:4444/udp/227.10.20.158:1234
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
 http://ccdn.pw:80/WY1NB/Felialagoas10/72386.ts
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL HITTS
-http://168.205.87.198:8555/live/1501/123456/072.m3u8
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO", MTV
 http://pfsv.io:80/7262022437/6324/001
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
