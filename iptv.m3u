@@ -13,8 +13,8 @@ http://168.205.87.198:8555/live/1501/123456/152.m3u8
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCA0bOG0NUfJ855eDtHSxOkw?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png", REDE GENESIS
-http://168.205.87.198:8555/live/1501/123456/098.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCVrKQMmA2ew9LFzeIDaOFgw?f=.m3u8
 #EXTINF:0 type="stream" channelId="2448" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
