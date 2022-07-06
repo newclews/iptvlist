@@ -11,8 +11,6 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://www.tvcidadecanal9.com/images/g919.png", TV CIDADE - 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?IMDSFULL
-#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
-http://ccdn.pw:80/WY1NB/Felialagoas10/71764.ts
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C500%2C5000", REDE UTV
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png", BOAS NOVAS
@@ -105,10 +103,6 @@ http://168.205.87.198:8555/live/1501/123456/145.m3u8
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VH1 CLASSIC
-https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/vh1.classic.ru.m3u8
-#EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", CANAL CUT
-http://168.205.87.198:8555/live/1501/123456/030.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
@@ -117,6 +111,8 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0 type="stream" channelId="1476" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCkkqXUQYUT0pC8RjZpfTZCQ?f=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", VH1 CLASSIC
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/vh1.classic.ru.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" aspect-ratio="16:9", RADIO 51 TV
@@ -137,6 +133,8 @@ https://radio538-nl.prd.talpatvcdn.nl/69b995a427c84417bb6a53a1a2a18e4d/index_5.m
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , MEGA TV
 http://168.205.87.198:8555/live/1501/123456/075.m3u8
+#EXTINF:0 type="stream" channelId="2440" group="TV AO VIVO", CANAL CUT
+http://168.205.87.198:8555/live/1501/123456/030.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CANAL BRA
 http://168.205.87.198:8555/live/1501/123456/024.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" , CANAL SCH
@@ -169,6 +167,8 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.c
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" channelId="2573" group="TV AO VIVO", BAND NEWS
 http://168.205.87.198:8555/live/1501/123456/174.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
+http://168.205.87.198:8555/live/4666/123456/175.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" channelId="2663" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
