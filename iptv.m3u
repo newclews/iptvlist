@@ -19,6 +19,8 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.c
 http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" channelId="2451" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1501/123456/103.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV METROPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="16:9", NOSSA TV
 https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440" aspect-ratio="16:9", TCM 10
@@ -33,8 +35,6 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV METROPOLE
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png", TV ESCOLA
