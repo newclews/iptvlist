@@ -42,7 +42,7 @@ http://168.205.87.198:8555/live/1501/123456/137.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w368603614.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wur7g?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
