@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png", TVT
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x89qors?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6ph7x7?f=.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", CANAL EDUCAÇÃO
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO", CANAL LIBRAS
@@ -66,7 +66,7 @@ http://efv.me:80/1JkK5Sr1k2/5603120717/1684
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6ph7x7?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x89qors?f=.m3u8
 #EXTINF:0 type="stream" channelId="2438" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", Rede Brasil de Televisão
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CENTRAL TV
