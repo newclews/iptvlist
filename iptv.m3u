@@ -144,7 +144,7 @@ http://168.205.87.198:8555/live/1501/123456/105.m3u8
 #EXTINF:0 type="stream" channelId="2463" group="TV AO VIVO", TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="4:3", GOSPEL CARTOON
@@ -345,6 +345,8 @@ http://189.91.128.146:4444/udp/227.10.20.112:1234
 http://line.live-main.live:80/4DAF57/A6F765/101644
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TOONCAST
 http://line.live-main.live:80/4DAF57/A6F765/101753
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 2
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 #EXTINF:0 type="stream" channelId="40" group="TV AO VIVO", CARTOON NETWORK
 http://line.live-main.live:80/4DAF57/A6F765/101640
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", CARTOONITO
