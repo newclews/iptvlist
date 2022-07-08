@@ -278,7 +278,7 @@ http://ccdn.pw:80/WY1NB/Felialagoas10/71768.ts
 #EXTINF:0 type="stream" channelId="1573" group="TV AO VIVO", AXN
 http://line.live-main.live:80/4DAF57/A6F765/101631
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
-http://189.91.128.146:4444/udp/227.10.20.140:1234
+http://line.live-main.live:80/4DAF57/A6F765/101712
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
 http://line.live-main.live:80/4DAF57/A6F765/101757
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
@@ -314,11 +314,11 @@ http://189.91.128.146:4444/udp/227.10.20.165:1234
 #EXTINF:0 type="stream" channelId="2591" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://pfsv.io:80/dx6PVjx2/29993/004
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO
-http://189.91.128.146:4444/udp/227.10.20.154:1234
+http://line.live-main.live:80/4DAF57/A6F765/101690
 #EXTINF:0 type="stream" channelId="935" group="TV AO VIVO", HBO 2
-http://189.91.128.146:4444/udp/227.10.20.155:1234
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", HBO +
-http://189.91.128.146:4444/udp/227.10.20.156:1234
+http://line.live-main.live:80/4DAF57/A6F765/101688
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", HBO PLUS
+http://line.live-main.live:80/4DAF57/A6F765/101691
 #EXTINF:0 type="stream" channelId="2584" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
 http://189.91.128.146:4444/udp/227.10.20.157:1234
 #EXTINF:0 type="stream" channelId="361" group="TV AO VIVO", HBO POP
@@ -328,11 +328,9 @@ http://189.91.128.146:4444/udp/227.10.20.100:1234
 #EXTINF:0 type="stream" channelId="2725" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054593
 #EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", HBO SIGNATURE
-http://189.91.128.146:4444/udp/227.10.20.158:1234
-#EXTINF:0 type="stream" channelId="1330" group="TV AO VIVO", TRACE BRAZUCA
-http://ccdn.pw:80/WY1NB/Felialagoas10/72386.ts
+http://line.live-main.live:80/4DAF57/A6F765/101692
 #EXTINF:0 type="stream" channelId="1973" group="TV AO VIVO", MTV
-http://pfsv.io:80/7262022437/6324/001
+http://line.live-main.live:80/4DAF57/A6F765/101702
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
 http://line.live-main.live:80/4DAF57/A6F765/101702
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
@@ -355,6 +353,8 @@ http://line.live-main.live:80/4DAF57/A6F765/101638
 http://line.live-main.live:80/4DAF57/A6F765/101653
 #EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", NICK
 http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:0 type="stream" channelId="19" group="TV AO VIVO", NICK JR
+http://line.live-main.live:80/4DAF57/A6F765/101708
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", DISCOVERY KIDS
 http://line.live-main.live:80/4DAF57/A6F765/101648
 #EXTINF:0 type="stream" channelId="2505" group="TV AO VIVO", NAT GEO KIDS
@@ -372,7 +372,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101649
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", NAT GEO
 http://line.live-main.live:80/4DAF57/A6F765/101704
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 1
-http://189.91.128.146:4444/udp/227.10.20.130:1234
+http://line.live-main.live:80/4DAF57/A6F765/101693
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
 http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
@@ -386,19 +386,19 @@ http://line.live-main.live:80/4DAF57/A6F765/101696
 #EXTINF:0 type="stream" channelId="2577" group="TV AO VIVO", CURTA
 http://pfsv.io:80/7262022437/6324/098
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
-http://189.91.128.146:4444/udp/227.10.20.102:1234
+http://line.live-main.live:80/4DAF57/A6F765/101720
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
-http://pfsv.io:80/7262022437/6324/525
+http://line.live-main.live:80/4DAF57/A6F765/101713
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 3
-http://189.91.128.146:4444/udp/227.10.20.104:1234
+http://line.live-main.live:80/4DAF57/A6F765/101714
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 4
-http://189.91.128.146:4444/udp/227.10.20.105:1234
+http://line.live-main.live:80/4DAF57/A6F765/101715
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 5
-http://189.91.128.146:4444/udp/227.10.20.106:1234
+http://line.live-main.live:80/4DAF57/A6F765/101716
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 6
-http://189.91.128.146:4444/udp/227.10.20.107:1234
+http://line.live-main.live:80/4DAF57/A6F765/101717
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 7
-http://189.91.128.146:4444/udp/227.10.20.123:1234
+http://line.live-main.live:80/4DAF57/A6F765/101718
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054257
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CONMEBOL TV 2
