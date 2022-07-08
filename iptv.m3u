@@ -44,7 +44,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1058424620.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-http://168.205.87.198:8555/live/1501/123456/134.m3u8
+https://origin-02.nxplay.com.br/TV_BRASIL_NX_/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="2434" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
