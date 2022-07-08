@@ -210,7 +210,7 @@ http://pfsv.io:80/7262022437/6324/375
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", EPTV
 http://ccdn.pw:80/WY1NB/Felialagoas10/71979.ts
 #EXTINF:0 type="stream" channelId="2432" group="TV AO VIVO", GLOBO MG
-http://168.205.87.198:8555/live/1501/123456/070.m3u8
+http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" channelId="2599" group="TV AO VIVO", SPORTV 1
 https://tvnow.best/api/stream/williamariverawar@gmail.com/090625/livetv.epg/sportv.br.m3u8
 #EXTINF:0 type="stream" channelId="2600" group="TV AO VIVO", SPORTV 2
