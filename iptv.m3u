@@ -254,9 +254,9 @@ http://line.live-main.live:80/4DAF57/A6F765/101755
 #EXTINF:0 type="stream" channelId="2588" group="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
 http://pfsv.io:80/90588/1591/596
 #EXTINF:0 type="stream" channelId="2625" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
-http://line.live-main.live:80/4DAF57/A6F765/101740
+http://pfsv.io:80/90588/1591/283
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", STAR CHANNEL
-http://ccdn.pw:80/WY1NB/Felialagoas10/71936.ts
+http://pfsv.io:80/90588/1591/292
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png", STAR LIFE
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054345
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Hits_2021.svg/revision/latest/scale-to-width-down/250?cb=20210223133927", STAR HITS
@@ -270,21 +270,21 @@ http://line.live-main.live:80/4DAF57/A6F765/101642
 #EXTINF:0 type="stream" channelId="1326" group="TV AO VIVO", LIFETIME
 http://line.live-main.live:80/4DAF57/A6F765/101695
 #EXTINF:0 type="stream" channelId="73" group="TV AO VIVO", SYFY
-http://line.live-main.live:80/4DAF57/A6F765/101741
+http://pfsv.io:80/90588/1591/284
 #EXTINF:0 type="stream" channelId="2602" group="TV AO VIVO", TBS
-http://line.live-main.live:80/4DAF57/A6F765/101742
+http://pfsv.io:80/90588/1591/285
 #EXTINF:0 type="stream" channelId="2501" group="TV AO VIVO", AMC
-http://ccdn.pw:80/WY1NB/Felialagoas10/71768.ts
+http://pfsv.io:80/90588/1591/294
 #EXTINF:0 type="stream" channelId="1573" group="TV AO VIVO", AXN
-http://line.live-main.live:80/4DAF57/A6F765/101631
+http://pfsv.io:80/90588/1591/295
 #EXTINF:0 type="stream" channelId="1719" group="TV AO VIVO", PARAMOUNT
-http://line.live-main.live:80/4DAF57/A6F765/101712
+http://pfsv.io:80/90588/1591/296
 #EXTINF:0 type="stream" channelId="2557" group="TV AO VIVO", WARNER
-http://line.live-main.live:80/4DAF57/A6F765/101757
+http://pfsv.io:80/90588/1591/297
 #EXTINF:0 type="stream" channelId="383" group="TV AO VIVO", SPACE
-http://line.live-main.live:80/4DAF57/A6F765/101736
+http://pfsv.io:80/90588/1591/282
 #EXTINF:0 type="stream" channelId="2576" group="TV AO VIVO", CANAL BRASIL
-http://line.live-main.live:80/4DAF57/A6F765/101639
+http://pfsv.io:80/90588/1591/298
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://pfsv.io:80/90588/1591/512
 #EXTINF:0 type="stream" channelId="2561" group="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS 2
@@ -302,7 +302,7 @@ http://pfsv.io:80/90588/1591/590
 #EXTINF:0 type="stream" channelId="2616" group="TV AO VIVO", VIVA
 http://189.91.128.146:4444/udp/227.10.20.161:1234
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", TRU TV
-http://pfsv.io:80/7262022437/6324/289
+http://pfsv.io:80/90588/1591/289
 #EXTINF:0 type="stream" channelId="2626" group="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1501/123456/083.m3u8
 #EXTINF:0 type="stream" channelId="113" group="TV AO VIVO", ARTE 1
@@ -376,7 +376,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101693
 #EXTINF:0 type="stream" channelId="2840" group="TV AO VIVO", HISTORY 2
 http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", A&E
-http://189.91.128.146:4444/udp/227.10.20.129:1234
+http://pfsv.io:80/90588/1591/293
 #EXTINF:0 type="stream" channelId="1208" group="TV AO VIVO", TRAVEL BOX BRAZIL
 http://189.91.128.146:4444/udp/227.10.20.115:1234
 #EXTINF:0 type="stream" channelId="2580" group="TV AO VIVO", MODO VIAGEM
