@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" group="TV AO VIVO" , TV CIDADE 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1678443135.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png", TVT
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6ph7x7?f=.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO", CANAL EDUCAÇÃO
