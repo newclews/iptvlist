@@ -93,10 +93,10 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w669146197.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/y1p8QSo.png", JORNAL DO NORDESTE (FILMES)
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", CLUBE WEB TV
-https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w467352620.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO", RUNTIME
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=66b9a14e2839b8c1dafbc777691e8c4b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&?f=.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO", RUNTIME AÇÃO
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1501/123456/145.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV_Zimbo_2018.png", TV ZIMBO
