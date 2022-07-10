@@ -21,8 +21,8 @@ http://168.205.87.198:8555/live/1501/123456/131.m3u8
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCfQQQex4pz5UELZUVFa07Tw?f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://www.politicaetc.com.br/wp-content/uploads/2019/09/00-2.png", TV CORREIO
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCJ4uxK_mo6gNoqk9cyvgWkw?f=.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO" , TV CIDADE 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440" aspect-ratio="16:9", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/0Rs9fxrvWK4pRjuoL-q-8lkvU_NLqwc6SXajWKyYv_FVQOsEkbFCCgJhNOPEBAYsIg", TV MON
