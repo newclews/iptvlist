@@ -62,7 +62,7 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymoti
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", GLOBO SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:0 type="stream" channelId="2892" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://line.live-main.live:80/4DAF57/A6F765/101680
+https://live-cm-al-14-36.video.globo.com/h/0401657577681194299945716574912811302752535xjFsyZAlE7sVAU0tgGwUFw/k/html5/a/F/u/ca4e3ce7-b837-48ce-9fb1-2ef755557eab/nu/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8
 #EXTINF:0 type="stream" channelId="2435" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/rede.tv.br.m3u8
 #EXTINF:0 type="stream" channelId="2437" group="TV AO VIVO", TV Gazeta
