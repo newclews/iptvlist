@@ -99,8 +99,8 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://stream.ads.ot
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=26b91be5b7b469af839c36bce968b76b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&?f=.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1501/123456/145.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV_Zimbo_2018.png", TV ZIMBO
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player?f=.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", TV NATAL
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w1714195622.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://cbtvnow.com/images/logo-white.png", BRAZI TV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
@@ -411,6 +411,8 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", AFRO MUSIC CHANNEL
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV_Zimbo_2018.png", TV ZIMBO
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player?f=.m3u8
 #EXTINF:0 type="stream" channelId="1448" group="TV AO VIVO", BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="4330" group="TV AO VIVO", KITCHEN TV
