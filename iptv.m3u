@@ -334,7 +334,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101702
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO", MTV 00s
 http://pl1cdn.plusx.tv:8880/228/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:0 type="stream" channelId="237" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
-http://ccdn.pw:80/WY1NB/Felialagoas10/72174.ts
+http://cdnx1.plusx.tv:8880/229/mono.m3u8?token=910b66d96fb8404b672222
 #EXTINF:0 type="stream" channelId="2594" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
 http://woman22.xyz:8080/play/0a8FlIvI2c9WOY1lueD0my2M937bEJXi2WxjjW1aRN0
 #EXTINF:0 type="stream" channelId="2617" group="TV AO VIVO", WOOHOO
