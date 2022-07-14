@@ -121,8 +121,6 @@ https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w714401016.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://static.wikia.nocookie.net/radiofanon/images/5/53/Radio_Contact_%282006-.n.v.%29.png/revision/latest?cb=20180621145455", RADIO CONTACT TV
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1417360698_b2028000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
@@ -161,6 +159,8 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://play-lh.googleusercontent.com/XIJ2IRczO14ecNZlXYsPTAyJ08gAatQo__GQXPSgDUbRDT2xtq91WRDWcFeAPzxltw", FRONTEIRA MOVIES
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tvdiversa.com.br/wp-content/uploads/2021/04/logo_tv_diversa.png", TV DIVERSA
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/41z95njqMSL.png", TV 98 LIVE
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
