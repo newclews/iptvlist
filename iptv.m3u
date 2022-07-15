@@ -471,4 +471,6 @@ http://centova17.ciclanohost.com.br:8217/stream.mp3
 http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
+#EXTINF:0 type="stream" group-title="TV AO VIVO", EM TESTE
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4EMKhGqLGvIgSVKd7Ckiq4BKFMZkmjQqKOuTmq4S4Iu)/dm/3/x7wur7g/s/live-3.m3u8#cell=lnyc
 
