@@ -415,7 +415,7 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c76a3-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65d20d49-b2d8-4725-9f02-e688df67da0e&userId=&serverSideAds=true
-#EXTINF:0 type="stream" group-title=="TV AO VIVO", KITCHEN TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", KITCHEN TV
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 #EXTINF:0 type="stream" group-title="TV AO VIVO", K SIC
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
