@@ -423,7 +423,7 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9437
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static1.squarespace.com/static/59a868b52994ca11766b7716/t/5cedd0a70d92974707077346/1559089321524/Logo_black.png?format=1500w", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/hNKZ9Qz.png", 94 FM (RJ)
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", MIX FM (RJ)
 https://17513.live.streamtheworld.com/MIXRIOAAC_SC?dist=radioscombr&1657974456280.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
 https://sonic1.transmissaodigital.com:7014/stream.mp3
