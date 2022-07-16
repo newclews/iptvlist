@@ -384,7 +384,7 @@ http://pfsv.io:80/90588/1591/103
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 http://pfsv.io:80/7262022437/6324/098
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
-http://pfsv.io:80/90588/1591/524
+http://netflix.akamaihd.org:80/watch/az_togbox/3382/21.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
 http://pfsv.io:80/90588/1591/525
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 3
