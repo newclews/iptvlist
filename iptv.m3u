@@ -199,14 +199,14 @@ https://video01.logicahost.com.br/awtv/awtv/chunklist_w1215498019.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/zV6zESO.png", TV RIO GRANDE
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png" audio-track="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8DmaDvgvseWXj07_fBOIHA?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png", TV MARAJOARA
+https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w1954480275.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", EPTV
 http://ccdn.pw:80/WY1NB/Felialagoas10/71979.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
