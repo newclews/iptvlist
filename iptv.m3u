@@ -205,8 +205,8 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", INTER TV
-http://pfsv.io:80/7262022437/6324/375
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8DmaDvgvseWXj07_fBOIHA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", EPTV
 http://ccdn.pw:80/WY1NB/Felialagoas10/71979.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
