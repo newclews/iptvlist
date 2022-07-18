@@ -62,7 +62,7 @@ http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-aq-21-39.video.globo.com/h/0401658131694165678249216580452942232006745yKeV579hiLzWO9mjoywpFg/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8
+https://live-cm-ah-10-38.video.globo.com/h/0401658216798493809917116581303981759383161Z0k7cQvJGmpK3z1T-6karA/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7txn7q?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
@@ -205,8 +205,8 @@ https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png", TV MARAJOARA
-https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w1954480275.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalsmart.com.br/imagens/logo.png", CANAL SMART
+https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w1369020593.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", EPTV
 http://ccdn.pw:80/WY1NB/Felialagoas10/71979.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
