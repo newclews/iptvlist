@@ -179,6 +179,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://168.205.87.198:8555/live/1501/123456/174.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agro.png", AGRO MAIS
 http://168.205.87.198:8555/live/4666/123456/175.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BM&C NEWS
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCoja0MNI4SIvXqJR3szbSfw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
@@ -207,8 +209,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
 https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalsmart.com.br/imagens/logo.png", CANAL SMART
 https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w1369020593.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", EPTV
-http://ccdn.pw:80/WY1NB/Felialagoas10/71979.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 1
