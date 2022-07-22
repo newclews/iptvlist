@@ -44,7 +44,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdiversa.com.br/wp-content/uploads/2021/04/logo_tv_diversa.png", TV DIVERSA
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1058424620.m3u8
+http://45.232.196.7:5000/live/CULTURA/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
