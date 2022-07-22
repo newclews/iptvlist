@@ -4,7 +4,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png", TVT
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6ph7x7?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL LIBRAS
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
