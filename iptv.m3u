@@ -423,7 +423,7 @@ http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SOUL STORM
 https://ott-linear-channels.stingray.com/hls/stirr/134.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://radioamantes.files.wordpress.com/2015/05/energia97.png?w=640", ENERGIA 97 FM
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://radioamantes.files.wordpress.com/2015/05/energia97.png?w=640", ENERGIA 97 FM
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://livestream.com/accounts/3172111/events/1948081?f=.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
 https://sonic1.transmissaodigital.com:7014/stream.mp3
