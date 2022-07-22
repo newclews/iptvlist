@@ -51,8 +51,8 @@ http://168.205.87.198:8555/live/1501/123456/134.m3u8
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://186.227.63.210:5000/live/BANDRJ/720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT MG
-http://168.205.87.198:8555/live/1501/123456/104.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT SP
+http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT RJ
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listhttps://playplusraiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
