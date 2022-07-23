@@ -419,13 +419,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b800084
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 #EXTINF:0 type="stream" group-title="TV AO VIVO", K SIC
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9435
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.logo.wine/a/logo/Stingray_Group/Stingray_Group-Logo.wine.svg", URBAN BEAT
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.logo.wine/a/logo/Stingray_Group/Stingray_Group-Logo.wine.svg", SOUL STORM
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
 https://ott-linear-channels.stingray.com/hls/stirr/134.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.logo.wine/a/logo/Stingray_Group/Stingray_Group-Logo.wine.svg", HIT LIST
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", HIT LIST
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2504
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.logo.wine/a/logo/Stingray_Group/Stingray_Group-Logo.wine.svg", ALTERNATIVE MUSIC
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", ALTERNATIVE MUSIC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2516
 #EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
 https://sonic1.transmissaodigital.com:7014/stream.mp3
