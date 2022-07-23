@@ -51,15 +51,15 @@ http://168.205.87.198:8555/live/1501/123456/134.m3u8
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://186.227.63.210:5000/live/BANDRJ/720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT SP
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SBT_logo.svg/2048px-SBT_logo.svg.png", SBT RJ
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://186.227.63.210:5000/live/SBTRJ/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://186.227.63.210:5000/live/RECORDRJ/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO SP
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
