@@ -473,6 +473,8 @@ http://centova17.ciclanohost.com.br:8217/stream.mp3
 http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MENDANHA RJ
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", EM TESTE
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82pp99?f=.m3u8
 
