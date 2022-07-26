@@ -343,10 +343,10 @@ http://pfsv.io:80/90588/1591/133
 http://line.live-main.live:80/4DAF57/A6F765/101644
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 http://line.live-main.live:80/4DAF57/A6F765/101753
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 2
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1034343787.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://line.live-main.live:80/4DAF57/A6F765/101640
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://pfsv.io:80/90588/1591/125
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
