@@ -211,6 +211,8 @@ https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
 http://45.232.196.7:5000/live/CNTHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
+http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 1
 http://dmnet.distv.net:8080/live/mycaellapaiva/123456/548.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 2
@@ -378,7 +380,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", A&E
 http://pfsv.io:80/90588/1591/293
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL BOX BRAZIL
-http://189.91.128.146:4444/udp/227.10.20.115:1234
+http://168.205.87.198:8555/live/1501/123456/77.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM
 http://pfsv.io:80/90588/1591/103
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
