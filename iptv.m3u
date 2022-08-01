@@ -4,9 +4,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png", TVT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6ph7x7?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf?f=.m3u8
+https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls0BtQDWLchQJl7tvNTzr_OSohapSbH2CAl3MCNkA_mGS)/dm/3/x8abdvf/s/live-4.m3u8#cell=lnyc
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL LIBRAS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls_CtpSyk_v2WgxkWSLSq8aJeXLS_dksAhXMHwuVsToJF)/dm/3/x8a60g5/d/live-4.m3u8#cell=lnyc
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -66,7 +66,7 @@ http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://186.227.63.210:5000/live/REDETVRJ/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7txn7q?f=.m3u8
+https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZb3ybOTJLhqEEkDjH5l0y5XO-LD0HNIxau2GBcXbLM37)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
 https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist_w510223076.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", Rede Brasil de Televisão
