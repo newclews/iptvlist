@@ -246,13 +246,13 @@ http://pfsv.io:80/90588/1591/566
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
 http://pfsv.io:80/90588/1591/563
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE CULT
-http://line.live-main.live:80/4DAF57/A6F765/101745
+http://acsa.ws:80/553288646092/smiptv/72351.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT
-http://line.live-main.live:80/4DAF57/A6F765/101751
+http://acsa.ws:80/553288646092/smiptv/72375.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 http://189.91.128.146:4444/udp/227.10.20.127:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", UNIVERSAL
-http://line.live-main.live:80/4DAF57/A6F765/101755
+http://acsa.ws:80/553288646092/smiptv/72419.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
 http://pfsv.io:80/90588/1591/596
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
@@ -300,7 +300,7 @@ http://pfsv.io:80/90588/1591/510
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
 http://pfsv.io:80/90588/1591/102
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MULTISHOW
-http://pfsv.io:80/90588/1591/590
+http://acsa.ws:80/553288646092/smiptv/72182.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://pfsv.io:80/90588/1591/105
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRU TV
@@ -334,7 +334,7 @@ http://pfsv.io:80/90588/1591/484
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV
 http://line.live-main.live:80/4DAF57/A6F765/101702
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 00s
-http://pl1cdn.plusx.tv:8880/228/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+http://acsa.ws:80/553288646092/smiptv/72423.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 http://cdnx1.plusx.tv:8880/229/mono.m3u8?token=910b66d96fb8404b672222
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
@@ -380,7 +380,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", A&E
 http://pfsv.io:80/90588/1591/293
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL BOX BRAZIL
-http://168.205.87.198:8555/live/1501/123456/77.m3u8
+http://acsa.ws:80/553288646092/smiptv/72390.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM
 http://pfsv.io:80/90588/1591/103
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
