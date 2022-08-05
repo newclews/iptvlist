@@ -254,7 +254,7 @@ http://189.91.128.146:4444/udp/227.10.20.127:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", UNIVERSAL
 http://acsa.ws:80/553288646092/smiptv/72419.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png", MEGAPIX
-http://pfsv.io:80/90588/1591/596
+http://acsa.ws:80/553288646092/smiptv/72166.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png", STUDIO UNIVERSAL
 http://pfsv.io:80/90588/1591/283
 #EXTINF:0 type="stream" group-title="TV AO VIVO", STAR CHANNEL
@@ -270,7 +270,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101673
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINEMAX
 http://line.live-main.live:80/4DAF57/A6F765/101642
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFETIME
-http://line.live-main.live:80/4DAF57/A6F765/101695
+http://acsa.ws:80/553288646092/smiptv/72154.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SYFY
 http://pfsv.io:80/90588/1591/284
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TBS
@@ -332,11 +332,11 @@ http://pfsv.io:80/90588/1591/467
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO SIGNATURE
 http://pfsv.io:80/90588/1591/484
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV
-http://line.live-main.live:80/4DAF57/A6F765/101702
+http://acsa.ws:80/553288646092/smiptv/72171.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 00s
 http://acsa.ws:80/553288646092/smiptv/72423.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
-http://cdnx1.plusx.tv:8880/229/mono.m3u8?token=910b66d96fb8404b672222
+http://acsa.ws:80/553288646092/smiptv/72174.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1280px-Canal_Off_logo.svg.png", CANAL OFF
 http://woman22.xyz:8080/play/0a8FlIvI2c9WOY1lueD0my2M937bEJXi2WxjjW1aRN0
 #EXTINF:0 type="stream" group-title="TV AO VIVO", WOOHOO
@@ -374,7 +374,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101649
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://pfsv.io:80/90588/1591/594
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-http://line.live-main.live:80/4DAF57/A6F765/101693
+http://acsa.ws:80/553288646092/smiptv/72146.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", A&E
