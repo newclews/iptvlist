@@ -220,17 +220,17 @@ http://pfsv.io:80/90588/1591/557
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 3
 http://pfsv.io:80/90588/1591/554
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMBATE
-http://23.237.202.74:7283/bi8r235j91hfsqi0cevjjf42stl2tcs11ct6e0bjy6nbm2pb3syh8itze5e/index.m3u8?un=Narcisa1722&tm=1657337583&sn=JiK9Y3f0wXdLI7SiaMDf1DcuwJy
+http://acsa.ws:80/553288646092/smiptv/71842.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 1
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 2
-http://line.live-main.live:80/4DAF57/A6F765/101660
+http://acsa.ws:80/553288646092/smiptv/71919.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 3
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 4
-http://line.live-main.live:80/4DAF57/A6F765/101672
+http://acsa.ws:80/553288646092/smiptv/71957.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN EXTRA
-http://line.live-main.live:80/4DAF57/A6F765/101663
+http://acsa.ws:80/553288646092/smiptv/71915.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX SPORTS 2
 http://dmnet.distv.net:8080/live/mycaellapaiva/123456/540.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BAND SPORTS
@@ -266,9 +266,9 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109510
 #EXTINF:0 type="stream" group-title="TV AO VIVO", STAR HITS 2
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
-http://line.live-main.live:80/4DAF57/A6F765/101673
+http://acsa.ws:80/553288646092/smiptv/71966.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINEMAX
-http://line.live-main.live:80/4DAF57/A6F765/101642
+http://acsa.ws:80/553288646092/smiptv/71833.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFETIME
 http://acsa.ws:80/553288646092/smiptv/72154.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SYFY
@@ -294,7 +294,7 @@ http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/19986.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 http://pfsv.io:80/90588/1591/517
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
-http://ccdn.pw:80/WY1NB/Felialagoas10/71798.ts
+http://acsa.ws:80/553288646092/smiptv/71837.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
 http://pfsv.io:80/90588/1591/510
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png", GNT
@@ -310,7 +310,7 @@ http://168.205.87.198:8555/live/1501/123456/083.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 http://line.live-main.live:80/4DAF57/A6F765/101630
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
-http://line.live-main.live:80/4DAF57/A6F765/101637
+http://acsa.ws:80/553288646092/smiptv/71806.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
 http://189.91.128.146:4444/udp/227.10.20.165:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
@@ -346,7 +346,7 @@ http://line.live-main.live:80/4DAF57/A6F765/101644
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 http://line.live-main.live:80/4DAF57/A6F765/101753
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://line.live-main.live:80/4DAF57/A6F765/101640
+http://acsa.ws:80/553288646092/smiptv/71828.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
