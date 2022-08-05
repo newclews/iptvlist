@@ -308,7 +308,7 @@ http://pfsv.io:80/90588/1591/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1501/123456/083.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
-http://line.live-main.live:80/4DAF57/A6F765/101630
+http://acsa.ws:80/553288646092/smiptv/71779.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-3.png", BIS
 http://acsa.ws:80/553288646092/smiptv/71806.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/1034px-Canal_Futura.png", FUTURA
@@ -342,7 +342,7 @@ http://woman22.xyz:8080/play/0a8FlIvI2c9WOY1lueD0my2M937bEJXi2WxjjW1aRN0
 #EXTINF:0 type="stream" group-title="TV AO VIVO", WOOHOO
 http://pfsv.io:80/90588/1591/133
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://line.live-main.live:80/4DAF57/A6F765/101644
+http://acsa.ws:80/553288646092/smiptv/71847.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 http://line.live-main.live:80/4DAF57/A6F765/101753
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
@@ -364,13 +364,13 @@ http://pfsv.io:80/7262022437/6324/129
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://pfsv.io:80/90588/1591/136
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://line.live-main.live:80/4DAF57/A6F765/101629
+http://acsa.ws:80/553288646092/smiptv/71772.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://line.live-main.live:80/4DAF57/A6F765/101645
+http://acsa.ws:80/553288646092/smiptv/71862.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://line.live-main.live:80/4DAF57/A6F765/101651
+http://acsa.ws:80/553288646092/smiptv/71883.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCI
-http://line.live-main.live:80/4DAF57/A6F765/101649
+http://acsa.ws:80/553288646092/smiptv/71875.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://pfsv.io:80/90588/1591/594
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
@@ -384,7 +384,7 @@ http://acsa.ws:80/553288646092/smiptv/72390.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM
 http://pfsv.io:80/90588/1591/103
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
-http://pfsv.io:80/7262022437/6324/098
+http://acsa.ws:80/553288646092/smiptv/71855.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
 http://netflix.akamaihd.org:80/watch/az_togbox/3382/21.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
