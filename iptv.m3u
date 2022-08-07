@@ -543,6 +543,6 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymoti
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zpyp7?f=.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 22
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zq7if?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 22
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zq7if?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 01
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqbnn?f=.m3u8
 
