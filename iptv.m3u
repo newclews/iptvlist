@@ -477,8 +477,6 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV PLANETA KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RETRO CARTOONS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MENDANHA RJ
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 01
