@@ -480,7 +480,7 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CABLE NOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NTN 24 NOTICIAS
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA?f=.m3u8
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCEJs1fTF3KszRJGxJY14VrA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MENDANHA RJ
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w655056799.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 01
