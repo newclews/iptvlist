@@ -487,6 +487,8 @@ https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunkl
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v18ik?f=.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 02
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v1dce?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 03
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zzkuk?f=.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 05
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v1dly?f=.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 07
@@ -547,4 +549,46 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymoti
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zq7if?f=.m3u8
 #EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 01
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqbnn?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 02
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqcdp?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 03
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqehh?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 04
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqujt?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 05
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqwjp?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 06
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqznw?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 07
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zr0hw?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 08
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zr1ht?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 09
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrazp?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 10
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrh62?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 11
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs2zq?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 12
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt95l?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 13
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs4l9?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 14
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs565?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 15
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zscc2?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 16
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt8vz?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 17
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9c6?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 18
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9id?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 19
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9n9?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 20
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuily?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 21
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuine?f=.m3u8
+#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 22
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuip0?f=.m3u8
 
