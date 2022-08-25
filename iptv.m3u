@@ -417,8 +417,6 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054258
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CONMEBOL TV 4
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV_Zimbo_2018.png", TV ZIMBO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://player.vimeo.com/video/742816076?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
