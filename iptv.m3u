@@ -417,14 +417,8 @@ http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054258
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054259
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CONMEBOL TV 4
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054260
-#EXTINF:0 type="stream" group-title="TV AO VIVO", BBB PORTUGAL
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png", EUROSPORT 1
-http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9408
-#EXTINF:0 type="stream" group-title="TV AO VIVO", AFRO MUSIC CHANNEL
-http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV_Zimbo_2018.png", TV ZIMBO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player?f=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/742816076?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KITCHEN TV
 http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9421
 #EXTINF:0 type="stream" group-title="TV AO VIVO", K SIC
@@ -489,112 +483,4 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOLSONARO AO VIVO 
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRBLGOITk08P3iia8bwverA?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 01
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v18ik?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 02
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v1dce?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 03
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zzkuk?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 05
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v1dly?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 07
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wigl3?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 09
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wk03x?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 10
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7y7923?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 11
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7y790c?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 21
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7yc7a0?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 01 EP 22
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7y78vh?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 01
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl07y?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 02
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl0cn?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 03
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl0fe?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 04
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl0qk?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 05
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl0xy?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 06
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zl18f?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 07
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zlwmy?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 08
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zlwr5?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 09
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zlwua?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 10
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zlwva?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 11
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zmqjw?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 12
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zmr4a?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 13
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7znktr?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 14
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7znl9q?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 15
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zofc7?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 16
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zoff2?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 17
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zofio?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 18
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zofwz?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 19
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zphop?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 20
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zpyno?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 21
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zpyp7?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 02 EP 22
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zq7if?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 01
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqbnn?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 02
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqcdp?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 03
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqehh?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 04
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqujt?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 05
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqwjp?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 06
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zqznw?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 07
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zr0hw?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 08
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zr1ht?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 09
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrazp?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 10
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zrh62?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 11
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs2zq?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 12
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt95l?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 13
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs4l9?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 14
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zs565?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 15
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zscc2?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 16
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt8vz?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 17
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9c6?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 18
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9id?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 19
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zt9n9?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 20
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuily?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 21
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuine?f=.m3u8
-#EXTINF:0 type="stream" group-title="CHRIS", TODO MUNDO ODEIA O CHRIS T 03 EP 22
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zuip0?f=.m3u8
 
