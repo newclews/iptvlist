@@ -435,7 +435,7 @@ http://95.216.27.138:9302/;stream/1.mp3
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://www.hits99fm.com.br/imagens/logo.png", HITS FM (MACAÉ)
 https://paineldj.com.br:20028/stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://imgur.com/BQDyY0o", Radio Planeta do Vinil 
+#EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", Radio Planeta do Vinil 
 https://stm5.conectastreaming.com:15276/;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
 http://stm19.stmsrv.com:31910/stream.mp3
