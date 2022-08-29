@@ -112,7 +112,7 @@ https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCkkqXUQYUT0pC8RjZpfTZCQ?f=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC9u7p59wlSaAuBmPevKWo9A?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
 http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
