@@ -177,8 +177,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/l
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BAND NEWS
 http://168.205.87.198:8555/live/1501/123456/174.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ouviradios.com.br/wp-content/uploads/2021/03/bandnews-1.png", RADIO BAND NEWS RJ 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC5oRxjbY3HHrP5Acsu2vtkQ?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ouviradios.com.br/wp-content/uploads/2021/03/bandnews-1.png", RADIO BAND NEWS FM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCWijW6tW0iI5ghsAbWDFtTg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
