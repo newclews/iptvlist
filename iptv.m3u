@@ -189,8 +189,8 @@ https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/zV6zESO.png", TV RIO GRANDE
-https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png", TV ARACATI
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
