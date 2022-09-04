@@ -153,8 +153,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w919672298.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", NOS STUDIOS
-http://maxpremiumiptv.live:8080/abdon345/LAQ855gS0j/9352
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/1379831483557371904/F-Jvthpu_400x400.jpg", REDE CLONE TV
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w384288126.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DARK FLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV GOSPEL MOVIE
