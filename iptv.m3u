@@ -187,10 +187,10 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?IMDSFULL
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Tvilogo2020.png", TVI
+https://video-auth2.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://cast.ebosystems.com.br:19360/awtv/awtv.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE PIPOCA
-http://dmnet.distv.net:8080/live/mycaellapaiva/123456/513.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
