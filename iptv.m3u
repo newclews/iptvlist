@@ -481,4 +481,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOLSONARO AO VIVO 
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRBLGOITk08P3iia8bwverA?f=.m3u8
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO", FOLHA POLITICA
+https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
+UCYiM773ssvNMaBHvaWWeIoQ
