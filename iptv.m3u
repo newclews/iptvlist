@@ -62,7 +62,7 @@ http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-al-10-37.video.globo.com/h/0401662538619584971489716624522191583931387xDiezXqleCEplhgriEBJzg/k/html5/a/F/u/ca4e3ce7-b837-48ce-9fb1-2ef755557eab/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
+https://live-cm-ah-13-37.video.globo.com/h/0401662626554133108803216625401542091316741jO8FI4957oPlyNx9F26xEQ/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://186.227.63.210:5000/live/REDETVRJ/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
