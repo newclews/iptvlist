@@ -175,6 +175,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCvdwhh_fDyWccR42-rReZLw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
+http://189.91.128.146:4444/udp/227.10.20.131:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
@@ -223,8 +225,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20211107034514%21Logo_CNT.png", CNT
-http://45.232.196.7:5000/live/CNTHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
