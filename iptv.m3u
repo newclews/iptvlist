@@ -48,21 +48,21 @@ http://45.232.196.7:5000/live/CULTURA/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
-http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
+http://mateus.sportiumvip.xyz:8080/play/4KRTrWLgha8VWV0ZOHvqZNVDI0kjzNzI-Zg6EqhD_tYLFgTaGqLVSvVRppswi0iC
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://pfsv.io:80/91237752/74582/122447
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
-http://45.232.196.7:5000/live/SBTSPHD/720p.m3u8
+http://meumd.com:80/rootiptv/5176iXo7/108287
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-http://502488755324312268.nicehos.xyz:80/VV09229/3465895/312268
+http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/53001
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://dmnet.distv.net:8080/live/mycaellapaiva/123456/497.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
+http://dns.acaidopara.net:8080/hamilton/665252511221/2203
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
+http://mateus.sportiumvip.xyz:8080/play/4KRTrWLgha8VWV0ZOHvqZNVDI0kjzNzI-Zg6EqhD_tZrK2t_RjECEqU7dkUbNaFd
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-13-38.video.globo.com/h/0401663055189162697114216629687891190369716Q-X7eQ4DWmSbVUMU1xR5Ew/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
+https://live-cm-aq-19-39.video.globo.com/h/0401663142005142161376116630556057674581283PhQTzWlIsEZsJvegoFX7jQ/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
