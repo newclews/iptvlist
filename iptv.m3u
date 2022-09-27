@@ -229,6 +229,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
+http://168.205.87.198:8555/live/4666/123456/168.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 1
 http://dmnet.distv.net:8080/live/mycaellapaiva/123456/548.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 2
@@ -305,8 +307,6 @@ http://pfsv.io:80/90588/1591/282
 http://pfsv.io:80/90588/1591/298
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://pfsv.io:80/90588/1591/512
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS 2
-http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/19986.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 http://pfsv.io:80/90588/1591/517
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
