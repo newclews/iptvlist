@@ -47,8 +47,8 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 http://netflix.akamaihd.org:80/watch/az_togbox/3382/248.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND PARA
-https://5cf4a2c2512a2.streamlock.net:443/rbatv/rbatv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
+http://168.205.87.198:8555/live/4666/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://pfsv.io:80/91237752/74582/122447
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
