@@ -183,6 +183,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png/revision/latest?cb=20171007174800", CARACOL AHORA
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/632391734be92a791e2750e6/publish/media_2000.m3u8?aid=589b13f631f1bebd088ff753&uid=GNIy3scT5KC6rSTelTh35cGaTB1nuTKW&sid=q6dN8JsR0jr785CemnGHGwrdYfzXJPs5&pid=2QVxVCTHZ5M4lzzjkyoK7IYMSOj8yPn9&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1664528504076&ot=lLYC6bXA9xTuwkfcQwD__w&proto=https&pz=us
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://portocanal.sapo.pt/uploads/defaults/default-16x9.png", PORTO CANAL
