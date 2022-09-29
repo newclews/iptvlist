@@ -62,7 +62,7 @@ http://dns.acaidopara.net:8080/hamilton/665252511221/2203
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://mateus.sportiumvip.xyz:8080/play/4KRTrWLgha8VWV0ZOHvqZNVDI0kjzNzI-Zg6EqhD_tZrK2t_RjECEqU7dkUbNaFd
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-al-10-38.video.globo.com/h/0401664410980543502022516643245802399953272Lz2ZkxEzMXuuN7xdoIdguw/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
+https://live-cm-ah-13-38.video.globo.com/h/0401664526521834614923016644401217230977370IZBP3VnCActbKLX5N__k8Q/k/html5/a/F/u/7b17237b-9d71-4cd9-a616-b6737ee53fb6/nu/f(dvr=180,i=2)/globo-rj/globo-rj-audio_1=96000-video=3442944.m3u8?dvr_window_length=180
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
@@ -478,9 +478,9 @@ http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CABLE NOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOLSONARO AO VIVO 
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRBLGOITk08P3iia8bwverA?f=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRBLGOITk08P3iia8bwverA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOLHA POLITICA
-https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
 
