@@ -181,7 +181,7 @@ http://189.91.128.146:4444/udp/227.10.20.131:1234
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Caracoltv2017bluefondit.png/revision/latest?cb=20171007174800", CARACOL AHORA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.sbtnews.com.br/assets/images/sbt-news-logo-2022.png", SBT NEWS
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC376n347Ob5Lwzq2WGzF1AA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" aspect-ratio="16:9", TELEPACÍFICO (COLOMBIA)
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
