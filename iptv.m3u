@@ -483,5 +483,6 @@ https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.c
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
 https://testing-0912.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE
+https://rjo4.akamaized.net/hls/live/2029735/rjo4/index.m3u8?hdnts=exp=1665005540~acl=/*~hmac=e61240c591da4dd1393b284ef8c5f9881065f52ddecd2ea7243930e26b51419a
 
