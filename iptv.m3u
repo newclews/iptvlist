@@ -308,7 +308,7 @@ http://pfsv.io:80/90588/1591/298
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://pfsv.io:80/90588/1591/512
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
-http://pfsv.io:80/90588/1591/517
+http://187.13.81.148:8000/play/a09b
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
 http://acsa.ws:80/553288646092/smiptv/71837.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
