@@ -44,7 +44,7 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdiversa.com.br/wp-content/uploads/2021/04/logo_tv_diversa.png", TV DIVERSA
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA (TVC)
-https://streaming03.zas.media:1936/panorama/panorama/chunklist_w501303456.m3u8
+http://189.91.128.146:4444/udp/227.10.20.145:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
@@ -238,7 +238,7 @@ http://pfsv.io:80/90588/1591/557
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 3
 http://pfsv.io:80/90588/1591/554
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMBATE
-http://acsa.ws:80/553288646092/smiptv/71842.ts
+http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 1
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESPN 2
@@ -308,7 +308,7 @@ http://pfsv.io:80/90588/1591/298
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://pfsv.io:80/90588/1591/512
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
-http://187.13.81.148:8000/play/a09b
+http://189.91.128.146:4444/udp/227.10.20.160:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
 http://acsa.ws:80/553288646092/smiptv/71837.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
