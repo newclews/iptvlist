@@ -174,7 +174,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png", CNN BRASIL
 http://168.205.87.198:8555/live/4666/123456/200.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+http://168.205.87.198:8555/live/1501/123456/161.m3u8 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
 http://189.91.128.146:4444/udp/227.10.20.131:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.sbtnews.com.br/assets/images/sbt-news-logo-2022.png", SBT NEWS
