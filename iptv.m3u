@@ -230,7 +230,7 @@ http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
-http://168.205.87.198:8555/live/4666/123456/168.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCA0bOG0NUfJ855eDtHSxOkw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 1
 http://dmnet.distv.net:8080/live/mycaellapaiva/123456/548.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPORTV 2
@@ -258,7 +258,7 @@ http://pfsv.io:80/90588/1591/562
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE PREMUM
 http://pfsv.io:80/90588/1591/565
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE PIPOCA
-http://pfsv.io:80/90588/1591/564
+http://189.91.128.146:4444/udp/227.10.20.87:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE TOUCH
 http://pfsv.io:80/90588/1591/566
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
@@ -332,7 +332,7 @@ http://189.91.128.146:4444/udp/227.10.20.165:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://acsa.ws:80/Jerusaggs452/846TAUfmy/72184.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO
-http://pfsv.io:80/90588/1591/599
+http://189.91.128.146:4444/udp/227.10.20.94:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO 2
 http://pfsv.io:80/90588/1591/470
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO PLUS
@@ -400,19 +400,19 @@ http://pfsv.io:80/8747856/83795/103
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 http://acsa.ws:80/553288646092/smiptv/71855.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
-http://netflix.akamaihd.org:80/watch/az_togbox/3382/21.ts
+http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 2
-http://pfsv.io:80/90588/1591/525
+http://189.91.128.146:4444/udp/227.10.20.123:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 3
-http://pfsv.io:80/90588/1591/526
+http://189.91.128.146:4444/udp/227.10.20.104:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 4
-http://pfsv.io:80/90588/1591/527
+http://189.91.128.146:4444/udp/227.10.20.105:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 5
-http://pfsv.io:80/90588/1591/528
+http://189.91.128.146:4444/udp/227.10.20.106:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 6
-http://pfsv.io:80/90588/1591/529
+http://189.91.128.146:4444/udp/227.10.20.107:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 7
-http://pfsv.io:80/90588/1591/530
+http://189.91.128.146:4444/udp/227.10.20.108:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CONMEBOL TV 1
 http://hdmais.com:80/BrittoCa/ZMGAhnAhkl/10054257
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CONMEBOL TV 2
