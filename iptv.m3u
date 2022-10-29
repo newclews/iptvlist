@@ -22,7 +22,7 @@ http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
-https://ebocast.ebosystems.com.br:3456/hybrid/play.m3u8
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
@@ -32,7 +32,7 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
-https://srv5.zcast.com.br/jonas3261/jonas3261/chunklist_w2709980587.m3u8
+https://ebocast.ebosystems.com.br:3456/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
