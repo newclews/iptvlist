@@ -6,7 +6,7 @@ http://168.205.87.198:8555/live/4666/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/4666/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL LIBRAS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8a60g5?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -74,7 +74,7 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/chunklist_w806559952.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV ACRITICA (HORARIOS ALTERNADOS)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCnLSKfHkgZ6ujEYCO9jq7Sw?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCnLSKfHkgZ6ujEYCO9jq7Sw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
@@ -82,7 +82,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://quemquercupom.com.br/wp-content/uploads/2019/11/shoptime-600x296.png", SHOPTIME
-http://168.205.87.198:8555/live/1501/123456/164.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCCuYi5AP3gya6C5mdWYS6CQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png", YEEAAH TV
 https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
@@ -162,7 +162,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/XIJ2IRczO14ecNZlXYsPTAyJ08gAatQo__GQXPSgDUbRDT2xtq91WRDWcFeAPzxltw", FRONTEIRA MOVIES
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/41z95njqMSL.png", TV 98 LIVE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -478,11 +478,11 @@ http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CABLE NOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOLSONARO AO VIVO 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8hGUtfEgvvnp6IaHSAg1OQ?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8hGUtfEgvvnp6IaHSAg1OQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOLHA POLITICA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCYiM773ssvNMaBHvaWWeIoQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE
