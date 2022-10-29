@@ -254,13 +254,13 @@ http://dmnet.distv.net:8080/live/mycaellapaiva/123456/540.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BAND SPORTS
 http://189.91.128.146:4444/udp/227.10.20.119:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE ACTION
-http://pfsv.io:80/90588/1591/562
+http://189.91.128.146:4444/udp/227.10.20.135:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE PREMUM
-http://pfsv.io:80/90588/1591/565
+http://189.91.128.146:4444/udp/227.10.20.134:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE PIPOCA
 http://189.91.128.146:4444/udp/227.10.20.87:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE TOUCH
-http://pfsv.io:80/90588/1591/566
+http://189.91.128.146:4444/udp/227.10.20.136:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="TV AO VIVO", TELECINE FUN
 http://pfsv.io:80/90588/1591/563
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELECINE CULT
@@ -286,7 +286,7 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109507
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg", FX
 http://acsa.ws:80/553288646092/smiptv/71966.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINEMAX
-http://acsa.ws:80/553288646092/smiptv/71833.ts
+http://189.91.128.146:4444/udp/227.10.20.159:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFETIME
 http://acsa.ws:80/553288646092/smiptv/72154.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SYFY
@@ -298,9 +298,9 @@ http://pfsv.io:80/90588/1591/294
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AXN
 http://pfsv.io:80/90588/1591/295
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PARAMOUNT
-http://pfsv.io:80/90588/1591/296
+http://189.91.128.146:4444/udp/227.10.20.140:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", WARNER
-http://pfsv.io:80/90588/1591/297
+http://189.91.128.146:4444/udp/227.10.20.126:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPACE
 http://pfsv.io:80/90588/1591/282
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
@@ -318,7 +318,7 @@ http://pfsv.io:80/90588/1591/102
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MULTISHOW
 http://acsa.ws:80/553288646092/smiptv/72182.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://pfsv.io:80/90588/1591/105
+http://189.91.128.146:4444/udp/227.10.20.161:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRU TV
 http://pfsv.io:80/90588/1591/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
@@ -332,13 +332,13 @@ http://189.91.128.146:4444/udp/227.10.20.165:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
 http://acsa.ws:80/Jerusaggs452/846TAUfmy/72184.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO
-http://189.91.128.146:4444/udp/227.10.20.94:1234
+http://189.91.128.146:4444/udp/227.10.20.154:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO 2
-http://pfsv.io:80/90588/1591/470
+http://189.91.128.146:4444/udp/227.10.20.155:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO PLUS
-http://pfsv.io:80/90588/1591/465
+http://189.91.128.146:4444/udp/227.10.20.156:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
-http://pfsv.io:80/90588/1591/464
+http://189.91.128.146:4444/udp/227.10.20.157:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO POP
 http://pfsv.io:80/90588/1591/469
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO XTREME
@@ -346,7 +346,7 @@ http://pfsv.io:80/90588/1591/468
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
 http://pfsv.io:80/90588/1591/467
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HBO SIGNATURE
-http://pfsv.io:80/90588/1591/484
+http://189.91.128.146:4444/udp/227.10.20.158:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV
 http://acsa.ws:80/553288646092/smiptv/72171.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 00s
@@ -368,7 +368,7 @@ http://pfsv.io:80/90588/1591/125
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://pfsv.io:80/90588/1591/135
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK
-http://pfsv.io:80/90588/1591/131
+http://189.91.128.146:4444/udp/227.10.20.149:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK JR
 http://pfsv.io:80/90588/1591/130
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -392,7 +392,7 @@ http://acsa.ws:80/553288646092/smiptv/72146.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://line.live-main.live:80/4DAF57/A6F765/101687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", A&E
-http://pfsv.io:80/90588/1591/293
+http://189.91.128.146:4444/udp/227.10.20.129:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL BOX BRAZIL
 http://acsa.ws:80/553288646092/smiptv/72390.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM
