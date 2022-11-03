@@ -6,7 +6,7 @@ http://168.205.87.198:8555/live/4666/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/4666/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCADORA
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCKLNJV_Xa-X-HBWjg7y-_eA?f=.m3u8
+https://5a2b083e9f360.streamlock.net/rog/rog.sdp/chunklist_w1693871637.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
