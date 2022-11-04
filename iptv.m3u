@@ -307,7 +307,7 @@ http://pfsv.io:80/90588/1591/282
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://pfsv.io:80/90588/1591/298
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://pfsv.io:80/90588/1591/512
+http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hEYJI4XcxOLrgWVR3Qt6AtdMOjW4HDybDv7T8iekjnVE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 http://189.91.128.146:4444/udp/227.10.20.160:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
@@ -397,7 +397,7 @@ http://189.91.128.146:4444/udp/227.10.20.129:1234
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL BOX BRAZIL
 http://acsa.ws:80/553288646092/smiptv/72390.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM
-http://pfsv.io:80/8747856/83795/103
+http://flixgran.xyz:8080/live/9546862240324/360389/409904.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 http://acsa.ws:80/553288646092/smiptv/71855.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.thesportsdb.com/images/media/logo/vrwyrp1437614710.png", PREMIERE 1
