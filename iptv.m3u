@@ -480,7 +480,9 @@ http://stm9.painelvox.com:8362/stream.mp3
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 1
 http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/2000
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
+http://tbsrv.me:8880/nilcilene0606/060600/69672
 
 
