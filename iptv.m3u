@@ -483,5 +483,5 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/2000
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
 http://tv.minhalista.me/live/2c9DgfruY6/factoryiptv/42637.ts
-
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 3
+https://rjo4.akamaized.net/hls/live/2029735/rjo4/index.m3u8?hdnts=exp=1667896579~acl=/*~hmac=ae5049b5fe804ddbb11b6b2b3b99aa7f1ce20ddd8ab079778fb4ac3700174c43
