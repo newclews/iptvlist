@@ -501,5 +501,8 @@ https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC3v74l9K3nsaOyqrFaJSSIA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 11
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCDwLCn3w_8-q9xwhNC6H5dw?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 12
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCX9c7EcwzMYB_fyZiuboZLg?f=.m3u8
+
 
 
