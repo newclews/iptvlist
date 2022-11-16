@@ -483,6 +483,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/2000
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
 http://tv.minhalista.me/live/2c9DgfruY6/factoryiptv/42637.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DIDI REDPILL
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCpJ3jHK9lTA7tElmldAGOGA?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", COD 12
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCTkEI0LLHYmmvSgiEG9aaSw?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BRASIL PODCAST (JOAO SALAS)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRJOOkTyNYCjmSraYTom_cQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8PdLj4d1Tykzxn3WOeCQmw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 4
@@ -505,12 +511,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/l
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCX9c7EcwzMYB_fyZiuboZLg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 13
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCao9KHtEJhuNpwkBotX_zew?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 14
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCpJ3jHK9lTA7tElmldAGOGA?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 15
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCylOz9oQKmwpVbQoGWqfl5g?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 16
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCTkEI0LLHYmmvSgiEG9aaSw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 17
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8PdLj4d1Tykzxn3WOeCQmw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 18
