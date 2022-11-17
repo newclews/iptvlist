@@ -491,6 +491,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/l
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCRJOOkTyNYCjmSraYTom_cQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PILHADO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCTeuEMYybdsJXTR7dOiGLYg?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BOLETIM NEWS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCDwLCn3w_8-q9xwhNC6H5dw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 3
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC8PdLj4d1Tykzxn3WOeCQmw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 4
@@ -507,8 +509,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/l
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCJuJ-koqw44a0wNUE3w9bTQ?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 10
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UC3v74l9K3nsaOyqrFaJSSIA?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 11
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCDwLCn3w_8-q9xwhNC6H5dw?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 12
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCX9c7EcwzMYB_fyZiuboZLg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 13
