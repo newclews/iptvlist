@@ -107,8 +107,8 @@ http://168.205.87.198:8555/live/1501/123456/145.m3u8
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w1714195622.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN RJ
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/dde7d4_420f1cd6167847ee91029eb65233bb74~mv2.png/v1/fill/w_240,h_239,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PEQUENA%20WEB%20TVCampo%20Grande%20-%20refeita%20para%20WEB%20PNG%20TRANSPARENTE.png", TV CAMPO GRANDE
+https://livefocamundo.com:8081/tvcampogranderj/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCbiGwU0-W1XCDUrt3BTVrag?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
