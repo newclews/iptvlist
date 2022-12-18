@@ -105,50 +105,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c
 http://168.205.87.198:8555/live/1501/123456/145.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/DMWeqmW.png", TV NATAL
 https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w1714195622.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
-https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCbiGwU0-W1XCDUrt3BTVrag?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCkkqXUQYUT0pC8RjZpfTZCQ?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
-http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
-http://cdnx1.plusx.tv:8880/325mtv/mono.m3u8?token=a6a4830189b90926652222
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png", MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1417360698_b2028000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
-https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGA TV
-http://168.205.87.198:8555/live/1501/123456/075.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL HITTS
-http://168.205.87.198:8555/live/1501/123456/072.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL CUT
-http://168.205.87.198:8555/live/1501/123456/030.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRA
-http://168.205.87.198:8555/live/1501/123456/024.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" , CANAL SCH
-http://168.205.87.198:8555/live/1501/123456/105.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
+https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/LRjejSn.png", NOVA MANCHETE
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w472844531.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
@@ -247,6 +209,44 @@ http://tv.urllista.com/live/Tester1/im7wh59lrql/65039.ts
 http://protocol.solanaflix.com:8080/play/AbPY7vDsLzx2Bnr3-7QoWgYQKIDcOB86a0Yi2un_OVYgOrgR2M2MHJmxIOVQm3Tx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
 http://p2stv.me:80/1431721843/8433884671/7481
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
+https://cdn.livespanel.com/live/fmodia/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png", CBN SP
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCbiGwU0-W1XCDUrt3BTVrag?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCkkqXUQYUT0pC8RjZpfTZCQ?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
+http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
+http://cdnx1.plusx.tv:8880/325mtv/mono.m3u8?token=a6a4830189b90926652222
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png", MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1417360698_b2028000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGA TV
+http://168.205.87.198:8555/live/1501/123456/075.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL HITTS
+http://168.205.87.198:8555/live/1501/123456/072.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL CUT
+http://168.205.87.198:8555/live/1501/123456/030.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRA
+http://168.205.87.198:8555/live/1501/123456/024.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" , CANAL SCH
+http://168.205.87.198:8555/live/1501/123456/105.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
