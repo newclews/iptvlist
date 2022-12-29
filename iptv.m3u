@@ -83,6 +83,8 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://quemquercupom.com.br/wp-content/uploads/2019/11/shoptime-600x296.png", SHOPTIME
 http://168.205.87.198:8555/live/1501/123456/164.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/yeeaah-1024x250.png", YEEAAH TV
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w212564045.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFE CHANNEL
 http://168.205.87.198:8555/live/1501/123456/192.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
