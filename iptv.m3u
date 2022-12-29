@@ -32,7 +32,7 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist_w993006099.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
-https://ebocast.ebosystems.com.br:3456/hybrid/play.m3u8
+https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
@@ -88,7 +88,7 @@ https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w32906010.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
-https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist_w757904335.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/FY8kjgr.png", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C500%2C5000", REDE UTV
@@ -154,7 +154,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
