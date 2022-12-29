@@ -199,12 +199,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 http://dns-onplaytv.fun:80/9271394250/2431173504/24203
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
-http://168.205.87.198:8555/live/4666/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
 http://168.205.87.198:8555/live/1501/123456/168.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.ggpht.com/20FnwoWbQsDFuql6CBX9xsCGfIa5-r55G9Sjkt228Rk9dGFOztVW3jAHvxw-mtXk76CBFe85p_s=s900-c-k-c0x00ffffff-no-rj", NOSSA TV
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCbiGwU0-W1XCDUrt3BTVrag?f=.m3u8
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hEYJI4XcxOLrgWVR3Qt6AtdMOjW4HDybDv7T8iekjnVE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
@@ -217,8 +215,8 @@ http://p2stv.me:80/1431721843/8433884671/7481
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCkkqXUQYUT0pC8RjZpfTZCQ?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
+http://168.205.87.198:8555/live/4666/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
 http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
