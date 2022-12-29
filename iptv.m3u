@@ -245,8 +245,8 @@ http://168.205.87.198:8555/live/1501/123456/030.m3u8
 http://168.205.87.198:8555/live/1501/123456/024.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" , CANAL SCH
 http://168.205.87.198:8555/live/1501/123456/105.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
-https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
@@ -303,8 +303,6 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 1
 http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/2000
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
