@@ -222,7 +222,7 @@ http://168.205.87.198:8555/live/4666/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
 http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
-http://cdnx1.plusx.tv:8880/325mtv/mono.m3u8?token=a6a4830189b90926652222
+https://tvnow.best/api/stream/ducks_doglike0f@icloud.com/033374/livetv.epg/mtv.90s.uk.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
