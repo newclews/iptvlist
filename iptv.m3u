@@ -105,8 +105,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY?F=m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://pe1b.tvpn.eu:8080/Antonio/Antonio/387
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/DMWeqmW.png", TV NATAL
-https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/chunklist_w1714195622.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="", CINE MONDE
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
@@ -197,6 +197,14 @@ http://168.205.87.198:8555/live/4666/123456/162.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:0 type="stream" group-title="TV AO VIVO", SOL BRASIL
+https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PHOENIX TV
+https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV R
+https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", 011 NEWS
+https://video01.soultv.com.br/011news/011news/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://168.205.87.198:8555/live/4666/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
