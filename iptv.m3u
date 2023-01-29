@@ -209,8 +209,6 @@ http://168.205.87.198:8555/live/4666/123456/70.m3u8
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
 http://168.205.87.198:8555/live/1501/123456/168.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://substackcdn.com/image/fetch/w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb2acdd3-79c9-40b5-8043-666acd77da30_748x748.png", TV NA ATIVA
-https://cdn.jmvstream.com/w/AVJ-13072/playlist/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hEYJI4XcxOLrgWVR3Qt6AtdMOjW4HDybDv7T8iekjnVE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
