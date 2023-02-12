@@ -109,10 +109,6 @@ http://pe1b.tvpn.eu:8080/Antonio/Antonio/387
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://pa-str.srvsite.com/arquivos/6676/cabecalho-6676-20210510225010.png", TV POTENGI
-https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist_w510661267.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://spaceks.net/sites/teleweb.tv.br/images/logo/logo_1062789513.png", TELE WEB TV
-https://video01.kshost.com.br/acessweb7837/acessweb7837/chunklist_w1757905457.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png", KIDS CHANNEL
