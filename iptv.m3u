@@ -2,9 +2,9 @@
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV CIDADE 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1678443135.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png", REDE MINAS
-http://168.205.87.198:8555/live/4666/123456/101.m3u8
+http://168.205.87.198:8555/live/1501/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
-http://168.205.87.198:8555/live/4666/123456/67.m3u8
+http://168.205.87.198:8555/live/1501/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png", PLAY TV
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
@@ -12,11 +12,11 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png", REDE SUPER
-http://168.205.87.198:8555/live/4666/123456/163.m3u8
+http://168.205.87.198:8555/live/1501/123456/163.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://168.205.87.198:8555/live/4666/123456/103.m3u8
+http://168.205.87.198:8555/live/1501/123456/103.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-http://168.205.87.198:8555/live/4666/123456/25.m3u8
+http://168.205.87.198:8555/live/1501/123456/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 http://168.205.87.198:8555/live/1501/123456/131.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
@@ -48,7 +48,7 @@ https://video02.logicahost.com.br/tvguara23/tvguara23/chunklist_w1881392041.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 http://168.205.87.198:8555/live/1501/123456/134.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
-http://168.205.87.198:8555/live/4666/123456/19.m3u8
+http://168.205.87.198:8555/live/1501/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://pfsv.io:80/91237752/74582/122447
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
@@ -68,7 +68,7 @@ http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 http://meumd.com:80/live/557181073817/tay69459081/111797.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
-http://168.205.87.198:8555/live/4666/123456/69.m3u8
+http://168.205.87.198:8555/live/1501/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", Rede Brasil de Televisão
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
@@ -84,7 +84,7 @@ http://168.205.87.198:8555/live/1501/123456/164.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GEEKMORE TV
 https://video1.earthcam.com//myearthcam//535638654b85727ae1cb10838215d406.flv//chunklist_w1180444335.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/yeeaah-1024x250.png", YEEAAH TV
-http://168.205.87.198:8555/live/4666/123456/193.m3u8
+http://168.205.87.198:8555/live/1501/123456/193.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
 https://video03.logicahost.com.br/foratedio/foratedio/chunklist_w984921838.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
@@ -184,15 +184,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SERIES CLASSICAS
-http://168.205.87.198:8555/live/4666/123456/160.m3u8
+http://168.205.87.198:8555/live/1501/123456/160.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV RA TIM BUM
-http://168.205.87.198:8555/live/4666/123456/84.m3u8
+http://168.205.87.198:8555/live/1501/123456/84.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ZOO MOO KIDS
-http://168.205.87.198:8555/live/4666/123456/162.m3u8
+http://168.205.87.198:8555/live/1501/123456/162.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE BRASIL
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
@@ -204,7 +204,7 @@ https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
-http://168.205.87.198:8555/live/4666/123456/70.m3u8
+http://168.205.87.198:8555/live/1501/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
@@ -248,7 +248,7 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGA TV
-http://168.205.87.198:8555/live/4666/123456/226.m3u8
+http://168.205.87.198:8555/live/1501/123456/226.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL HITTS
 http://168.205.87.198:8555/live/1501/123456/072.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL CUT
