@@ -163,8 +163,8 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VILA TV
-https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1858246200.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
+http://168.205.87.198:8555/live/1501/123456/225.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png", PEGADINHAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
@@ -199,12 +199,12 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SOL BRASIL
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PHOENIX TV
-https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
 http://168.205.87.198:8555/live/1501/123456/70.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", RECORDTV MG
+http://168.205.87.198:8555/live/1501/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
@@ -212,11 +212,11 @@ http://168.205.87.198:8555/live/1501/123456/168.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hEYJI4XcxOLrgWVR3Qt6AtdMOjW4HDybDv7T8iekjnVE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
-http://tv.urllista.com/live/Tester1/im7wh59lrql/65039.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL 2
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
 http://p2stv.me:80/1431721843/8433884671/7481
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
+http://168.205.87.198:8555/live/1501/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png", TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
@@ -228,7 +228,7 @@ https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
-http://168.205.87.198:8555/live/4666/123456/169.m3u8
+http://168.205.87.198:8555/live/1501/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
 http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
@@ -249,14 +249,24 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGA TV
 http://168.205.87.198:8555/live/1501/123456/226.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL HITTS
-http://168.205.87.198:8555/live/1501/123456/072.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL CUT
-http://168.205.87.198:8555/live/1501/123456/030.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRA
-http://168.205.87.198:8555/live/1501/123456/024.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" , CANAL SCH
-http://168.205.87.198:8555/live/1501/123456/105.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 1
+http://168.205.87.198:8555/live/1501/123456/216.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 2
+http://168.205.87.198:8555/live/1501/123456/217.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 3
+http://168.205.87.198:8555/live/1501/123456/218.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 4
+http://168.205.87.198:8555/live/1501/123456/219.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 5
+http://168.205.87.198:8555/live/1501/123456/220.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 6
+http://168.205.87.198:8555/live/1501/123456/221.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 7
+http://168.205.87.198:8555/live/1501/123456/222.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 8
+http://168.205.87.198:8555/live/1501/123456/223.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 9
+http://168.205.87.198:8555/live/1501/123456/224.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
