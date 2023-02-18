@@ -7,8 +7,8 @@ http://168.205.87.198:8555/live/1501/123456/101.m3u8
 http://168.205.87.198:8555/live/1501/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png", PLAY TV
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAUDE
-https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MAIS ABC
+https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png", REDE SUPER
@@ -127,8 +127,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/41z95njqMSL.png", TV 98 LIVE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x891ilj?f=.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XR HEALTH
+https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -223,6 +223,16 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/canalrural.png", CANAL RURAL
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EXTREMO ORIENTAL TV
+http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
+https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
