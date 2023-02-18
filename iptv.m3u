@@ -225,6 +225,8 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM RISE SERIES
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EXTREMO ORIENTAL TV
 http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
@@ -239,10 +241,10 @@ https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
 http://168.205.87.198:8555/live/1501/123456/169.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VH1 CLASSIC
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 80s
 http://xdgo.live:8080/play/7dhhMbjS9vR4-TYUt-yzK0khfFBCiaOcpKZdL4C8OaI/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", MTV 90s
-https://tvnow.best/api/stream/ducks_doglike0f@icloud.com/033374/livetv.epg/mtv.90s.uk.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/radioU.png", RadioU
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -335,8 +337,8 @@ http://213.239.218.99:7052/stream.mp3
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 1
-http://dns.acaidopara.net:8080/betocaiena/wXOxcO17/2000
+#EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
+https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
 http://tv.minhalista.me/live/2c9DgfruY6/factoryiptv/42637.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 3
