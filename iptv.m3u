@@ -127,8 +127,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XR HEALTH
-https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
 https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
