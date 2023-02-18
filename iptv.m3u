@@ -84,7 +84,7 @@ http://168.205.87.198:8555/live/1501/123456/164.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.ga:3764/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/yeeaah-1024x250.png", YEEAAH TV
-http://168.205.87.198:8555/live/1501/123456/193.m3u8
+https://d6tk2pyqxpvie.cloudfront.net/out/v1/29edaa4c342c4314850a01327290ac38/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
 https://video03.logicahost.com.br/foratedio/foratedio/chunklist_w984921838.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
