@@ -339,8 +339,8 @@ http://stm9.painelvox.com:8362/stream.mp3
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 2
-http://tv.minhalista.me/live/2c9DgfruY6/factoryiptv/42637.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO", LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist_w785990519.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 3
 http://tbsrv.me:8880/nilcilene0606/060600/69672
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TESTE 4
