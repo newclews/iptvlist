@@ -197,8 +197,8 @@ http://168.205.87.198:8555/live/1501/123456/162.m3u8
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SOL BRASIL
-https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", SPARK TV
+https://d3jsl817hmfevn.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", TV R
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
@@ -281,6 +281,12 @@ http://168.205.87.198:8555/live/1501/123456/223.m3u8
 http://168.205.87.198:8555/live/1501/123456/224.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmixbr-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
@@ -335,10 +341,20 @@ http://centova17.ciclanohost.com.br:8217/stream.mp3
 http://213.239.218.99:7052/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
-#EXTINF:0 type="stream" group-title="AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://www.youtube.com/embed/live_stream?channel=UCrJ39DfTLGUt6yFaV9BU1bg?f=.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", AGORA TV
+https://agoratv-lg.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
+https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist_w785990519.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
