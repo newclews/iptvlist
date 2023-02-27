@@ -58,7 +58,7 @@ http://tv.urllista.org/live/1774RCRtFe/duoiptv/89451.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://feodora.solanaflix.com:8080/play/eObAJmrP_2yqvji5OzY-k5PJ3RDa1Z-DudI4dkJiNxgjiX4AJuZyWZInAi5vJ3Mq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-http://acsa.ws:80/Josue0094B/671ZFHpmn/72973.ts
+http://protocol.solanaflix.com:8080/play/35AupvEPGeHsdDY7rEjtkBsM91sA77El_oRbmkKH32XM0SSaoEHZ__yeZSTN_nrU
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.sp.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
