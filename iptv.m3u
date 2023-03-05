@@ -161,8 +161,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ALL SPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CNN PORTUGAL
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjMgNToxMToyIEFNJmhhc2hfdmFsdWU9bndkUlNia083emJseWFtZVQ2NEFPUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU5NWU4NDBmLTI0MmYtNDAwNC1hMTVjLTE5OGM2YjllZGRhYw==/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png", PEGADINHAS
