@@ -14,7 +14,7 @@ http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png", REDE SUPER
 http://168.205.87.198:8555/live/1501/123456/163.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://168.205.87.198:8555/live/1501/123456/103.m3u8
+http://45.230.96.42:80/distv/@distv/418
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
 http://168.205.87.198:8555/live/1501/123456/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
@@ -58,11 +58,11 @@ http://tv.urllista.org/live/1774RCRtFe/duoiptv/89451.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://45.230.96.42:80/distv/@distv/497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-http://51.222.87.103:8880/287994016241/287994016241/16748
+http://45.230.96.42:80/distv/@distv/499
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.sp.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.rj.br.m3u8
+http://45.230.96.42:80/distv/@distv/480
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
@@ -104,7 +104,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/6QM3yaD.png", PLUTO TV COMÉDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY?F=m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-http://pe1b.tvpn.eu:8080/Antonio/Antonio/387
+http://45.230.96.42:80/distv/@distv/434
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="", CINE MONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
@@ -208,7 +208,7 @@ http://168.205.87.198:8555/live/1501/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
-http://168.205.87.198:8555/live/1501/123456/168.m3u8
+http://45.230.96.42:80/distv/@distv/402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hEYJI4XcxOLrgWVR3Qt6AtdMOjW4HDybDv7T8iekjnVE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
