@@ -303,7 +303,7 @@ https://radio.saopaulo01.com.br:10971/;?1678614864290
 http://95.216.27.138:9302/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://www.hits99fm.com.br/imagens/logo.png", HITS FM (MACAÉ)
+#EXTINF:0 type="stream" group-title="Radios" logo="https://redehits.fm/wp-content/uploads/2022/10/toplogo-HITSFM_2022.webp", HITS FM (MACAÉ)
 https://paineldj.com.br:20028/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", Radio Planeta do Vinil 
 https://stm5.conectastreaming.com:15276/;stream.mp3
