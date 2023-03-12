@@ -329,10 +329,10 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 http://radio01.logicahost.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", RADIO BICUDA FM
 http://stm11.srvaudio.com.br:10920/stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
+#EXTINF:0 type="stream" group-title="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", RADIO CIDADE (ES)
 http://cast.midiaip.com.br:9770/;stream/1.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
-http://stm11.xcast.com.br:10392/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/R%C3%A1dio_Senado.svg/1280px-R%C3%A1dio_Senado.svg.png", RADIO SENADO FM
+https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w1227646429.m3u8
 #EXTINF:0 type="stream" group-title="Radios", Hertz FM
 https://player.painelvox.com/player-ssl/8318/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.pinimg.com/originals/e4/62/8c/e4628ce93a53e7d2e030ca5e7c8fe73a.png", CATEDRAL FM
