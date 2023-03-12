@@ -309,7 +309,7 @@ https://paineldj.com.br:20028/stream.mp3
 https://stm5.conectastreaming.com:15276/;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
 http://stm19.stmsrv.com:31910/stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://img.radios.com.br/radio/lg/radio43838_1488835937.jpg", Rap Soul Funk Old School RJ
+#EXTINF:0 type="stream" group-title="Radios" logo="https://play-lh.googleusercontent.com/KgdrnpxCvcSLpt6V-JG68EyogwK1_PzOhe_2k8_MZ4aZo_0TjcmNcOpuQ1XiQGrS7rA", Rap Soul Funk Old School RJ
 http://stm4.painelvox.com:8152/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", Radio Total Remix
 https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
