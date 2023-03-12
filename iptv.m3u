@@ -319,16 +319,16 @@ http://8a3c.live.upx.net.br:8036/stream.mp3
 https://64-237-45-183.webnow.com.br/dumont.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
 http://radyo.yayin.com.tr:5998//;stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://classicosdofunk.net/novo/wp-content/uploads/2019/06/logotipo-classicos.png", CLASSICOS DO FUNK
-http://209.133.210.226:9812/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51sGEtB3QjL.png", POSITIVIDADE FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3?1678616101890
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
 http://sc.powerhitz.com:5040/;stream/1.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://www.questlondonradio.com/wp-content/uploads/2012/02/QuestLondonLogo_400x188-trans.png", Quest London Radio
-https://questlondonradio.com:3443/;stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", Radio SIM FM (ES)
-http://stm7.painelvox.com:80/;stream/1.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
+http://radio01.logicahost.com.br:8300/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://www.acheradios.com.br/media/imagens/sim-fm_xSJZ27i_crop_200x200.jpg", RADIO BICUDA FM
+http://stm11.srvaudio.com.br:10920/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="http://radiocidade.uvv.br/wp-content/themes/radio/imagens/logo-banner.png", Radio Cidade (ES)
 http://cast.midiaip.com.br:9770/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="http://www.novafmonline.grupomanchete.com.br/wp-content/uploads/2020/03/cropped-header-2020-NEW-PORTAL-ok-5.png", Nova FM
