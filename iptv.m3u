@@ -336,9 +336,9 @@ https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w1227646429.m3u8
 #EXTINF:0 type="stream" group-title="Radios", Hertz FM
 https://player.painelvox.com/player-ssl/8318/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png", ENERGIA 97 FM
-http://pfsv.io:80/17335002/27775/32266
+https://s1.streaming.inweb.com.br/energia
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51x4QvuJsWL.png", RADIO CIDADE RJ
-http://pfsv.io:80/17335002/27775/32248
+https://24363.live.streamtheworld.com/RADIOCIDADEAAC.aac
 #EXTINF:0 type="stream" group-title="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
