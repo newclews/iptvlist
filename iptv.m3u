@@ -343,8 +343,8 @@ http://pfsv.io:80/17335002/27775/32248
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PET LOVERS TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
+https://video01.kshost.com.br:4443/tv31966/tv31966/chunklist_w816336636.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
