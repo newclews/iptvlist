@@ -214,7 +214,7 @@ https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/globo.news.b
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
-http://p2stv.me:80/1431721843/8433884671/7481
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/band.news.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
 http://168.205.87.198:8555/live/1501/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png", TERRA VIVA
@@ -347,8 +347,8 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 https://eventos.live.impresa.pt/opto_in21080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN TV
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/viva.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
