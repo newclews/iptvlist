@@ -235,10 +235,10 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/woohoo.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://catve.com/canal10foz/img/9172.png", CATVE FM
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
 http://168.205.87.198:8555/live/1501/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 80s
