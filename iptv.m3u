@@ -183,8 +183,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SERIES CLASSICAS
-http://168.205.87.198:8555/live/1501/123456/160.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
+https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/gloob.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
