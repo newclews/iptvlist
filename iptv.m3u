@@ -104,7 +104,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/6QM3yaD.png", PLUTO TV COMÉDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY?F=m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/22.ts
+http://45.230.96.42:80/distv/@distv/434
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="", CINE MONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
