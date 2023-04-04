@@ -352,7 +352,7 @@ https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/viva.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RECORD RJ 2
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/990
+http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=9aa38dd969b518884f82610e485be8fc
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
