@@ -221,8 +221,8 @@ http://168.205.87.198:8555/live/1501/123456/62.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvrbc.com.br/wp-content/uploads/2022/03/LOGO-TV-RBC-Portal.png", TV RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE ITV
+https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM RISE SERIES
