@@ -223,8 +223,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE ITV
 https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvrbc.com.br/wp-content/uploads/2022/03/LOGO-TV-RBC-Portal.png", TV RBC
-https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM RISE SERIES
@@ -239,6 +237,8 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/woohoo.br.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE FM MG
