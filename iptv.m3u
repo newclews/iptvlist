@@ -1818,4 +1818,33 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f65
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-632b619c8d2a6c0007ff534e" tvg-id="632b619c8d2a6c0007ff534e" tvg-chno="3445" tvg-logo="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" group-title="USA" , KIRO Seattle 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b619c8d2a6c0007ff534e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-633354b63df9700007f6a1b7" tvg-id="633354b63df9700007f6a1b7" tvg-chno="1192" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="Comedy" , Sitcom Legends
+https://i.mjh.nz/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63335b193583440007c859fb" tvg-id="63335b193583440007c859fb" tvg-chno="257" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG-1673285587587.png" group-title="USA" , Movie Favorites by Lifetime
+https://i.mjh.nz/PlutoTV/63335b193583440007c859fb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-chno="2173" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="USA" , PFL MMA
+https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-634dacf51d90320007fcd5fa" tvg-id="634dacf51d90320007fcd5fa" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="USA" , More Star Trek
+https://i.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
+#EXTINF:-1 channel-id="pluto-634ee8f95aa9870007248333" tvg-id="634ee8f95aa9870007248333" tvg-chno="1112" tvg-logo="https://images.pluto.tv/channels/634ee8f95aa9870007248333/colorLogoPNG.png" group-title="USA" , Confess by Nosey
+https://i.mjh.nz/PlutoTV/634ee8f95aa9870007248333-alt.m3u8
+#EXTINF:-1 channel-id="pluto-634f2610d5023700078f7dee" tvg-id="634f2610d5023700078f7dee" tvg-chno="3390" tvg-logo="https://images.pluto.tv/channels/634f2610d5023700078f7dee/colorLogoPNG.png" group-title="USA" , CBS News Detroit
+https://i.mjh.nz/PlutoTV/634f2610d5023700078f7dee-alt.m3u8
+#EXTINF:-1 channel-id="pluto-634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="1323" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG.png" group-title="USA" , I Love Lucy
+https://i.mjh.nz/PlutoTV/634f3011f4fff20007431641-alt.m3u8
+#EXTINF:-1 channel-id="pluto-634f307c7a068e00072c9982" tvg-id="634f307c7a068e00072c9982" tvg-chno="1397" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG.png" group-title="USA" , Rawhide
+https://i.mjh.nz/PlutoTV/634f307c7a068e00072c9982-alt.m3u8
+#EXTINF:-1 channel-id="pluto-636adc255bcf470007d6e0e2" tvg-id="636adc255bcf470007d6e0e2" tvg-chno="827" tvg-logo="https://images.pluto.tv/channels/636adc255bcf470007d6e0e2/colorLogoPNG.png" group-title="USA" , Top Gear
+https://i.mjh.nz/PlutoTV/636adc255bcf470007d6e0e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-637404c6a80b2a0007da3f24" tvg-id="637404c6a80b2a0007da3f24" tvg-chno="1013" tvg-logo="https://images.pluto.tv/channels/637404c6a80b2a0007da3f24/colorLogoPNG.png" group-title="USA" , Are You Smarter Than A 5th Grader
+https://i.mjh.nz/PlutoTV/637404c6a80b2a0007da3f24-alt.m3u8
+#EXTINF:-1 channel-id="pluto-637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="598" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="USA" , Dateline 24/7
+https://i.mjh.nz/PlutoTV/637413d8531e0c0007442d6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6375236f8573640007802129" tvg-id="6375236f8573640007802129" tvg-chno="307" tvg-logo="https://images.pluto.tv/channels/6375236f8573640007802129/colorLogoPNG.png" group-title="USA" , AspireTV Life
+https://i.mjh.nz/PlutoTV/6375236f8573640007802129-alt.m3u8
+#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-chno="2356" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="USA" , Sailor Moon
+https://i.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63d9674b2e477400081b9858" tvg-id="63d9674b2e477400081b9858" tvg-chno="1353" tvg-logo="https://images.pluto.tv/channels/63d9674b2e477400081b9858/colorLogoPNG.png" group-title="USA" , The Dick Van Dyke Show
+https://i.mjh.nz/PlutoTV/63d9674b2e477400081b9858-alt.m3u8
+
 
