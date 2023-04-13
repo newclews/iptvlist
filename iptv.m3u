@@ -56,9 +56,9 @@ https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sbt.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://tv.urllista.org/live/1774RCRtFe/duoiptv/89451.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://45.230.96.42:80/distv/@distv/497
+http://tv.urllista.org/live/21970993131/z5s17fz5s/42637.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-http://45.230.96.42:80/distv/@distv/499
+http://tv.urllista.com/live/Marcelopalmeras/4q0hgaiqn1s/36947.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.sp.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
