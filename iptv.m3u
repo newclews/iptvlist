@@ -141,7 +141,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL FHD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD
 https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
@@ -211,7 +211,7 @@ http://168.205.87.198:8555/live/1501/123456/104.m3u8
 http://168.205.87.198:8555/live/1501/123456/168.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/globo.news.br.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
 https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/band.news.br.m3u8
