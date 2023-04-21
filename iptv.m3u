@@ -347,6 +347,8 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 https://eventos.live.impresa.pt/opto_in21080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BAND NEWS 2
 http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=9aa38dd969b518884f82610e485be8fc
+#EXTINF:0 type="stream" group-title="TV AO VIVO", logo="https://static.wixstatic.com/media/d67c96_930f4bbb7fd046299332da8dd97eeb2e~mv2.png/v1/fit/w_2500,h_1330,al_c/d67c96_930f4bbb7fd046299332da8dd97eeb2e~mv2.png", TV ZONA DA MATA
+https://video01.logicahost.com.br/tvzonadamata/tvzonadamata/chunklist_w1707086119.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
