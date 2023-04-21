@@ -141,8 +141,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
 http://d9tard1jbwri9.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/bandnews.png", BAND NEWS
-http://disfruta.net:80/miguelvaldez1388/enn9NXRobL/3193
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://static.clubsrv.me/logos/canais/cnn.png", CNN BRASIL FHD
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png", EURONEWS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
