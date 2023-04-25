@@ -14,7 +14,7 @@ http://168.205.87.198:8555/live/1501/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png", REDE SUPER
 http://168.205.87.198:8555/live/1501/123456/163.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://45.230.96.42:80/distv/@distv/418
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
 http://168.205.87.198:8555/live/1501/123456/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
@@ -86,7 +86,7 @@ https://stream.ichibantv.ga:3764/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/yeeaah-1024x250.png", YEEAAH TV
 https://d6tk2pyqxpvie.cloudfront.net/out/v1/29edaa4c342c4314850a01327290ac38/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
-https://video03.logicahost.com.br/foratedio/foratedio/chunklist_w984921838.m3u8
+https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w2028471059.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
 https://stream.urbantv.com.br/urbantv/mono.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
