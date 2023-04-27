@@ -32,7 +32,7 @@ http://209.222.17.241:5080/LiveApp/streams/872258137935361699746456.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w22241813.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
-https://acesso.ecast.site:3456/hybrid/play.m3u8
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
@@ -79,12 +79,12 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
+https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://quemquercupom.com.br/wp-content/uploads/2019/11/shoptime-600x296.png", SHOPTIME
 http://168.205.87.198:8555/live/1501/123456/164.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.ga:3764/stream/play.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ibitelecom.com.br/wp-content/uploads/2021/06/yeeaah-1024x250.png", YEEAAH TV
-https://d6tk2pyqxpvie.cloudfront.net/out/v1/29edaa4c342c4314850a01327290ac38/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
 https://srv5.zcast.com.br/foratedio/foratedio/chunklist_w2028471059.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
