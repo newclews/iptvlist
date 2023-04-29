@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV CIDADE 9
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1678443135.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", REDE METROPOLE
+https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png", REDE MINAS
 http://168.205.87.198:8555/live/1501/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
