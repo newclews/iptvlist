@@ -114,7 +114,7 @@ http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
-
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CoQFoqGLIfbXBAI3BSKIlIx6GMFayxj0HYtOhVQ57Qhgdq4hU68Z6M6FRXQyW5_mqmdF8mDSsq1zGLq7Q7oW-JjPXUAY1w75ZWuVZNUfKYXWUgWjigq0zR-wgiNelvRPwoXt_iMop5MeJcNY4lP5XQjenK34YqWqYNQlD6MpWreMfMvZD9EaPG-3ZnX5EQBMaiadDpcBjO_oS1aG3P8_iDNq84bjmPjFPJAzKKbJBZ9LJLTvgIXXqXftPpSduKtHgGeRSoutyDE3C1wPMSS5TxfPmadGH2TylISZQI0LaJHvekLGO7SBOmE0yMY9-6HgsbAfmZrMRdFX2hYjP-FFjqpZ8Q55jPwgjHJLLXuAmZ1zZaAdytm_GvfN_002U17TT9eqd5M7_bKxfW2Lby9ziyZbUi9is-5omYLNdF9S2wB3fpPMp6JOp3IJLNZvsI8estv82h0zEJQHOKNuk8wjV40PEgXgKutfbVL6Vp09dnS3UE3pFQrmPSTIYg2AgiT7HVVIM8Zp9ZgDkfpaFWvWEx-Ni0CgWzd8QAynFhVPOKyEa-oFKCJjawavPlSHXhwDgIOYK1GwspscnC7HNEXuJq8BSsQSmE9o3APTwIxGUiiykL4TW9po4aYCrtMSjob8LvbJjT2Ah65TpYFOCgWzaHkr6riPp7nvUkfJrF6wkTwuE-uCFbnaS_xlFM0EI-9aiYNE5xBiplBaP_zJrKpWNuATJdKdA6RXBjcU9Dk4DXqmpEcu5tOQACYdyhFnM_jtAQIAqnoMo3uVzTPvHpNHiZAZvP7FM24fwCQhyxFJvxiaq6G1NtpSI7NbfTyOvpk2qcPuO5Tonxk56DkIJMzE3TZ3p3aM_JcaDGtME_i-zfvtrNk3jiABKgl1cy1lYXN0LTEw-AQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://node2.ecast.site:3428/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE SMART
