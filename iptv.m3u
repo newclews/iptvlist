@@ -338,7 +338,7 @@ https://player.painelvox.com/player-ssl/8318/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png", ENERGIA 97 FM
 https://s1.streaming.inweb.com.br/energia
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51x4QvuJsWL.png", RADIO CIDADE RJ
-https://24363.live.streamtheworld.com/RADIOCIDADEAAC.aac
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/173.m3u8
 #EXTINF:0 type="stream" group-title="Radios", RADIO EMBALO FM
 http://stm9.painelvox.com:8362/stream.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
