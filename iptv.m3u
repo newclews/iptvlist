@@ -80,7 +80,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://quemquercupom.com.br/wp-content/uploads/2019/11/shoptime-600x296.png", SHOPTIME
-http://168.205.87.198:8555/live/1501/123456/164.m3u8
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/35.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
@@ -327,8 +327,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
 http://radio01.logicahost.com.br:8300/stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://yt3.googleusercontent.com/35T4QN6ursfsTGTcidaNcG-IcSfhwbfhir0BNqL9c9Hs3NqwpA3wmH55hde3GfDHVkNhQXIsyqw=s900-c-k-c0x00ffffff-no-rj", RADIO BICUDA FM
-http://stm11.srvaudio.com.br:10920/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/171.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/JArrmFi.png", RADIO CIDADE RETRÔ
 https://ssl.mestrestream.xyz:7616/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/R%C3%A1dio_Senado.svg/1280px-R%C3%A1dio_Senado.svg.png", RADIO SENADO FM
