@@ -313,8 +313,8 @@ http://stm19.stmsrv.com:31910/stream.mp3
 http://stm4.painelvox.com:8152/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", Radio Total Remix
 https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://www.brasilradios.com.br/wp-content/uploads/2015/06/jovem-pan-bh-fm-99-1.png", Radio Jovem Pan BH
-http://8a3c.live.upx.net.br:8036/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png", RADIO TRANSAMERICA RJ
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/179.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dumont_FM_logo.svg/1200px-Dumont_FM_logo.svg.png", Radio Dumont FM
 https://64-237-45-183.webnow.com.br/dumont.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
