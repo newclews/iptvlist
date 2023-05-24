@@ -36,7 +36,7 @@ http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w1553912716.m3u8
+https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w986173046.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/14_canal-sa%C3%BAde.png", CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
