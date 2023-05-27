@@ -378,9 +378,9 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME COMÉDIA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME CRIME
-https://stream.ads.ottera.tv/cl/230406cgnc8l574iogverdo6kg/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230527chp5m00bsvi5eh4gpa1g/1280x720_3071200_0_f.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME TERROR
-https://stream.ads.ottera.tv/cl/230406cgncjt4l7lmg6854s5gg/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230527chp5om3mgp5280ea45h0/1280x720_3071200_0_f.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes" , Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
