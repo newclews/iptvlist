@@ -52,7 +52,7 @@ http://168.205.87.198:8555/live/1501/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/sbt.br.m3u8
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/sbt.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://candra.solanaflix.com:8080/play/XnvezEWtQKUG9Mw4L-506IUHeGq7PgpMzmSh8PmGYb78Qc6HWG_EVS07ss0SoknR
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
@@ -152,7 +152,7 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/caracol.co.m3u8
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/caracol.co.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CNN PORTUGAL
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
@@ -184,7 +184,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/gloob.br.m3u8
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/gloob.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
@@ -236,7 +236,7 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-https://tvnow.best/api/stream/tico386@gmail.com/299759/livetv.epg/woohoo.br.m3u8
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/woohoo.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
