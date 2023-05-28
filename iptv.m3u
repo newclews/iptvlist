@@ -375,7 +375,7 @@ https://stmv1.srvif.com/canalstart/canalstart/chunklist_w820759420.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CAZE TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CAZÉ TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685315835/ei/m4xzZMKGKpi55gSep5XoDQ/ip/177.148.86.212/id/KUUwqcORPZo.1/source/yt_live_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPXhoAR5bokQ8N44OT8srNuwVKB98wTyICHPjP-lqpf-AiEAoWMa9HZE5kaMyH_LHxWj5TCdKUVyeCorgJqmgGzccoI%3D/file/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
