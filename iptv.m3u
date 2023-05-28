@@ -129,8 +129,8 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/themes/ligre/assets/img/logo-terceira-via.png" aspect-ratio="16:9", TERCEIRA VIA TV
-https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Super_R%C3%A1dio_Tupi_logo.png", RADIO TUPI RJ
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685307106/ei/gWpzZLanPKuU4dUPo_Kp6AU/ip/177.148.86.212/id/uYmCcgGP7iI.1/source/yt_live_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOksMMlTCZhNrGk2EQfMqlTbWwkz0U-M9ycUoN_jmaViAiAsKx-aH0RPbszyqdNEzpIFH5LDAYJsgBp8YMDo-66Seg%3D%3D/file/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
