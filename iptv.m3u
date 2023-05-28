@@ -52,7 +52,7 @@ http://168.205.87.198:8555/live/1501/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
-https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/sbt.br.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685305027/ei/Y2JzZJ6IDuKa4dUPnIi60AI/ip/177.148.86.212/id/aZiQ6-F_RdE.1/source/yt_live_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDJeShNGCvUk4_YEgtyPxJ7Vx8h4WlAsItQoKXnPgxhICICBNbZkau56_068dqqi-6l_ySehk-Hb7acDKGeWwPwqM/file/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://candra.solanaflix.com:8080/play/XnvezEWtQKUG9Mw4L-506IUHeGq7PgpMzmSh8PmGYb78Qc6HWG_EVS07ss0SoknR
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
