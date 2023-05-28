@@ -349,6 +349,8 @@ https://eventos.live.impresa.pt/opto_in21080p.m3u8
 https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/band.news.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RECORD RJ 2
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (HORARIOS ALTERNADOS)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685314224/ei/UIZzZKfuFM3cwwT2hrWACA/ip/177.148.86.212/id/mA_J_lpGsos.0/source/yt_premiere_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgKQohEl2kB3WY9-RKWSAU7LXC0FDtpZup5MVnLSxgfbkCH38bZfuEDtxAXOVVlPfjV5tA70igo3tH-8W_EmsxK-M%3D/file/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
@@ -379,8 +381,6 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME CRIME
 https://stream.ads.ottera.tv/cl/230527chp5m00bsvi5eh4gpa1g/1280x720_3071200_0_f.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://", ACRITICA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685314224/ei/UIZzZKfuFM3cwwT2hrWACA/ip/177.148.86.212/id/mA_J_lpGsos.0/source/yt_premiere_broadcast/requiressl/yes/tx/24472431/txs/24472427%2C24472428%2C24472429%2C24472430%2C24472431%2C24472432%2C24472433/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgKQohEl2kB3WY9-RKWSAU7LXC0FDtpZup5MVnLSxgfbkCH38bZfuEDtxAXOVVlPfjV5tA70igo3tH-8W_EmsxK-M%3D/file/index.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes" , Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
