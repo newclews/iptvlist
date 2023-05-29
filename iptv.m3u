@@ -347,8 +347,6 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 https://eventos.live.impresa.pt/opto_in21080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BAND NEWS 2
 https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/band.news.br.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO RJ 2
-http://edyth.solanaflix.com:8080/play/DQ5TojYNw0Kp1B4CZApLX5OcN9VPe_rJHoi-wJtTznFtRiXDEBkXi-aqoYFs7eY2
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RECORD RJ 2
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
