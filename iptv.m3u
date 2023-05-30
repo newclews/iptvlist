@@ -351,10 +351,8 @@ https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/band.news.b
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MODO VIAGEM 2
-http://xdplay.tv:8080/play/pfjDsYhEUM6R3uun8OmfH5ct431RP-F50H9mnROmhNdYaGlEFIdivihLR-wrh9O3/m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-https://tvnow.best/api/stream/jahdime@msn.com/713027/livetv.epg/viva.br.m3u8
+https://tvnow.best/api/stream/mail4pols@gmail.com/234961/livetv.epg/viva.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
