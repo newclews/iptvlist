@@ -113,8 +113,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CAZE TV (TESTE)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1685828403/ei/0157ZK_mK9CaobIP2fuWoAo/ip/177.148.86.212/id/cO9mBIwQi3k.2/source/yt_live_broadcast/requiressl/yes/tx/24360209/txs/24360208%2C24360209%2C24366880/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/spc/qEK7Bwdif7kmrDj0xmn-sywrYrnORyvP2CdlJ6LpKA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391%2C51000013/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMpF1MUWpcwgEUdC679PzPz4dSoM9Ul3S_RowAhtB-HlAiA_oHioAOF1PljPyP5F3yb-R6wGzLfkcg7BOXqu2fAE_Q%3D%3D/file/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PLAYPOCA
+http://168.205.87.198:8555/live/1501/123456/238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://node2.ecast.site:3428/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE SMART
@@ -261,20 +261,20 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGA TV
 http://168.205.87.198:8555/live/1501/123456/226.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 1
-http://168.205.87.198:8555/live/1501/123456/216.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 3
-http://168.205.87.198:8555/live/1501/123456/218.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 4
-http://168.205.87.198:8555/live/1501/123456/219.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 5
-http://168.205.87.198:8555/live/1501/123456/220.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 6
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 7
-http://168.205.87.198:8555/live/1501/123456/222.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC CLASSICS
+http://168.205.87.198:8555/live/1501/123456/231.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BLACK
+http://168.205.87.198:8555/live/1501/123456/232.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC HITS
+http://168.205.87.198:8555/live/1501/123456/233.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC LATINO
+http://168.205.87.198:8555/live/1501/123456/234.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC PARTY
+http://168.205.87.198:8555/live/1501/123456/235.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC POP
+http://168.205.87.198:8555/live/1501/123456/236.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC ROCK
+http://168.205.87.198:8555/live/1501/123456/237.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 9
