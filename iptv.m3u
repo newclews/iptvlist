@@ -320,7 +320,7 @@ https://64-237-45-183.webnow.com.br/dumont.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
 http://radyo.yayin.com.tr:5998//;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51sGEtB3QjL.png", POSITIVIDADE FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3?1678616101890
+https://24253.live.streamtheworld.com/POSITIVIDADE_FM_ADP/HLS/f438c7e2-43d8-4c33-b906-1a593a9adf25/0/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
