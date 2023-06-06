@@ -62,7 +62,7 @@ http://143.137.216.38:8080/gmsolucoes/gm121109/451
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://acsc.cc:80/rg_advogados@outlook.com3/Tv452973/72040.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-22-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjg2MDg1MTk4LCJpYXQiOjE2ODU5OTg3OTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.MCG62G4iBSqs57ZpTdNlLLPjR-zG9wUY1VAsWUP6UqgrsFtLbKXr_CYVMW4HF9xNhTtsbytt1tFN9fRW5DqG72CeFg-s4wG4n3qub1zPPa4I8bIS5CIsAJvHtU6Uxxna0OPjCLtBMKZzPb1lQuXaXUavKrNOFd1IIJXdLYCncrqZQ1CjHqgxeqzrOti1R6vxrgBmGdna_q64ahp-T-GaBh7ZM6Uw75IsQu7XH_iKCFHXo7dyARm_tFV067Q2ZQMEUPfqwko9vdJ8XLQ8W1EOvAb0PAVzXqu6SDUC1V1fE_ZgsqJmVM62cXDqea_6eITjEtvxVZva8FgJEdkXFKfr7A/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+https://live-cm-ah-21-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjEtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjg2MTcxNjA5LCJpYXQiOjE2ODYwODUyMDksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.lgE08o7IGnx_W5wsKmfJDt9Dj0POaNG7esqJAZHw7eogYT2NHgSvgsARLfqieeV_ujIxhyTX7DDYVSy_Yv60jNNNNzC3UPkPJlThw_FV3JqsiZ43X25oHtoayTw9fMAt-c3yFBw-Z7oiEtJ2KQOwp5fh9V5cVPHXlMeSqvCskKxxn3c3TJMLksEccm-G2NEpg42woTEAwMIwXkndDL0QISxkIsyyrJM6vh-xu1HsqpkYoLefaqHjla2z-HfOqF3Ixo3Gvuy0mtrJewI35EAwkKFybWu3WgpbdCiHY4o9MAN1hOCKkVMQeX8HJMMTPYp6Imou1d7jPN5ZnM6ohSK6BQ/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
@@ -329,8 +329,8 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 http://radio01.logicahost.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/171.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/JArrmFi.png", RADIO CIDADE RETRÔ
-https://ssl.mestrestream.xyz:7616/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/R%C3%A1dio_Senado.svg/1280px-R%C3%A1dio_Senado.svg.png", RADIO SENADO FM
 https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w1227646429.m3u8
 #EXTINF:0 type="stream" group-title="Radios", Hertz FM
