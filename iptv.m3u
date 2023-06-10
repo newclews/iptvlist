@@ -79,8 +79,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://quemquercupom.com.br/wp-content/uploads/2019/11/shoptime-600x296.png", SHOPTIME
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/632391734be92a791e2750e6/publish/media_1000.m3u8?aid=589b13f631f1bebd088ff753&uid=6uF7yO3jydIBhNnmimpXMyhwwZvcVpf8&sid=2F4avDwB0jgbjKFWnpIk0dEQfCSveCQl&pid=Jme0z8kaJ33xSuC8It5F0hg98ubTZz2o&ref=https%3A%2F%2Fnoticias.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1685822662632&ot=uHvSB-VCCI8TC364YLJ_Rw&proto=https&pz=us
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png", TV ACRITICA
+https://98.utojuli.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
