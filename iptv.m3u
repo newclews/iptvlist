@@ -243,7 +243,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RADIO TUPI RJ (AO VIVO)
 https://tu.newclews.workers.dev/stream/carnavalnatupi/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RADIO CBN (YOUTUBE)
+#EXTINF:0 type="stream" group-title="TV AO VIVO", RADIO CBN
 https://cbn.utojuli.workers.dev/stream/cbnrede/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", VH1 CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
