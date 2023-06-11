@@ -351,8 +351,6 @@ https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/band.news.b
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO RJ 2
 http://firp.me:80/live/TeP0zd/7mYuL7/381780.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
-https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 https://tvnow.best/api/stream/mail4pols@gmail.com/234961/livetv.epg/viva.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
@@ -375,6 +373,8 @@ https://newclews.newclews.workers.dev/stream/noticiascaracol/master.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
+https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CAZÉ TV
 https://cz.utojuli.workers.dev/stream/CazeTV/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
