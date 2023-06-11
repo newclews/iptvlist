@@ -52,7 +52,7 @@ http://168.205.87.198:8555/live/1501/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
-https://tvnow.best/api/stream/jahdime@msn.com/713027/livetv.epg/sbt.br.m3u8
+https://sbsp.newclews.workers.dev/stream/SBTCENTRAL/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://atlas.solanaflix.com:8080/play/ZH780u7-4JRcRZXW9wo7hDmpZJ6nKP_wSFOUbact3-u-xyhCo9r74_qRc-c5Alzl
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
