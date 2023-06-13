@@ -79,8 +79,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://diaestudio.com/wp-content/uploads/2023/04/logo-diatv.png", DIA TV
-https://di.newclews.workers.dev/stream/DiaEstudio/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rede.Uni%C3%A3o.de.Televis%C3%A3o.png/1200px-Rede.Uni%C3%A3o.de.Televis%C3%A3o.png", REDE UNIÃO
+https://stmv1.samcast.com.br/josealberto9608/josealberto9608/chunklist_w1326175216.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.foratedio.com/img/logo-fora-tedio-tv-white.png", FORA TEDIO
