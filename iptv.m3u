@@ -113,7 +113,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1501/123456/159.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/A0CiaFA.png", PLAYPOCA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/I4TE7hb.png", PLAYPOCA FILMES
 http://168.205.87.198:8555/live/1501/123456/238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://gazetaimperial.com.br/wp-content/uploads/2021/02/LOGO-TV2.png", IMPERIAL TV
 https://node2.ecast.site:3428/live/imperiallive.m3u8
