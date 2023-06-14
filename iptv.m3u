@@ -351,8 +351,8 @@ https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/band.news.b
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO RJ 2
 http://firp.me:80/live/TeP0zd/7mYuL7/381780.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DIA TV
-https://di.utojuli.workers.dev/stream/DiaEstudio/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
+https://
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
