@@ -368,7 +368,7 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NOTICIAS CARACOL
-https://newclews.newclews.workers.dev/stream/noticiascaracol/master.m3u8
+https://cara.newclews.workers.dev/stream/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
