@@ -75,22 +75,22 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 http://177.137.208.46:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w39649666.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO RJ 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
 http://firp.me:80/live/TeP0zd/7mYuL7/381780.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOBO MG
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1501/123456/70.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RECORDTV MG
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RECORDTV MG
 http://168.205.87.198:8555/live/1501/123456/96.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV ALTEROSA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://w7.pngwing.com/pngs/1018/649/png-transparent-governador-valadares-tv-alterosa-affiliate-sbt-tv-alterosa-juiz-de-fora-juiz-logo-computer-wallpaper-brazil-thumbnail.png", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RIT
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png", RIT
 https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", REDE SMART
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalsmart.com.br/imagens/logo.png", REDE SMART
+https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w2123441883.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w2123441883.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -253,7 +253,7 @@ https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RADIO TUPI RJ (AO VIVO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
 https://tu.newclews.workers.dev/stream/carnavalnatupi/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://tomo.newclews.workers.dev/stream/tomorrowland/master.m3u8
