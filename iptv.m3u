@@ -257,6 +257,10 @@ https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 https://tu.newclews.workers.dev/stream/carnavalnatupi/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://tomo.newclews.workers.dev/stream/tomorrowland/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmixbr-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", VH1 CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -293,10 +297,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmixbr-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
-https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
