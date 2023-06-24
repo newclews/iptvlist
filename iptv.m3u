@@ -239,6 +239,8 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (YOUTUBE)
+https://ythls.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
