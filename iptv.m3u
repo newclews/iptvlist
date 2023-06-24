@@ -241,7 +241,7 @@ https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV
 https://ythls.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png" FLU TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV
 https://ythls.onrender.com/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
