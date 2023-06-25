@@ -263,6 +263,8 @@ https://tu.newclews.workers.dev/stream/carnavalnatupi/master.m3u8
 https://ythls.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (SP) (NO 24/7)
 https://ythls.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (RJ) (NO 24/7)
+https://ythls.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://tomo.newclews.workers.dev/stream/tomorrowland/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
