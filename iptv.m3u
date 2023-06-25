@@ -227,8 +227,6 @@ https://stmv1.paineltv.net/miguel1318/miguel1318/chunklist_w1394480652.m3u8
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM RISE SERIES
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EXTREMO ORIENTAL TV
-http://187.95.95.241:7987/soultv/tracks-v3a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 1
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
@@ -353,8 +351,6 @@ http://stm9.painelvox.com:8362/stream.mp3
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
 http://sc.powerhitz.com:5040/;stream/1.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="", FOLHA POLITICA (NO 24/7)
-https://ythls.onrender.com/channel/UCYiM773ssvNMaBHvaWWeIoQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SIC NOVELAS
