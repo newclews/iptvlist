@@ -355,6 +355,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NO 24/7)
+https://ythls.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
