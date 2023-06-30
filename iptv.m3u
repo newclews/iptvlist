@@ -258,7 +258,7 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
-https://tu.newclews.workers.dev/stream/carnavalnatupi/master.m3u8
+https://ythls.onrender.com/channel/UCdVRtE_84iZufDiQRX-49Lw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/2560px-CBN_logo.svg.png", RADIO CBN (NO 24/7)
 https://ythls.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (SP) (NO 24/7)
