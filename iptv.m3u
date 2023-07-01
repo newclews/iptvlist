@@ -177,7 +177,7 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.sbtvideos.com.br/assets/images/sbt-videos.png", CANAL DA PRAÇA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png", PEGADINHAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
@@ -207,7 +207,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV RA TIM BUM
 http://168.205.87.198:8555/live/1501/123456/84.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.sbtvideos.com.br/assets/images/sbt-videos.png", TV ZYN
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ZOO MOO KIDS
 http://168.205.87.198:8555/live/1501/123456/162.m3u8
@@ -235,7 +235,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GE FAST
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/1tQrpYJ.png", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
@@ -359,7 +359,7 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", RECEITAS FAST
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
 https://ythls.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
