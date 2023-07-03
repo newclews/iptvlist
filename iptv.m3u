@@ -139,6 +139,8 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvterceiravia.com.br/wp-content/uploads/2023/01/02-LOGO-J3NEWS-TV.png", J3 NEWS
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
 http://143.137.216.38:8080/gmsolucoes/gm121109/229
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
@@ -179,8 +181,6 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rotacult.com.br/wp-content/uploads/2023/05/DIATV.png", DIA TV
-https://ythls.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://2.bp.blogspot.com/-td27OnhWnWY/VPCqdDyTizI/AAAAAAAAAD4/2OsPXhjm2J8/s400/logo_blog_azul.png", PEGADINHAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SOUTH PARK
