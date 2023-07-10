@@ -68,7 +68,7 @@ http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
-http://168.205.87.198:8555/live/1501/123456/69.m3u8
+https://www.dailymotion.com/cdn/live/video/x89qors.m3u8?sec=xH_DbOqNz16EgxPh-iEbiuxkgnjQg0Gf1DRbx_bdx1oXDrAQn4H4ItgAEewKT0xH&dmTs=13984&dmV1st=ef9aafd5-259c-4838-a16a-c5023eac919c
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png", REDE BRASIL
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w700662972.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BR SUPER TV
