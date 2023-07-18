@@ -4,7 +4,7 @@ http://168.205.87.198:8555/live/1501/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA
-https://ythls.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+https://riocam.utojuli.workers.dev/stream/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1501/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MAIS ABC
@@ -84,7 +84,7 @@ http://168.205.87.198:8555/live/1501/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://clinicaitabayana.com.br/wp-content/uploads/2023/01/TV-ATEROSA.png", TV ALTEROSA
 http://177.85.235.20:8000/play/a011/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png", RIT
-https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+https://rit.utojuli.workers.dev/stream/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png", TV ACRITICA (NOT 24/7)
 https://ythls.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
