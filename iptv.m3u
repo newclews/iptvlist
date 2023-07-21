@@ -267,8 +267,8 @@ https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 https://tu.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (SP) (NOT 24/7)
-https://ythls.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
+https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (RJ) (NOT 24/7)
 https://ythls.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
@@ -363,8 +363,6 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
