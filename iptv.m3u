@@ -62,7 +62,7 @@ http://143.137.216.38:8080/gmsolucoes/gm121109/451
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://acsc.cc:80/rg_advogados@outlook.com3/Tv452973/72040.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-15-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTUtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjg5OTc0MzAyLCJpYXQiOjE2ODk4ODc5MDIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.nvV-oxwtChY8k9QQIvTRFyR-_GK9K0TJT0IMc72BziROJAa8w9JbkILx74g-daEvx59_MpjbEdLhzKu4YQ_SbCV8NwykHgkqYVexnqa-Kma9xJ-LemCYYHGGzUdV4PxsaNJ-IyZ7x9HCc5A18unEL-xNvXm8DxD2dojO-R4bcy73qlLOs5Gfkd4fyeoXgeIh-errn0wfc_yPp5JuWJi-9TBP3IPD_uEJRatYdHkiiNfc5vuiRG6s5w9-WE7xJcqoUmpitZuI-nvQIrtMBqsqUpLaUIIa3SfPKeacZbGPDKbD5NBVFVZ7AjS5Gl2S57hodw3qnHF-89ONbn7P3H2ecA/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+https://live-cm-ah-18-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTgtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkwMDYwMTUxLCJpYXQiOjE2ODk5NzM3NTEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.iKrmw1csVGko17yczCevRT2QOTU7BGRaUsM1LQy-xdtUTwG1J1qBeg8piPg13Xzi8Yk8ItqN1metZCvLho5YimCvG1qM56_Iyz8fG_w4pDRJSAnEPUsLQhmkutAcMBy6oW257HaM48297EvIYOJ5x5Aer6nfO8A64ImKROo26BAqB0IoAECJWeo1GW-gSYEcNhIxOpw76B8zgcmzk4WiwtDm5rmrfqH4HGj1AzkVxu0HJykjhhcBaKEDo_LUe5omet2qsSzyQdjBh-ywtNHqQxxcMhwb3YzwuvI98s97Utz7SHcBtNj2LhGDur3LP1GLWu31hiwQ3eYC1uhPZ3XcjA/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO
@@ -265,8 +265,8 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
 https://tu.newclews.workers.dev/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/2560px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
-https://ythls.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
+https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (SP) (NOT 24/7)
 https://ythls.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (RJ) (NOT 24/7)
