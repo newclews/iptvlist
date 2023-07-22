@@ -213,6 +213,8 @@ http://168.205.87.198:8555/live/1501/123456/84.m3u8
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
 http://168.205.87.198:8555/live/1501/123456/162.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/29/a2/c6/29a2c6b2679c4c91408a8d9591574c30.png", BOB ESPONJA
+https://ythlsgo.onrender.com/channel/UCx68_7D0FoZSu_u0z7Qc8sQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
@@ -269,8 +271,6 @@ https://tu.newclews.workers.dev/index.m3u8
 https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/BandNews_FM_logo_2019.png", BAND NEWS FM (RJ) (NOT 24/7)
-https://ythls.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://tomo.newclews.workers.dev/stream/tomorrowland/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
