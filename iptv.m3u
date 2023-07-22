@@ -1880,8 +1880,5 @@ https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="3450" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="USA" , CBS News Texas
 https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://stream-03.nyc.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k_PBJkBeGL51oXbn95GdbNI4vgh375U-ai8-subuz_U2)/dm/3/xkxbzc/d/live-2.m3u8#cell=lnyc
+
 
