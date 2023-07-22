@@ -4,7 +4,7 @@ http://168.205.87.198:8555/live/1501/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA
-https://ythlsgo.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+https://ythlsgo.onrender.com/video/zTzUaG-XZaI.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1501/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MAIS ABC
