@@ -363,6 +363,8 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/2560px-Logo_of_Curta%21.svg.png", CURTA
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", WISE PLAY TV
 https://node1.ecast.site:3502/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.chivemediagroup.com/images/template/img-property-chive-tv@2x.png", CHIVE TV
