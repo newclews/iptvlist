@@ -249,6 +249,8 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 https://ythlsgo.onrender.com/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", JOGO ABERTO (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCZaOZdn-Y-I5ikrofkWBLgQ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" TNT SPORTS (NO 24/7)
+https://ythlsgo.onrender.com/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
