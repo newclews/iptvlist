@@ -84,7 +84,7 @@ http://168.205.87.198:8555/live/1501/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://clinicaitabayana.com.br/wp-content/uploads/2023/01/TV-ATEROSA.png", TV ALTEROSA
 http://177.85.235.20:8000/play/a011/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png", RIT
-https://rit.utojuli.workers.dev/stream/index.m3u8
+https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png", TV ACRITICA (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
@@ -245,6 +245,8 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPORTE NA BAND (NOT 24/7)
+https://ythlsgo.onrender.com/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
