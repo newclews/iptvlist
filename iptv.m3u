@@ -391,6 +391,8 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MOVIES
+https://demo.cdn.tv.br/media/n/BZe2mJq4y2GYmdq0mtmX/a/playlist.m3u8?ch=BZe2mJq4y2GYmdq0mtmX&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTA0NTM0MjUsImlhdCI6MTY5MDQzNTQyNSwic3ViIjoibWFpbi5vcmcjMTY2NjAyOTAxMSJ9.JEKOIgUVfryEp6bS88uVfN_TKvgAhAanmynwlcgsjIU 
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ULB TV
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
