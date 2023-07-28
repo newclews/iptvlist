@@ -245,10 +245,6 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPORTE NA BAND (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", JOGO ABERTO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCZaOZdn-Y-I5ikrofkWBLgQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" TNT SPORTS (NO 24/7)
 https://ythlsgo.onrender.com/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
@@ -263,26 +259,28 @@ https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/woohoo.br.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGGA TV
-http://168.205.87.198:8555/live/1501/123456/226.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png", PLAY TV
-https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
+https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
+https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
 https://tu.newclews.workers.dev/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://tomo.newclews.workers.dev/stream/tomorrowland/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", QWEST TV MIX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmixbr-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" , MEGGA TV
+http://168.205.87.198:8555/live/1501/123456/226.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PlayTV20062020.png/250px-PlayTV20062020.png", PLAY TV
+https://playtv.mediastreaming.com.br/play/live.stream/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2021/09/MTV-Logo.png", MTV
+http://cdn2.connectbr.com.br/mtv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png", VH1 CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
