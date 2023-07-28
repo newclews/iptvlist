@@ -197,6 +197,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/104/original/urban-kidspng.png" aspect-ratio="4:3", URBAN KIDS
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -245,7 +247,9 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" TNT SPORTS (NO 24/7)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
+https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS (NO 24/7)
 https://ythlsgo.onrender.com/channel/UCs-6sCz2LJm1PrWQN4ErsPw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
