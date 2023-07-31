@@ -359,12 +359,12 @@ http://stm9.painelvox.com:8362/stream.mp3
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
 http://sc.powerhitz.com:5040/;stream/1.mp3
-#EXTINF:0 type="stream" group-title="TV AO VIVO", OS DEZ MANDAMENTOS
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/tzYimlq.png", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/p7tvqin.png", NOVELANDO
+http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", WISE PLAY TV
-https://node1.ecast.site:3502/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.chivemediagroup.com/images/template/img-property-chive-tv@2x.png", CHIVE TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
