@@ -259,6 +259,8 @@ https://ythlsgo.onrender.com/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
 https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png", COMBATE
+http://51.83.238.223:16417/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/woohoo.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
