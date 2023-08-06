@@ -163,8 +163,6 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 https://cara.newclews.workers.dev/stream/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/2560px-Logo_RTVE.svg.png", RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png", CANAL CAPITAL
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/live-1500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL TV
@@ -173,6 +171,8 @@ https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/caracol.co.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png", RTP
+http://162.212.178.69:41042/bysid/608
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
