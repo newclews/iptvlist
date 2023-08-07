@@ -44,7 +44,7 @@ https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/15.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-http://168.205.87.198:8555/live/1501/123456/134.m3u8
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/28.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
@@ -212,7 +212,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-http://168.205.87.198:8555/live/1501/123456/84.m3u8
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/24.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
@@ -264,7 +264,7 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png", COMBATE
 http://51.83.238.223:16417/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/woohoo.br.m3u8
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV JORNAL (PE) (NOT 24/7)
@@ -323,6 +323,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/163.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
@@ -350,7 +352,7 @@ https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/179.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
 http://radyo.yayin.com.tr:5998//;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51sGEtB3QjL.png", POSITIVIDADE FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/POSITIVIDADE_FM.mp3
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/122.ts
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
 http://radio01.logicahost.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
