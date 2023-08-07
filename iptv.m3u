@@ -265,6 +265,8 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 http://51.83.238.223:16417/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/woohoo.br.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV JORNAL (PE) (NOT 24/7)
+https://ythls.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", OESTE SEM FILTRO (NOT 24/7)
