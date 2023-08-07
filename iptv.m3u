@@ -62,7 +62,7 @@ http://143.137.216.38:8080/gmsolucoes/gm121109/451
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://acsc.cc:80/rg_advogados@outlook.com3/Tv452973/72040.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-07-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDctMzgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkxNDg1MTYxLCJpYXQiOjE2OTEzOTg3NjEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.BW8H5gttBCWKv3Yh9RGHk21BqiYckzJXioC8Ad7vmbnSQaZ5GHYdWzMcESsJwACrLn6hhURhXZ9ZIAMoP48CUFIBYe_EK_thC6OGxmZpFPQyQ_Rml6sAyj2EF5jLydNcxZ45wVEfTl-B4ZfU8iJKKSd859uvUhh8ZZg-ExP6UscZ3e2NPytzbyEAytt14yqzzlw1syi4SgRyfOBRW0JV6j8Bi7UAhCP4z46eCDimKxMBEn7oQEnCvNTsClYCWqpQtgzMqj3IPMTNpHZiZOgO4i1iUpfPXPSeuN2B-cXqh2uK1hf1XyZc-ws-zMP7VVm7-dn2Xh9G1PIWha0zGzCyzQ/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+https://live-cm-ah-14-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkxNTMxNjg1LCJpYXQiOjE2OTE0NDUyODUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.ibKEtdVyaFq8g7pS0n9JqNnS5ZhtmAeR1KLtVIiNN0Wzl3l06FD8KqfbRAJsZHr1KSOV8an1wDkLLnAFHczoB_EDEluuiLFl9z3rHwdmghFtvUu4YLjvwlz17qOigA49l6TbDKcwzAUnbepUoFsU8qFfgOAfoOgeD4oVgkyZDqJK3oyiahTx2nTf1A7tvh_x-O6KtQWU4BZCnrOe87aXKSwzwIvU5ukcGjT3Gjn_FOfwAn7byubfXEe8LHf6T8joFfWuLF7S70GmvlIoS61tbN2f5c1cTRyjjWjHQPlyZl3ZBPlHLQhk7UtMc2rzq0xNcArOfurkUIIvMe5shpRieQ/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -417,6 +417,8 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png", ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
+http://cdn.connectbr.com.br/paramount/index.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-chno="1" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="Pluto TV" , Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
