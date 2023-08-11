@@ -267,7 +267,7 @@ http://51.83.238.223:16417/
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV JORNAL (PE) (NOT 24/7)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
