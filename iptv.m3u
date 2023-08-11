@@ -275,6 +275,8 @@ https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
 https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP
+https://ythlsgo.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
