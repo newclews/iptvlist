@@ -62,7 +62,7 @@ http://143.137.216.38:8080/gmsolucoes/gm121109/309
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://turoisherego.xyz:2095/Tourobox1-lives9556077276/7784489147/294
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-19-41.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTktNDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkyMzkzOTI2LCJpYXQiOjE2OTIzMDc1MjYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.drDo2kTJQQfM0bUf92Xv8J5ZRvYq63f9Z1CwW0GbVBfPEQFN5mikZ_bcNakJ4jIdbjdgVFNbUO70e9eHc12Df_Fc1epsqxy_nXmPKkhVtBYhgVM4WOWz2n8-xvU4BfkjYC2V0VYuaU1v4YHIhSrPOARXHV4aWc9Kk6sM3erVrtZB66yivYxfo-zXjb13NATE24WFXOi39btrEIWJ-gW3EvM7H3WOw_m6xn_PMjqHgw9LBrLvDNR_FMIGqWn-OQSZpVofrVtRuvnk4xKHTd1y-bKpTdTby57UyYT0sv6Kz5-cZiwX0eObzT-T18Ho6OuCQLf-nB3KnaJsY4WKoTjmvg/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
+https://live-cm-ah-22-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjkyNDc5MDQ1LCJpYXQiOjE2OTIzOTI2NDUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49MjAwMCxkdnI9MTIwLGk9MikvZ2xvYm8tcmovcGxheWxpc3QubTN1OCJ9.cUVCiPNp982lQZMwFMbdYC-IBTsQE2MFPpOecqChoOmT6OnL2gNkxTOLmNAH2qBwb7tOj5eyLk25oQgQvUlobFghDLU8jo7L-wPbJ60Zt6Aog6t5J1q4blMonSyBGNXQhLwPqMuTB18BVduh7nQZzZBkEH1bWOeWk-2RXIUSW-KBNZtjBmu3-iMVAzRmm1tvuBtZSp0WLXqkV80aV70xPnYrEgJsHYQONi38hSYsiRRKlGhZNr_H4BvS2lh0vQ0rOxpfT38DmwaFIlCA8xC0Qu8ZlMi8_VUbpBvZZSA8RoE7CnDrxqAfTpQ_z464il50VctsTIjgglvULW6HhvxqXw/nu/f(bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -574,6 +574,8 @@ https://i.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
 https://i.mjh.nz/PlutoTV/6102e04e9ab1db0007a980a1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f32d2db0af67400077f29c4" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Esportes" , Pluto TV Esportes
 https://i.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64b02be14ea480000831ec78" tvg-id="64b02be14ea480000831ec78" tvg-chno="838" tvg-logo="https://images.pluto.tv/channels/64b02be14ea480000831ec78/colorLogoPNG.png" group-title="Esportes" , DAZN Women's Football
+https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6144d088516ea8000739076a" tvg-id="6144d088516ea8000739076a" tvg-chno="845" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Esportes" , FUEL TV
 https://i.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-609ae66b359b270007869ff1" tvg-id="609ae66b359b270007869ff1" tvg-chno="929" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Comédia" , Comedy Central South Park
@@ -664,6 +666,8 @@ https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6202a7fcfb1b100008811f54" tvg-id="6202a7fcfb1b100008811f54" tvg-chno="1450" tvg-logo="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Infantil" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202a7fcfb1b100008811f54-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645951c0e94c38000802d2cb" tvg-id="645951c0e94c38000802d2cb" tvg-chno="1455" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="Infantil" , Nick Pluto TV
+https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62545c0b002f4b0007688b61" tvg-id="62545c0b002f4b0007688b61" tvg-chno="1460" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Infantil" , Bob Esponja Calça Quadrada
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63221e41af69b500076f84e7" tvg-id="63221e41af69b500076f84e7" tvg-chno="1465" tvg-logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png" group-title="Infantil" , Os Padrinhos Mágicos
