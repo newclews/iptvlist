@@ -116,7 +116,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png", MY TIME MOVIE
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+http://45.230.96.42:80/distv/@distv/434
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://peganet.com.br/wp-content/uploads/2020/11/121-HELLO-TV.png", HELLO TV
