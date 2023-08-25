@@ -216,7 +216,7 @@ https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/24.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/25d5aca2-abb7-4169-a981-7ca8a98b26b3/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
-http://168.205.87.198:8555/live/1501/123456/162.m3u8
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
