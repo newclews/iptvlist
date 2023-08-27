@@ -166,7 +166,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/2560px-Milenio_%282018-10-27%29.svg.png", MILENIO TELEVISION
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL TV
-http://atlas.solanaflix.com:8080/play/MDvlvO_gn6ZjrnfT_A2CE7ENdqCAjRKeWzwMTSEq-QoYCHegg_7warU2XIuOa_oj
+http://tranquilisimotv.duckdns.org:2082/A1072/ArC3wuh3jXSJ/377986
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png", TELEPACIFICO
