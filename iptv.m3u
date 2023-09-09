@@ -204,7 +204,7 @@ http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://186.226.215.132:80/123321/123321/190
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 1
-https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+http://186.226.215.132:80/123321/123321/219
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
