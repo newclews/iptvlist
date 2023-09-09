@@ -201,8 +201,8 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/gloob.br.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
+http://186.226.215.132:80/123321/123321/190
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 1
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
