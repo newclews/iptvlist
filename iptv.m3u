@@ -459,8 +459,8 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png", ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://199.127.60.83:16004/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
+http://187.95.95.18/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://cdn.connectbr.com.br/paramount/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
