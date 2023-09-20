@@ -76,7 +76,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w39649666.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RTN TV
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/chunklist.m3u8
+https://cdn.jmvstream.com/w/AVJ-15019/playlist/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1501/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RECORDTV MG
