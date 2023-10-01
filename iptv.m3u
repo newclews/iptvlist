@@ -241,6 +241,8 @@ http://168.205.87.198:8555/live/1501/123456/62.m3u8
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALERJ
+https://ythlsgo.onrender.com/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 http://186.226.215.132:80/123321/123321/214
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
@@ -263,8 +265,6 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DAZN COMBATE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
-http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
