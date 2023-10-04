@@ -62,7 +62,7 @@ http://520659816831332110.of230922.xyz:80/play/vi820410/ssxDfMMNeq8/332110.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-24-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk2Mzg0MDMxLCJpYXQiOjE2OTYyOTc2MzEsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.oTaSsMY85JuQXwoYr-Udu4CW8lzq2pgSQE0nFJ5k4CLngebhOSDAXdcIObtngRvrn4u5yNiPWSL4-I1Ht2IKo-YxDXV3CC8dBmXkR3IDwWgk6Ob9Qq1h5h6Vr110x7LXh8srcYlynneUc3nwjCAfgistsKPzSEu7UuqtvrSAiXNg_vpSTr4UYSqtVzfBMeQCXbtDaF5WiVZOC0xOrzdPQQGY-dUi3wPHkrHBaHUNqO1q4hkyLgU8vPmeWemsdSYoOUy9zUBkBb5FyiUE7pXYdyMPQpTMJWG342OQyHlcX9DYA-zkaOlr9if2O5NEXTQlyKoWZ50U6MIiF0aPaIV0NA/nu/f(bMin=900000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate>=900000&dvr_window_length=120
+https://live-cm-ah-19-41.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTktNDEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk2NDcxOTY4LCJpYXQiOjE2OTYzODU1NjgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.JBSGeV0zIp1QOW5He157K3RPWWiC-efGQppcNoVn7OC98j1xHAQlt46eBvRuzWpUHKf_kAVbL29aRYwoYGlrN5PJ6_Sp0gYF4OuuVshpSO_LJrVqhZI5qhWqjbNoBReiWzFR5mmfjB1iGWgG_IDAmmVBgmzwBtON4xy1QQMjBqhQ_Tsx3RPZq3AnwFFBtX3EgpDwlvgMdW26VibepHnBh7_zIUyFeSlgCPWObyUY_ZYokzTYCoO3PJfDTSQQD2Zjz79Xbp5eYcspFO2ptxoddrYuDUieCu_4lhidFz4s6tUKx4wD2WLSY6utjKLu6qDJm1FXNDezK2sOeSbodEQzCw/nu/f(bMin=900000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate>=900000&dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -134,7 +134,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://leyendadigital.com.es:8080/play/c0jHIPbXoT6w2L6zYEkatHYsa6LfqbiH1ykrFcb9fs-bdAkAcTPTDFVtPzAkpFIQ
+http://supertv.red:80/431980/1097559/111935.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
