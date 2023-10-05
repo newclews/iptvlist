@@ -62,7 +62,7 @@ http://edyth.solanaflix.com:8080/play/s6GUpePSxEWbfxuTwtZwhB1u_HoD8u9T_loloU-aBV
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-24-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk2NTgzNzY4LCJpYXQiOjE2OTY0OTczNjgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.c0zkgHoVjHwBIT_npJmTGSdYs3ToV4utd9eamIYF2cruNuhCEjFFT486CD3tas6Kc33cxnBfEflOCJQPENXJj1n2N7-B3ureF-7H2hgqczU4kUXdnA6QgU6wWF7BQK22scYDDMkDDMWiw40jIJVwH_pavogpuhS-v0czaPYgZz4JO9ug_V_7W-ey7bRsI5aU6v-sTbzFb1XIK851AbzAA2BzK14ZWuIcpISKkUbR73JG4YVTgE7RLhWgPO3YhGOgcXlrOPqE7V5Y_N6CgkupubgBa660RBq0Ptjbd0bJueGTCXUVU1QKoWOkTdx4E_ReuTSNrtGiYPY-qbx8P_PesA/nu/f(bMin=900000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate>=900000&dvr_window_length=120
+https://live-cm-ah-13-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTMtMzgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk2NjI3MTg2LCJpYXQiOjE2OTY1NDA3ODYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYjQ1OGRhZGUtYzBkNi00YjZlLWExMmMtYzNjZWU1NTBkMWZkIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.uYH1AU-zD2yuRrikWKnBXNdu3BY4zx5NF8tREqa0lFiq3MU7a_EiPAMi7xjYvNvb2i-brC0lJTK9j1i2M4q6Ota8oZ5tGpRdfjUdzr6g4w-7lKQCtMIrLfXDXRGkDsKszIEz1519JOsjkZu6cgUY1zmwVcXOXCUKkZ1Obp4qvcCyJS2sF7tLMDS7feU-TRdI1TWvi7IMriAAn-LxSBIGxOXnthtSmQoYOr4-dmZklTnDAGCoW4FAgetuyLFOMveMsMNT3yxzyWZrDn7adByamIQdm9BAqfmEGSI3hTHckdZN9RXpqJ732cxl7-XC2c2oMr6k8iRe9f1Q8Z7lfkS3FQ/nu/f(bMin=900000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate>=900000&dvr_window_length=120
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
 http://168.205.87.198:8555/live/1501/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -116,7 +116,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png", MY TIME MOVIE
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-http://45.230.96.42:80/distv/@distv/434
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://peganet.com.br/wp-content/uploads/2020/11/121-HELLO-TV.png", HELLO TV
@@ -197,8 +197,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cms.emidgroup.com.br/conectnet/arquivos/canais_streaming/imagens/104/original/urban-kidspng.png" aspect-ratio="4:3", URBAN KIDS
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
@@ -209,6 +209,8 @@ https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -467,6 +469,8 @@ http://cdn.connectbr.com.br/paramount/index.m3u8
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
