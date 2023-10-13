@@ -479,6 +479,10 @@ http://cdn.connectbr.com.br/AE/index.m3u8
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
+https://s.m3u9.top/a2/hls1/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=QHKp568lzloY6bmUB5dXkQ&3U1G7qaTxrPbalZnEx=1697244412
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
+https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=PLgSjSQS3owladyusznAEA&3U1G7qaTxrPbalZnEx=1697243572
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
