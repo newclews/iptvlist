@@ -2175,4 +2175,5 @@ https://i.mjh.nz/PlutoTV/60cb6df2b2ad610008cd5bea-alt.m3u8
 https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-chno="3450" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" group-title="USA" , CBS News Texas
 https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA 2
+https://live-hls-web-aja-fa.getaj.net/alternative/AJA/01.m3u8
