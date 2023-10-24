@@ -2911,4 +2911,6 @@ https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 https://live-hls-web-aja-fa.getaj.net/alternative/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALMAMLAKA TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
+http://51.83.238.223:16171/
 
