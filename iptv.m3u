@@ -309,8 +309,6 @@ https://ythlsgo.onrender.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
 https://ythlsgo.onrender.com/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STREAMNEW (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCjJnS__s-XXu-bmLKf0M6Ug.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALMAMLAKA TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC0jiFAzTgl17k7awGbuoYew.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ANN NEWS (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TBS NEWS (NOT 24/7)
@@ -2911,4 +2909,6 @@ https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA 2
 https://live-hls-web-aja-fa.getaj.net/alternative/AJA/01.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALMAMLAKA TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 
