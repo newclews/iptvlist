@@ -304,8 +304,8 @@ https://ythlsgo.onrender.com/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
 https://ythlsgo.onrender.com/channel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
 https://chios.newclews.workers.dev/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA SKYLINE (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
+https://reut.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STREAMNEW (NOT 24/7)
