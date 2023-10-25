@@ -62,8 +62,7 @@ http://51.83.238.223:16141/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://live-cm-ah-14-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTQtMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjk4MjY4ODkyLCJpYXQiOjE2OTgxODI0OTIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2E0ZTNjZTctYjgzNy00OGNlLTlmYjEtMmVmNzU1NTU3ZWFiIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.dBwGwBCCvTTwg41bDXetxLxfsKshScowHVNxGeSqysluIMGP2GaFSxceEOzkqw6YnqNr0NdFWZjYxH1fW5FVPN3KlA9PWkjaRozULuRD-CRRcx5KJ_JmWbKqvrH4M_avwJQbycbCAs3M8mv_JgAyI3YaJX6KyJXeCINo9s1rk3-nVNs-LDftqTCMcpDVgZ1xvAjhEbFmdT8q4AQNKpc_OT40BlAdB25v39RMxJApV5UxXe_XuyNw2GpAEnUn_wMl5dtxFMNX3KojI6uEqbXmMLGLtFzON2FYeUuBH8mDNIbJoGicpxsnexDQHTf9Bf4P_Z_LNCKgjCUvSBy68c1nIQ/nu/f(bMin=900000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=128000-video=5512000.m3u8?systemBitrate>=900000&dvr_window_length=120
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png", REDETV!
+https://8mwx.short.gy/GLOBORJ
 http://187.95.95.243/RedeTV-HD/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
