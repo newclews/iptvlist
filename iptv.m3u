@@ -293,15 +293,15 @@ https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+https://acrit.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 2RNEWS (NOT 24/7)
+https://2rnews.newclews.workers.dev/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 INQUIZEX (NOT 24/7)
+https://inquize.newclews.workers.dev.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
 https://chios.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
@@ -315,7 +315,7 @@ https://ythlsgo.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+https://oeste.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/NpLhC01.png", DIDI RED PILL (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
