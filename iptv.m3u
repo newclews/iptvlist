@@ -301,7 +301,7 @@ https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 2RNEWS (NOT 24/7)
 https://2rnews.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 INQUIZEX (NOT 24/7)
-https://inquize.newclews.workers.dev.m3u8
+https://inquize.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
 https://chios.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
