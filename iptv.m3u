@@ -256,7 +256,7 @@ http://187.95.95.243/AgroMais-HD/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALERJ
-https://ythlsgo.onrender.com/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
+https://ch.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 http://186.226.215.132:80/123321/123321/214
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
