@@ -235,8 +235,8 @@ https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://cdn2.connectbr.com.br/Nickjr/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://tannix.online/live/markusvinny/246tvmarkus88/108104.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
