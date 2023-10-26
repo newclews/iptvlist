@@ -183,6 +183,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", NGT 2
+https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
@@ -209,8 +211,6 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://186.226.215.132:80/123321/123321/190
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DESENHOS
-https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 1
 http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
