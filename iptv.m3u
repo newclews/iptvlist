@@ -16,7 +16,7 @@ http://168.205.87.198:8555/live/1501/123456/163.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-https://cn.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCVrKQMmA2ew9LFzeIDaOFgw
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 https://apa.newclews.workers.dev/stream/tvaparecida/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
@@ -170,7 +170,7 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA
 https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA ENGLISH
-https://aljaz.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCNye-wNBqNL5ZzHSJj3l8Bg
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/2048px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL TV
 http://xdplayer.tv:8080/play/z0GbCQaQ_k_tUHsICcF7nSFh9i_ULdJI3xjNKomrykk/ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
@@ -294,37 +294,37 @@ https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
 https://acrit.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCe1XGNDeEwAx5xaLGcNPEbQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC376n347Ob5Lwzq2WGzF1AA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 2RNEWS (NOT 24/7)
-https://2rnews.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC9EIrbmaCF4DXoe5jb6MI0w
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 INQUIZEX (NOT 24/7)
-https://inquize.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCuyLmOJb7PVCvx8zbRT9_GQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
-https://chios.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC-9st2JiCR3Kkb4GF5VQ3zQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
-https://reut.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UChqUTb7kYRX8-EiaN3XFrSQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
-https://journey.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCm7oBwzfRBp6kX8jhWhlaSg
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STREAMNEW (NOT 24/7)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCjJnS__s-XXu-bmLKf0M6Ug.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCjJnS__s-XXu-bmLKf0M6Ug
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
-https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCoa-D_VfMkFrCYodrOC9-mA.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCoa-D_VfMkFrCYodrOC9-mA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCzQxHUiLa5prpJoyOxS0GSA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://oeste.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCBQAI1ZhurW3nbtJR-gBBZg
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/NpLhC01.png", DIDI RED PILL (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCpJ3jHK9lTA7tElmldAGOGA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
 https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCbiGwU0-W1XCDUrt3BTVrag
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
-https://ytchannelyt.000webhostapp.com/channelyt.php?UC5oRxjbY3HHrP5Acsu2vtkQ
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC5oRxjbY3HHrP5Acsu2vtkQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP (NOT 24/7)
-https://ytchannelyt.000webhostapp.com/channelyt.php?UCWijW6tW0iI5ghsAbWDFtTg
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCWijW6tW0iI5ghsAbWDFtTg
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCrJ39DfTLGUt6yFaV9BU1bg.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCrJ39DfTLGUt6yFaV9BU1bg
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
 https://tu.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
