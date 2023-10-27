@@ -158,7 +158,7 @@ https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
-https://todo.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCj6PcyLvpnIRT_2W_mwa9Aw
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/2560px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
@@ -282,17 +282,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://170.82.200.38:8080/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8 
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCFxjZDrLCOCHkUCu632AmMQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCAAPXtnzlg9krw6MtNbfR-g
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCZD5qcen7lbLPFTjfvdLFcw
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCFxjZDrLCOCHkUCu632AmMQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UC3KHYFWeB0WimMBfm3NEahQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
-https://acrit.newclews.workers.dev/index.m3u8
+https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCnLSKfHkgZ6ujEYCO9jq7Sw
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
 https://ytchannelyt.000webhostapp.com/channelyt.php?canal=UCe1XGNDeEwAx5xaLGcNPEbQ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
