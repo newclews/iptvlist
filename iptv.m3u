@@ -298,9 +298,9 @@ https://isgo.newclews.workers.dev/stream/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 2RNEWS (NOT 24/7)
-https://2rnews.newclews.workers.dev?playlist.m3u8
+https://isgo.newclews.workers.dev/stream/UC9EIrbmaCF4DXoe5jb6MI0w/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 INQUIZEX (NOT 24/7)
-https://inquize.newclews.workers.dev?playlist.m3u8
+https://isgo.newclews.workers.dev/stream/UCuyLmOJb7PVCvx8zbRT9_GQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC-9st2JiCR3Kkb4GF5VQ3zQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
