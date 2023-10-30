@@ -282,49 +282,49 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://170.82.200.38:8080/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
+https://isgo.newclews.workers.dev/stream/UCAAPXtnzlg9krw6MtNbfR-g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
+https://isgo.newclews.workers.dev/stream/UCZD5qcen7lbLPFTjfvdLFcw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
-https://is.newclews.workers.dev/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
+https://isgo.newclews.workers.dev/stream/UC3KHYFWeB0WimMBfm3NEahQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://is.newclews.workers.dev/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
+https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 1 2RNEWS (NOT 24/7)
 https://2rnews.newclews.workers.dev?playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL 2 INQUIZEX (NOT 24/7)
 https://inquize.newclews.workers.dev?playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
-https://is.newclews.workers.dev/channel/UC-9st2JiCR3Kkb4GF5VQ3zQ.m3u8
+https://isgo.newclews.workers.dev/stream/UC-9st2JiCR3Kkb4GF5VQ3zQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
-https://is.newclews.workers.dev/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
+https://isgo.newclews.workers.dev/stream/UChqUTb7kYRX8-EiaN3XFrSQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
+https://isgo.newclews.workers.dev/stream/UCm7oBwzfRBp6kX8jhWhlaSg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STREAMNEW (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCjJnS__s-XXu-bmLKf0M6Ug.m3u8
+https://isgo.newclews.workers.dev/stream/UCjJnS__s-XXu-bmLKf0M6Ug/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8
+https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCzQxHUiLa5prpJoyOxS0GSA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/NpLhC01.png", DIDI RED PILL (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
+https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
-https://is.newclews.workers.dev/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
+https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
+https://isgo.newclews.workers.dev/stream/UCWijW6tW0iI5ghsAbWDFtTg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/BQDyY0o.png", LIVE PLANETA DO VINIL (NOT 24/7)
-https://is.newclews.workers.dev/channel/UCrJ39DfTLGUt6yFaV9BU1bg.m3u8
+https://isgo.newclews.workers.dev/stream/UCrJ39DfTLGUt6yFaV9BU1bg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
 https://tu.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
