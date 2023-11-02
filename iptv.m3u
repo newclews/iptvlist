@@ -103,8 +103,8 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", URBAN TV
-https://stream.urbantv.com.br/urbantv/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://urbantv.com.br/img/logo.png", UNIQUE TV
+https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/SjlNmhurBjugUWo8Vocv-FO8ChNn0ykZ_2POCzB3FZBvm8NIPwWg9-KfMbYAy7PXEA", BRICS TV
@@ -297,8 +297,8 @@ https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA MARCA (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCop57Z1sYHrtCyxCpE2z2Bg/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/tmwMvuy-Buc/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL INQUIZEX (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCuyLmOJb7PVCvx8zbRT9_GQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA DIARIO ABC (NOT 24/7)
