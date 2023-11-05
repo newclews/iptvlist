@@ -502,6 +502,8 @@ http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://cdn2.connectbr.com.br/TCM/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO
+http://195.181.163.144:14606/
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
