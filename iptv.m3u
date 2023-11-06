@@ -461,7 +461,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+http://64.31.40.14:14063/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
@@ -490,6 +490,12 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 http://187.95.95.18/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://cdn.connectbr.com.br/paramount/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
+http://64.31.40.14:14031/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
+http://64.31.40.14:14027/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
+http://64.31.40.14:14048/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
@@ -502,6 +508,8 @@ http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://cdn2.connectbr.com.br/TCM/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
+http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO
 http://195.181.163.144:14606/
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
