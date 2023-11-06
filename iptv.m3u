@@ -282,7 +282,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://170.82.200.38:8080/woohoo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
+https://isgo.newclews.workers.dev/stream/UCOa-WaNwQaoyFHLCDk7qKIw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCAAPXtnzlg9krw6MtNbfR-g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
