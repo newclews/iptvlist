@@ -2908,6 +2908,10 @@ https://i.mjh.nz/PlutoTV/632b619c8d2a6c0007ff534e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5eceb0d4065c240007688ec6" tvg-id="5eceb0d4065c240007688ec6" tvg-logo="https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png" tvg-chno="4310" group-title="USA" , CBS News Texas
 https://i.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA ENGLISH 2
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA 2
 https://live-hls-web-aja-fa.getaj.net/alternative/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALMAMLAKA TV
