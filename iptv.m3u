@@ -305,7 +305,7 @@ https://isgo.newclews.workers.dev/stream/UCop57Z1sYHrtCyxCpE2z2Bg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCuyLmOJb7PVCvx8zbRT9_GQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA CHIOSPHOTOS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC-9st2JiCR3Kkb4GF5VQ3zQ/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA REUTERS (NOT 24/7)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REUTERS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UChqUTb7kYRX8-EiaN3XFrSQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCm7oBwzfRBp6kX8jhWhlaSg/master.m3u8
@@ -2938,6 +2938,6 @@ https://isgo.newclews.workers.dev/stream/UC_gUM8rL-Lrg6O3adPW9K1g/master.m3u8
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RESHET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EL DEBATE
-https://isgo.newclews.workers.dev/stream/UC8FOhz3iXhF1iqqzAFfBjmA/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KHAN YOUNIS
+https://isgo.newclews.workers.dev/stream/EJw6jjdR7L4/master.m3u8
 
