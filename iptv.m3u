@@ -249,8 +249,6 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", REVRY BRASIL
-https://dletvjdknba4f.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
