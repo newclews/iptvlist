@@ -436,8 +436,6 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalnewbrasil.com.br/img/logo_preview.png", NEW BRASIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sebrae.com.br/Sebrae/Portal%20Sebrae/Canal%20Empreender/Imagens/Canal%20empreenderwhite.png", CANAL EMPREENDER
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.chivemediagroup.com/images/template/img-property-chive-tv@2x.png", CHIVE TV
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
