@@ -2936,6 +2936,8 @@ https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 https://isgo.newclews.workers.dev/stream/UCH4UNKBHSNwstan99YDoCVg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALARABIYA
 https://isgo.newclews.workers.dev/stream/UCahpxixMCwoANAftn6IxkTg/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALARABY
+https://isgo.newclews.workers.dev/stream/UC65i3Fyq91uiUkIS0i5GLNQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WION
 https://isgo.newclews.workers.dev/stream/UC_gUM8rL-Lrg6O3adPW9K1g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", i24 NEWS
