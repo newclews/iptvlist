@@ -2928,6 +2928,8 @@ https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA 2
 https://live-hls-web-aja-fa.getaj.net/alternative/AJA/01.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png", AL JAZEERA MUBASHER
+https://isgo.newclews.workers.dev/stream/UCCv1Pd24oPErw5S7zJWltnQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALMAMLAKA TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TRT
