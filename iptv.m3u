@@ -56,7 +56,7 @@ https://simulcast.sbtvideosonline.com/v1/manifest/215c0da80606fed293720701681064
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-https://embedflix.net/canal/live.php?ch=7?playlist.m3u8
+https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/3.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://51.83.238.223:16141/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -2930,6 +2930,8 @@ https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
+https://embedflix.net/canal/live.php?ch=7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
 http://ddsw.xyz:80/8590438094/9912004092/968598
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
@@ -2937,17 +2939,17 @@ http://ddsw.xyz:80/8590438094/9912004092/968597
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 01
-https://embedflix.net/canal/live.php?ch=1
+https://embedflix.net/canal/live.php?ch=0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 02
-https://embedflix.net/canal/live.php?ch=2
+https://embedflix.net/canal/live.php?ch=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 03
-https://embedflix.net/canal/live.php?ch=3
+https://embedflix.net/canal/live.php?ch=2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 04
-https://embedflix.net/canal/live.php?ch=4
+https://embedflix.net/canal/live.php?ch=3
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 05
-https://embedflix.net/canal/live.php?ch=5
+https://embedflix.net/canal/live.php?ch=4
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 06
-https://embedflix.net/canal/live.php?ch=6
+https://embedflix.net/canal/live.php?ch=5
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
 https://embedflix.net/canal/live.php?ch=8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RS
@@ -2966,10 +2968,4 @@ https://embedflix.net/canal/live.php?ch=14
 https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 16
 https://embedflix.net/canal/live.php?ch=16
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 17
-https://embedflix.net/canal/live.php?ch=0
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 18
-https://embedflix.net/canal/live.php?ch=20
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 19
-https://embedflix.net/canal/live.php?ch=21
 
