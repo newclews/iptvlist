@@ -2972,5 +2972,7 @@ https://embedflix.net/canal/live.php?ch=15
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
+https://c2td.short.gy/dOHaxz
 
 
