@@ -2938,12 +2938,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
 https://embedflix.net/canal/live.php?ch=7
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
-http://ddsw.xyz:80/8590438094/9912004092/968598
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
-http://ddsw.xyz:80/8590438094/9912004092/968597
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
-http://45.11.56.147:8808/stream?id=161
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 01
 https://embedflix.net/canal/live.php?ch=0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 02
@@ -2956,6 +2950,8 @@ https://embedflix.net/canal/live.php?ch=3
 https://embedflix.net/canal/live.php?ch=4
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 06
 https://embedflix.net/canal/live.php?ch=5
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP
+https://embedflix.net/canal/live.php?ch=6
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
 https://embedflix.net/canal/live.php?ch=8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RS
@@ -2974,4 +2970,7 @@ https://embedflix.net/canal/live.php?ch=14
 https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2
 https://embedflix.net/canal/live.php?ch=16
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
+http://45.11.56.147:8808/stream?id=161
+
 
