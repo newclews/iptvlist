@@ -83,8 +83,8 @@ http://168.205.87.198:8555/live/1501/123456/70.m3u8
 http://168.205.87.198:8555/live/1501/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://clinicaitabayana.com.br/wp-content/uploads/2023/01/TV-ATEROSA.png", TV ALTEROSA
 http://168.205.87.198:8555/live/1501/123456/104.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://hub.framesites.com/uploads/clients/64d3d966a1948/design-logo/sm-9ddd3d457d9e7a88d1f25b3191134b05.png", RTN TV
-https://cdn.jmvstream.com/w/AVJ-15019/playlist/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tv.faster.net.br/logos/brsupertv.png", BR SUPER TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist_w37077348.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
