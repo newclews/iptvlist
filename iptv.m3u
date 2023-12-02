@@ -209,14 +209,10 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://186.226.215.132:80/123321/123321/190
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 1
-http://170.82.200.38:8080/cartoon/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -307,6 +303,8 @@ https://isgo.newclews.workers.dev/stream/UCuyLmOJb7PVCvx8zbRT9_GQ/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCshCsg1YVKli8yBai-wa78w/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REUTERS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UChqUTb7kYRX8-EiaN3XFrSQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA AURES TV (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCp4ZW-Cf82tvKt1bInmibkg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCm7oBwzfRBp6kX8jhWhlaSg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA AUDIONIX (NOT 24/7)
