@@ -513,7 +513,7 @@ http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://cdn.connectbr.com.br/AE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+https://midiapaineis.com/video.php?acesso=b8b5089c70ae62534970e2d8aa67e96d&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
