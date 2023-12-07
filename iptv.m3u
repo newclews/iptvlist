@@ -2951,7 +2951,7 @@ https://embedflix.net/canal/live.php?ch=4
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 06
 https://embedflix.net/canal/live.php?ch=5
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP
-https://embedflix.net/canal/live.php?ch=6
+http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/6
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
 https://embedflix.net/canal/live.php?ch=8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RS
