@@ -2936,6 +2936,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
 https://embedflix.net/canal/live.php?ch=7
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4
+http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/65
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 01
 https://embedflix.net/canal/live.php?ch=0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 02
