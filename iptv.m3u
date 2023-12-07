@@ -441,7 +441,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RAKUTEN FAMILY
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://170.82.200.38:8080/animal_planet/tracks-v1a1/mono.m3u8
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://170.82.200.38:8080/nat_geo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
