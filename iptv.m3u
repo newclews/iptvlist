@@ -436,10 +436,10 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
+http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/22
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 https://midiapaineis.com/video.php?acesso=f70efe81e859a5a1ef45cef66199f41d&usuario=7052eea839212efa2306b59499de1846
-#EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-https://midiapaineis.com/video.php?acesso=a24d845a8ea3fc85e7814e2152fd14ed&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 https://midiapaineis.com/video.php?acesso=24259c759c6d5df577965e785d710912&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
