@@ -114,7 +114,7 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png", MY TIME MOVIE
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
+https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://peganet.com.br/wp-content/uploads/2020/11/121-HELLO-TV.png", HELLO TV
@@ -137,6 +137,8 @@ http://supertv.red:80/431980/1097559/111935.ts
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VINTE E QUATRO NEWS
+https://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
@@ -207,8 +209,10 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 http://168.205.87.198:8555/live/1501/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://186.226.215.132:80/123321/123321/190
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 01
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK 02
+http://187.95.95.243/Cartoon-Network/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
@@ -277,8 +281,8 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DAZN COMBATE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
+https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
