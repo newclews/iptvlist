@@ -445,7 +445,7 @@ http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/22
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-https://midiapaineis.com/video.php?acesso=f70efe81e859a5a1ef45cef66199f41d&usuario=7052eea839212efa2306b59499de1846
+http://208.115.225.174:14192/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 https://midiapaineis.com/video.php?acesso=24259c759c6d5df577965e785d710912&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -518,14 +518,30 @@ http://cdn.connectbr.com.br/AE/index.m3u8
 https://midiapaineis.com/video.php?acesso=b8b5089c70ae62534970e2d8aa67e96d&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
+http://208.115.225.174:14132/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://cdn2.connectbr.com.br/TCM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO
-http://195.181.163.144:14606/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
+http://208.115.225.174:14136/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
+http://208.115.225.174:14140/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
+http://208.115.225.174:14144/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
+http://208.115.225.174:14152/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
+http://208.115.225.174:14156/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
+http://208.115.225.174:14148/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
+http://208.115.225.174:14160/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
+http://208.115.225.174:14165/
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml.gz"
 #EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guia de Canais
 https://i.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
