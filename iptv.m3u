@@ -3023,6 +3023,16 @@ https://embedflix.net/canal/live.php?ch=15
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 1
+http://208.115.225.174:14460
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
+http://208.115.225.174:14464
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
+http://208.115.225.174:14468
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
+http://208.115.225.174:14472
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
+http://208.115.225.174:14476
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://c2td.short.gy/dOHaxz
 
