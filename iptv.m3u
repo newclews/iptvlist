@@ -315,8 +315,6 @@ https://isgo.newclews.workers.dev/stream/UChqUTb7kYRX8-EiaN3XFrSQ/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCp4ZW-Cf82tvKt1bInmibkg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCm7oBwzfRBp6kX8jhWhlaSg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA AUDIONIX (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCPk8lwouirMpC2Jhe7B2mHw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
@@ -434,6 +432,8 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CULTNE TV
 https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
+https://cdn2.connectbr.com.br/Prime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/tzYimlq.png", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/p7tvqin.png", NOVELANDO
