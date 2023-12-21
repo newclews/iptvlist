@@ -441,9 +441,9 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/24
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/423
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://globo.xphost18.xyz:2052/XPLUX986gjcf2222kk/SOLUCAOO2222ggl/22
+https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/viva.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://208.115.225.174:14192/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
@@ -2983,6 +2983,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 http://209.222.97.92:16493
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 https://midiapaineis.com/video.php?acesso=dd3b487d10eeca91263448f113bc4bfa&usuario=7052eea839212efa2306b59499de1846
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
+https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/globo.rj.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
