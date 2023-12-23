@@ -283,6 +283,10 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
+http://142.54.163.202:80/premium78/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
+http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
@@ -303,16 +307,10 @@ https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA (MARCA CHANNEL) (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCop57Z1sYHrtCyxCpE2z2Bg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA ISRAEL INQUIZEX (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCuyLmOJb7PVCvx8zbRT9_GQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA AGENDA-FREE (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCshCsg1YVKli8yBai-wa78w/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REUTERS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UChqUTb7kYRX8-EiaN3XFrSQ/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA AURES TV (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCp4ZW-Cf82tvKt1bInmibkg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZA JOURNEY (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCm7oBwzfRBp6kX8jhWhlaSg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
