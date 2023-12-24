@@ -428,8 +428,6 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CULTNE TV
-https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
 https://cdn2.connectbr.com.br/Prime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/tzYimlq.png", OS DEZ MANDAMENTOS
@@ -512,8 +510,10 @@ http://64.31.40.14:14048/
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
+http://64.31.40.14:14004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-https://midiapaineis.com/video.php?acesso=b8b5089c70ae62534970e2d8aa67e96d&usuario=7052eea839212efa2306b59499de1846
+http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
