@@ -518,6 +518,8 @@ http://cdn.connectbr.com.br/AE/index.m3u8
 http://64.31.40.14:14004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://64.31.40.14:14043
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
@@ -526,12 +528,18 @@ http://208.115.225.174:14132/
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://cdn2.connectbr.com.br/TCM/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/635
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://51.83.238.223:16703
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://51.83.238.223:16763
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/588
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://208.115.225.174:14136/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
