@@ -2991,8 +2991,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
-http://209.222.97.92:16493
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
+http://51.83.238.223:16825
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 https://midiapaineis.com/video.php?acesso=dd3b487d10eeca91263448f113bc4bfa&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
@@ -3037,6 +3037,8 @@ https://embedflix.net/canal/live.php?ch=15
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
+http://209.222.97.92:16493
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 1
 http://208.115.225.174:14460
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
