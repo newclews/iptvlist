@@ -440,6 +440,8 @@ https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://64.31.40.14:14884
+#EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/685
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://208.115.225.174:14192/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
@@ -518,6 +520,10 @@ http://64.31.40.14:14004
 http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
