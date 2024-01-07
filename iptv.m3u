@@ -253,6 +253,8 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 http://khtro2.com/live/stretv53/stre53/890.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS
+http://167954330516321229.ofip231209.xyz:80/play/8K5KBJ2PMP/bWXYYCQA5v/321229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
