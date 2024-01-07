@@ -221,8 +221,6 @@ http://khtro2.com/live/stretv53/stre53/868.ts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS
-http://khtro2.com/live/stretv53/stre53/853.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
@@ -253,8 +251,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 http://khtro2.com/live/stretv53/stre53/890.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS
-http://casaplay.cf/live/beto9932/102030/1528086.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
