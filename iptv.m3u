@@ -2996,6 +2996,8 @@ https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
 http://51.83.238.223:16825
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
+https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 https://midiapaineis.com/video.php?acesso=dd3b487d10eeca91263448f113bc4bfa&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
