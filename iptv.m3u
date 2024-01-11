@@ -251,6 +251,8 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
@@ -439,6 +441,8 @@ https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://64.31.40.14:14884
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
+http://199.127.60.83:14716
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/685
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
