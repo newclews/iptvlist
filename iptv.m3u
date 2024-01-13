@@ -26,11 +26,11 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
-https://isaocorp.cloudecast.com/ngtsaopaulo/index.fmp4.m3u8
+https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w22241813.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE METROPOLE
-https://ebocast.ebosystems.com.br:3456/stream/play.m3u8
+https://acesso.ecast.site:3456/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
@@ -181,8 +181,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", NGT 2
-https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
