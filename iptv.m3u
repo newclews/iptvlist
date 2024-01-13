@@ -383,8 +383,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/163.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", URBAN BEAT
-https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
 https://ott-linear-channels.stingray.com/hls/stirr/134.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
