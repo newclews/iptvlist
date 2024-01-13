@@ -297,6 +297,8 @@ http://142.54.163.202:80/premium79/tracks-v1a1/mono.m3u8?ddd=1uXRVx7LzZ
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/26.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
+https://cdn-fast.nxtv.com.br/9978b7063e297d84df796a0bdeecad3d/livepl/manifest/woohoo-modified.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
