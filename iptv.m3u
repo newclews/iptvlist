@@ -195,10 +195,10 @@ https://cc-9flatd4lam6vc.akamaized.net/master.m3u8
 https://cdn2.connectbr.com.br/life/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SBT INTERNACIONAL
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV LITORAL RN
 https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w2072818652.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
@@ -463,8 +463,6 @@ https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SPACETV
 https://stmv1.srvif.com/2022/2022/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
