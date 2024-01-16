@@ -567,6 +567,8 @@ http://208.115.225.174:14148/
 http://208.115.225.174:14160/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://208.115.225.174:14165/
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE
+http://186.226.215.132:80/12345/12345/49.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 #EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Pluto TV" , Guia de Canais
 https://i.mjh.nz/PlutoTV/15fa97a8a75cc210007c9041d-alt.m3u8
@@ -3008,6 +3010,8 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 http://209.222.97.92:16436
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
 https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
+http://186.226.215.132:80/12345/12345/53.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 https://midiapaineis.com/video.php?acesso=dd3b487d10eeca91263448f113bc4bfa&usuario=7052eea839212efa2306b59499de1846
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
