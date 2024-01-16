@@ -3027,7 +3027,7 @@ http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
 https://embedflix.net/canal/live.php?ch=7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4
-http://51.83.238.223:16171
+http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://186.226.215.132:80/12345/12345/57.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A FAZENDA 01
