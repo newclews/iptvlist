@@ -56,13 +56,13 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://dnsgox.com:80/Helton/Helton071021/10027008
+http://186.226.215.132:80/12345/12345/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://208.115.225.174:14271
+http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -3015,7 +3015,9 @@ https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/globo.rj.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
-http://capivara.top/live/69754975271944/439516838245/703730.ts 
+http://capivara.top/live/69754975271944/439516838245/703730.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 3
+http://186.226.215.132:80/12345/12345/22.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
