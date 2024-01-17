@@ -56,7 +56,7 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://186.226.215.132:80/12345/12345/24.m3u8
+http://splaytv.club:80/W6WYelNNaN/Hy9rHTCEyj/157157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
