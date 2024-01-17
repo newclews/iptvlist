@@ -243,7 +243,7 @@ http://94.130.165.243:14399
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN 1
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN 2 (NOT 24/7)
 https://c2td.short.gy/yuNvgO
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
@@ -297,7 +297,7 @@ http://51.83.238.223:16457
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF (IPTV PRO)
 https://cdn-fast.nxtv.com.br/9978b7063e297d84df796a0bdeecad3d/livepl/manifest/woohoo-modified.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
@@ -599,23 +599,23 @@ http://209.222.97.92:16412
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://209.222.97.92:16222
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=1
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=2
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RS (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=3
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD BA (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=4
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD DF (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=5
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD PA (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=7
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD AM (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=10
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO RECORD
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO RECORD (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
