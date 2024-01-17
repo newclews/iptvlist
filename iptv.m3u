@@ -591,6 +591,8 @@ http://51.83.238.223:16800
 https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/globo.rj.br.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
+http://185.150.190.225:16791
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
 http://capivara.top/live/69754975271944/439516838245/703730.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 3
