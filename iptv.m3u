@@ -522,7 +522,7 @@ http://51.83.238.223:16883
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://cdn.connectbr.com.br/AE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://64.31.40.14:14004
+http://hls1.sua.tv:80/live/amchd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
