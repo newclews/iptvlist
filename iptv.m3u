@@ -603,7 +603,9 @@ http://209.222.97.92:16412
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://209.222.97.92:16222
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3 (IPTV PRO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
+http://209.222.97.92:16520
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=2
