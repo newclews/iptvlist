@@ -601,20 +601,6 @@ http://186.226.215.132:80/12345/12345/56.m3u8
 http://209.222.97.92:16222
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
 https://embedflix.net/canal/live.php?ch=1
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 01
-https://embedflix.net/canal/live.php?ch=0
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 02
-https://embedflix.net/canal/live.php?ch=11
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 03
-https://embedflix.net/canal/live.php?ch=12
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 04
-https://embedflix.net/canal/live.php?ch=13
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 05
-https://embedflix.net/canal/live.php?ch=14
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 06
-https://embedflix.net/canal/live.php?ch=15
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
-https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
 https://embedflix.net/canal/live.php?ch=2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
@@ -1069,6 +1055,20 @@ https://r.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604b99d633a72b00078e05ad" tvg-id="604b99d633a72b00078e05ad" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" tvg-chno="1525" group-title="PLUTO TV" , Pluto TV Karaokê por Stingray
 https://r.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
 
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 01
+https://embedflix.net/canal/live.php?ch=0
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 02
+https://embedflix.net/canal/live.php?ch=11
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 03
+https://embedflix.net/canal/live.php?ch=12
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 04
+https://embedflix.net/canal/live.php?ch=13
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 05
+https://embedflix.net/canal/live.php?ch=14
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 06
+https://embedflix.net/canal/live.php?ch=15
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
+https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://r.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 
