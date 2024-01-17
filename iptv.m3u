@@ -228,7 +228,7 @@ http://51.83.238.223:16274
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://185.150.190.225:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/24.ts
+http://168.205.87.198:8555/live/1222/123456/84.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 01
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 02
