@@ -606,20 +606,16 @@ https://embedflix.net/canal/live.php?ch=0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 02
 https://embedflix.net/canal/live.php?ch=7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 03
-https://embedflix.net/canal/live.php?ch=9
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 04
-https://embedflix.net/canal/live.php?ch=10
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 05
 https://embedflix.net/canal/live.php?ch=11
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 06
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 04
 https://embedflix.net/canal/live.php?ch=12
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 05
 https://embedflix.net/canal/live.php?ch=13
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 08
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 06
 https://embedflix.net/canal/live.php?ch=14
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 09
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
 https://embedflix.net/canal/live.php?ch=15
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 10
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 08
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
 https://embedflix.net/canal/live.php?ch=2
@@ -631,6 +627,10 @@ https://embedflix.net/canal/live.php?ch=4
 https://embedflix.net/canal/live.php?ch=5
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
 https://embedflix.net/canal/live.php?ch=8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2
+https://embedflix.net/canal/live.php?ch=10
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO RECORD
+https://embedflix.net/canal/live.php?ch=9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
