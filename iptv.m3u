@@ -447,6 +447,8 @@ http://64.31.40.14:14884
 http://199.127.60.83:14716
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://94.130.165.243:14026
+#EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
+http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://208.115.225.174:14192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
@@ -527,8 +529,10 @@ http://hls1.sua.tv:80/live/amchd/s.m3u8
 http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/21285
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
+http://51.79.17.168:14585
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
