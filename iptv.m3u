@@ -290,7 +290,7 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://64.31.40.14:16476
+http://142.54.163.202/premium78/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://51.83.238.223:16457
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
