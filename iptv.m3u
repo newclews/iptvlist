@@ -585,7 +585,9 @@ http://209.222.97.92:16436
 https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
 http://186.226.215.132:80/12345/12345/53.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
 http://51.83.238.223:16800
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://186.226.215.132:80/12345/12345/10.m3u8
