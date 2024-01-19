@@ -176,7 +176,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/84/LOGO-TELEPACIFICO.png", TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
-https://tv4.live/api/stream/amishpatel81@gmail.com/790899/livetv.epg/caracol.co.m3u8
+https://8mwx.short.gy/CARACOL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RTP
