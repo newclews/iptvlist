@@ -445,8 +445,10 @@ http://64.31.40.14:14884
 http://199.127.60.83:14716
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://94.130.165.243:14026
-#EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-http://51.79.17.168:14435
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
+http://cdn.connectbr.com.br/History/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
+http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://208.115.225.174:14192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
@@ -532,7 +534,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 http://51.79.17.168:14585
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
+http://cdn.connectbr.com.br/cinecanal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
