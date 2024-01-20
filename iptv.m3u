@@ -1082,5 +1082,4 @@ https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-https://ogcdn-live.video.globo.com/live/f(bMax=3300000,bMin=2000)/bra24ha/edge-cache-token=Expires=1705856340&KeyName=media-cdn-keyset-prod&IPRanges=MTc5LjM0LjEzMS4wLzMy&Signature=uq2waIWo2xXReD2qTGjTf4dvtQ7qmKNxldxsEpBO-JyV-WSfK1bkf8HGwS0IT_dshk64QKKJuycGwJQNfDXsCw==/playlist.m3u8
-
+https://tvembed.net/globo-rj/tracks-v1a1/mono.m3u8?remote=179.34.131.0&token=1f93845236c2f71d6b9c6ac6b4389d5a17fc7641-c835fb1634ce7443bef4ed0d85b7c20c-1705777524-1705770324
