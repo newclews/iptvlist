@@ -226,7 +226,7 @@ http://51.83.238.223:16274
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://185.150.190.225:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-http://168.205.87.198:8555/live/1222/123456/84.m3u8
+http://51.79.17.168:14687
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 01
 https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 02
@@ -236,7 +236,7 @@ https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
-http://94.130.165.243:14399
+http://51.79.17.168:14451
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
@@ -449,6 +449,8 @@ http://94.130.165.243:14026
 http://cdn.connectbr.com.br/History/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://cdn.connectbr.com.br/h2/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
+http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://208.115.225.174:14192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
