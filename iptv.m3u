@@ -295,7 +295,9 @@ http://51.83.238.223:16457
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF (IPTV PRO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1
+https://cdn-fast.nxtv.com.br/livepl/manifest/woohoo-modified.m3u8?bpkio_sessionid=10b0d41c55-8e3d96b2-f7c0-476c-afec-464ed1b6e5e4&bpkio_serviceid=9978b7063e297d84df796a0bdeecad3d
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 2 (IPTV PRO)
 https://cdn-fast.nxtv.com.br/9978b7063e297d84df796a0bdeecad3d/livepl/manifest/woohoo-modified.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
