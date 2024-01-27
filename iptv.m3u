@@ -212,7 +212,7 @@ http://168.205.87.198:8555/live/1212/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://187.95.95.243/Cartoon-Network/playlist.m3u8
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://199.127.60.83:14682
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
