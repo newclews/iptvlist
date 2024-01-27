@@ -1086,6 +1086,8 @@ https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
+https://stream.ads.ottera.tv/cl/240127cmqggt8pc25l3ga2nn40/1280x720_3071200_1_f.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://cdn-3.nxplay.com.br/TNT/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
