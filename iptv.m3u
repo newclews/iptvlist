@@ -593,6 +593,8 @@ http://209.222.97.92:16436
 https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
 http://186.226.215.132:80/12345/12345/53.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2
+https://stream.ads.ottera.tv/cl/240127cmqggt8pc25l3ga2nn40/1280x720_3071200_1_f.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
@@ -629,7 +631,7 @@ https://embedflix.net/canal/live.php?ch=5
 https://embedflix.net/canal/live.php?ch=7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD AM (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 2 (IPTV PRO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 3 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=10
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO RECORD (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=9
@@ -1085,8 +1087,6 @@ https://embedflix.net/canal/live.php?ch=14
 https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
 https://embedflix.net/canal/live.php?ch=16
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-https://stream.ads.ottera.tv/cl/240127cmqggt8pc25l3ga2nn40/1280x720_3071200_1_f.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://cdn-3.nxplay.com.br/TNT/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
