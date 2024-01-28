@@ -352,7 +352,7 @@ https://cmc-ono.amagi.tv/amRdirect/device[did]=[AD_IDFA[&us_privacy={US_PRIVACY}
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
