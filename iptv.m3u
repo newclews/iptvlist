@@ -406,7 +406,7 @@ https://26523.live.streamtheworld.com/POSITIVIDADE_FMAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
 http://radio01.logicahost.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/171.m3u8
+https://19793.live.streamtheworld.com/MIXRIOAAC_SC
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/R%C3%A1dio_Senado.svg/1280px-R%C3%A1dio_Senado.svg.png", RADIO SENADO FM
@@ -414,7 +414,7 @@ https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w1227646429.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Energia_97_logo.png", ENERGIA 97 FM
 https://s1.streaming.inweb.com.br/energia
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51x4QvuJsWL.png", RADIO CIDADE RJ
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/173.m3u8
+https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://static-br.radio.net/images/broadcasts/64/50/1809/c300.png", Power Hitz (New York)
