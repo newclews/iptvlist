@@ -74,8 +74,8 @@ http://168.205.87.198:8555/live/1222/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
-https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w39649666.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/0/04/TV_Rio_Sul.png", GLOBO RJ 2
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
 http://208.115.225.174:14271
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1212/123456/70.m3u8
@@ -182,7 +182,7 @@ https://8mwx.short.gy/CARACOL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
-https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
@@ -216,7 +216,7 @@ https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://199.127.60.83:14682
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
+https://stream.ads.ottera.tv/cl/240128cmr26t8pc25l3ga8io90/1280x720_3071200_0_f.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
@@ -267,8 +267,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 http://187.95.95.243/AgroMais-HD/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALERJ
-https://ch.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 1
@@ -295,7 +293,7 @@ http://51.83.238.223:16457
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1 (IPTV PRO)
 https://cdn-fast.nxtv.com.br/livepl/woohoo_2-modified.m3u8?mm_sp&bpkio_sessionid=10e0d76f115-84ec922d-c600-433d-98e6-93883d66ac3d&bpkio_serviceid=9978b7063e297d84df796a0bdeecad3d
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 2 (IPTV PRO)
 https://cdn-fast.nxtv.com.br/9978b7063e297d84df796a0bdeecad3d/livepl/manifest/woohoo-modified.m3u8
@@ -327,6 +325,8 @@ https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCTeuEMYybdsJXTR7dOiGLYg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/NpLhC01.png", DIDI RED PILL (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALERJ (NOT 24/7)
+https://ch.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
@@ -345,10 +345,6 @@ https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELEHIT
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/LogoMusicRoxo.png", MUSIC BOX BRAZIL
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/163.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/2560px-VH1_2020.svg.png", VH1 ITALIA
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/V/VH1_Classic-logo-13DA435A6D-seeklogo.com.png", VH1 CLASSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65ac8000-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5a8fe10-d4d4-4ffa-8acd-42a34a94fa70&userId=&serverSideAds=true
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -383,16 +379,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/163.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/fc2Ino6.png", SOUL STORM
-https://ott-linear-channels.stingray.com/hls/stirr/134.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
-https://centova.transmissaodigital.com:20005/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/174.m3u8
+https://radio.saopaulo01.com.br:10971
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
 http://95.216.27.138:9302/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
@@ -408,11 +398,11 @@ http://stm4.painelvox.com:8152/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", Radio Total Remix
 https://sonicpanel.oficialserver.com:7013/;stream/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Rede_Transam%C3%A9rica_logo.png", RADIO TRANSAMERICA RJ
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/179.m3u8
+https://21933.live.streamtheworld.com/RT_RJAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="http://mixamixfm.com/images/logo.png", Rádio Mix A Mix FM
 http://radyo.yayin.com.tr:5998//;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://m.media-amazon.com/images/I/51sGEtB3QjL.png", POSITIVIDADE FM
-https://iptv.vivatele.com:8443/live/viva_padrao/viva2384/122.ts
+https://26523.live.streamtheworld.com/POSITIVIDADE_FMAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
 http://radio01.logicahost.com.br:8300/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
