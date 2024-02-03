@@ -599,8 +599,8 @@ https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/globo.r
 http://185.150.190.225:16791
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
 http://capivara.top/live/69754975271944/439516838245/703730.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 3
-http://186.226.215.132:80/12345/12345/22.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
+http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://209.222.97.92:16412
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 1
