@@ -271,10 +271,6 @@ http://187.95.95.243/AgroMais-HD/video.m3u8
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 1
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TNT SPORTS 2
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/1tQrpYJ.png", GE FAST
 https://dxmy6u2c9ad0l.cloudfront.net/04.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
