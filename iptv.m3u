@@ -56,7 +56,7 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
+http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/527.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -596,7 +596,7 @@ http://209.222.97.92:16412
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 1
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
-http://209.222.97.92:16222
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
 http://209.222.97.92:16520
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4 (IPTV PRO)
