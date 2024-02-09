@@ -381,6 +381,8 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
+https://azura.servercast.com.br/hls/radio_onda_beat/live.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
 https://radio.saopaulo01.com.br:10971
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
