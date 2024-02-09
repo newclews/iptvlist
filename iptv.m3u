@@ -62,7 +62,7 @@ https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/504.m3u8
+http://reitv.xyz:80/548357419/130338498/210238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -602,7 +602,7 @@ http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
-http://209.222.97.92:16520
+http://reitv.xyz:80/548357419/130338498/210653.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG (IPTV PRO)
