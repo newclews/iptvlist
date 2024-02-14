@@ -335,6 +335,8 @@ https://isgo.newclews.workers.dev/stream/UCkkqXUQYUT0pC8RjZpfTZCQ/master.m3u8
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANTENA 1 TV
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", RADIO TOTAL REMIX (STUDIO)
 https://live01.livemustv.com.br/totalremix/totalremix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
