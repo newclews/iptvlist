@@ -56,7 +56,7 @@ https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/527.m3u8
+http://51.83.238.223:16171
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://208.115.225.174:16907
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -284,7 +284,7 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/183.ts
+http://64.31.40.14:16752
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://51.83.238.223:16457
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
@@ -534,7 +534,7 @@ http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://cdn2.connectbr.com.br/TCM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://51.83.238.223:16147
+http://51.83.238.223:16783
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
@@ -546,7 +546,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/589
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://208.115.225.174:14136/
+http://51.83.238.223:16045
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://208.115.225.174:14140/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
