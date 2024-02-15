@@ -212,7 +212,7 @@ http://168.205.87.198:8555/live/1212/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/tracks-v2a1/mono.m3u8
+http://199.127.60.83:14687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://199.127.60.83:14682
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
@@ -448,7 +448,7 @@ http://cdn.connectbr.com.br/h2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://208.115.225.174:14192
+http://199.127.60.83:16192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://51.83.238.223:16957
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
