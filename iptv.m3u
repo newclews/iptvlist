@@ -60,7 +60,7 @@ http://209.222.97.92:16910
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://208.115.225.174:16907
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://reitv.xyz:80/548357419/130338498/210238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
