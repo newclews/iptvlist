@@ -441,8 +441,6 @@ http://64.31.40.14:14884
 http://199.127.60.83:14716
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA!
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://cdn.connectbr.com.br/History/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
@@ -459,8 +457,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SPACETV
-https://stmv1.srvif.com/2022/2022/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -533,8 +529,6 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 http://208.115.225.174:14132/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
-http://cdn2.connectbr.com.br/TCM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://51.83.238.223:16783
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
