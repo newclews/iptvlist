@@ -561,6 +561,8 @@ http://208.115.225.174:14165/
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV 2
+http://xdplayer.tv:8080/play/N_MJadoDd421mmCut6UDZLMXMKZGDUYMyFS5iuDqoIE/m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CNN INTERNACIONAL
