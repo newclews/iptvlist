@@ -459,6 +459,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
