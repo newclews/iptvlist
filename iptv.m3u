@@ -227,9 +227,9 @@ http://51.83.238.223:16274
 http://185.150.190.225:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://51.79.17.168:14687
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 01
-https://fast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/TVZyn/dash-output.mpd?content_channel_id=14&content_livestream=1
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN 02
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
@@ -559,8 +559,6 @@ http://208.115.225.174:14160/
 http://208.115.225.174:14165/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV 2
 http://xdplayer.tv:8080/play/N_MJadoDd421mmCut6UDZLMXMKZGDUYMyFS5iuDqoIE/m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
