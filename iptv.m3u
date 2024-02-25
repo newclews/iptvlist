@@ -459,8 +459,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", POOP TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -625,7 +623,9 @@ https://embedflix.net/canal/live.php?ch=10
 https://embedflix.net/canal/live.php?ch=9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/238
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://209.222.97.92:16493
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 1
 http://208.115.225.174:14460
