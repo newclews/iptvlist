@@ -1929,5 +1929,6 @@ https://embedflix.net/canal/live.php?ch=15
 https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
+https://isgo.newclews.workers.dev/stream/UCazBTgMYUz6goZZJ7yhkNTw/master.m3u8
 
