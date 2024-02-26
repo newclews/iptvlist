@@ -319,8 +319,8 @@ https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCzQxHUiLa5prpJoyOxS0GSA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOLHA POLÍTICA (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCYiM773ssvNMaBHvaWWeIoQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FLORIDA TV 2 (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UC9XGWLQ3gL7fZla9tcINJxA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALERJ (NOT 24/7)
 https://ch.newclews.workers.dev/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
@@ -1939,6 +1939,4 @@ https://isgo.newclews.workers.dev/stream/UC8W9Sjy5gyBEQTSPJjfSq5g/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 6
 https://isgo.newclews.workers.dev/stream/UCzwM7faIPB1gbK4At_BB0kw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 7
-https://isgo.newclews.workers.dev/stream/UC9XGWLQ3gL7fZla9tcINJxA/master.m3u8
 
