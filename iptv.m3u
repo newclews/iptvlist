@@ -62,7 +62,7 @@ http://51.83.238.223:16141
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://tv4.live/api/stream/amishpatel81@gmail.com/790899/livetv.epg/globo.rj.br.m3u8
+https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1212/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -284,11 +284,11 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://64.31.40.14:16752
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83257
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://51.83.238.223:16457
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1 (IPTV PRO)
