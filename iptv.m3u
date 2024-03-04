@@ -206,7 +206,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
-https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+http://51.79.17.168:14669
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1212/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
@@ -234,7 +234,7 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
 http://168.205.87.198:8555/live/1501/123456/162.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
+http://51.79.17.168:14457
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://51.79.17.168:14451
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
@@ -522,13 +522,13 @@ http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://51.79.17.168:14658
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/597
+http://51.79.17.168:14585
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 http://51.79.17.168:14585
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://cdn.connectbr.com.br/cinecanal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+http://51.79.17.168:14562
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
 http://208.115.225.174:14132/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
@@ -538,11 +538,11 @@ http://51.83.238.223:16783
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
-http://51.83.238.223:16703
+http://51.79.17.168:14220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://51.83.238.223:16763
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/589
+http://51.79.17.168:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
@@ -554,13 +554,13 @@ http://208.115.225.174:14144/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://208.115.225.174:14152/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://208.115.225.174:14156/
+http://51.79.17.168:14820
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://208.115.225.174:14148/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 http://208.115.225.174:14160/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://208.115.225.174:14165/
+http://51.79.17.168:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV 2
