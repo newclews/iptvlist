@@ -506,7 +506,7 @@ http://cdn.connectbr.com.br/paramount/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://64.31.40.14:14031/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://64.31.40.14:14027/
+http://64.31.40.14:14027
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://64.31.40.14:14048/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -514,9 +514,9 @@ http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://51.83.238.223:16883
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-http://cdn.connectbr.com.br/AE/index.m3u8
+http://64.31.40.14:14002
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
+http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://64.31.40.14:14043
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
