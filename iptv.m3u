@@ -245,8 +245,8 @@ http://168.205.87.198:8555/live/1496/123456/159.m3u8
 https://c2td.short.gy/yuNvgO
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="https://pooptv.weebly.com/uploads/1/3/2/4/132492604/banner-pooptv-site_orig.png", POOP TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", ADULT SWIM
+http://s.apkwuv.xyz/live/demopadexchange/demopad/147723.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
