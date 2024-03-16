@@ -64,7 +64,7 @@ http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/globo.rj.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
-http://168.205.87.198:8555/live/1212/123456/102.m3u8
+http://168.205.87.198:8555/live/1216/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
