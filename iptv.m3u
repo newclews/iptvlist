@@ -512,7 +512,7 @@ http://64.31.40.14:14048/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://51.83.238.223:16883
+http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://64.31.40.14:14002
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -530,7 +530,7 @@ http://cdn.connectbr.com.br/cinecanal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://51.79.17.168:14562
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
-http://208.115.225.174:14132/
+http://xciptv.aplicativos.top:80/884202033/r537B8146t/748
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
@@ -646,7 +646,7 @@ http://208.115.225.174:14468
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
 http://208.115.225.174:14476
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 9
-http://64.31.40.14:16403
+http://64.31.40.14:16460
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR PLUS
 http://208.115.225.174:14754
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
