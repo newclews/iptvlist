@@ -284,11 +284,11 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18623.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://185.150.190.225:16525
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18659.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18660.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18661.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1 (IPTV PRO)
@@ -628,7 +628,7 @@ https://embedflix.net/canal/live.php?ch=9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISCO FUNK
 http://45.11.56.147:8808/stream?id=161
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/238
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18657.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://209.222.97.92:16493
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 1
