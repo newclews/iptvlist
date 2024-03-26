@@ -142,7 +142,7 @@ https://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18645.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
@@ -282,7 +282,7 @@ https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
 https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18623.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://185.150.190.225:16525
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
@@ -495,6 +495,8 @@ https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/p
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA FILMES NACIONAIS
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
+https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
@@ -586,7 +588,7 @@ https://stream.ads.ottera.tv/cl/240127cmqggt8pc25l3ga2nn40/1280x720_3071200_1_f.
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
-http://51.83.238.223:16800
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/125410.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
