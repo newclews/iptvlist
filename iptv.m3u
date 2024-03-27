@@ -604,7 +604,7 @@ http://capivara.top/live/69754975271944/439516838245/703730.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
+http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18598.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
