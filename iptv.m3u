@@ -251,8 +251,8 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
-https://stream.ads.ottera.tv/cl/240321cntnmgkcmn2v8n9olkh0/1280x720_2300000_0_f.m3u8?i=475_4388
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
+https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
@@ -457,6 +457,8 @@ http://51.83.238.223:16957
 http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18731.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TURBO
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
@@ -565,8 +567,10 @@ http://208.115.225.174:14160/
 http://51.79.17.168:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV 2
-http://xdplayer.tv:8080/play/N_MJadoDd421mmCut6UDZLMXMKZGDUYMyFS5iuDqoIE/m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
+http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
+http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CNN INTERNACIONAL
