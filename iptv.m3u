@@ -6,7 +6,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIBRAS
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
-http://168.205.87.198:8555/live/1212/123456/67.m3u8
+http://168.205.87.198:8555/live/1216/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MAIS ABC
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -291,7 +291,7 @@ http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18660.m3u8
 http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18661.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1 (IPTV PRO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8?token=ebfd22f5495bb6561d816586bbcfb2a3b9855187-9e247a004426d8895fb450e9f2e82ea1-1706259420-1706216220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
