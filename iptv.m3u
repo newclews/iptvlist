@@ -292,9 +292,7 @@ http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18661.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 1 (IPTV PRO)
-https://cdn-fast.nxtv.com.br/livepl/woohoo_2-modified.m3u8?mm_sp&bpkio_sessionid=10e0d76f115-84ec922d-c600-433d-98e6-93883d66ac3d&bpkio_serviceid=9978b7063e297d84df796a0bdeecad3d
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF 2 (IPTV PRO)
-https://cdn-fast.nxtv.com.br/9978b7063e297d84df796a0bdeecad3d/livepl/manifest/woohoo-modified.m3u8
+https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8?token=ebfd22f5495bb6561d816586bbcfb2a3b9855187-9e247a004426d8895fb450e9f2e82ea1-1706259420-1706216220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://ythlsgo.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
