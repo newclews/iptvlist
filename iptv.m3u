@@ -39,8 +39,8 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/zjtOI4Y.png", Master TV
 http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdiversa.com.br/wp-content/uploads/2021/04/logo_tv_diversa.png", TV DIVERSA
-https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/90.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/6.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
@@ -335,10 +335,10 @@ https://ythlsgo.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANTENA 1 TV
-https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/chunklist_b946000.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", RADIO TOTAL REMIX (STUDIO)
-https://live01.livemustv.com.br/totalremix/totalremix/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND FM
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/68.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="https://totalremix.com.br/imagens/logo/logo_tr.png", RADIO 89 FM
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
 https://ythlsgo.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
@@ -432,7 +432,7 @@ https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
-https://dl27mmj7tlts0.cloudfront.net/04.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
