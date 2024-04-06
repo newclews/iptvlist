@@ -68,7 +68,7 @@ http://168.205.87.198:8555/live/1216/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
-https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist_w986173046.m3u8
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
 http://168.205.87.198:8555/live/1222/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
