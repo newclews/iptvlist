@@ -215,8 +215,6 @@ http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 http://199.127.60.83:14687
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://199.127.60.83:14682
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png", TOON GOGGLES BRASIL
-https://stream.ads.ottera.tv/cl/240316cnr14qvssv26ftrokjv0/1280x720_2300000_0_f.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
@@ -255,6 +253,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
