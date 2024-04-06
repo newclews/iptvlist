@@ -42,9 +42,9 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdiversa.com.br/wp-content/uploads/2021/04/logo_tv_diversa.png", TV DIVERSA
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
-http://168.205.87.198:8555/live/1492/123456/230.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/6.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-http://186.226.215.132:80/12345/12345/102.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/18.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
 https://ythlsgo.onrender.com/channel/UCjaWLFTNqLkq3ZY2BJ4NYRg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
@@ -54,9 +54,9 @@ http://208.115.225.174:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://simulcast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/231ef4d2-11a0-4f96-8ab3-1182140e0f2b/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://209.222.97.92:16910
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://209.222.97.92:16907
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -76,7 +76,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
-http://mag.funtogether.xyz:8080/7Br3soDxqd/nzt9oCylbU/80025
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1216/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RECORDTV MG
@@ -226,7 +226,7 @@ http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18703.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://185.150.190.225:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-http://51.79.17.168:14687
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
@@ -437,6 +437,8 @@ https://dl27mmj7tlts0.cloudfront.net/04.m3u8
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://64.31.40.14:14884
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
+http://186.226.215.132:80/12345/12345/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://199.127.60.83:14716
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
@@ -609,7 +611,9 @@ http://186.226.215.132:80/12345/12345/56.m3u8
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4
 http://51.83.238.223:16171
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 5 (IPTV PRO)
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 5
+http://209.222.97.92:16910
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 6 (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG (IPTV PRO)
 https://embedflix.net/canal/live.php?ch=2
