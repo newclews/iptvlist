@@ -291,46 +291,44 @@ http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18660.m3u8
 http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18661.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1488/123456/141.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
-https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v1a1/mono.m3u8?token=ebfd22f5495bb6561d816586bbcfb2a3b9855187-9e247a004426d8895fb450e9f2e82ea1-1706259420-1706216220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
+https://isgo.newclews.workers.dev/stream/UCOa-WaNwQaoyFHLCDk7qKIw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
+https://isgo.newclews.workers.dev/stream/UCAAPXtnzlg9krw6MtNbfR-g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
+https://isgo.newclews.workers.dev/stream/UCZD5qcen7lbLPFTjfvdLFcw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
+https://isgo.newclews.workers.dev/stream/UC3KHYFWeB0WimMBfm3NEahQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCe1XGNDeEwAx5xaLGcNPEbQ.m3u8
+https://isgo.newclews.workers.dev/stream/channel/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
+https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8
+https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
+https://isgo.newclews.workers.dev/stream/UCzQxHUiLa5prpJoyOxS0GSA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCWdGgeyOnCOGnvhNdbVl1dQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
+https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV FLORIDA 2 (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC9XGWLQ3gL7fZla9tcINJxA.m3u8
+https://isgo.newclews.workers.dev/stream/UC9XGWLQ3gL7fZla9tcINJxA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCmkgkpuRbUGzwLSpnV2nevQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
+https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP (NOT 24/7)
-https://ythlsgo.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
+https://isgo.newclews.workers.dev/stream/UCWijW6tW0iI5ghsAbWDFtTg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
-https://ythlsgo.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCkkqXUQYUT0pC8RjZpfTZCQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
