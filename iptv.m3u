@@ -338,7 +338,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/68.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", RADIO 89 FM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
-https://ythlsgo.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TELEHIT
