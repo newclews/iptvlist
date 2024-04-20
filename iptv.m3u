@@ -241,7 +241,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+https://c2td.short.gy/dOHaxz
 #EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", CHAPOLIN
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
