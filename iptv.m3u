@@ -1954,4 +1954,6 @@ https://isgo.newclews.workers.dev/stream/UCB44AUqUpC0C3V9ZTHy0bLg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 6
 https://isgo.newclews.workers.dev/stream/UCvgIxzJWuQO-MhwTkMzYK-w/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 7
+https://isgo.newclews.workers.dev/stream/UCMdZW8zUrxpO16ohEEnGB1A/master.m3u8
 
