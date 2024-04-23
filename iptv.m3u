@@ -380,10 +380,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://168.205.87.198:8555/live/1501/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="", HALLO MUSIC
+https://cdn-2.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="https://1.bp.blogspot.com/-GaxM_1Qcycw/YDgZfjmQLwI/AAAAAAAAAoE/UCR7428lTqA8bdZEsYeKv_SG0PxhTN9YQCK4BGAYYCw/s989/ONDA%2BBEAT%2BLOGO%2BCABE%25C3%2587ALHO.png", Radio Onda Beat
-http://everest.servercast.com.br:1180/stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg/260px-Radio_Mood_FM_e_lancada_com_proposta_inovadora_no_mercado_brasileiro_1.jpg", Mood FM
 https://radio.saopaulo01.com.br:10971
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
@@ -424,12 +424,12 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
-https://cdn2.connectbr.com.br/Prime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://imgur.com/tzYimlq.png", OS DEZ MANDAMENTOS
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
@@ -438,10 +438,8 @@ http://64.31.40.14:14712
 http://64.31.40.14:14884
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://186.226.215.132:80/12345/12345/102.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://199.127.60.83:14716
-#EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
+https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://cdn2.connectbr.com.br/History/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
