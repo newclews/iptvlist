@@ -451,7 +451,7 @@ http://199.127.60.83:16192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://51.83.238.223:16957
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18731.m3u8
+https://cdn-2.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TURBO
