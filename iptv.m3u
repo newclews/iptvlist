@@ -534,13 +534,13 @@ http://xciptv.aplicativos.top:80/884202033/r537B8146t/748
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://51.83.238.223:16783
+http://51.79.17.168:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://51.79.17.168:14220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://51.83.238.223:16763
+http://15.235.15.230:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://51.79.17.168:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
