@@ -105,7 +105,7 @@ https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/SjlNmhurBjugUWo8Vocv-FO8ChNn0ykZ_2POCzB3FZBvm8NIPwWg9-KfMbYAy7PXEA", REDE BRASIL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
