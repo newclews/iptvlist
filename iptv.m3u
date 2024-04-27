@@ -76,7 +76,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+http://15.235.15.230:14481
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1216/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RECORDTV MG
@@ -594,7 +594,7 @@ https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
-https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/globo.rj.br.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
 https://8mwx.short.gy/GLOBORJ/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
