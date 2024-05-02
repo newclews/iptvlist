@@ -1941,15 +1941,15 @@ https://embedflix.net/canal/live.php?ch=14
 https://embedflix.net/canal/live.php?ch=15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
 https://embedflix.net/canal/live.php?ch=16
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
 https://isgo.newclews.workers.dev/stream/UCtCN9VVRR3fJolXWSbQ5oxw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SILAS MALAFAIA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SILAS MALAFAIA (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCEoslUVXeGLIFtyp9ZfnGug/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAISO FLORIANOPOLIS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCB44AUqUpC0C3V9ZTHy0bLg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 5
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO AURIVERDE (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 6
 https://isgo.newclews.workers.dev/stream/UCvgIxzJWuQO-MhwTkMzYK-w/master.m3u8
