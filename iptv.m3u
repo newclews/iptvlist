@@ -442,7 +442,7 @@ https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://cdn2.connectbr.com.br/History/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://cdn.connectbr.com.br/h2/index.m3u8
+https://cdn-2.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
