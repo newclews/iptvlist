@@ -446,15 +446,13 @@ http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://199.127.60.83:16192
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://51.83.238.223:16957
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 https://cdn-2.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TURBO
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VV8 TV
-https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
@@ -468,9 +466,9 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 http://64.31.40.14:14063
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+https://cdn-2.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
-https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8 
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
@@ -486,7 +484,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
-https://amg00353-lionsgatestudio-moviespherebrazil-runtimelatam-qb7mk.amagi.tv/playlist/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/cb553d197c6c648a92d43d65d8ef41a1d92402fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac5a243e517e9b98bb65d980027ee78b547535b17a1f51fe0f15d135257bcbec1c079d72e428505db84b2a5437d5b808ae7052d8830a8b2b348aac883424755d57ce4009e7a808f1ace35b47dd3da9bb3f72a97811a7c02d9a8b42f8d58a1fbc70bc47f01e89a8ceda87539cd7d123c605f73a0d54270febea0990c650f8db976436d2633d480a5ceba6c987245087435012f9efdb806bfe1ecbfb4ceb0725ae0e8c468935d000c06da0e55eb2dfd8b5231163f1ae2a6023b3aba19aeb0a20a969e9a7d6c86170ebb67e064fdd79c8317177dfeadc03cad10098a22a88b127092e8f95408d94b186fceae220f424ced4ba9f39525c116768e70df8f407bc28d96be6c21e352e2e2eccca0fb0ecb34b235d5f948948d51002cbbde1e78e3715873a75308f61dd484b68c2201e1f8f4ca9c04406e7270e967b28e86725924beab92fecd5bd8f626a8cf08a1888059fb40ec1b805ad7d2e6601bcfc3f5a4b580fb384075c6a45a923e5d7d9af620872de9dfdd3cf49310b35161d59c5b2a738ac87ce2d1201d2130854344147d8548d29e80947567a925ecbfa5d2fc5143777b7f766130a25d6efb4828cd98516e52e839fac697e7b7f6aaf360329769ce7dc0cb368113f102f810b770dbe085456ef9bddda8a856fdd936ad853087d76cbf41247005c766750d6fa0fd65af1dd19b09fb81ea6afda4041dc69f15411ce84df68aebfd8c21e5e93f8564f6394d17592777e9e47d571f3b816d9b44648152c3239a8e105a808f78ece9f65c87ff501522fb822c6f693b2d27518e4994b3d3d0c592871537b297ed1b0b2761575f8b52ae36f178a3fd82ade8e8c26a4e0226cc48e550e9d2f776cd7d8a1e99eeb73de4ef3960fa4530cb343056ec0c13df88ab1f280f20782b26bd7d92289a887c1c8d38a0c7f05693989ce1d2c1f0d9442ed75839f370681bb82ea9a6a9235c834b581bf3ceb76c7a1d95cfec0cdaea9307f3f2bbeddc1724a868d1c73cea8aeaed6e63d3cc095d568fec8b50479a56ee18a385eaf2b7252f35b9a6ef806b7fc3026eb86260c9b247289d7f62818c733b4601c49b19cd1206b9483389a43cdc1ac4f54da5c45a455483bfd2ca3c9ef202fc6b9100b5ea25957dd27d499890d1954a78063232515434458840e0c5e9154009213bce0eda67b60df51f868118b39fe9219f7d8498494e9fcb4ec3469a68d7d30fb1de20db63b8e94cfcf31aa576ebd7bd37d46a3ccd7eac7fccdd49e884b729d91afae8185c1e4bd4ad253be962a/175/1920x1080_4715744/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/TRhivEt.png", ADRENALINA FREEZONE 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA FILMES NACIONAIS
@@ -523,12 +521,8 @@ http://51.79.17.168:14658
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 http://51.79.17.168:14585
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
-http://cdn.connectbr.com.br/cinecanal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://51.79.17.168:14562
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WANNER
-http://xciptv.aplicativos.top:80/884202033/r537B8146t/748
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
@@ -544,11 +538,11 @@ http://51.79.17.168:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://51.83.238.223:16045
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://208.115.225.174:14140/
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/113
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://208.115.225.174:14144/
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://208.115.225.174:14152/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
@@ -556,7 +550,7 @@ http://51.79.17.168:14820
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://208.115.225.174:14148/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://208.115.225.174:14160/
+http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://51.79.17.168:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
@@ -570,7 +564,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
-https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 1
 https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 2
