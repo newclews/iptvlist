@@ -586,7 +586,7 @@ http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
-https://8mwx.short.gy/GLOBORJ/index.m3u8
+https://live-cm-ah-22-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1MDc2MTcyLCJpYXQiOjE3MTQ5ODk3NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYjQ1OGRhZGUtYzBkNi00YjZlLWExMmMtYzNjZWU1NTBkMWZkIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjApL2dsb2JvLXJqL3BsYXlsaXN0Lm0zdTgifQ.UEI7-MxgrHk7VDuV2LbDHvrxmiMMbCStjpaAekFt1WJQZljCK4leiwCTIrWbPwJzUJFrmuZHX_p9DZmWmVWBT3S8jRZcBl8paGBEYau__gG_lM3a1IRKwnQOxT0oXO-rzenVAz0B2nlfyk3-TJVLPyHnm2SVs2LcV8BCuPD-P31PbnTPE5d8PUuLgTj3uodLFJpSRtVM0uYHMgGGb4_YYbbloinUyZue64dI5nBMdJkCVeamFu7s3SJZ9cwKQKdq5NMWnCy7o40j7XNVovJPojOz7p8y3nVTUJgNZePCzeMg8mNlQ42QT3AgUCrPq83AK3ah5fYTnalF6ZKXEPIM1A/nu/f(bMin=900000,dvr=120)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/5A2UozzFT1ODGks4EciCkw/stream/bcd66c7e-2082-417a-8454-c5e0def14533:SCL/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
