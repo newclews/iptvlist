@@ -559,6 +559,8 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
+https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/a3e02c9a-abb5-4a9d-aba5-f26cb1635d03/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
