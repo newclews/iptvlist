@@ -220,7 +220,7 @@ https://cdn-2.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18703.m3u8
+http://15.235.50.180:14213
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://185.150.190.225:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
@@ -286,7 +286,7 @@ http://185.150.190.225:16484
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
+http://15.235.50.180:14576
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -453,6 +453,8 @@ https://cdn-2.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TURBO
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
+http://15.235.50.180:14270
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL COMEDIA BRASIL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
@@ -464,7 +466,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-http://64.31.40.14:14063
+http://15.235.50.180:14088
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-2.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
@@ -509,6 +511,8 @@ http://64.31.40.14:14048/
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
+http://15.235.50.180:14599
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -532,11 +536,11 @@ http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://51.79.17.168:14220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://15.235.15.230:14005
+http://15.235.50.180:14340
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://51.79.17.168:14420
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/624
+http://15.235.50.180:14300
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
@@ -650,7 +654,7 @@ http://play.1list.vip/live/mitfamily/jqjua3uqiee/38410.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 9
 http://64.31.40.14:16460
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 1
-http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/34
+http://15.235.50.180:14478
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 2
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/35
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 3
