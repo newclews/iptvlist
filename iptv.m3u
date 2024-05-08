@@ -232,7 +232,7 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
 https://cdn-2.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-http://51.79.17.168:14457
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://51.79.17.168:14451
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
