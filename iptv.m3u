@@ -423,6 +423,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
+http://cdn-2.nxplay.com.br/PRIME_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
@@ -433,6 +435,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://15.235.50.180:14853
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BOX
+http://cdn-3.nxplay.com.br/MUSIC_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://64.31.40.14:14884
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
