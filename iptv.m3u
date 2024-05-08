@@ -230,7 +230,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
-http://168.205.87.198:8555/live/1501/123456/162.m3u8
+https://cdn-2.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 http://51.79.17.168:14457
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
@@ -446,7 +446,7 @@ https://cdn-2.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://51.79.17.168:14435
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://199.127.60.83:16192
+https://cdn-2.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -506,7 +506,7 @@ http://199.127.60.83:16058
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://64.31.40.14:14031/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://64.31.40.14:14027
+https://cdn-2.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://64.31.40.14:14048/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -597,6 +597,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 https://live-cm-ah-22-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1MDc2MTcyLCJpYXQiOjE3MTQ5ODk3NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYjQ1OGRhZGUtYzBkNi00YjZlLWExMmMtYzNjZWU1NTBkMWZkIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjApL2dsb2JvLXJqL3BsYXlsaXN0Lm0zdTgifQ.UEI7-MxgrHk7VDuV2LbDHvrxmiMMbCStjpaAekFt1WJQZljCK4leiwCTIrWbPwJzUJFrmuZHX_p9DZmWmVWBT3S8jRZcBl8paGBEYau__gG_lM3a1IRKwnQOxT0oXO-rzenVAz0B2nlfyk3-TJVLPyHnm2SVs2LcV8BCuPD-P31PbnTPE5d8PUuLgTj3uodLFJpSRtVM0uYHMgGGb4_YYbbloinUyZue64dI5nBMdJkCVeamFu7s3SJZ9cwKQKdq5NMWnCy7o40j7XNVovJPojOz7p8y3nVTUJgNZePCzeMg8mNlQ42QT3AgUCrPq83AK3ah5fYTnalF6ZKXEPIM1A/nu/f(bMin=900000,dvr=120)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/5A2UozzFT1ODGks4EciCkw/stream/bcd66c7e-2082-417a-8454-c5e0def14533:SCL/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
