@@ -213,8 +213,8 @@ http://168.205.87.198:8555/live/1216/123456/143.m3u8
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://199.127.60.83:14682
+#EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://cdn-2.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
