@@ -440,7 +440,7 @@ http://15.235.50.180:14853
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 https://cirion-aju.ittv.com.br/MUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://64.31.40.14:14884
+https://brflu.walk-tv.com/5850/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
 http://187.95.95.243/TV-Escola/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
@@ -530,7 +530,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://64.31.40.14:14043
+https://brflu.walk-tv.com/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://51.79.17.168:14658
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
@@ -546,7 +546,7 @@ http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 https://brflu.walk-tv.com/5879/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://64.31.40.14:14056/
+https://brflu.walk-tv.com/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://51.79.17.168:14220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
@@ -558,9 +558,10 @@ http://15.235.50.180:14300
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
+https://brflu.walk-tv.com/5857/index.m3u8
 http://15.235.50.180:14660
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/112
+https://brflu.walk-tv.com/5859/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://208.115.225.174:14152/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
@@ -568,7 +569,7 @@ http://51.79.17.168:14820
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://208.115.225.174:14148/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/107
+https://brflu.walk-tv.com/5861/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://51.79.17.168:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
@@ -652,7 +653,7 @@ https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18657.m3u8
+https://brflu.walk-tv.com/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://209.222.97.92:16493
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOSSO FUTEBOL
