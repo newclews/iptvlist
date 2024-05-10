@@ -62,7 +62,7 @@ https://cirion-aju.ittv.com.br/RECORD_SP/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://209.222.97.92:16271
+https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1216/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -253,8 +253,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
+https://cirion-aju.ittv.com.br/ADULT_SWIM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
@@ -425,8 +425,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
-http://cdn-2.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
+https://cirion-aju.ittv.com.br/PRIME_BOX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
@@ -437,8 +437,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://15.235.50.180:14853
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BOX
-http://cdn-3.nxplay.com.br/MUSIC_HD/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
+https://cirion-aju.ittv.com.br/MUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://64.31.40.14:14884
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
@@ -537,12 +537,14 @@ http://51.79.17.168:14658
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 http://51.79.17.168:14585
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
+https://brflu.walk-tv.com/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://cirion-aju.ittv.com.br/SPACE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://51.79.17.168:14420
+https://brflu.walk-tv.com/5879/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://64.31.40.14:14056/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
@@ -598,7 +600,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
-http://195.128.248.216:8080/live/rewrw43c/43q43q43c/125410.m3u8
+https://cirion-aju.ittv.com.br/BAND_SP/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 2
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 3
@@ -607,8 +609,8 @@ https://cirion-aju.ittv.com.br/GLOBO_SP/index.m3u8
 http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
-https://live-cm-ah-22-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjItMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzE1MDc2MTcyLCJpYXQiOjE3MTQ5ODk3NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYjQ1OGRhZGUtYzBkNi00YjZlLWExMmMtYzNjZWU1NTBkMWZkIiwicGF0aCI6Ii9udS9mKGJNaW49OTAwMDAwLGR2cj0xMjApL2dsb2JvLXJqL3BsYXlsaXN0Lm0zdTgifQ.UEI7-MxgrHk7VDuV2LbDHvrxmiMMbCStjpaAekFt1WJQZljCK4leiwCTIrWbPwJzUJFrmuZHX_p9DZmWmVWBT3S8jRZcBl8paGBEYau__gG_lM3a1IRKwnQOxT0oXO-rzenVAz0B2nlfyk3-TJVLPyHnm2SVs2LcV8BCuPD-P31PbnTPE5d8PUuLgTj3uodLFJpSRtVM0uYHMgGGb4_YYbbloinUyZue64dI5nBMdJkCVeamFu7s3SJZ9cwKQKdq5NMWnCy7o40j7XNVovJPojOz7p8y3nVTUJgNZePCzeMg8mNlQ42QT3AgUCrPq83AK3ah5fYTnalF6ZKXEPIM1A/nu/f(bMin=900000,dvr=120)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/5A2UozzFT1ODGks4EciCkw/stream/bcd66c7e-2082-417a-8454-c5e0def14533:SCL/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE BRASIL 2
+https://cirion-aju.ittv.com.br/REDE_BRASIL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
@@ -653,6 +655,8 @@ https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 http://195.128.248.216:8080/live/rewrw43c/43q43q43c/18657.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://209.222.97.92:16493
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOSSO FUTEBOL
+https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 https://cr7v.short.gy/manofree/PHD/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
