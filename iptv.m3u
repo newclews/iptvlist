@@ -585,8 +585,6 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
-https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/a3e02c9a-abb5-4a9d-aba5-f26cb1635d03/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
@@ -617,8 +615,6 @@ https://cirion-aju.ittv.com.br/GLOBO_SP/index.m3u8
 http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE BRASIL 2
-https://cirion-aju.ittv.com.br/REDE_BRASIL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
@@ -631,24 +627,6 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 http://51.83.238.223:16171
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 5
 http://209.222.97.92:16910
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 6 (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=1
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=2
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RS (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=3
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD BA (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=4
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD DF (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=5
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD PA (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=7
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD AM (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS 3 (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=10
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO RECORD (IPTV PRO)
-https://embedflix.net/canal/live.php?ch=9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL
 https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL (ALTER)
@@ -1974,20 +1952,6 @@ https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="PLUTO TV MX" , Karaoke por Stingray
 https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 01
-https://embedflix.net/canal/live.php?ch=0
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 02
-https://embedflix.net/canal/live.php?ch=11
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 03
-https://embedflix.net/canal/live.php?ch=12
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 04
-https://embedflix.net/canal/live.php?ch=13
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 05
-https://embedflix.net/canal/live.php?ch=14
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 06
-https://embedflix.net/canal/live.php?ch=15
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLAYPLUS 07
-https://embedflix.net/canal/live.php?ch=16
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FATOR POLITICO BR (NOT 24/7)
