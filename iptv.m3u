@@ -206,7 +206,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
-https://cdn-2.nxplay.com.br/TOONCAST_TK/index.m3u8
+https://brflu.walk-tv.com/5838/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1216/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
@@ -291,6 +291,8 @@ https://brflu.walk-tv.com/5931/index.m3u8
 https://brflu.walk-tv.com/5930/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://cirion-aju.ittv.com.br/WOOHOO/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
+https://brflu.walk-tv.com/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
@@ -436,7 +438,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 https://brflu.walk-tv.com/5813/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://64.31.40.14:14712
+https://brflu.walk-tv.com/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 https://brflu.walk-tv.com/5794/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
