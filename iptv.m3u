@@ -142,7 +142,7 @@ https://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://cdn.topk.live:80/tarcisio/123456/404641
+https://brflu.walk-tv.com/5811/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
@@ -222,7 +222,7 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 https://cirion-aju.ittv.com.br/DISNEY/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://185.150.190.225:14674
+https://brflu.walk-tv.com/5812/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -433,14 +433,18 @@ https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
+https://brflu.walk-tv.com/5813/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://64.31.40.14:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://15.235.50.180:14853
+https://brflu.walk-tv.com/5794/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 https://cirion-aju.ittv.com.br/MUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 https://brflu.walk-tv.com/5850/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
+https://brflu.walk-tv.com/5796/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
 http://187.95.95.243/TV-Escola/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
@@ -512,7 +516,7 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://64.31.40.14:14031/
+https://brflu.walk-tv.com/5783/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
