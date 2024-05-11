@@ -538,7 +538,7 @@ http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 https://brflu.walk-tv.com/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://51.79.17.168:14658
+https://cirion-aju.ittv.com.br/TNT/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
@@ -637,6 +637,10 @@ https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
 https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
+https://cirion-aju.ittv.com.br/FOX_SPORTS_2/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN EXTRA
+https://cirion-aju.ittv.com.br/ESPN_EXTRA/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
