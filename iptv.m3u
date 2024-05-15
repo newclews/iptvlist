@@ -115,8 +115,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 https://cdn-2.nxplay.com.br/Cinebrasil/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESFLIX TV
-https://host.painelhub.online:3716/hybrid/play.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
+http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://peganet.com.br/wp-content/uploads/2020/11/121-HELLO-TV.png", HELLO TV
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
