@@ -544,7 +544,7 @@ https://cirion-aju.ittv.com.br/TNT/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-http://51.79.17.168:14585
+https://brflu.walk-tv.com/5889/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 https://brflu.walk-tv.com/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
@@ -558,7 +558,7 @@ https://brflu.walk-tv.com/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://51.79.17.168:14220
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://15.235.50.180:14340
+https://brflu.walk-tv.com/5877/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 https://brflu.walk-tv.com/5880/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
