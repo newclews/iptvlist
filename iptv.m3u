@@ -238,7 +238,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/285/285.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
-http://168.205.87.198:8555/live/1496/123456/159.m3u8
+http://168.205.87.198:8555/live/1216/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
 https://c2td.short.gy/yuNvgO
 #EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", CHAPOLIN
