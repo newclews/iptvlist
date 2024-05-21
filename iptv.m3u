@@ -70,7 +70,7 @@ https://cirion-aju.ittv.com.br/TV_DIARIO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
-https://cirion-aju.ittv.com.br/TV_GAZETA/index.m3u8
+http://168.205.87.198:8555/live/1216/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
@@ -290,7 +290,7 @@ https://brflu.walk-tv.com/5931/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://brflu.walk-tv.com/5930/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-https://cirion-aju.ittv.com.br/WOOHOO/index.m3u8
+http://168.205.87.198:8555/live/1216/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 https://brflu.walk-tv.com/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
