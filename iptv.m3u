@@ -484,7 +484,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/279/279.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
