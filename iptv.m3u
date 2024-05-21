@@ -430,7 +430,7 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
-https://cirion-aju.ittv.com.br/PRIME_BOX/index.m3u8
+http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
@@ -440,7 +440,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 https://brflu.walk-tv.com/5813/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-https://brflu.walk-tv.com/5822/index.m3u8
+http://64.31.40.14:14712/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 https://brflu.walk-tv.com/5794/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
@@ -449,8 +449,6 @@ https://cirion-aju.ittv.com.br/MUSIC/index.m3u8
 https://brflu.walk-tv.com/5850/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 https://brflu.walk-tv.com/5796/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL EDUCAÇÃO
-http://187.95.95.243/TV-Escola/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
@@ -462,14 +460,14 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 https://cirion-aju.ittv.com.br/NAT_GEO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-https://cirion-aju.ittv.com.br/ANIMAL_PLANET/index.m3u8
+https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-https://cirion-aju.ittv.com.br/DISCOVERY_CHANNEL/index.m3u8
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://cirion-aju.ittv.com.br/DISCOVERY_TURBO/index.m3u8
+https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TURBO
+#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/288/288.m3u8
@@ -484,7 +482,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-http://15.235.50.180:14088
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
@@ -505,8 +503,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/TRhivEt.png", ADRENALINA FREEZONE 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3459
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA FILMES NACIONAIS
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
@@ -540,7 +536,7 @@ http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 https://brflu.walk-tv.com/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-https://cirion-aju.ittv.com.br/TNT/index.m3u8
+https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
@@ -548,7 +544,7 @@ https://brflu.walk-tv.com/5889/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 https://brflu.walk-tv.com/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://cirion-aju.ittv.com.br/SPACE/index.m3u8
+https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
