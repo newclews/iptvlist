@@ -122,9 +122,9 @@ http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/rV4SFWT.png", PLAYPOCA SÉRIES
-http://168.205.87.198:8555/live/1501/123456/239.m3u8
+http://168.205.87.198:8555/live/1216/123456/239.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/I4TE7hb.png", PLAYPOCA FILMES
-http://168.205.87.198:8555/live/1501/123456/238.m3u8
+http://168.205.87.198:8555/live/1216/123456/238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static21.minhalojanouol.com.br/1films/selos/22082019170714.png", DARK FLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV GOSPEL MOVIE
