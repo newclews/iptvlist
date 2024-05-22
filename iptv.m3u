@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://pharay.club:8080/6H0UPLyNNp/2w6pWIYdMv/54244
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/63282
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
@@ -460,11 +460,11 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 https://cirion-aju.ittv.com.br/NAT_GEO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+https://cdn-2.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
+https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+https://cdn-2.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -536,7 +536,7 @@ http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 https://brflu.walk-tv.com/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+https://cdn-2.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://cdn2.connectbr.com.br/Star/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
@@ -544,7 +544,7 @@ https://brflu.walk-tv.com/5889/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 https://brflu.walk-tv.com/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+https://cdn2.connectbr.com.br/Space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
