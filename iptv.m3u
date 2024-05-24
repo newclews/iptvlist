@@ -630,15 +630,15 @@ https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8?token=2c51435a57e2b0a922eb
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL (ALTER)
 http://64.31.40.14:16497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+https://cdn-3.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+https://cdn-3.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-https://cirion-aju.ittv.com.br/ESPN_4/index.m3u8
+https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 https://cirion-aju.ittv.com.br/FOX_SPORTS_2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN EXTRA
-https://cirion-aju.ittv.com.br/ESPN_EXTRA/index.m3u8
+https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
