@@ -197,10 +197,6 @@ https://cc-9flatd4lam6vc.akamaized.net/4.m3u8
 https://cdn2.connectbr.com.br/life/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV LITORAL RN
-https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w2072818652.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", LATINA SAT
-https://stream.ichibantv.com:3328/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
@@ -213,6 +209,8 @@ http://168.205.87.198:8555/live/1216/123456/143.m3u8
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
+http://138.255.0.30/CARTOONITO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -253,6 +251,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
+http://138.255.0.30/TRUTV/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
@@ -290,7 +290,7 @@ https://brflu.walk-tv.com/5931/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://brflu.walk-tv.com/5930/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://168.205.87.198:8555/live/1216/123456/141.m3u8
+http://138.255.0.30/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 https://brflu.walk-tv.com/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
