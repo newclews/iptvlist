@@ -66,7 +66,7 @@ https://brflu.walk-tv.com/5756/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1216/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
-https://cirion-aju.ittv.com.br/TV_DIARIO/index.m3u8
+http://138.255.0.30/TVDIARIO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", REDE FAMÍLIA
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
@@ -630,13 +630,13 @@ https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8?token=2c51435a57e2b0a922eb
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL (ALTER)
 http://64.31.40.14:16497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-https://cdn-3.nxplay.com.br/ESPN_2/tracks-v2a1/index.m3u8
+http://138.255.0.30/ESPN2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 https://cdn-3.nxplay.com.br/ESPN_3/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-https://cirion-aju.ittv.com.br/FOX_SPORTS_2/index.m3u8
+http://138.255.0.30/FOXSPORTS2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN EXTRA
 https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
