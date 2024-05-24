@@ -626,7 +626,7 @@ http://51.83.238.223:16171
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 5
 http://209.222.97.92:16910
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL
-https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/index.m3u8?token=2c51435a57e2b0a922eb1fdcf27a19a70c108dcd-6271f0a87055202fe41503ed6825229e-1717114511-1716509711-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL (ALTER)
 http://64.31.40.14:16497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
