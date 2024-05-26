@@ -440,7 +440,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 https://brflu.walk-tv.com/5813/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://64.31.40.14:14712/
+https://brflu.walk-tv.com/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 https://brflu.walk-tv.com/5794/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
@@ -525,8 +525,8 @@ https://brflu.walk-tv.com/5897/index.m3u8
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/21
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SYFY
+https://brflu.walk-tv.com/5835/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://138.255.0.30/CINECANAL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
