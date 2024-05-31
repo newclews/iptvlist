@@ -429,8 +429,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
-http://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE UK
+https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
 https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
