@@ -443,12 +443,12 @@ https://brflu.walk-tv.com/5813/index.m3u8
 https://brflu.walk-tv.com/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 https://brflu.walk-tv.com/5794/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", POOP TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 https://brflu.walk-tv.com/5850/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 https://brflu.walk-tv.com/5796/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
+https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
