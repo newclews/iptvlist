@@ -537,6 +537,8 @@ http://138.255.0.30/CINECANAL/index.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://38.110.1.93:14608/udp/233.7.70.128:5000
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
+http://38.110.1.93:14565/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://64.31.40.14:16004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
