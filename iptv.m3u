@@ -602,8 +602,6 @@ https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 2
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
-http://209.222.97.92:16436
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
 https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/globo.news.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
 http://186.226.215.132:80/12345/12345/53.m3u8
@@ -615,8 +613,6 @@ https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 http://170.82.200.35/bandsp/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 2
 https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 3
-https://cirion-aju.ittv.com.br/GLOBO_SP/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://186.226.215.132:80/12345/12345/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
@@ -627,18 +623,10 @@ http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 4
-http://51.83.238.223:16171
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 5
-http://209.222.97.92:16910
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 https://brflu.walk-tv.com/5912/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2 (ALTER)
-https://brflu.walk-tv.com/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://138.255.0.30/ESPN2/index.m3u8
+https://brflu.walk-tv.com/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 https://brflu.walk-tv.com/5907/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
@@ -649,10 +637,6 @@ http://138.255.0.30/FOXSPORTS2/index.m3u8
 https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
-http://209.222.97.92:16493
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX SPORTS
-https://cirion-aju.ittv.com.br/NOSSO_FUTEBOL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 https://brflu.walk-tv.com/5922/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
