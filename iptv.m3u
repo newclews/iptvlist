@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://tv.painelsat.ovh:8080/Deise1010/Deise1010/63282
+https://mycdn.delivery/modoviagem/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
@@ -507,7 +507,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA FILMES NACIONAIS
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓ NACIONAL
 https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
@@ -540,7 +540,7 @@ http://38.110.1.93:14608/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://38.110.1.93:14565/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://64.31.40.14:16004
+https://mycdn.delivery/amc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 https://brflu.walk-tv.com/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
@@ -1979,4 +1979,6 @@ https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCy6No58ozvsnoCo2qTZeZrg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VLOG DO LISBOA (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCeW2XVfsOkghlDuw6N7b_ag/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SEXY HOT
+https://mycdn.delivery/sexyhot/index.m3u8
 
