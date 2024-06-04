@@ -586,15 +586,36 @@ http://208.115.225.174:14148/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 https://brflu.walk-tv.com/5861/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://51.79.17.168:14900
+https://abc.embedmax.site/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MANDA CHUVA
 http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PATOLINO E AMIGOS
 http://24hrs.homelinux.com:8080/24H-patolino/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZÉ BUSCAPÉ
+http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SCOOBY DOO
+http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORRIDA MALUCA
+http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
+http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MICKEY E DONALD
+http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SIMPSONS
+http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FUTURAMA
+http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
+http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
+http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PEGADINHAS SILVO SANTOS
+http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
@@ -628,7 +649,7 @@ https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://brflu.walk-tv.com/5912/index.m3u8
+https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 https://brflu.walk-tv.com/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
