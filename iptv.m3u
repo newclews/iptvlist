@@ -649,7 +649,7 @@ https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://cirion-aju.ittv.com.br/ESPN_BRASIL/tracks-v1a1/mono.m3u8?token=039a9bc8548c6be26738001be1e17ddf06e2de9c-f9d7b57ed9c49fddffb42d0e986938da-1717460280-1716855480-65e0e841a218cf5fda20bc04-10000-E1%3A7D%3AB2%3A47%3A66%3AA6%3A5E%3A36
+https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 https://brflu.walk-tv.com/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
