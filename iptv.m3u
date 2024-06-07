@@ -142,7 +142,7 @@ https://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-https://brflu.walk-tv.com/5811/index.m3u8
+http://abc.embedmax.site/globonews/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
@@ -220,7 +220,7 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://brflu.walk-tv.com/5812/index.m3u8
+http://mycdn.delivery/gloob/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -284,11 +284,11 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-https://brflu.walk-tv.com/5932/index.m3u8
+http://abc.embedmax.site/sportv1/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-https://brflu.walk-tv.com/5931/index.m3u8
+http://abc.embedmax.site/sportv2/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-https://brflu.walk-tv.com/5930/index.m3u8
+http://abc.embedmax.site/sportv3/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://138.255.0.30/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -438,19 +438,19 @@ https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-https://brflu.walk-tv.com/5813/index.m3u8
+http://mycdn.delivery/gnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-https://brflu.walk-tv.com/5822/index.m3u8
+http://mycdn.delivery/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-https://brflu.walk-tv.com/5794/index.m3u8
+http://mycdn.delivery/bis/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1217/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 http://168.205.87.198:8555/live/1217/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-https://brflu.walk-tv.com/5850/index.m3u8
+http://mycdn.delivery/viva/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-https://brflu.walk-tv.com/5796/index.m3u8
+http://mycdn.delivery/canalbrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
@@ -458,17 +458,17 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
 https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-https://brflu.walk-tv.com/5815/tracks-v1a1/mono.m3u8
+http://mycdn.delivery/history/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-https://brflu.walk-tv.com/5777/index.m3u8
+https://mycdn.delivery/nationalgeographic/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://138.255.0.30/ANIMALPLANET/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-https://brflu.walk-tv.com/5785/index.m3u8
+https://mycdn.delivery/discovery/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://brflu.walk-tv.com/5786/index.m3u8
+https://mycdn.delivery/discoveryturbo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -520,17 +520,17 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-https://brflu.walk-tv.com/5783/index.m3u8
+http://abc.embedmax.site/cinemax/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-https://brflu.walk-tv.com/5897/index.m3u8
+https://mycdn.delivery/megapix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 1
 http://cdn.connectbr.com.br/Lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SYFY
-https://brflu.walk-tv.com/5835/index.m3u8
+https://mycdn.delivery/usa/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://138.255.0.30/CINECANAL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
@@ -542,49 +542,49 @@ http://38.110.1.93:14565/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 https://mycdn.delivery/amc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-https://brflu.walk-tv.com/5855/index.m3u8
+https://mycdn.delivery/fx/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-https://brflu.walk-tv.com/5781/index.m3u8
+http://abc.embedmax.site/tnt/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://138.255.0.30/STARCHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-https://brflu.walk-tv.com/5889/index.m3u8
+https://mycdn.delivery/starchannel/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 https://mycdn.delivery/warnerchannel/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://brflu.walk-tv.com/5771/index.m3u8
+https://mycdn.delivery/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/5/thumb_BORA-1597857054.png", BORA FILMES
 http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://138.255.0.30:80/TCM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-https://brflu.walk-tv.com/5879/index.m3u8
+http://abc.embedmax.site/tcpremium/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-https://brflu.walk-tv.com/5875/index.m3u8
+http://abc.embedmax.site/tcaction/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://38.110.1.93:14573/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-https://brflu.walk-tv.com/5877/index.m3u8
+http://abc.embedmax.site/tcpipoca/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-https://brflu.walk-tv.com/5880/index.m3u8
+http://abc.embedmax.site/tctouch/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-https://brflu.walk-tv.com/5901/index.m3u8
+http://abc.embedmax.site/tcfun/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-https://brflu.walk-tv.com/5899/index.m3u8
+http://abc.embedmax.site/tccult/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-https://brflu.walk-tv.com/5891/index.m3u8
+http://abc.embedmax.site/hbo/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-https://brflu.walk-tv.com/5857/index.m3u8
+http://abc.embedmax.site/hbo2/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://brflu.walk-tv.com/5859/index.m3u8
+http://abc.embedmax.site/hbofamily/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-https://brflu.walk-tv.com/5893/index.m3u8
+http://abc.embedmax.site/hboplus/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://51.79.17.168:14820
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://208.115.225.174:14148/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-https://brflu.walk-tv.com/5861/index.m3u8
+http://abc.embedmax.site/hbosignature/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://abc.embedmax.site/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
@@ -651,15 +651,15 @@ http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-https://brflu.walk-tv.com/5910/index.m3u8
+http://abc.embedmax.site/espn2/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-https://brflu.walk-tv.com/5907/index.m3u8
+http://abc.embedmax.site/espn3/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-https://cdn-3.nxplay.com.br/ESPN_4/tracks-v2a1/index.m3u8
+http://abc.embedmax.site/espn4/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://138.255.0.30/FOXSPORTS2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN EXTRA
-https://cdn-3.nxplay.com.br/ESPN_EXTRA/tracks-v2a1/index.m3u8
+http://abc.embedmax.site/espn6/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
