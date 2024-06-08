@@ -208,7 +208,7 @@ http://168.205.87.198:8555/live/1216/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://24hrs.homelinux.com:8080/24H-picapau/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://cdn-2.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+https://watch.vcdn.in/cartoonnetwork/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://138.255.0.30/CARTOONITO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
