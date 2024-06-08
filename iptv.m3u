@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UOL_logo.png", CANAL UOL
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-https://mycdn.delivery/modoviagem/index.m3u8
+https://watch.vcdn.in/modoviagem/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
@@ -580,9 +580,9 @@ http://abc.embedmax.site/hbofamily/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://abc.embedmax.site/hboplus/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://51.79.17.168:14820
+https://watch.vcdn.in/hbopop/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-http://208.115.225.174:14148/
+https://watch.vcdn.in/hbomundi/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 http://abc.embedmax.site/hbosignature/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
