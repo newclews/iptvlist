@@ -593,8 +593,8 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PATOLINO E AMIGOS
 http://24hrs.homelinux.com:8080/24H-patolino/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZÉ BUSCAPÉ
-http://24hrs.homelinux.com:8080/24H-zebuscape/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DENIS O PIMENTINHA
+http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SCOOBY DOO
 http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORRIDA MALUCA
@@ -649,7 +649,7 @@ https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://cdn-3.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
+http://abc.embedmax.site/espn1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 http://abc.embedmax.site/espn2/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
@@ -658,7 +658,7 @@ http://abc.embedmax.site/espn3/tracks-v1a1/playlist.m3u8
 http://abc.embedmax.site/espn4/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://138.255.0.30/FOXSPORTS2/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN EXTRA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 http://abc.embedmax.site/espn6/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
