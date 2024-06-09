@@ -248,7 +248,7 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
-https://cdn-2.nxplay.com.br/HALLOANIME/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
@@ -432,9 +432,9 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE UK
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
-https://cdn-2.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
@@ -456,7 +456,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://cdn-2.nxplay.com.br/HALLODOC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://mycdn.delivery/history/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
@@ -508,11 +508,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓ NACIONAL
-https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
+https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-3.nxplay.com.br:443/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
-https://cdn-2.nxplay.com.br/HTO_Filmes/playlist.m3u8
+https://cdn-3.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/9/thumb_ENTRETENDO-1597857396.png", ENTRETENDO
