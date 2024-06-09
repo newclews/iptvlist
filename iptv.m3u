@@ -290,7 +290,7 @@ http://abc.embedmax.site/sportv3/tracks-v1a1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://138.255.0.30/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
-https://cdn-3.nxplay.com.br/WOOHOO_FAST/index.m3u8
+https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 https://brflu.walk-tv.com/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
