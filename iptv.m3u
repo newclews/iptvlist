@@ -238,7 +238,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1216/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", CHAPOLIN
 http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
@@ -613,6 +613,8 @@ http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
 http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE RA
+http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PEGADINHAS SILVO SANTOS
