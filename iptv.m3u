@@ -649,8 +649,6 @@ http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
 https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA 2
-http://uniplay.link/live/670252437/8989520/244119.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://abc.embedmax.site/espn1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
