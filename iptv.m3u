@@ -613,12 +613,12 @@ http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
 http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE MAN
+http://24hrs.homelinux.com:8080/24H-Heman.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE RA
 http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PEGADINHAS SILVO SANTOS
-http://24hrs.homelinux.com:8080/24H-pegadihassilviosantos.txt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
