@@ -460,7 +460,7 @@ https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-http://mycdn.delivery/history/index.m3u8
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
