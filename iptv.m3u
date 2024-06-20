@@ -282,11 +282,11 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://abc.embedmax.site/sportv1/tracks-v1a1/playlist.m3u8
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://abc.embedmax.site/sportv2/tracks-v1a1/playlist.m3u8
+https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://abc.embedmax.site/sportv3/tracks-v1a1/playlist.m3u8
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://138.255.0.30/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
@@ -438,11 +438,11 @@ https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://abc.embedmax.site/gnt/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/GNT-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://mycdn.delivery/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://abc.embedmax.site/bis/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/BIS-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1217/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
@@ -450,7 +450,7 @@ http://168.205.87.198:8555/live/1217/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://mycdn.delivery/viva/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-http://abc.embedmax.site/canalbrasil/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/CANALBRASIL-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
@@ -560,33 +560,33 @@ http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://138.255.0.30:80/TCM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://abc.embedmax.site/tcpremium/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://abc.embedmax.site/tcaction/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/TCACTION-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://38.110.1.93:14573/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://abc.embedmax.site/tcpipoca/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/TCPIPOCA-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://abc.embedmax.site/tctouch/tracks-v1a1/playlist.m3u8
+https://brflu.walk-tv.com/5880/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://abc.embedmax.site/tcfun/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/TCFUN-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://abc.embedmax.site/tccult/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/TCCULT-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://abc.embedmax.site/hbo/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/HBO-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://abc.embedmax.site/hbo2/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/HBO2-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://abc.embedmax.site/hbofamily/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/HBOFAMILY-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://abc.embedmax.site/hboplus/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 https://watch.vcdn.in/hbopop/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 https://watch.vcdn.in/hbomundi/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://abc.embedmax.site/hbosignature/tracks-v1a1/playlist.m3u8
+http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://abc.embedmax.site/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
