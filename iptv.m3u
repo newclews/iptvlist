@@ -286,7 +286,7 @@ https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://138.255.0.30/WOOHOO/index.m3u8
+http://45.235.0.78/WOOHOO-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
