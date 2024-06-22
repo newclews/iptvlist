@@ -4,7 +4,7 @@ http://168.205.87.198:8555/live/1216/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
+http://168.205.87.198:8555/live/1216/123456/139.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RTN
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
