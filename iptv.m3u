@@ -3,6 +3,8 @@
 http://168.205.87.198:8555/live/1216/123456/101.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4553
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RTN
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
@@ -11,8 +13,6 @@ http://168.205.87.198:8555/live/1216/123456/67.m3u8
 https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1216/123456/152.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png", REDE SUPER
-https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1535996070.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
@@ -35,7 +35,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w22241813.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE METROPOLE
 https://acesso.ecast.site:3456/stream/play.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO NORTE
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
@@ -93,8 +93,6 @@ https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6450
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/A9_fFGyVCaGvLabtDayHp-wGioER4GkcesRvoC0yi4FjcfnIHjRoUejUBv1ldOFsAkY=w240-h480-rw", VILA TV
-https://streamserver.streamingdevideo.com.br/8072/8072/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
