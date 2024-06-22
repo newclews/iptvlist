@@ -464,9 +464,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-https://mycdn.delivery/nationalgeographic/index.m3u8
+http://45.235.0.78/NATGEO-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://138.255.0.30/ANIMALPLANET/index.m3u8
+http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
