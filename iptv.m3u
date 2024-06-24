@@ -262,7 +262,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
-http://168.205.87.198:8555/live/1216/123456/62.m3u8
+http://168.205.87.198:8555/live/1210/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png", TERRA VIVA
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/293/293.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
@@ -360,19 +360,19 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC CLASSICS
-http://168.205.87.198:8555/live/1217/123456/231.m3u8
+http://168.205.87.198:8555/live/1210/123456/231.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BLACK
-http://168.205.87.198:8555/live/1217/123456/232.m3u8
+http://168.205.87.198:8555/live/1210/123456/232.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC HITS
-http://168.205.87.198:8555/live/1217/123456/233.m3u8
+http://168.205.87.198:8555/live/1210/123456/233.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC LATINO
-http://168.205.87.198:8555/live/1217/123456/234.m3u8
+http://168.205.87.198:8555/live/1210/123456/234.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC PARTY
-http://168.205.87.198:8555/live/1217/123456/235.m3u8
+http://168.205.87.198:8555/live/1210/123456/235.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC POP
-http://168.205.87.198:8555/live/1217/123456/236.m3u8
+http://168.205.87.198:8555/live/1210/123456/236.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC ROCK
-http://168.205.87.198:8555/live/1217/123456/237.m3u8
+http://168.205.87.198:8555/live/1210/123456/237.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 9
@@ -380,7 +380,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
-http://168.205.87.198:8555/live/1217/123456/169.m3u8
+http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", HALLO MUSIC
@@ -444,9 +444,9 @@ http://45.235.0.78/MULTISHOW-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://45.235.0.78/BIS-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
-http://168.205.87.198:8555/live/1217/123456/256.m3u8
+http://168.205.87.198:8555/live/1210/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
-http://168.205.87.198:8555/live/1217/123456/257.m3u8
+http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://45.235.0.78/VIVA-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
@@ -457,8 +457,6 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
 https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN TRAVEL
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
