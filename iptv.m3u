@@ -546,7 +546,7 @@ http://45.235.0.78/FX-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://45.235.0.78/TNT-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
-http://138.255.0.30/STARCHANNEL/index.m3u8
+https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 https://mycdn.delivery/starchannel/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
