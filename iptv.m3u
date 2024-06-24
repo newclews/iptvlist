@@ -210,7 +210,7 @@ http://24hrs.homelinux.com:8080/24H-picapau/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://brflu.walk-tv.com/5801/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
+http://cdnexpress.homelinux.net/live/57.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -438,7 +438,7 @@ https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://45.235.0.78/GNT-HD/index.m3u8
+http://cdnexpress.homelinux.net/live/88.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://45.235.0.78/MULTISHOW-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
@@ -462,13 +462,13 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-http://45.235.0.78/NATGEO-HD/index.m3u8
+http://cdnexpress.homelinux.net/live/55.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://45.235.0.78/DISCOVERY-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://brflu.walk-tv.com/5786/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -624,7 +624,7 @@ https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 2
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
-http://38.110.1.93:14260/udp/233.7.70.128:5000
+http://cdnexpress.homelinux.net/live/72.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
 http://186.226.215.132:80/12345/12345/53.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 3
@@ -680,13 +680,13 @@ https://brflu.walk-tv.com/5920/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
 https://brflu.walk-tv.com/5921/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
-https://abc.embedmax.site/premiere1/index.m3u8
+http://cdnexpress.homelinux.net/live/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
-https://abc.embedmax.site/premiere2/index.m3u8
+http://cdnexpress.homelinux.net/live/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE C
-https://abc.embedmax.site/premiere3/index.m3u8
+http://cdnexpress.homelinux.net/live/17.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE D
-https://abc.embedmax.site/premiere4/index.m3u8
+http://cdnexpress.homelinux.net/live/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
