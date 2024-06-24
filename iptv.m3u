@@ -142,7 +142,7 @@ https://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-https://brflu.walk-tv.com/5811/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/72.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
@@ -208,13 +208,13 @@ http://168.205.87.198:8555/live/1210/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://24hrs.homelinux.com:8080/24H-picapau/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://brflu.walk-tv.com/5801/playlist.m3u8
+http://cdnexpress.homelinux.net/live/29.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://cdnexpress.homelinux.net/live/57.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-https://brflu.walk-tv.com/5806/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/40.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
@@ -282,17 +282,17 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/23.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+http://cdnexpress.homelinux.net/live/54.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://45.235.0.78/WOOHOO-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-https://brflu.walk-tv.com/5826/index.m3u8
+http://cdnexpress.homelinux.net/live/41.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
@@ -466,7 +466,7 @@ http://cdnexpress.homelinux.net/live/55.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://45.235.0.78/DISCOVERY-HD/index.m3u8
+http://cdnexpress.homelinux.net/live/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://cdnexpress.homelinux.net/live/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
@@ -650,11 +650,11 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19059/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19061/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://abc.embedmax.site/espn3/tracks-v1a1/playlist.m3u8
+http://cdnexpress.homelinux.net/live/50.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://abc.embedmax.site/espn4/tracks-v1a1/playlist.m3u8
+http://cdnexpress.homelinux.net/live/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://138.255.0.30/FOXSPORTS2/index.m3u8
+http://cdnexpress.homelinux.net/live/27.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
@@ -664,7 +664,7 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 https://brflu.walk-tv.com/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
-https://abc.embedmax.site/combate/index.m3u8
+http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 https://brflu.walk-tv.com/5922/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
@@ -680,7 +680,7 @@ https://brflu.walk-tv.com/5920/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
 https://brflu.walk-tv.com/5921/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
-http://cdnexpress.homelinux.net/live/3.m3u8
+http://cdnexpress.homelinux.net/live/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
 http://cdnexpress.homelinux.net/live/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE C
