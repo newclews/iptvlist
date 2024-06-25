@@ -442,7 +442,7 @@ http://cdnexpress.homelinux.net/live/88.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://45.235.0.78/MULTISHOW-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://45.235.0.78/BIS-HD/index.m3u8
+http://cdnexpress.homelinux.net/live/53.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1210/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
@@ -464,7 +464,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://cdnexpress.homelinux.net/live/55.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://45.235.0.78/ANIMALPLANET-HD/index.m3u8
+http://cdnexpress.homelinux.net/live/68.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://cdnexpress.homelinux.net/live/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -648,7 +648,7 @@ http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://cdnexpress.homelinux.net/live/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://177.105.239.34:8000/play/a005/index.m3u8
+http://cdnexpress.homelinux.net/live/47.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://cdnexpress.homelinux.net/live/50.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
