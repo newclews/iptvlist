@@ -154,7 +154,7 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1920x1080/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/pj4oSG7.png", CNN PORTUGAL
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEwOjU6MzAgUE0maGFzaF92YWx1ZT1RcHl6MEdDRHpLSWRxSFByeFhsYytRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTlhZDU5MjEtZTBkYy00YzI4LWFkNTYtNWM4MmJiYjM3YjE2/
+https://video-auth2.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDEwOjU6MTcgUE0maGFzaF92YWx1ZT1EUjc5bnQ1Lys1RDNwbkFSUEJYU1BRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2QwM2UzZTUtODYwMC00OGY4LTg3NmEtYWNhZDAyYzBlMDQy
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
