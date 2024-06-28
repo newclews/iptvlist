@@ -431,10 +431,10 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE UK
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SERIES
-https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSICS
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HELLO
+http://cdn.connectbr.com.br/Hello/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
+http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
