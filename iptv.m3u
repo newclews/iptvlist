@@ -201,7 +201,7 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" RETRO CARTOON 2
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png", RETRO CARTOON 2
 https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
 http://cdnexpress.homelinux.net/live/96.m3u8
