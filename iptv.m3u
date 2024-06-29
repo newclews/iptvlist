@@ -529,8 +529,10 @@ http://cdnexpress.homelinux.net/live/62.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 https://abc.embedmax.site/syfy-0/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
 https://abc.embedmax.site/cinecanal-0/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
+http://45.235.0.78/CINECANAL-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
