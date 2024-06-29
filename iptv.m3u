@@ -528,15 +528,15 @@ http://cdnexpress.homelinux.net/live/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://45.235.0.78/SYFY-HD/index.m3u8
+https://abc.embedmax.site/syfy-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
-http://45.235.0.78/CINECANAL-HD/index.m3u8
+https://abc.embedmax.site/cinecanal-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://45.235.0.78/STUDIOUNIVERSAL-HD/index.m3u8
+https://abc.embedmax.site/studiouniversall-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://45.235.0.78/AMC-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
@@ -546,7 +546,7 @@ http://45.235.0.78/TNT-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-https://mycdn.delivery/starchannel/index.m3u8
+https://abc.embedmax.site/starchannel-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
@@ -627,6 +627,8 @@ https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
 https://brflu.walk-tv.com/5811/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
+https://abc.embedmax.site/globonews-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
 http://186.226.215.132:80/12345/12345/53.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 3
