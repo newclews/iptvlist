@@ -90,11 +90,11 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
 https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
-https://stream.ads.ottera.tv/cl/240629cq02hc8tiotp63cvjt3g/1280x720_3740000_0_f.m3u8?i=475_4582
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4582
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
 http://168.205.87.198:8555/live/1210/123456/247.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO
-https://stream.ads.ottera.tv/cl/240629cq02ijkvn78esi6f9g90/1280x720_3470000_0_f.m3u8?i=475_6450
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6450
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
@@ -492,19 +492,19 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
-https://stream.ads.ottera.tv/cl/240629cq01n2e3ldgafh3od8g0/1280x720_3071200_0_f.m3u8?i=728_2153
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
-https://stream.ads.ottera.tv/cl/240629cq01r28en3la9r748ih0/1280x720_3071200_0_f.m3u8?i=728_2552
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME COMÉDIA
-https://stream.ads.ottera.tv/cl/240629cq01rllhg25uckb4otu0/1280x720_3071200_0_f.m3u8?i=728_2553
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FAMÍLIA
-https://stream.ads.ottera.tv/cl/240629cq01sc8tiotp63cv6m60/1280x720_3071200_0_f.m3u8?i=728_5589
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME CRIME
-https://stream.ads.ottera.tv/cl/240629cq01stqs19ukcvq653u0/1280x720_3071200_0_f.m3u8?i=728_4864
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ESPANTO
-https://stream.ads.ottera.tv/cl/240629cq01tc1lm2evgke15sh0/1280x720_3071200_0_f.m3u8?i=728_4865
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ROMANCE
-https://stream.ads.ottera.tv/cl/240629cq01u3l071neeig7uelg/1280x720_3071200_0_f.m3u8?i=475_4866
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
