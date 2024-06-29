@@ -194,7 +194,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf8886100076
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HOMEFULL
 https://cc-9flatd4lam6vc.akamaized.net/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFE CHANNEL
-https://cdn2.connectbr.com.br/life/playlist.m3u8
+http://cdn2.connectbr.com.br/life/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
