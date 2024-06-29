@@ -492,19 +492,19 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+https://stream.ads.ottera.tv/cl/240629cq01n2e3ldgafh3od8g0/1280x720_3071200_0_f.m3u8?i=728_2153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+https://stream.ads.ottera.tv/cl/240629cq01r28en3la9r748ih0/1280x720_3071200_0_f.m3u8?i=728_2552
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME COMÉDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+https://stream.ads.ottera.tv/cl/240629cq01rllhg25uckb4otu0/1280x720_3071200_0_f.m3u8?i=728_2553
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FAMÍLIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+https://stream.ads.ottera.tv/cl/240629cq01sc8tiotp63cv6m60/1280x720_3071200_0_f.m3u8?i=728_5589
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+https://stream.ads.ottera.tv/cl/240629cq01stqs19ukcvq653u0/1280x720_3071200_0_f.m3u8?i=728_4864
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ESPANTO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+https://stream.ads.ottera.tv/cl/240629cq01tc1lm2evgke15sh0/1280x720_3071200_0_f.m3u8?i=728_4865
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ROMANCE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+https://stream.ads.ottera.tv/cl/240629cq01u3l071neeig7uelg/1280x720_3071200_0_f.m3u8?i=475_4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
