@@ -199,8 +199,10 @@ https://cdn2.connectbr.com.br/life/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" RETRO CARTOON 2
+https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
 http://cdnexpress.homelinux.net/live/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
@@ -247,8 +249,6 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
-https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
@@ -455,8 +455,10 @@ http://45.235.0.78/CANALBRASIL-HD/index.m3u8
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", UP CHANNEL
+http://cdn.connectbr.com.br/UPChannel/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", REDE MOSAICO
+http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/281/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
@@ -505,8 +507,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓ NACIONAL
-https://cdn-3.nxplay.com.br/europaplay/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-3.nxplay.com.br:443/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
