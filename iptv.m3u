@@ -534,7 +534,7 @@ https://abc.embedmax.site/syfy-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
 https://abc.embedmax.site/cinecanal-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
-http://45.235.0.78/CINECANAL-HD/index.m3u8
+http://148.113.160.49:14101/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
@@ -542,7 +542,7 @@ http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 https://abc.embedmax.site/studiouniversall-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://45.235.0.78/AMC-HD/index.m3u8
+http://148.113.160.49:14009/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://45.235.0.78/FX-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
