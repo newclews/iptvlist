@@ -204,7 +204,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png", RETRO CARTOON 2
 https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
-http://cdnexpress.homelinux.net/live/96.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/653.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1210/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
@@ -520,39 +520,39 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://45.235.0.78/CINEMAX-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/427.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://45.235.0.78/MEGAPIX-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/448.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 1
 http://cdnexpress.homelinux.net/live/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-https://abc.embedmax.site/syfy-0/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/463.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
-https://abc.embedmax.site/cinecanal-0/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
 http://148.113.160.49:14101/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://45.235.0.78/UNIVERSALTV-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-https://abc.embedmax.site/studiouniversall-0/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/460.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://148.113.160.49:14009/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://45.235.0.78/FX-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/442.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://45.235.0.78/TNT-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/469.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
-https://brflu.walk-tv.com/5889/tracks-v1a1/mono.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/430.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 https://abc.embedmax.site/starchannel-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+http://voz.one:80/live/marcosfont/YSqcT2CKUUph/478.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://45.235.0.78/SPACE-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
