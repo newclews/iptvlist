@@ -132,7 +132,7 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://45.235.0.78/MAISGLOBOSAT-HD/index.m3u8
+http://tv.painelsat.ovh:8080/Deise1010/Deise1010/63282
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
