@@ -431,8 +431,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE UK
-https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", FILM & ARTS
+http://148.113.160.49:14202/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HELLO
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
@@ -520,7 +520,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/427.m3u8
+http://148.113.160.49:14113/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
@@ -530,33 +530,33 @@ http://cdnexpress.homelinux.net/live/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/463.m3u8
+http://148.113.160.49:14663/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
-http://148.113.160.49:14101/
+http://148.113.160.49:14100/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/475.m3u8
+http://148.113.160.49:14747/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/460.m3u8
+http://148.113.160.49:14659/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://148.113.160.49:14009/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/442.m3u8
+http://148.113.160.49:14220/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/469.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/430.m3u8
+http://148.113.160.49:14655/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 https://abc.embedmax.site/starchannel-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://voz.one:80/live/marcosfont/YSqcT2CKUUph/478.m3u8
+http://148.113.160.49:14759/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://45.235.0.78/SPACE-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-http://138.255.0.30:80/TCM/index.m3u8
+http://148.113.160.49:14671/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://45.235.0.78/TCPREMIUM-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
@@ -670,7 +670,7 @@ http://38.110.1.93:14259
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-https://brflu.walk-tv.com/5865/index.m3u8
+http://148.113.160.49:14123/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
