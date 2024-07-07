@@ -34,7 +34,7 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", POP TV
-http://srv26513565.ultasrv.com:8080/hls/test_high.m3u8
+http://srv26513565.ultasrv.com:8080/hls/test_hd720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
 http://streaming.jornalmn.com.br/live/tvmn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
