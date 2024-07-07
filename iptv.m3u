@@ -23,6 +23,8 @@ https://isgo.newclews.workers.dev/stream/UCfYrK5JU5EznsnK3wQE7iIg/master.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE FAMÍLIA
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
@@ -31,8 +33,6 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/90.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png", RDC TV
-https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/chunklist_w22241813.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE METROPOLE
 https://acesso.ecast.site:3456/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
@@ -290,7 +290,7 @@ http://cdnexpress.homelinux.net/live/28.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://cdnexpress.homelinux.net/live/54.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://45.235.0.78/WOOHOO-HD/index.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://cdn-3.nxplay.com.br/WOOHOO_FAST/tracks-v2a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -391,8 +391,8 @@ https://cdn-2.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MUSIC BOX
-http://cdnexpress.homelinux.net/live/100.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/58.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/25svjdc.png", Costa Verde Fm
 http://95.216.27.138:9302/;stream/1.mp3
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
