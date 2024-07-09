@@ -142,7 +142,7 @@ http://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://cdnexpress.homelinux.net/live/72.m3u8
+https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 1
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS 2
@@ -444,7 +444,7 @@ http://cdnexpress.homelinux.net/live/88.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://cdnexpress.homelinux.net/live/49.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://45.235.0.78/BIS-HD/index.m3u8
+https://abc.embedmax.site/bis/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://168.205.87.198:8555/live/1210/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
@@ -452,7 +452,7 @@ http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://cdnexpress.homelinux.net/live/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-http://190.102.43.113/Formigatv/offilinetv2806/1541950.m3u8
+https://abc.embedmax.site/canalbrasil/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
@@ -468,7 +468,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/282/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://cdnexpress.homelinux.net/live/55.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://cdnexpress.homelinux.net/live/68.m3u8
+https://abc.embedmax.site/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://cdnexpress.homelinux.net/live/25.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -548,7 +548,7 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/469.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://148.113.160.49:14655/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-https://abc.embedmax.site/starchannel-0/index.m3u8
+https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://148.113.160.49:14759/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
@@ -582,9 +582,9 @@ http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19047/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
+https://abc.embedmax.site/hbosignature/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-https://mycdn.delivery/hboxtreme/index.m3u8
+https://abc.embedmax.site/hboxtreme/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MANDA CHUVA
@@ -662,7 +662,7 @@ http://cdnexpress.homelinux.net/live/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://cdnexpress.homelinux.net/live/27.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
+https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 http://38.110.1.93:14259
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
