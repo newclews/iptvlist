@@ -556,7 +556,7 @@ http://45.235.0.78/SPACE-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://148.113.160.49:14671/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://45.235.0.78/TCPREMIUM-HD/index.m3u8
+https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://45.235.0.78/TCACTION-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
@@ -570,7 +570,7 @@ http://45.235.0.78/TCFUN-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://45.235.0.78/TCCULT-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://45.235.0.78/HBO-HD/index.m3u8
+https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://45.235.0.78/HBO2-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
