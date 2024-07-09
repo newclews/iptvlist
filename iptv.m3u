@@ -252,7 +252,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4388
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://45.235.0.78/ADULTSWIM-HD/index.m3u8
+https://abc.embedmax.site/trutv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANIMAX
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
@@ -471,6 +471,8 @@ http://cdnexpress.homelinux.net/live/55.m3u8
 https://abc.embedmax.site/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://cdnexpress.homelinux.net/live/25.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
+https://abc.embedmax.site/discoveryscience/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://cdnexpress.homelinux.net/live/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
