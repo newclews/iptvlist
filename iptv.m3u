@@ -60,7 +60,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://170.82.200.35/recordsp/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/index.m3u8
+https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
@@ -552,31 +552,31 @@ https://abc.embedmax.site/starchannel-0/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://148.113.160.49:14759/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-http://45.235.0.78/SPACE-HD/index.m3u8
+https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://148.113.160.49:14671/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://45.235.0.78/TCACTION-HD/index.m3u8
+https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://38.110.1.93:14573/udp/233.7.70.128:5000
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://15.235.15.230:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-https://brflu.walk-tv.com/5880/index.m3u8
+https://abc.embedmax.site/tctouch/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://45.235.0.78/TCFUN-HD/index.m3u8
+https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://45.235.0.78/TCCULT-HD/index.m3u8
+https://abc.embedmax.site/tccult/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://45.235.0.78/HBO2-HD/index.m3u8
+https://abc.embedmax.site/hbo2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://45.235.0.78/HBOFAMILY-HD/index.m3u8
+https://abc.embedmax.site/hbofamily/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://45.235.0.78/HBOPLUS-HD/index.m3u8
+https://abc.embedmax.site/hboplus/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19049/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
