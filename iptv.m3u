@@ -190,7 +190,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
-https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HOMEFULL
 https://cc-9flatd4lam6vc.akamaized.net/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFE CHANNEL
