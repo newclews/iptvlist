@@ -60,9 +60,9 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://170.82.200.35/recordsp/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-https://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
+http://abc.embedmax.site/globoSP/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
+http://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1210/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
@@ -654,15 +654,15 @@ http://cdnexpress.homelinux.net/live/130.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://cdnexpress.homelinux.net/live/67.m3u8
+https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://cdnexpress.homelinux.net/live/47.m3u8
+https://cr7v.short.gy/manoiptvfree/ESPN2/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://cdnexpress.homelinux.net/live/50.m3u8
+https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://cdnexpress.homelinux.net/live/24.m3u8
+https://cr7v.short.gy/manoiptvfree/ESPN4/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://cdnexpress.homelinux.net/live/27.m3u8
+https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
@@ -674,13 +674,13 @@ http://148.113.160.49:14123/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-https://brflu.walk-tv.com/5922/index.m3u8
+https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-https://brflu.walk-tv.com/5914/index.m3u8
+https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-https://brflu.walk-tv.com/5915/index.m3u8
+https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-https://brflu.walk-tv.com/5916/index.m3u8
+https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
 https://brflu.walk-tv.com/5918/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
