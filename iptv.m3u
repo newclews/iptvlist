@@ -540,9 +540,9 @@ http://148.113.160.49:14100/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://148.113.160.49:14747/
+http://dzcdn.vood.top:80/hls/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://148.113.160.49:14659/
+http://dzcdn.vood.top:80/hls/711_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://148.113.160.49:14009/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
