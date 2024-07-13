@@ -212,7 +212,7 @@ http://24hrs.homelinux.com:8080/24H-picapau/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://cdnexpress.homelinux.net/live/57.m3u8
+http://pc.felixsolutions.com.br/cartoonito/mpegts?token=535T7njdMK6bf1
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
