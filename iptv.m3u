@@ -294,7 +294,7 @@ https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://cdnexpress.homelinux.net/live/41.m3u8
+https://8mwx.short.gy/CANALOFF/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
