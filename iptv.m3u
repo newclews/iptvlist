@@ -210,7 +210,7 @@ http://168.205.87.198:8555/live/1210/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PICA PAU
 http://24hrs.homelinux.com:8080/24H-picapau/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://abc.embedmax.site/cartoonnetwork/tracks-v1a1/mono.m3u8
+http://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://cdnexpress.homelinux.net/live/57.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
@@ -517,6 +517,8 @@ https://cdn-3.nxplay.com.br:443/HALLOMOVIES/index.m3u8
 https://cdn-3.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE TVS
+https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
@@ -649,10 +651,6 @@ http://186.226.215.132:80/12345/12345/10.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT 2
 http://170.82.200.35/sbt/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
-http://cdnexpress.homelinux.net/live/130.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
-http://186.226.215.132:80/12345/12345/56.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
@@ -665,10 +663,6 @@ https://cr7v.short.gy/manoiptvfree/ESPN4/Index.m3u8
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
-http://38.110.1.93:14259
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 http://148.113.160.49:14123/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
