@@ -14,7 +14,7 @@ https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1210/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+http://dzcdn.vood.top:80/hls/198_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
 https://isgo.newclews.workers.dev/stream/UCVrKQMmA2ew9LFzeIDaOFgw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
@@ -452,7 +452,7 @@ http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-https://abc.embedmax.site/canalbrasil/tracks-v1a1/mono.m3u8
+http://dzcdn.vood.top:80/hls/145_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
