@@ -91,10 +91,10 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
 http://168.205.87.198:8555/live/1210/123456/247.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6450
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
@@ -179,6 +179,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CARACOL INTERNACIONAL
+https://tenwafers.xyz:443/play/QBTY4Su9VrYKNSkduUBSeCbwfKUJUGBhpFxSEC8944RnDWsdDVlKdg58Y6Qvm-iH
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
@@ -195,8 +197,6 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 https://cc-9flatd4lam6vc.akamaized.net/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", LIFE CHANNEL
 http://cdn2.connectbr.com.br/life/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
