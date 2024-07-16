@@ -496,17 +496,17 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME COMÉDIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FAMÍLIA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME CRIME
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ESPANTO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME ROMANCE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
