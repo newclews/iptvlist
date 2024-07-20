@@ -438,7 +438,7 @@ http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
 http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/83.m3u8
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 https://abc.embedmax.site/gnt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
@@ -621,6 +621,12 @@ http://24hrs.homelinux.com:8080/24H-Heman.S01/index.m3u8
 http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
 http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
+https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
@@ -639,8 +645,10 @@ https://abc.embedmax.site/globonews-0/index.m3u8
 http://dzcdn.vood.top:80/hls/469_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 3
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CULTURA FAST
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
-https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
 http://170.82.200.35/bandsp/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 2
@@ -663,6 +671,10 @@ https://cr7v.short.gy/manoiptvfree/ESPN4/Index.m3u8
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 http://148.113.160.49:14123/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
