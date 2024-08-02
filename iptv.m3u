@@ -220,7 +220,7 @@ https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
 http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
+https://abc.embedmax.site/disneychannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 https://abc.embedmax.site/gloob/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
@@ -522,7 +522,7 @@ https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://148.113.160.49:14113/
+https://abc.embedmax.site/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/278/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
@@ -532,7 +532,7 @@ http://cdnexpress.homelinux.net/live/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://148.113.160.49:14663/
+https://abc.embedmax.site/syfy/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
@@ -550,7 +550,7 @@ https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/fx.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 https://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
-http://148.113.160.49:14655/
+https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
