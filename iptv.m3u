@@ -23,8 +23,8 @@ https://isgo.newclews.workers.dev/stream/UCfYrK5JU5EznsnK3wQE7iIg/master.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE MAIS FAMÍLIA
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/10.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
