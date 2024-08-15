@@ -645,8 +645,6 @@ https://abc.embedmax.site/globonews-0/index.m3u8
 http://dzcdn.vood.top:80/hls/469_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 3
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CULTURA FAST
-https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 1
 https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP 2
