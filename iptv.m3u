@@ -62,7 +62,7 @@ https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-4.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://abc.embedmax.site/globoRJ/tracks-v1a1/mono.m3u8
+https://live-cm-ah-07-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMDctMzYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzI0MjM4MDY1LCJpYXQiOjE3MjQxNTE2NjUsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYjQ1OGRhZGUtYzBkNi00YjZlLWExMmMtYzNjZWU1NTBkMWZkIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.qL2noB21wQBGqj8jadb0MQpR8W4N9cY0fcFFKDhJ7UlUjj4PJHDDN2or_cTetJneExz1W62fqtijNfExzbDzomnvQbDnQsi6ejhGVj972_47ueHmV5BXHPt1t6QSNBeZiEAFqH1TdaBKDFf83gJKfq0UhRZuDwomrIoOuBW4MXrUFKuT6zi9wy1lYbbnanRc_KWgIZA91T-UShNBhlrwqcd33jlNRpl0nbYRkSBIx5_dzS_ct7QJCmSOn6GeyqSM0aubMYfnZCGSNvSBRrktIdAJWTx1S4-8TIxaJEA-ARxZwZhAdWnqX4Xabe6tezgOVsd8wTNbHW1V1_S1ot8t0A/nu/f(dvr=120,i=2)/globo-rj/playlist.m3u8?originpath=/linear/hls/pa/event/HvcIRD9wTJmNHAjz8SPQUg/stream/a9ca190c-98dd-4fe2-b7c8-fb959d3f0b16:SCL/variant/e74479202a6c1c04133ccd9175af7101/bandwidth/6577000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
 http://168.205.87.198:8555/live/1210/123456/102.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
