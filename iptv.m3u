@@ -564,7 +564,7 @@ http://cdnexpress.homelinux.net/live/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://cdnexpress.homelinux.net/live/5.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
-http://38.110.1.93:14573/udp/233.7.70.128:5000
+https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://cdnexpress.homelinux.net/live/8.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
