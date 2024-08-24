@@ -492,7 +492,7 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 http://cdnexpress.homelinux.net/live/60.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475.m3u8
+https://cdn-4.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
