@@ -546,7 +546,7 @@ http://cdnexpress.homelinux.net/live/77.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/fx.br.m3u8
+https://new.embedflix.co/p2p/fx/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 https://new.embedflix.co/p2p/tnt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
