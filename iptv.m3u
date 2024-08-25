@@ -513,8 +513,8 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://cdn-4.nxplay.com.br:443/HALLOMOVIES/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
+https://cdn-4.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-4.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
