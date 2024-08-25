@@ -202,7 +202,7 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png", RETRO CARTOON 2
-https://stmv3.voxtvhd.com.br/retrotvm/retrotvm/playlist.m3u8
+http://168.205.87.198:8555/live/1210/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
 http://xdplayer.tv:8080/play/z0GbCQaQ_k_tUHsICcF7nWpMqID2jI7IEkWmemnR4DM
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
