@@ -28,7 +28,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/90.m3u8
+http://168.205.87.198:8555/live/1210/123456/150.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
@@ -230,7 +230,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
-https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
+https://cdn-4.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
@@ -257,8 +257,8 @@ https://abc.embedmax.site/trutv/tracks-v1a1/mono.m3u8
 https://stream.ichibantv.com:3547/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://s3.amazonaws.com/imagenes.conexioncapital.co/wp-content/uploads/2021/06/29232153/logo-eureka-new-1.png", EUREKA TV
-https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX BRAZIL
+http://168.205.87.198:8555/live/1210/123456/258.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF
