@@ -189,6 +189,8 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JAPI
+https://stmv1.paineltv.net/tvjapi/tvjapi/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
 https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
@@ -201,8 +203,6 @@ http://cdn2.connectbr.com.br/life/playlist.m3u8
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png", RETRO CARTOON 2
-http://168.205.87.198:8555/live/1210/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
 http://xdplayer.tv:8080/play/z0GbCQaQ_k_tUHsICcF7nWpMqID2jI7IEkWmemnR4DM
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
