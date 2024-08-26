@@ -252,9 +252,9 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-https://abc.embedmax.site/trutv/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANIMAX
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/541
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX BRAZIL
