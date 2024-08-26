@@ -232,9 +232,9 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
 https://cdn-4.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+http://cdn.connectbr.com.br:80/Nickelodeon/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
-http://dzcdn.vood.top:80/hls/368_.m3u8
+http://cdn2.connectbr.com.br/Nickjr/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
@@ -511,12 +511,14 @@ https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br_720.m3u8
 https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png", MOVIE SPHERE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SERIES CLASSICS
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA PLAY
+https://cdn-4.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
 https://cdn-4.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-4.nxplay.com.br/HTO_Filmes/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE TVS
@@ -529,16 +531,12 @@ http://cdnexpress.homelinux.net/live/42.m3u8
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/26.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://cdnexpress.homelinux.net/live/43.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/62.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME 2
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://cdnexpress.homelinux.net/live/59.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL 2
-http://148.113.160.49:14100/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://cdnexpress.homelinux.net/live/74.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
@@ -591,36 +589,6 @@ http://cdnexpress.homelinux.net/live/38.m3u8
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/37.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://cdnexpress.homelinux.net/live/78.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO M O O CHRIS
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MANDA CHUVA
-http://24hrs.homelinux.com:8080/24H-Manda.Chuva.S01/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PATOLINO E AMIGOS
-http://24hrs.homelinux.com:8080/24H-patolino/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DENIS O PIMENTINHA
-http://24hrs.homelinux.com:8080/24H-denisopimentinha/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SCOOBY DOO
-http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORRIDA MALUCA
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
-http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MICKEY E DONALD
-http://24hrs.homelinux.com:8080/24H-Mickey.e.Donald.S01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SIMPSONS
-http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FUTURAMA
-http://24hrs.homelinux.com:8080/24H-futurama/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", JONNY QUEST
-http://24hrs.homelinux.com:8080/24H-Jonny.Quest.S01/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
-http://24hrs.homelinux.com:8080/24H-Caverna.do.dragao.S01E01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
-http://24hrs.homelinux.com:80/24H-thundercats/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE MAN
-http://24hrs.homelinux.com:8080/24H-Heman.S01/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE RA
-http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/90.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
