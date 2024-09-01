@@ -311,8 +311,8 @@ https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
 https://isgo.newclews.workers.dev/stream/UC3KHYFWeB0WimMBfm3NEahQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", TV JORNAL (PE) (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/channel/UCe1XGNDeEwAx5xaLGcNPEbQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/95/Logotipo_da_TV_Jornal.png", NOVA VIDA JPA (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/channel/UClazF6-tWyqC_mfqpMSviCw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
