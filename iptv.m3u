@@ -169,12 +169,12 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELEVISA
-https://isgo.newclews.workers.dev/stream/UCRujF_YxVVFmTRWURQH-Cww/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
 https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ELTRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARACOL INTERNACIONAL
