@@ -284,13 +284,13 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SFT COMBAT
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-http://cdnexpress.homelinux.net/live/20.m3u8
+http://authbr15jul.halites.online:80/5928/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://cdnexpress.homelinux.net/live/23.m3u8
+http://authbr15jul.halites.online:80/5932/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://cdnexpress.homelinux.net/live/28.m3u8
+http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://cdnexpress.homelinux.net/live/54.m3u8
+http://authbr15jul.halites.online:80/5930/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -524,7 +524,7 @@ http://authbr15jul.halites.online:80/5783/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://authbr15jul.halites.online:80/5792/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://authbr15jul.halites.online:80/5822/index.m3u8
+http://authbr15jul.halites.online:80/5897/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://authbr15jul.halites.online:80/5816/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SYFY
@@ -550,13 +550,13 @@ http://authbr15jul.halites.online:80/5889/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/18.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/65.m3u8
+http://authbr15jul.halites.online:80/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://authbr15jul.halites.online:80/5771/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://cdnexpress.homelinux.net/live/15.m3u8
+http://authbr15jul.halites.online:80/5879/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://cdnexpress.homelinux.net/live/5.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
@@ -564,19 +564,19 @@ http://authbr15jul.halites.online:80/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://cdnexpress.homelinux.net/live/8.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://cdnexpress.homelinux.net/live/81.m3u8
+http://authbr15jul.halites.online:80/5880/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://cdnexpress.homelinux.net/live/7.m3u8
+http://authbr15jul.halites.online:80/5901/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://authbr15jul.halites.online:80/5899/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/32.m3u8
+http://authbr15jul.halites.online:80/5891/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://authbr15jul.halites.online:80/5857/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
 http://authbr15jul.halites.online:80/5859/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/34.m3u8
+http://authbr15jul.halites.online:80/5893/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://cdnexpress.homelinux.net/live/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
@@ -624,11 +624,11 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://authbr15jul.halites.online:80/5740/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://cr7v.short.gy/manoiptvfree/ESPN/Index.m3u8
+http://authbr15jul.halites.online:80/5912/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://cdnexpress.homelinux.net/live/47.m3u8
+http://authbr15jul.halites.online:80/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://cdnexpress.homelinux.net/live/50.m3u8
+http://authbr15jul.halites.online:80/5907/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 http://cdnexpress.homelinux.net/live/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
@@ -644,19 +644,19 @@ http://authbr15jul.halites.online:80/5865/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://cdnexpress.homelinux.net/live/3.m3u8
+http://authbr15jul.halites.online:80/5922/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://cdnexpress.homelinux.net/live/13.m3u8
+http://authbr15jul.halites.online:80/5921/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://cdnexpress.homelinux.net/live/14.m3u8
+http://authbr15jul.halites.online:80/5920/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://cdnexpress.homelinux.net/live/17.m3u8
+http://authbr15jul.halites.online:80/5918/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://cdnexpress.homelinux.net/live/19.m3u8
+http://authbr15jul.halites.online:80/5916/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://cdnexpress.homelinux.net/live/31.m3u8
+http://authbr15jul.halites.online:80/5915/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://cdnexpress.homelinux.net/live/32.m3u8
+http://authbr15jul.halites.online:80/5914/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
 http://cdnexpress.homelinux.net/live/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
