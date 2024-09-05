@@ -222,7 +222,7 @@ http://cdn.connectbr.com.br/Clubinho/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://authbr15jul.halites.online:80/5787/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://new.embedflix.co/p2p/gloob/playlist.m3u8
+http://authbr15jul.halites.online:80/5812/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -294,7 +294,7 @@ http://cdnexpress.homelinux.net/live/54.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://cdnexpress.homelinux.net/live/41.m3u8
+http://authbr15jul.halites.online:80/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
@@ -387,8 +387,8 @@ http://168.205.87.198:8555/live/1210/123456/169.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", HALLO MUSIC
 https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:0 type="stream" group-title="Radios" logo="", MTV LIVE
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/286/286.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="", MTV
+http://authbr15jul.halites.online:80/5821/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
@@ -440,9 +440,9 @@ http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://cdnexpress.homelinux.net/live/88.m3u8
+http://authbr15jul.halites.online:80/5813/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/49.m3u8
+http://authbr15jul.halites.online:80/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://authbr15jul.halites.online:80/5794/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
@@ -452,7 +452,7 @@ http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/80.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://cdnexpress.homelinux.net/live/69.m3u8
+http://authbr15jul.halites.online:80/5850/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://authbr15jul.halites.online:80/5796/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
@@ -460,9 +460,9 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-http://cdnexpress.homelinux.net/live/22.m3u8
+http://authbr15jul.halites.online:80/5815/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://cdnexpress.homelinux.net/live/6.m3u8
+http://authbr15jul.halites.online:80/5814/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://authbr15jul.halites.online:80/5777/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
@@ -470,7 +470,7 @@ http://authbr15jul.halites.online:80/5782/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://authbr15jul.halites.online:80/5785/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-http://cdnexpress.homelinux.net/live/51.m3u8
+http://authbr15jul.halites.online:80/5807/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://authbr15jul.halites.online:80/5786/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
@@ -478,7 +478,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://cdnexpress.homelinux.net/live/71.m3u8
+http://authbr15jul.halites.online:80/5867/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -518,15 +518,17 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE TVS
 https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://cdnexpress.homelinux.net/live/63.m3u8
+http://authbr15jul.halites.online:80/5827/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://authbr15jul.halites.online:80/5783/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://authbr15jul.halites.online:80/5792/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://cdnexpress.homelinux.net/live/43.m3u8
+http://authbr15jul.halites.online:80/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://authbr15jul.halites.online:80/5816/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SYFY
+http://authbr15jul.halites.online:80/5835/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://cdnexpress.homelinux.net/live/59.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
@@ -534,13 +536,13 @@ http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://authbr15jul.halites.online:80/5790/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://cdnexpress.homelinux.net/live/64.m3u8
+http://authbr15jul.halites.online:80/5847/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://cdnexpress.homelinux.net/live/77.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/45.m3u8
+http://authbr15jul.halites.online:80/5855/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://authbr15jul.halites.online:80/5781/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
@@ -570,9 +572,9 @@ http://authbr15jul.halites.online:80/5899/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/32.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/33.m3u8
+http://authbr15jul.halites.online:80/5857/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/31.m3u8
+http://authbr15jul.halites.online:80/5859/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/34.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
@@ -584,7 +586,7 @@ http://authbr15jul.halites.online:80/5861/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://cdnexpress.homelinux.net/live/78.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/90.m3u8
+http://authbr15jul.halites.online:80/5836/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
