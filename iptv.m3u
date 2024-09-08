@@ -16,9 +16,9 @@ http://168.205.87.198:8555/live/1210/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-https://new.cache-stream.workers.dev/video/UCVrKQMmA2ew9LFzeIDaOFgw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCVrKQMmA2ew9LFzeIDaOFgw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
-https://new.cache-stream.workers.dev/video/UCfYrK5JU5EznsnK3wQE7iIg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCfYrK5JU5EznsnK3wQE7iIg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
@@ -46,7 +46,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/6.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/18.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
-https://new.cache-stream.workers.dev/video/UCjaWLFTNqLkq3ZY2BJ4NYRg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCjaWLFTNqLkq3ZY2BJ4NYRg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
 http://168.205.87.198:8555/live/1210/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
@@ -54,7 +54,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-https://new.cache-stream.workers.dev/video/UCsRfBAspa72ExrsN347W2xg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
@@ -88,7 +88,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
-https://new.cache-stream.workers.dev/video/UCYA_8op4pkwqWxbmcW-pzzQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
 https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/ressources/tvipt/sh/cnnpt
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
-https://new.cache-stream.workers.dev/video/UCj6PcyLvpnIRT_2W_mwa9Aw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/2560px-Logo_RTVE.svg.png", RTVE
@@ -172,7 +172,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
-https://new.cache-stream.workers.dev/video/UCv5Oy_TJFvGKXjeNzzJE_PQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ELTRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
@@ -296,47 +296,47 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://authbr15jul.halites.online:80/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCZiYbVptd3PVPf4f6eR6UaQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCZiYbVptd3PVPf4f6eR6UaQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UC_oToDrJ6uca7d1dFVBmLtg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UC_oToDrJ6uca7d1dFVBmLtg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCOa-WaNwQaoyFHLCDk7qKIw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCOa-WaNwQaoyFHLCDk7qKIw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCAAPXtnzlg9krw6MtNbfR-g/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCAAPXtnzlg9krw6MtNbfR-g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCZD5qcen7lbLPFTjfvdLFcw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCZD5qcen7lbLPFTjfvdLFcw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCFxjZDrLCOCHkUCu632AmMQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCFxjZDrLCOCHkUCu632AmMQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UC3KHYFWeB0WimMBfm3NEahQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UC3KHYFWeB0WimMBfm3NEahQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCnLSKfHkgZ6ujEYCO9jq7Sw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://igrejanv.com/assets/novavidafamiliadafe/images/logo-big.webp", NOVA VIDA JPA (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UClazF6-tWyqC_mfqpMSviCw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UClazF6-tWyqC_mfqpMSviCw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UC376n347Ob5Lwzq2WGzF1AA/live.m3u8.m3u8
+https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCoa-D_VfMkFrCYodrOC9-mA/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCzQxHUiLa5prpJoyOxS0GSA/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCzQxHUiLa5prpJoyOxS0GSA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCWdGgeyOnCOGnvhNdbVl1dQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCWdGgeyOnCOGnvhNdbVl1dQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCBQAI1ZhurW3nbtJR-gBBZg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV FLORIDA 2 (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UC9XGWLQ3gL7fZla9tcINJxA/live.m3u8
+https://isgo.newclews.workers.dev/stream/UC9XGWLQ3gL7fZla9tcINJxA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCmkgkpuRbUGzwLSpnV2nevQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCmkgkpuRbUGzwLSpnV2nevQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCbiGwU0-W1XCDUrt3BTVrag/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UC5oRxjbY3HHrP5Acsu2vtkQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCWijW6tW0iI5ghsAbWDFtTg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCWijW6tW0iI5ghsAbWDFtTg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ENERGIA 97 (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
+https://isgo.newclews.workers.dev/stream/UCIkAO7iHS6R9AtcABE9MdRQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
-https://new.cache-stream.workers.dev/video/UCkkqXUQYUT0pC8RjZpfTZCQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCkkqXUQYUT0pC8RjZpfTZCQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
@@ -346,7 +346,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/68.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", RADIO 89 FM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
-https://new.cache-stream.workers.dev/video/UCsN8M73DMWa8SPp5o_0IAQQ/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/V/VH1_Classic-logo-13DA435A6D-seeklogo.com.png", VH1 CLASSIC
@@ -600,7 +600,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 1
-https://new.cache-stream.workers.dev/video/UCvdwhh_fDyWccR42-rReZLw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 2
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
@@ -2018,15 +2018,15 @@ https://jmp2.uk/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 https://jmp2.uk/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCpJ3jHK9lTA7tElmldAGOGA/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FATOR POLITICO BR (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCtCN9VVRR3fJolXWSbQ5oxw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCtCN9VVRR3fJolXWSbQ5oxw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAISO FLORIANOPOLIS (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCB44AUqUpC0C3V9ZTHy0bLg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCB44AUqUpC0C3V9ZTHy0bLg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO AURIVERDE (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCLHIUIBIid6qpljFBWEOHSw/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A BORDO NOTICIAS (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCy6No58ozvsnoCo2qTZeZrg/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCy6No58ozvsnoCo2qTZeZrg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VLOG DO LISBOA (NOT 24/7)
-https://new.cache-stream.workers.dev/video/UCeW2XVfsOkghlDuw6N7b_ag/live.m3u8
+https://isgo.newclews.workers.dev/stream/UCeW2XVfsOkghlDuw6N7b_ag/master.m3u8
 
