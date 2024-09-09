@@ -432,7 +432,7 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FILM & ARTS
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/103.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/242
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HELLO
 http://cdn.connectbr.com.br/Hello/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
@@ -630,7 +630,7 @@ http://authbr15jul.halites.online:80/5910/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://authbr15jul.halites.online:80/5907/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://cdnexpress.homelinux.net/live/24.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/142
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/27.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
@@ -658,17 +658,16 @@ http://authbr15jul.halites.online:80/5915/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
 http://authbr15jul.halites.online:80/5914/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
-http://cdnexpress.homelinux.net/live/3.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
-http://cdnexpress.homelinux.net/live/13.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/149
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE C
-http://cdnexpress.homelinux.net/live/17.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/150
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE D
-http://cdnexpress.homelinux.net/live/19.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/152
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE E
-http://cdnexpress.homelinux.net/live/1.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE F
-http://cdnexpress.homelinux.net/live/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
