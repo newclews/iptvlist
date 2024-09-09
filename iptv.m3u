@@ -241,8 +241,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 http://168.205.87.198:8555/live/1210/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
 https://dvqv.short.gy/hpZtX0
-#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", CHAPOLIN
-http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -255,6 +253,8 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/541
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", EUREKA TV
+https://cdn.livewave.co:19360/eurekalive/eurekalive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
 https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BS TV
