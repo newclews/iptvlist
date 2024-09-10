@@ -212,7 +212,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://authbr15jul.halites.online:80/5801/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://pc.felixsolutions.com.br/cartoonito/mpegts?token=535T7njdMK6bf1
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/344
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -538,7 +538,7 @@ http://authbr15jul.halites.online:80/5790/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://authbr15jul.halites.online:80/5847/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://cdnexpress.homelinux.net/live/77.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
@@ -548,21 +548,21 @@ http://authbr15jul.halites.online:80/5781/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://authbr15jul.halites.online:80/5889/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/18.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/281
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://authbr15jul.halites.online:80/5882/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://authbr15jul.halites.online:80/5771/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/70.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/292
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://authbr15jul.halites.online:80/5879/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://cdnexpress.homelinux.net/live/5.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/294
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://authbr15jul.halites.online:80/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://cdnexpress.homelinux.net/live/8.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/303
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://authbr15jul.halites.online:80/5880/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
@@ -578,13 +578,13 @@ http://authbr15jul.halites.online:80/5859/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://authbr15jul.halites.online:80/5893/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://cdnexpress.homelinux.net/live/73.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/260
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-http://cdnexpress.homelinux.net/live/38.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/256
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 http://authbr15jul.halites.online:80/5861/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://cdnexpress.homelinux.net/live/78.m3u8
+http://178.162.225.169:2082/Tourobox1-eTxiRqqG0j/0mzmTvfM0E/266
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://authbr15jul.halites.online:80/5836/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
