@@ -292,7 +292,7 @@ http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://authbr15jul.halites.online:80/5930/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/117
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://authbr15jul.halites.online:80/5826/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
