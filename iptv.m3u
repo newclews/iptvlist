@@ -286,11 +286,11 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://authbr15jul.halites.online:80/5928/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://authbr15jul.halites.online:80/5932/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/178
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://authbr15jul.halites.online:80/5930/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1301/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -450,7 +450,7 @@ http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f50399
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-http://authbr15jul.halites.online:80/5796/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/236
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
@@ -484,7 +484,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/fa366239-f94f-44a5-9a68-1fb6df3c716f/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-http://authbr15jul.halites.online:80/5799/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FILMES
@@ -518,7 +518,7 @@ http://authbr15jul.halites.online:80/5827/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://authbr15jul.halites.online:80/5783/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://authbr15jul.halites.online:80/5792/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/233
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://authbr15jul.halites.online:80/5897/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -530,7 +530,7 @@ http://cdnexpress.homelinux.net/live/59.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-http://authbr15jul.halites.online:80/5790/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/225
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://authbr15jul.halites.online:80/5847/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
@@ -640,19 +640,19 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/122
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://authbr15jul.halites.online:80/5922/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://authbr15jul.halites.online:80/5921/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/152
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://authbr15jul.halites.online:80/5920/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/154
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://authbr15jul.halites.online:80/5918/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://authbr15jul.halites.online:80/5916/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://authbr15jul.halites.online:80/5915/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/157
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://authbr15jul.halites.online:80/5914/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
@@ -664,6 +664,11 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/152
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE E
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE F
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/159
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE G
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE H
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/161
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
