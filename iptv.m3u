@@ -433,14 +433,10 @@ http://sc.powerhitz.com:5040/;stream/1.mp3
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FILM & ARTS
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/242
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HELLO
-http://cdn.connectbr.com.br/Hello/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
-http://cdn.connectbr.com.br/Inspire/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://authbr15jul.halites.online:80/5813/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://authbr15jul.halites.online:80/5822/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
@@ -452,7 +448,7 @@ http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/80.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://authbr15jul.halites.online:80/5850/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://authbr15jul.halites.online:80/5796/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
@@ -460,19 +456,19 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-http://authbr15jul.halites.online:80/5815/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://authbr15jul.halites.online:80/5814/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/81
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-http://authbr15jul.halites.online:80/5777/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/87
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://authbr15jul.halites.online:80/5782/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/61
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://authbr15jul.halites.online:80/5785/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/65
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-http://authbr15jul.halites.online:80/5807/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/71
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://authbr15jul.halites.online:80/5786/index.m3u8
+hhttp://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/75
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -624,23 +620,23 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://authbr15jul.halites.online:80/5740/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://authbr15jul.halites.online:80/5912/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/130
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://authbr15jul.halites.online:80/5910/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/129
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://authbr15jul.halites.online:80/5907/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/142
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/27.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/139
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/133
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-http://authbr15jul.halites.online:80/5865/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/122
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://cdnexpress.homelinux.net/live/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
