@@ -217,8 +217,14 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/348
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://d14z5zgripclfw.cloudfront.net/account856-i854/channel/1/thumb_CLUBINHO_FUN-1597857379.png", CLUBINHO FUN
-http://cdn.connectbr.com.br/Clubinho/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY PLUS 1
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1276
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY PLUS 2
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1275
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY PLUS 3
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1274
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY PLUS 4
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1273
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -239,8 +245,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/363
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES E CHAPOLIN
 http://168.205.87.198:8555/live/1210/123456/159.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-https://dvqv.short.gy/hpZtX0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -265,8 +269,6 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
 http://168.205.87.198:8555/live/1210/123456/62.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png", TERRA VIVA
-https://www.dailymotion.com/cdn/live/video/x8qceqq.m3u8?sec=2t20hR5ijERMawCcZ0TV6b0go3JJ7s0KOf6bihH7LHuTLWSP8iR2rAeUeCt9vJrJ&dmTs=192024&dmV1st=BFE02A9330FDF4834B5860524712BAC3
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
 https://cdn-5.nxplay.com.br/AGROMAIS_HD_TK/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
@@ -288,7 +290,7 @@ http://authbr15jul.halites.online:80/5928/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://gzcdn.vood.top:80/hls/547_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://authbr15jul.halites.online:80/5931/index.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/172
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
