@@ -16,7 +16,7 @@ http://168.205.87.198:8555/live/1210/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-https://isgo.newclews.workers.dev/stream/UCVrKQMmA2ew9LFzeIDaOFgw/master.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
@@ -44,19 +44,19 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/18.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
 https://isgo.newclews.workers.dev/stream/UCjaWLFTNqLkq3ZY2BJ4NYRg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
 http://168.205.87.198:8555/live/1210/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
-http://blacktv.syscdn.xyz:80/0aaju42l/ac3a0jiu/321
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/527
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://cdn-5.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
