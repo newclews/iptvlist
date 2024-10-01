@@ -249,10 +249,10 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/541
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", EUREKA TV
-https://cdn.livewave.co:19360/eurekalive/720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
 https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", WILD EARTH
+https://cc-0573ljsgymaix.akamaized.net/samsungbr/wildearth720/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
