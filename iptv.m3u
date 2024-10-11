@@ -177,8 +177,8 @@ https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CARACOL INTERNACIONAL
-https://tenwafers.xyz:443/play/QBTY4Su9VrYKNSkduUBSeCbwfKUJUGBhpFxSEC8944RnDWsdDVlKdg58Y6Qvm-iH
+#EXTINF:0 type="stream" group-title="TV AO VIVO", SIC NOTICIAS
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVI FICÇÃO
