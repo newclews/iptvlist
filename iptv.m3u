@@ -133,12 +133,12 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/85
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1992280707_b3086000_sleng.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/f/f8/Logotipo_da_TV_Thathi.png", THATHI TV
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w558279794.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VINTE E QUATRO NEWS
-http://cdn2.connectbr.com.br/24_news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
