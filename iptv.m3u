@@ -9,8 +9,6 @@ http://168.205.87.198:8555/live/1210/123456/139.m3u8
 https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1210/123456/67.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MAIS ABC
-https://video01.soultv.com.br/tvmaisabc/tvmaisabc/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1210/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
@@ -21,6 +19,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IM TV
+http://168.205.87.198:8555/live/1210/123456/263.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
@@ -191,8 +191,8 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://sbt-videos-media-assets.s3.us-west-2.amazonaws.com/Logo_Praca_e7a0f9ec9b.png", CANAL DA PRAÇA
-https://fast.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/8f4dbd2a-75c8-4407-8dc8-0dc243e3814d/4.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASPER TV
+https://tv02.zas.media:1936/masper/masper/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HOMEFULL
