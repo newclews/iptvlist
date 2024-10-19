@@ -506,7 +506,7 @@ https://cdn-5.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE TVS
-https://stmv1.samcast.com.br/ciranodesousacarvalho4922/ciranodesousacarvalho4922/playlist.m3u8
+https://video01.kshost.com.br:4443/rede1250/rede1250/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://dzcdn.vood.top:80/hls/695_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
