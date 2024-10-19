@@ -19,20 +19,20 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/5.m3u8
 https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IM TV
-http://168.205.87.198:8555/live/1210/123456/263.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
+http://168.205.87.198:8555/live/1210/123456/150.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
-http://168.205.87.198:8555/live/1210/123456/150.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LIDER TV
+http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", POP TV
 https://pop.tv.br/hls/test_src.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
@@ -191,8 +191,8 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASPER TV
-https://tv02.zas.media:1936/masper/masper/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE RECON
+https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HOMEFULL
