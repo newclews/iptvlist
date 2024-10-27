@@ -457,6 +457,8 @@ http://cdn22.cc:80/72286612/12434/173.m3u8
 http://cdn22.cc:80/72286612/12434/176.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://cdn22.cc:80/72286612/12434/164.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANIMAL PLANET USA
+https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/AniPlanet.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://cdn22.cc:80/72286612/12434/166.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
@@ -505,8 +507,6 @@ https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8
 https://cdn-5.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE TVS
-https://video01.kshost.com.br:4443/rede1250/rede1250/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://cdn22.cc:80/72286612/12434/296.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
@@ -524,7 +524,7 @@ http://cdn22.cc:80/72286612/12434/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://voz.one:80/live/marcosfont/YSqcT2CKUUph/432.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/41
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://cdn22.cc:80/72286612/12434/290.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
