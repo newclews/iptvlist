@@ -90,7 +90,7 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
 https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/531
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w640381411.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
@@ -309,6 +309,8 @@ https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 https://isgo.newclews.workers.dev/stream/UClazF6-tWyqC_mfqpMSviCw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", 98 LIVE (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UClF866E2u34LioEzDppZj9g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCoa-D_VfMkFrCYodrOC9-mA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
@@ -369,10 +371,8 @@ http://168.205.87.198:8555/live/1210/123456/235.m3u8
 http://168.205.87.198:8555/live/1210/123456/236.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC ROCK
 http://168.205.87.198:8555/live/1210/123456/237.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 8
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VEVO 9
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PLAY TV
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
