@@ -210,7 +210,7 @@ http://168.205.87.198:8555/live/1210/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://cdn22.cc:80/72286612/12434/126.m3u8
+http://dzcdn.vood.top:80/hls/351_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://cdn22.cc:80/72286612/12434/125.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
@@ -262,7 +262,7 @@ https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
 http://168.205.87.198:8555/live/1210/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
-https://cdn-5.nxplay.com.br/AGROMAIS_HD_TK/tracks-v2a1/mono.m3u8
+http://dzcdn.vood.top:80/hls/461_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
@@ -530,7 +530,7 @@ http://cdn22.cc:80/72286612/12434/290.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10642
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://cdn22.cc:80/72286612/12434/294.m3u8
+http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10605
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
@@ -546,7 +546,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/292
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10649
+http://dzcdn.vood.top:80/hls/633_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://cdn22.cc:80/72286612/12434/562.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
@@ -618,7 +618,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10564
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://cdn22.cc:80/72286612/12434/254.m3u8
+http://dzcdn.vood.top:80/hls/218_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10571
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
