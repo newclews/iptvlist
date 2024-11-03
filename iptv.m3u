@@ -469,6 +469,8 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10596
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
+http://dzcdn.vood.top:80/hls/728_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://cdn22.cc:80/72286612/12434/97.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
@@ -501,14 +503,12 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EUROPA PLAY
 https://cdn-2.nxplay.com.br/europaplay/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-2.nxplay.com.br/HTO_Filmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://cdn22.cc:80/72286612/12434/296.m3u8
+http://dzcdn.vood.top:80/hls/695_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
@@ -526,7 +526,7 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10603
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://cdn22.cc:80/72286612/12434/290.m3u8
+http://dzcdn.vood.top:80/hls/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10642
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -534,7 +534,7 @@ http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10605
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://cdn22.cc:80/72286612/12434/287.m3u8
+http://dzcdn.vood.top:80/hls/733_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://cdn22.cc:80/72286612/12434/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
