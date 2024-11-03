@@ -381,8 +381,8 @@ http://168.205.87.198:8555/live/1210/123456/169.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", HALLO MUSIC
 https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:0 type="stream" group-title="Radios" logo="", MTV 00
-http://cdn22.cc:80/72286612/12434/8.m3u8
+#EXTINF:0 type="stream" group-title="Radios" logo="", NOW 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
@@ -583,8 +583,8 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/i
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBS NEWS
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
@@ -627,6 +627,8 @@ https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
+https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
