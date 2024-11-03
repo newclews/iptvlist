@@ -282,9 +282,9 @@ https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/75
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10639
+https://anonmedia.foo/sportv2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10632
+https://anonmedia.foo/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1301/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -616,15 +616,15 @@ http://authbr15jul.halites.online:80/5740/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10564
+https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://dzcdn.vood.top:80/hls/218_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10571
+https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10570
+https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-http://cdn22.cc:80/72286612/12434/252.m3u8
+https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
@@ -634,21 +634,21 @@ http://cdn22.cc:80/72286612/12434/249.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://cdn22.cc:80/72286612/12434/524.m3u8
+https://anonmedia.foo/premiereclubes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://cdn22.cc:80/72286612/12434/526.m3u8
+https://anonmedia.foo/premiere2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://cdn22.cc:80/72286612/12434/527.m3u8
+https://anonmedia.foo/premiere3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://cdn22.cc:80/72286612/12434/528.m3u8
+https://anonmedia.foo/premiere4/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://cdn22.cc:80/72286612/12434/529.m3u8
+https://anonmedia.foo/premiere5/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://cdn22.cc:80/72286612/12434/532.m3u8
+https://anonmedia.foo/premiere6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://cdn22.cc:80/72286612/12434/533.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE A
-http://cdn22.cc:80/72286612/12434/534.m3u8
+https://anonmedia.foo/premiere7/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
+https://anonmedia.foo/premiere8/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
 http://cdn22.cc:80/72286612/12434/535.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE C
