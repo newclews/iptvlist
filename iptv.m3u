@@ -246,7 +246,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/541
+http://cdn22.cc:80/Magalhaesps/101280/199850.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
@@ -684,5 +684,5 @@ https://isgo.newclews.workers.dev/stream/UCy6No58ozvsnoCo2qTZeZrg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VLOG DO LISBOA (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCeW2XVfsOkghlDuw6N7b_ag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-https://raw.githubusercontent.com/newclews/pit/refs/heads/main/list.m3u8
+https://anonmedia.eu/adultswim/index.m3u8
 
