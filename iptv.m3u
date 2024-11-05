@@ -442,7 +442,7 @@ http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL
 http://cdnexpress.homelinux.net/live/4509ef43ca4f00220fe74b66f5313a13/79b3f503998db436866e29ef5c983550/80.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VIVA
-http://cdn22.cc:80/72286612/12434/105.m3u8
+https://cr7v.short.gy/live3/vv/Index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10584
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
@@ -583,26 +583,28 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/i
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAPITÃO CAVERNA
+http://148.113.160.49:14832
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
+http://148.113.160.49:14843
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
+http://148.113.160.49:14942
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
+http://148.113.160.49:14844
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 2
+http://148.113.160.49:14845
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA
+http://148.113.160.49:14904
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 1
-https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL FHD 2
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
 https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 2
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/432
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND NEWS 3
-https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/276/276.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
-https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/537
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 2
