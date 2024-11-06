@@ -106,7 +106,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE UTV
-https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/chunklist_w1091085255.m3u8
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://uniquetv.com.br/img/logo-uniquetv.png", UNIQUE TV
 https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
