@@ -583,38 +583,18 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/i
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAPITÃO CAVERNA
-http://148.113.160.49:14832
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
-http://148.113.160.49:14843
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
-http://148.113.160.49:14942
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
-http://148.113.160.49:14844
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 2
-http://148.113.160.49:14845
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA
-http://148.113.160.49:14904
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FOX NEWS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
+https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 2
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/445
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS 3
 https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ 2
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/537
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP 2
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://186.226.215.132:80/carlos123/carlos123/10
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
-http://authbr15jul.halites.online:80/5740/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
