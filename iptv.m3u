@@ -255,8 +255,8 @@ https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 https://cc-0573ljsgymaix.akamaized.net/samsungbr/wildearth720/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://showbizjobsblobcdn.azureedge.net/logos/t/tastemade/tastemade-logo-2020-14631.png", TASTEMADE BRASIL
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
+https://cdn.g2gsistemas.com.br/matopiba/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
