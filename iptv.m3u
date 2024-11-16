@@ -227,8 +227,6 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png", ZOO MOO KIDS
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/370
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 http://supersonictv.live:8080/871310/907399/85055
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
@@ -257,6 +255,8 @@ https://cc-0573ljsgymaix.akamaized.net/samsungbr/wildearth720/chunks.m3u8
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
 https://cdn.g2gsistemas.com.br/matopiba/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
