@@ -172,7 +172,7 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
-https://ythls-v3.onrender.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=fzyvVBzAeBI
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ELTRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
@@ -332,7 +332,7 @@ https://ythls-v3.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ENERGIA 97 (NOT 24/7)
 https://ythls-v3.onrender.com/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
-https://ythls-v3.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=2gstibPYVtE
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
@@ -342,7 +342,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/68.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="", RADIO 89 FM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
-https://ythls-v3.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=aZT73SdhXok
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/V/VH1_Classic-logo-13DA435A6D-seeklogo.com.png", VH1 CLASSIC
