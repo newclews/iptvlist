@@ -655,6 +655,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
+http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
