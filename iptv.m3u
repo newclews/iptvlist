@@ -262,7 +262,7 @@ https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
 http://168.205.87.198:8555/live/1210/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
-http://dzcdn.vood.top:80/hls/461_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/852
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/agrocanal.png", AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SOUL CINE
@@ -282,7 +282,7 @@ https://stream1.freetv.fun/band-sports-3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 https://stream1.freetv.fun/sportv-1-1.ctv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/172
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1016
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://anonmedia.foo/sportv3/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -452,7 +452,7 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/83
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10616
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/815
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://supersonictv.live:8080/871310/907399/85052
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
@@ -532,7 +532,7 @@ http://dzcdn.vood.top:80/hls/669_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://supersonictv.live:8080/871310/907399/84995
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://dzcdn.vood.top:80/hls/733_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1004
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/281
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
@@ -550,7 +550,7 @@ http://cdn22.cc:80/72286612/12434/562.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://authbr15jul.halites.online:80/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/303
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/996
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://15.235.50.113:14012
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
@@ -602,9 +602,9 @@ https://anonmedia.foo/espn2/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://dzcdn.vood.top:80/hls/218_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-https://anonmedia.foo/espn4/tracks-v1a1/mono.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/899
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-https://anonmedia.foo/espn5/tracks-v1a1/mono.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
@@ -614,7 +614,7 @@ https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-http://cdn22.cc:80/72286612/12434/249.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1001
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
@@ -655,8 +655,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
 http://24hrs.homelinux.com:80/24H-chaves-a-serie/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1185
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
 http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
