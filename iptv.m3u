@@ -244,7 +244,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://cdn22.cc:80/Magalhaesps/101280/199850.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DREAMWORKS TV
@@ -284,7 +284,7 @@ https://stream1.freetv.fun/sportv-1-1.ctv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1016
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-https://anonmedia.foo/sportv3/tracks-v1a1/mono.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/175
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1301/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -482,9 +482,9 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/fa366239-f94f-44a5-9a68-1fb6df3c716f/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-http://supersonictv.live:8080/871310/907399/85091
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/238
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-2.nxplay.com.br/SONY_MOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FILMES
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
