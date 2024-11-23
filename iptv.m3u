@@ -465,8 +465,6 @@ http://canal.cdntv.com.br:80/Henrique123/henrique123/510
 http://supersonictv.live:8080/871310/907399/84970
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://canal.cdntv.com.br:80/Henrique123/henrique123/512
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MOTORVISION
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
@@ -483,10 +481,14 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/fa366239-f94f-44a5-9a68-1fb6df3c716f/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/238
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CRIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE FAMÍLIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE SUCESSOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed//hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FILMES
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
 https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME COMÉDIA
