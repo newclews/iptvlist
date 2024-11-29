@@ -146,7 +146,7 @@ http://dzcdn.vood.top:80/hls/479_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png", BAND NEWS
-http://canal.cdntv.com.br:80/Henrique123/henrique123/53
+https://abc.embedmax.site/bandnews/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalnewbrasil.com.br/img/logo_preview.png", NEW BRASIL
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL
@@ -216,7 +216,7 @@ http://supersonictv.live:8080/871310/907399/84944
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-http://canal.cdntv.com.br:80/Henrique123/henrique123/508
+https://abc.embedmax.site/discoverykids/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -228,7 +228,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", TV ZYN
 https://d25usgadhphvwi.cloudfront.net/v1/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-http://canal.cdntv.com.br:80/Henrique123/henrique123/500
+https://abc.embedmax.site/nickelodeon/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/363
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
@@ -460,17 +460,17 @@ http://cdn22.cc:80/72286612/12434/164.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANIMAL PLANET USA
 https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/AniPlanet.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://canal.cdntv.com.br:80/Henrique123/henrique123/510
+https://abc.embedmax.site/discoverychannel/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
 http://supersonictv.live:8080/871310/907399/84970
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://canal.cdntv.com.br:80/Henrique123/henrique123/512
+https://abc.embedmax.site/discoveryturbo/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
 http://dzcdn.vood.top:80/hls/728_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://canal.cdntv.com.br:80/Henrique123/henrique123/502
+https://abc.embedmax.site/comedycentral/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -522,7 +522,7 @@ http://supersonictv.live:8080/871310/907399/85045
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://supersonictv.live:8080/871310/907399/85097
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10603
+https://abc.embedmax.site/cinecanal/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
