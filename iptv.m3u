@@ -88,7 +88,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
-https://isgo.newclews.workers.dev/stream/UCYA_8op4pkwqWxbmcW-pzzQ/master.m3u8
+https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w640381411.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
@@ -379,12 +379,12 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="", HALLO MUSIC
-https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-#EXTINF:0 type="stream" group-title="Radios" logo="", NOW 70s
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HIP-HOP VAI ALEM
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
