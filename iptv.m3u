@@ -583,6 +583,20 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/i
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1185
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
+http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", JONNY QUEST
+http://24hrs.homelinux.com:80/24H-Jonny.Quest.S01/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HE-MAN
+http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", THUNDERCATS
+http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ESCOLINHA DO PROFESSOR RAIMUNDO
+http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
@@ -659,12 +673,6 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/86
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
-http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
