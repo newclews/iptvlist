@@ -56,7 +56,7 @@ https://aovivo.maissbt.com/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/527
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/528
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -593,10 +593,10 @@ http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
 http://24hrs.homelinux.com:80/24H-Jonny.Quest.S01/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HE-MAN
 http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", THUNDERCATS
-http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ESCOLINHA DO PROFESSOR RAIMUNDO
 http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ADULT SWIM (ALT)
+https://abc.embedmax.site/adultswim/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
@@ -612,11 +612,11 @@ http://186.226.215.132:80/carlos123/carlos123/10
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORDTV RJ 2
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/527
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
+https://abc.embedmax.site/espn1/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/103
+https://abc.embedmax.site/espn2/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://dzcdn.vood.top:80/hls/218_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
@@ -624,7 +624,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/899
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-https://anonmedia.foo/espn6/tracks-v1a1/mono.m3u8
+https://abc.embedmax.site/espn6/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
