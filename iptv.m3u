@@ -213,7 +213,7 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://dzcdn.vood.top:80/hls/351_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://supersonictv.live:8080/871310/907399/84944
+https://super-cdn.link/cartoonito/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -577,7 +577,7 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10615
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/266
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-http://canal.cdntv.com.br:80/Henrique123/henrique123/496
+https://super-cdn.link/tntnovelas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
