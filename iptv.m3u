@@ -113,8 +113,8 @@ https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POLIDÓRO TV
-https://srv2.zcast.com.br/polidorotv/polidorotv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunks.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1210/123456/243.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
@@ -157,7 +157,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
 https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=cb12KmMMDJA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png", CABLE NOTICIAS
 http://xdplayer.tv:8080/play/b4VzPYd7k3pwkeVJ6avrA6JQX2iI_28MTLMXfAcUGN8PGmuvPZAyNVYGA_4IOnpU
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
