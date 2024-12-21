@@ -98,7 +98,7 @@ http://168.205.87.198:8555/live/1210/123456/247.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalsmart.com.br/imagens/logo.png", REDE SMART
 https://5ffab78b24f94.streamlock.net/smart/smart/chunklist_w2123441883.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png", AMAZON SAT
@@ -375,18 +375,18 @@ http://168.205.87.198:8555/live/1210/123456/237.m3u8
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 4 ACE URBAN
+https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_002/40b6625ee5a756335519457d65d6f31e.sdp/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
 http://168.205.87.198:8555/live/1210/123456/169.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TRACE BRAZUCA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", 4 ACE CLASSIC POP
+https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_004/3673e65ae595e1ab0fb6103be12b6c53.sdp/live/8571_push_3387_0044ACETVCLASSICPOPHIT/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HIP-HOP VAI ALEM
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/58.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
@@ -425,8 +425,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", WTV BRASIL
-https://stmv7.samcast.com.br/wtvbrasil/wtvbrasil/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", FILMES CANAL
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/64.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
@@ -627,8 +627,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1008
 https://super-cdn.link/espn6/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
-https://live01.woohoo.cportal.com.br/WhFAST/HLS/stream.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO (ALT)
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
