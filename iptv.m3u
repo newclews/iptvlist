@@ -583,18 +583,6 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/i
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
-http://24hrs.homelinux.com:80/24H-chaves-a-serie/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1185
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
-http://24hrs.homelinux.com:80/24H-chapolin1/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", JONNY QUEST
-http://24hrs.homelinux.com:80/24H-Jonny.Quest.S01/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", HE-MAN
-http://24hrs.homelinux.com:80/24H-Heman.S01/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ESCOLINHA DO PROFESSOR RAIMUNDO
-http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ADULT SWIM (ALT)
 https://super-cdn.link/adultswim/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
