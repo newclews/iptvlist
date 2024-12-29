@@ -94,7 +94,7 @@ https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w640381411
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
-http://168.205.87.198:8555/live/1210/123456/247.m3u8
+https://isaocorp.cloudecast.com/nbt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
@@ -113,8 +113,8 @@ https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GRANDE REDE
-https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE GRAMADO
+https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1210/123456/243.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
@@ -457,8 +457,6 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/815
 https://super-cdn.link/nationalgeographic/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 https://super-cdn.link/animalplanet/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ANIMAL PLANET USA
-https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Streams/AniPlanet.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 https://super-cdn.link/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
@@ -512,7 +510,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://dzcdn.vood.top:80/hls/695_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
+https://super-cdn.link/cinemax/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://super-cdn.link/axn/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
@@ -535,14 +533,12 @@ http://dzcdn.vood.top:80/hls/669_.m3u8
 https://super-cdn.link/fx/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1004
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/281
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL 2
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/320
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/44
+https://super-cdn.link/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/155
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
