@@ -249,8 +249,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", WILD EARTH
-https://cc-0573ljsgymaix.akamaized.net/samsungbr/wildearth720/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", MYLOU (SAB E DOM)
+https://cdnhd.iblups.com/hls/J5SPE667XC.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
