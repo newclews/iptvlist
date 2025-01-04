@@ -267,6 +267,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/852
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png", 011 NEWS
+https://011news.akamaized.net/011news/011news/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
@@ -309,8 +311,6 @@ https://isgo.newclews.workers.dev/stream/UCnLSKfHkgZ6ujEYCO9jq7Sw/master.m3u8
 https://isgo.newclews.workers.dev/stream/UClazF6-tWyqC_mfqpMSviCw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC376n347Ob5Lwzq2WGzF1AA/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png", TVD NEWS (NOT 24/7)
-http://201.159.95.110:25461/live/site/site/666.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 98 LIVE (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UClF866E2u34LioEzDppZj9g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
