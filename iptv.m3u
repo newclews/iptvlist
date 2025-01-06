@@ -171,12 +171,12 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=fzyvVBzAeBI
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ELTRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EURONEWS
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/209c62205b8c9fc4fed8bc6bf21eca43.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
