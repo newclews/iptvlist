@@ -5,8 +5,8 @@ http://168.205.87.198:8555/live/1210/123456/101.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
 http://168.205.87.198:8555/live/1210/123456/139.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RTN
-https://tv01.zas.media:1936/rtntv/rtntv/chunklist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BDC TV (ACRITICA)
+https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1210/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -245,12 +245,12 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
+#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", HALLO ANIME
+https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", MYLOU (SAB E DOM)
-https://cdnhd.iblups.com/hls/J5SPE667XC.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
@@ -377,8 +377,6 @@ https://isaocorp.cloudecast.com/playtv/mono.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 4 ACE URBAN
 https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_002/40b6625ee5a756335519457d65d6f31e.sdp/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
-http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 4 ACE CLASSIC POP
 https://932y4km6djv8-hls-live.5centscdn.com/8571_push_3387_004/3673e65ae595e1ab0fb6103be12b6c53.sdp/live/8571_push_3387_0044ACETVCLASSICPOPHIT/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 70s
@@ -387,8 +385,10 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", IN TV
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/58.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MUSIC
+https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
+http://168.205.87.198:8555/live/1210/123456/169.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://redehits.fm/wp-content/uploads/2022/10/toplogo-HITSFM_2022.webp", HITS FM (MACAÉ)
@@ -447,6 +447,8 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/173
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/114
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://supersonictv.live:8080/871310/907399/84945
+#EXTINF:0 type="stream" group-title="TV AO VIVO", EUROPAPLAY NACIONAL
+https://cdn-1.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://super-cdn.link/arte1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
@@ -507,6 +509,10 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-5.nxplay.com.br/HTO_Filmes/playlist.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
+https://cdn-1.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
