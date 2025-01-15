@@ -142,7 +142,7 @@ https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/chunklist_w55827
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recnews.png", Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.clubsrv.me/logos/canais/globonews.png", GLOBO NEWS
-http://dzcdn.vood.top:80/hls/479_.m3u8
+https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png", BAND NEWS
@@ -267,8 +267,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/852
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png", 011 NEWS
-https://011news.akamaized.net/011news/011news/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvdnews.com.br/wp-content/uploads/2024/08/logo-tvd.png", TVD NEWS
+http://201.159.95.110:25461/live/site/site/666.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
@@ -320,11 +320,11 @@ https://isgo.newclews.workers.dev/stream/UCzQxHUiLa5prpJoyOxS0GSA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCWdGgeyOnCOGnvhNdbVl1dQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
+https://ythls-v3.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV FLORIDA 2 (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC9XGWLQ3gL7fZla9tcINJxA/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCmkgkpuRbUGzwLSpnV2nevQ/master.m3u8
+https://ythls-v3.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
@@ -430,7 +430,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/64.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/79
+https://super-cdn.link/gnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/423
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
@@ -598,7 +598,7 @@ https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
-https://stream1.freetv.fun/f8abfabde50425ec3bbe6cf961f0e757092d5db61b0a228900d613e5066af8a0.m3u8
+http://dzcdn.vood.top:80/hls/479_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w654688993.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT)
