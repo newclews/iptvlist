@@ -153,10 +153,12 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.iol.pt/img/logos/cnn/logoCNN_vermelho.png", CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN MONEY
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
+https://video01.soultv.com.br/timesbrasil/timesbrasil/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png", TODO NOTICIAS
-https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
@@ -175,8 +177,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SENAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EURONEWS
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/209c62205b8c9fc4fed8bc6bf21eca43.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
