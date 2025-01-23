@@ -154,7 +154,7 @@ https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.iol.pt/img/logos/cnn/logoCNN_vermelho.png", CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN MONEY
-https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
