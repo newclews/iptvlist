@@ -23,7 +23,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
 http://168.205.87.198:8555/live/1210/123456/150.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WHE CHANNEL
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/chunklist_w1773540286.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
