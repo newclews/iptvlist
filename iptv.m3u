@@ -546,7 +546,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/320
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://super-cdn.link/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/155
+https://super-cdn.link/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 https://super-cdn.link/telecinepremium/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
