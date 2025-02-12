@@ -235,6 +235,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/363
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
+http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -249,8 +251,6 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
-https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
 https://cdn.g2gsistemas.com.br/matopiba/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
@@ -568,7 +568,7 @@ https://super-cdn.link/hbo2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/252
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/245
+http://45.235.0.78/HBOPLUS-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/261
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
@@ -576,7 +576,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/256
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10615
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/266
+http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 https://super-cdn.link/tntnovelas/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
