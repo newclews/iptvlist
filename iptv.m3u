@@ -434,7 +434,7 @@ https://super-cdn.link/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://nb8ygc.biz:80/336524/NNnqcu/71806.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
-http://168.205.87.198:8555/live/1210/123456/256.m3u8
+http://45.235.0.78/PRIMEBOXBRASIL-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 http://168.205.87.198:8555/live/1210/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKET TV
@@ -540,9 +540,9 @@ https://super-cdn.link/fx/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/281
+http://themegamanx.net:80/live/889281840/Z451m1324a/598_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/320
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://super-cdn.link/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
@@ -600,7 +600,7 @@ https://ythls-v3.onrender.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
 https://starlite.best/api/stream/suva420@hotmail.com/628375/livetv.epg/caracol.co.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
-http://79.127.238.228:14093
+http://45.235.0.78/GLOBONEWS-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://super-cdn.link/cnnbrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
