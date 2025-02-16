@@ -4,13 +4,13 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2179072.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
-http://168.205.87.198:8555/live/1210/123456/139.m3u8
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1164
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BDC TV (ACRITICA)
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
-http://168.205.87.198:8555/live/1210/123456/67.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
-http://168.205.87.198:8555/live/1210/123456/152.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/82.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
@@ -22,7 +22,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
-http://168.205.87.198:8555/live/1210/123456/150.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/90.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
@@ -39,8 +39,8 @@ https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w84501647
 https://pop.tv.br/hls/test_src.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL EDUCAÇÃO
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/92.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTER TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
@@ -70,19 +70,13 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/548
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", RF TV
 https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
-http://168.205.87.198:8555/live/1210/123456/69.m3u8
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
 http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/504
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
-http://168.205.87.198:8555/live/1210/123456/70.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RECORDTV MG
-http://168.205.87.198:8555/live/1210/123456/96.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://clinicaitabayana.com.br/wp-content/uploads/2023/01/TV-ATEROSA.png", TV ALTEROSA
-http://168.205.87.198:8555/live/1210/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tv.faster.net.br/logos/brsupertv.png", BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
@@ -108,7 +102,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE UTV
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://uniquetv.com.br/img/logo-uniquetv.png", UNIQUE TV
-https://stream.uniquetv.com.br/uniquetv/index.fmp4.m3u8
+https://pop.uniquetv.com.br/uniquetv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
@@ -258,7 +252,7 @@ https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
 https://cc-e2pb6h3gp19c3.akamaized.net/NewCo/Empreender_BR/Empreender1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png", FISH TV
-http://168.205.87.198:8555/live/1210/123456/62.m3u8
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WHE CHANNEL
@@ -289,60 +283,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/175
 http://168.205.87.198:8555/live/1301/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/273
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png", CAZÉ TV (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png", FLA TV (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCOa-WaNwQaoyFHLCDk7qKIw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://damasdoesporte.com.br/wp-content/uploads/2021/10/wdwew.png", FLU TV (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCAAPXtnzlg9krw6MtNbfR-g.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VASCO TV (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCZD5qcen7lbLPFTjfvdLFcw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOTAFOGO TV (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCFxjZDrLCOCHkUCu632AmMQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://cdn.desconto.com.br/img/merchants/119404/360-logo/v1/uol-esporte-clube-descontos.png", UOL ESPORTE (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UC3KHYFWeB0WimMBfm3NEahQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png", TV A CRITICA (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://igrejanv.com/assets/novavidafamiliadafe/images/logo-big.webp", NOVA VIDA JPA (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UClazF6-tWyqC_mfqpMSviCw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://storage.googleapis.com/static-negocios-sbt/622/622b48a4b760cb88127334de.png", SBT NEWS (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UC376n347Ob5Lwzq2WGzF1AA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", 98 LIVE (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UClF866E2u34LioEzDppZj9g.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND JORNAL (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCoa-D_VfMkFrCYodrOC9-mA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BAND RIO (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCzQxHUiLa5prpJoyOxS0GSA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCWdGgeyOnCOGnvhNdbVl1dQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://revistaoeste.com/wp-content/themes/revistaoeste/public/images/logo-with-text.cf01aa.png", OESTE SEM FILTRO (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV FLORIDA 2 (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UC9XGWLQ3gL7fZla9tcINJxA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIO TV CÂMARA (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", RADIO CBN (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS RJ (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UC5oRxjbY3HHrP5Acsu2vtkQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", RADIO BAND NEWS SP (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCWijW6tW0iI5ghsAbWDFtTg.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ENERGIA 97 (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ (STUDIO)
-https://ythls-v3.onrender.com/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND FM
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/68.m3u8
-#EXTINF:0 type="stream" group-title="Radios" logo="", RADIO 89 FM
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/70.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.pinimg.com/originals/b4/f2/47/b4f247f01b2aa7acf809b0023ab75ff6.png", TOMORROWLAND
-https://ythls-v3.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -579,6 +523,36 @@ http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10615
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 https://super-cdn.link/tntnovelas/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 1
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1169
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 2
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1171
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 3
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1172
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 4
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1173
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 5
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1174
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 6
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1175
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 7
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1176
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 8
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1177
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 9
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1178
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 10
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1179
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 11
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1180
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 12
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1181
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 13
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1182
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 14
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1183
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 15
+http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/1184
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
@@ -675,23 +649,5 @@ https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FATOR POLITICO BR (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCtCN9VVRR3fJolXWSbQ5oxw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FIO DIARIO (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCK8of7NJhRnyYRH1LlZ-Ubw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO AURIVERDE (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A BORDO NOTICIAS (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCy6No58ozvsnoCo2qTZeZrg.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VLOG DO LISBOA (NOT 24/7)
-https://ythls-v3.onrender.com/channel/UCeW2XVfsOkghlDuw6N7b_ag.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.site/bbbsala.php
-https://tv.fazoeli.co.za/m3u8/bbb10.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
-#EXTVLCOPT:http-referrer=https://embedcanais.site/bbbbanheiro.php
-https://tv.fazoeli.co.za/m3u8/bbb9.m3u8
+
