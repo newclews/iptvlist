@@ -206,7 +206,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w687347979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TOONCAST
 http://944074576896333270.ofbo1005.xyz:80/live/te916733/s5K8qhhrvEM/333270.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
-http://168.205.87.198:8555/live/1210/123456/143.m3u8
+http://168.205.87.198:8555/live/1303/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
@@ -233,6 +233,8 @@ https://super-cdn.link/nickelodeon/index.m3u8
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/363
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
+http://168.205.87.198:8555/live/1303/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
@@ -249,8 +251,6 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
 #EXTINF:0 type="stream" group-title="TV AO VIVO" LOGO="", HALLO ANIME
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
 https://cdn.g2gsistemas.com.br/matopiba/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
