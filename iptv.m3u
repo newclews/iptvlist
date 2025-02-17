@@ -615,6 +615,8 @@ https://ythls-v3.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORDTV RJ 2
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/527
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
+http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/694
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
