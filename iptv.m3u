@@ -476,11 +476,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://dzcdn.vood.top:80/hls/695_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/275
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-https://super-cdn.link/cinemax/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/239
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-https://super-cdn.link/axn/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/233
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -496,9 +496,9 @@ http://dzcdn.vood.top:80/hls/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-https://super-cdn.link/amc/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/228
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-https://super-cdn.link/fx/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/244
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
@@ -524,19 +524,19 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 https://super-cdn.link/telecinecult/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-https://super-cdn.link/hbo/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/251
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-https://super-cdn.link/hbo2/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/247
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/252
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://45.235.0.78/HBOPLUS-HD/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/245
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/261
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/256
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://tv.proyectox.vip:8080/josevflive/cf4c4ec22739/10615
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/262
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
