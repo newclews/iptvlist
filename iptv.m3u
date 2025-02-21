@@ -404,7 +404,7 @@ https://super-cdn.link/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
-http://45.235.0.78/PRIMEBOXBRASIL-HD/tracks-v1a1/mono.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/277
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
 http://168.205.87.198:8555/live/1301/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKET TV
@@ -502,27 +502,27 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/244
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
-http://themegamanx.net:80/live/889281840/Z451m1324a/598_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/281
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://super-cdn.link/space/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/278
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-https://super-cdn.link/tcm/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/292
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-https://super-cdn.link/telecinepremium/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-https://super-cdn.link/telecineaction/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/294
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://authbr15jul.halites.online:80/5875/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/996
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-https://super-cdn.link/telecinetouch/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/309
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-https://super-cdn.link/telecinecult/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/251
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
@@ -540,7 +540,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/262
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-https://super-cdn.link/tntnovelas/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/290
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 1
 http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/1169
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 2
