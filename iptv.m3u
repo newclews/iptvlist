@@ -210,17 +210,17 @@ http://168.205.87.198:8555/live/1303/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://super-cdn.link/cartoonnetwork/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1002
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://super-cdn.link/cartoonito/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-https://super-cdn.link/discoverykids/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/348
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/352
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://super-cdn.link/gloob/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/357
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -288,17 +288,17 @@ http://168.205.87.198:8555/live/1301/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/273
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://super-cdn.link/espn/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/130
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-https://super-cdn.link/espn2/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/129
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://dzcdn.vood.top:80/hls/218_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/126
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/899
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-https://super-cdn.link/espn6/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/133
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO (ALT)
@@ -398,7 +398,7 @@ http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/422
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-https://super-cdn.link/gnt/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/107
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 https://super-cdn.link/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
@@ -420,27 +420,27 @@ https://super-cdn.link/arte1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-https://super-cdn.link/history/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/815
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
-https://super-cdn.link/nationalgeographic/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 https://super-cdn.link/animalplanet/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 https://super-cdn.link/discoverychannel/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-https://super-cdn.link/discoveryscience/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/71
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/69
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 https://super-cdn.link/discoveryturbo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-https://super-cdn.link/tlc/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/91
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-https://super-cdn.link/comedycentral/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", IMPERIAL TV (NOT 24/7)
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/98
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/20c9cae3-6127-4f2d-9743-ca7c81cd8865/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
