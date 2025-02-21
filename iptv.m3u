@@ -492,7 +492,7 @@ https://super-cdn.link/cinecanal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://dzcdn.vood.top:80/hls/742_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/319
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -504,7 +504,7 @@ https://new.m3u8.one/tnt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/281
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/320
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/278
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
