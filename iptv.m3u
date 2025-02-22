@@ -249,8 +249,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/541
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
-https://cdn.g2gsistemas.com.br/matopiba/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
@@ -263,6 +261,8 @@ https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/82.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
+http://zutufo.in:80/live/889281840/Z451m1324a/461_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POP BOLA
@@ -593,6 +593,8 @@ https://ythls-v3.onrender.com/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 https://starlite.best/api/stream/suva420@hotmail.com/628375/livetv.epg/caracol.co.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
 http://79.127.238.228:14093
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
+http://zutufo.in:80/live/889281840/Z451m1324a/467_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/433
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
