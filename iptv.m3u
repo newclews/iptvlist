@@ -486,13 +486,13 @@ http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-https://super-cdn.link/usa/index.m3u8
+http://zutufo.in:80/live/889281840/Z451m1324a/716_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
 http://zutufo.in:80/live/889281840/Z451m1324a/601_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://185.246.208.74:14256
+http://zutufo.in:80/live/889281840/Z451m1324a/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -500,15 +500,15 @@ http://185.246.208.74:14161
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/244
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://79.127.238.228:14629
+http://zutufo.in:80/live/889281840/Z451m1324a/731_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
 http://185.246.208.74:14370
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://185.246.208.74:14302
+http://zutufo.in:80/live/889281840/Z451m1324a/746_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/278
+http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/292
+http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
