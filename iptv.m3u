@@ -36,7 +36,7 @@ http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/ch
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w845016475.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", POP TV
-https://pop.tv.br/hls/test_src.m3u8
+https://rtisoluctions.com.br/hls/test.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTER TV
