@@ -377,8 +377,10 @@ http://radyo.yayin.com.tr:5998//;stream.mp3
 https://26523.live.streamtheworld.com/POSITIVIDADE_FMAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/94_FM_%28Rio_de_Janeiro%29_logo.png", 94 FM RJ
 http://radio01.logicahost.com.br:8300/stream.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_da_Mix_FM.png", RADIO MIX FM RJ
-https://19793.live.streamtheworld.com/MIXRIOAAC_SC
+#EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logotipo_da_Antena_1.png", RADIO ANTENA 1 RJ
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:0 type="stream" group-title="Radios" logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_da_Mix_FM_Rio_de_Janeiro.png", RADIO MIX FM (RJ)
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXRIOAAC_SC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png", RADIO TUPI RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Radios" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/R%C3%A1dio_Senado.svg/1280px-R%C3%A1dio_Senado.svg.png", RADIO SENADO FM
