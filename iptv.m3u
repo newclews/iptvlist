@@ -613,6 +613,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/527
 http://topzt.top:80/Tourobox1-aBK5ipQORA/OfO1mfvr0j/59616.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
 http://topzt.top:80/Tourobox1-aBK5ipQORA/OfO1mfvr0j/27219.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
+http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
+http://45.134.141.161:2200/BRX/24HS_Thundercats/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
