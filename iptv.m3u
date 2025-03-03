@@ -58,9 +58,9 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+https://lvstr.cfd/record/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/507
+https://new.m3u8.one/globosp/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 https://new.m3u8.one/globorj/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
