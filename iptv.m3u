@@ -217,8 +217,6 @@ https://super-cdn.link/cartoonito/index.m3u8
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/348
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/352
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/357
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
@@ -237,6 +235,8 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 http://168.205.87.198:8555/live/1303/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
 http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES (MULTISHOW)
+http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
 http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
@@ -609,10 +609,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/537
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORDTV RJ 2
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/527
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 2
-http://topzt.top:80/Tourobox1-aBK5ipQORA/OfO1mfvr0j/59616.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
-http://topzt.top:80/Tourobox1-aBK5ipQORA/OfO1mfvr0j/27219.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 2
+http://24hrs.homelinux.com:80/24H-chapolin1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE-RA
+http://24hrs.homelinux.com:80/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
 http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
