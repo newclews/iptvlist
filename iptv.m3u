@@ -76,7 +76,7 @@ https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
-https://starlite.best/api/stream/suva420@hotmail.com/628375/livetv.epg/globo.rj.br.m3u8
+https://lvstr.cfd/globorj-globorio/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1301/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV MG
@@ -542,7 +542,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/262
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/290
+https://lvstr.cfd/tntnovelas/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 1
 http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/1169
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE SKY 2
