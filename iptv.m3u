@@ -115,8 +115,8 @@ https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV NAÇÃO
 https://hubwatch.online/TVNacao/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RNS TV
-https://stream.ichibantv.com:3827/stream/play.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV RIO
+https://stmv1.srvstm.com/canal5110/canal5110/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1301/123456/243.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
@@ -489,8 +489,8 @@ http://79.127.238.228:14592
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://zutufo.in:80/live/889281840/Z451m1324a/716_.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINE CANAL
-http://zutufo.in:80/live/889281840/Z451m1324a/601_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
