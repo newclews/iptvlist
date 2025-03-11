@@ -247,8 +247,10 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
+https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-https://lvstr.cfd/adultswim/index.m3u8
+https://lvstr.cfd/adultswim/index.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
@@ -421,6 +423,8 @@ http://supersonictv.live:8080/871310/907399/84945
 https://super-cdn.link/arte1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
+https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
@@ -499,8 +503,12 @@ http://zutufo.in:80/live/889281840/Z451m1324a/742_.m3u8
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1020
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/244
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
+https://aovivo.doozytv.com.br/31025556/10162077/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
+https://aovivo.doozytv.com.br/31025556/10162080/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
+https://aovivo.doozytv.com.br/31025556/10162214/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://79.127.238.228:14629
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
