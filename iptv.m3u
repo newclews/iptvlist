@@ -4,13 +4,13 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2179072.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
-http://168.205.87.198:8555/live/1301/123456/139.m3u8
+http://168.205.87.198:8555/live/1313/123456/139.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BDC TV (ACRITICA)
 https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
-http://168.205.87.198:8555/live/1301/123456/67.m3u8
+http://168.205.87.198:8555/live/1313/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
-http://168.205.87.198:8555/live/1301/123456/152.m3u8
+http://168.205.87.198:8555/live/1313/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1303/123456/151.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
@@ -70,7 +70,7 @@ http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/548
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", RF TV
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
-http://168.205.87.198:8555/live/1301/123456/69.m3u8
+http://168.205.87.198:8555/live/1313/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
@@ -78,11 +78,11 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
 http://zutufo.in:80/live/781487031/K788a6763d/2376_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
-http://168.205.87.198:8555/live/1301/123456/70.m3u8
+http://168.205.87.198:8555/live/1313/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV MG
-http://168.205.87.198:8555/live/1301/123456/96.m3u8
+http://168.205.87.198:8555/live/1313/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALTEROSA 
-http://168.205.87.198:8555/live/1301/123456/104.m3u8
+http://168.205.87.198:8555/live/1313/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tv.faster.net.br/logos/brsupertv.png", BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
@@ -118,13 +118,13 @@ https://hubwatch.online/TVNacao/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV RIO
 https://stmv1.srvstm.com/canal5110/canal5110/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
-http://168.205.87.198:8555/live/1301/123456/243.m3u8
+http://168.205.87.198:8555/live/1313/123456/243.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/rV4SFWT.png", PLAYPOCA SÉRIES
-http://168.205.87.198:8555/live/1301/123456/239.m3u8
+http://168.205.87.198:8555/live/1313/123456/239.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/I4TE7hb.png", PLAYPOCA FILMES
-http://168.205.87.198:8555/live/1301/123456/238.m3u8
+http://168.205.87.198:8555/live/1313/123456/238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static21.minhalojanouol.com.br/1films/selos/22082019170714.png", DARK FLIX
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV GOSPEL MOVIE
@@ -286,7 +286,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1016
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://lvstr.cfd/sportv3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://168.205.87.198:8555/live/1301/123456/141.m3u8
+http://168.205.87.198:8555/live/1313/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://zutufo.in:80/live/889281840/Z451m1324a/252_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
@@ -358,7 +358,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MUSIC
 https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
-http://168.205.87.198:8555/live/1301/123456/169.m3u8
+http://168.205.87.198:8555/live/1313/123456/169.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://redehits.fm/wp-content/uploads/2022/10/toplogo-HITSFM_2022.webp", HITS FM (MACAÉ)
@@ -410,7 +410,7 @@ http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/277
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
-http://168.205.87.198:8555/live/1301/123456/257.m3u8
+http://168.205.87.198:8555/live/1313/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKET TV
 http://168.205.87.198:8555/live/1303/123456/258.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FILM & ARTS
