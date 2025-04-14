@@ -218,7 +218,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/348
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/357
+http://zutufo.in:80/live/781487031/K788a6763d/377230_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -404,7 +404,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/423
+http://zutufo.in:80/live/781487031/K788a6763d/377243_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/420
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
@@ -604,9 +604,9 @@ https://starlite.best/api/stream/suva420@hotmail.com/628375/livetv.epg/caracol.c
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
 http://79.127.238.228:14093
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT 2)
-http://zutufo.in:80/live/889281840/Z451m1324a/478_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/477_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-http://zutufo.in:80/live/889281840/Z451m1324a/467_.m3u8
+http://zutufo.in:80/live/781487031/K788a6763d/467_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://lvstr.cfd/cnnbrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
