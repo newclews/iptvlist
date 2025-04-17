@@ -528,19 +528,19 @@ http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/294
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://185.246.208.74:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/996
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/309
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297
+http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/251
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
