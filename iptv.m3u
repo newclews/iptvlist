@@ -58,7 +58,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-https://new.ejaculacaoretardada.site/recordsp/index.m3u8?wmsAuthSign=undefined
+http://200.40.67.106:8000/play/a054/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
@@ -397,8 +397,12 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV
-http://178.162.225.116:2082/Tourobox2-iE9xf6ArqR/8pngR9Waxb/422
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV ESPANHOL
+http://177.8.76.2:8000/play/a0p0
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 80's
+http://86.87.15.10:8009/play/a00x
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 00's
+http://177.8.76.2:8000/play/a0mm
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
@@ -519,8 +523,8 @@ https://aovivo.doozytv.com.br/31025556/10162721/chunks.m3u8
 https://aovivo.doozytv.com.br/31025556/10162725/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://79.127.238.228:14629
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
-http://185.246.208.74:14370
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL (ES)
+http://200.40.67.106:8000/play/a074/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
