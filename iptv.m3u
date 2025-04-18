@@ -113,8 +113,8 @@ https://pop.uniquetv.com.br/uniquetv/index.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV NAÇÃO
-https://hubwatch.online/TVNacao/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YEEAAHH
+https://aovivo.doozytv.com.br/31025556/10160540/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
 https://aovivo.doozytv.com.br/31025556/10161901/chunks.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
