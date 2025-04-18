@@ -228,7 +228,7 @@ https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/365
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/363
+http://201.48.76.75:2226/play/a08n/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
@@ -290,7 +290,7 @@ http://168.205.87.198:8555/live/1313/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://zutufo.in:80/live/889281840/Z451m1324a/252_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://cr7v.short.gy/manoiTVOP1/spnHD/ZAP075991634025/index.m3u8
+http://201.48.76.75:2226/play/a06a/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/129
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
@@ -438,7 +438,7 @@ http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/815
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://79.127.238.228:14386
+http://201.48.76.75:2226/play/a06d/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://185.246.208.74:14144
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
@@ -452,7 +452,7 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/91
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/98
+http://201.48.76.75:2226/play/a07n/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
@@ -490,11 +490,11 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/275
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/239
+http://201.48.76.75:2226/play/a08f/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://79.127.238.228:14592
+http://201.48.76.75:2226/play/a08a/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
@@ -508,7 +508,7 @@ http://zutufo.in:80/live/889281840/Z451m1324a/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1020
+http://201.48.76.75:2226/play/a06g/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://aovivo.doozytv.com.br/31025556/10162077/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
