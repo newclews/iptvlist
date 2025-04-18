@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/85
+http://201.48.76.75:2226/play/a06k/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -210,9 +210,9 @@ http://168.205.87.198:8555/live/1313/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1002
+http://201.48.76.75:2226/play/a07m/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/345
+http://201.48.76.75:2226/play/a08o/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -282,13 +282,13 @@ https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/993
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1016
+http://201.48.76.75:2226/play/a08k/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-https://lvstr.cfd/sportv3/index.m3u8
+http://201.48.76.75:2226/play/a08j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1313/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://zutufo.in:80/live/889281840/Z451m1324a/252_.m3u8
+http://201.48.76.75:2226/play/a06m/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://201.48.76.75:2226/play/a06a/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
@@ -442,7 +442,7 @@ http://201.48.76.75:2226/play/a06d/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://185.246.208.74:14144
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/71
+http://201.48.76.75:2226/play/a06i/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/69
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -488,7 +488,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/275
+http://201.48.76.75:2226/play/a06q/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://201.48.76.75:2226/play/a08f/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
@@ -498,7 +498,7 @@ http://201.48.76.75:2226/play/a08a/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://zutufo.in:80/live/889281840/Z451m1324a/716_.m3u8
+http://201.48.76.75:2226/play/a07o/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
@@ -506,7 +506,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://zutufo.in:80/live/889281840/Z451m1324a/742_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/289
+http://201.48.76.75:2226/play/a07q/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://201.48.76.75:2226/play/a06g/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
@@ -618,19 +618,19 @@ http://45.134.141.161:2200/BRX/24HS_Thundercats/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS (ALT)
 http://zutufo.in:80/live/781487031/K788a6763d/235_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/148
+http://201.48.76.75:2226/play/a08g/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/152
+http://201.48.76.75:2226/play/a07r/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/156
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/157
+http://201.48.76.75:2226/play/a08r/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/158
+http://201.48.76.75:2226/play/a07r/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/159
+http://201.48.76.75:2226/play/a08s/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/160
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
