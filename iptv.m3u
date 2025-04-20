@@ -328,19 +328,19 @@ https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/1onemus.png", 1MUS
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC CLASSICS
-http://168.205.87.198:8555/live/1303/123456/231.m3u8
+http://168.205.87.198:8555/live/1313/123456/231.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BLACK
-http://168.205.87.198:8555/live/1303/123456/232.m3u8
+http://168.205.87.198:8555/live/1313/123456/232.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC HITS
-http://168.205.87.198:8555/live/1303/123456/233.m3u8
+http://168.205.87.198:8555/live/1313/123456/233.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC LATINO
-http://168.205.87.198:8555/live/1303/123456/234.m3u8
+http://168.205.87.198:8555/live/1313/123456/234.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC PARTY
-http://168.205.87.198:8555/live/1303/123456/235.m3u8
+http://168.205.87.198:8555/live/1313/123456/235.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC POP
-http://168.205.87.198:8555/live/1303/123456/236.m3u8
+http://168.205.87.198:8555/live/1313/123456/236.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC ROCK
-http://168.205.87.198:8555/live/1303/123456/237.m3u8
+http://168.205.87.198:8555/live/1313/123456/237.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PLAY TV
 https://isaocorp.cloudecast.com/playtv/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png", TRACE URBAN
