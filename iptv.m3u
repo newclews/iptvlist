@@ -64,7 +64,7 @@ https://new.ejaculacaoretardada.site/globosp/index.m3u8?wmsAuthSign=undefined
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://79.127.238.228:14217
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://image.winudf.com/v2/image/dW5pZm9yLmJyLnR2ZGlhcmlvX2ljb25fMTUwOTcyOTA2MV8wODg/icon.png?w=&fakeurl=1", TV DIARIO (CE)
 http://zutufo.in:80/live/781487031/K788a6763d/530124_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", RF TV
