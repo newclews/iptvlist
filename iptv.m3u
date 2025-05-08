@@ -52,7 +52,7 @@ http://168.205.87.198:8555/live/1313/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
-https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/c62a7b1d-f72d-4919-aa9e-497d91432ede/5.m3u8
+http://185.246.208.74:14367
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
@@ -397,12 +397,6 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV ESPANHOL
-http://177.8.76.2:8000/play/a0p0
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 80's
-http://86.87.15.10:8009/play/a00x
-#EXTINF:0 type="stream" group-title="TV AO VIVO", MTV 00's
-http://177.8.76.2:8000/play/a0mm
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
@@ -450,7 +444,7 @@ http://79.127.238.228:14367
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/91
+http://79.127.238.228:14433
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 http://201.48.76.75:2226/play/a07n/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -492,9 +486,9 @@ http://201.48.76.75:2226/play/a06q/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://201.48.76.75:2226/play/a08f/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://7vnbcuo2.megogo.xyz/iptv/4FTLMRQB8QAYPKMP33UUURAQ/6163/index.m3u8
+http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://201.48.76.75:2226/play/a08a/index.m3u8
+http://79.127.238.228:14901
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
@@ -558,7 +552,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/261
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/256
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/262
+http://15.235.9.200:14179
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
@@ -605,16 +599,40 @@ https://new.ejaculacaoretardada.site/globorj/index.m3u8?wmsAuthSign=undefined
 http://zutufo.in:80/live/781487031/K788a6763d/528662_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO (ALT)
 https://aovivo.doozytv.com.br/31025556/10160520/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 4
+http://15.235.9.200:14845
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 2
 http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", He-Man
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 3
+http://15.235.9.200:14844
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
 http://24hrs.homelinux.com:8080/24H-Heman.S01/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN 2
+http://15.235.9.200:14942
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE-RA
 http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
 http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
 http://45.134.141.161:2200/BRX/24HS_Thundercats/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DOM DRACULA
+http://15.235.9.200:14873
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
+http://15.235.9.200:14015
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DINO BOY
+http://15.235.9.200:14870
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SUPER AMIGOS
+http://15.235.9.200:14027
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
+http://15.235.9.200:14853
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZÉ BUSCAPÉ
+http://15.235.9.200:14051
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
+http://15.235.9.200:14040
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
+http://15.235.9.200:14912
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOVA ESCOLINHA
+http://15.235.9.200:14904
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS (ALT)
 http://zutufo.in:80/live/781487031/K788a6763d/235_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NEW BRASIL (ALT)
