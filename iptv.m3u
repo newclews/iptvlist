@@ -540,23 +540,23 @@ http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/251
+https://anonstream.live/hbo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/247
+https://anonstream.live/hbo2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/252
+https://anonstream.live/hbofamily/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/245
+https://anonstream.live/hboplus/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/261
+https://anonstream.live/hbopop/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/256
+https://anonstream.live/hbomundi/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://15.235.9.200:14179
+https://anonstream.live/hbosignature/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://themegamanx.net:80/live/889281840/Z451m1324a/18776_.m3u8
+https://anonstream.live/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-https://lvstr.cfd/tntnovelas/index.m3u8
+https://anonstream.live/tntnovelas/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
@@ -605,12 +605,6 @@ http://15.235.9.200:14845
 http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 3
 http://15.235.9.200:14844
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
-http://24hrs.homelinux.com:8080/24H-Heman.S01/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN 2
-http://15.235.9.200:14942
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE-RA
-http://24hrs.homelinux.com:8080/24H-She.Ra.S01/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
 http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
@@ -625,8 +619,6 @@ http://15.235.9.200:14870
 http://15.235.9.200:14027
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
 http://15.235.9.200:14853
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZÉ BUSCAPÉ
-http://15.235.9.200:14051
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
 http://15.235.9.200:14040
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
