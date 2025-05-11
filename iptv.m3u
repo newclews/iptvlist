@@ -218,7 +218,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://anonstream.live/discoverykids/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://anonstream.live/gloob/index.m3u8
+http://supersonictv.live:8080/871310/907399/85030
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -290,17 +290,17 @@ http://168.205.87.198:8555/live/1313/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 https://anonstream.live/off/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-https://anonstream.live/espn/index.m3u8
+http://supersonictv.live:8080/871310/907399/84979
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-https://anonstream.live/espn2/index.m3u8
+http://supersonictv.live:8080/871310/907399/84981
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 https://anonstream.live/espn3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-https://anonstream.live/espn4/index.m3u8
+http://supersonictv.live:8080/871310/907399/84991
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-https://anonstream.live/espn5/index.m3u8
+http://supersonictv.live:8080/871310/907399/84992
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-https://anonstream.live/espn6/index.m3u8
+http://supersonictv.live:8080/871310/907399/84980
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO (ALT)
@@ -428,7 +428,7 @@ https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 https://anonstream.live/history/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-https://anonstream.live/history2/index.m3u8
+http://supersonictv.live:8080/871310/907399/85033
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
@@ -542,7 +542,7 @@ https://anonstream.live/hbo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 https://anonstream.live/hbo2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://anonstream.live/hbofamily/index.m3u8
+http://supersonictv.live:8080/871310/907399/85035
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 https://anonstream.live/hboplus/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
@@ -592,7 +592,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/537
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
-https://new.ejaculacaoretardada.site/globorj/index.m3u8?wmsAuthSign=undefined
+http://supersonictv.live:8080/871310/907399/85012
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORDTV RJ 2
 http://zutufo.in:80/live/781487031/K788a6763d/528662_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO (ALT)
