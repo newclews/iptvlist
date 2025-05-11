@@ -503,6 +503,8 @@ http://supersonictv.live:8080/871310/907399/85354
 http://supersonictv.live:8080/871310/907399/85286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 https://anonstream.live/amc/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
+https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://aovivo.doozytv.com.br/31025556/10162077/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
