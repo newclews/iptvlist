@@ -261,6 +261,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/21.m3u8
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
+https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/82.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
