@@ -261,7 +261,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/21.m3u8
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO MAIS
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
 https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/82.m3u8
@@ -425,6 +425,8 @@ http://supersonictv.live:8080/871310/907399/84945
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
+https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
 https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HTO DOCS
