@@ -251,6 +251,8 @@ https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LIFE AMERICA
 https://cdn.lincemedia.com.br/LIFE_AMERICA/index.m3u8?token=KG_0nYulChvS5UWiNUZEbVsVDnx
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADRENALINA PURA TV
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/64.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png/v1/fill/w_95,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo%20umatv%20CENTRO%20PRETO_edited.png", UMA TV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
