@@ -73,10 +73,10 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 http://168.205.87.198:8555/live/1313/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
 https://acesso.ecast.site:3125/stream/play.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", CENTRAL TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/YSauIpq.png", RC TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ 2
-http://zutufo.in:80/live/781487031/K788a6763d/2376_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO (RN)
+https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1313/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV MG
@@ -113,7 +113,7 @@ https://pop.uniquetv.com.br/uniquetv/index.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/chunklist_w218093423.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1263571980.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YEEAAHH
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YEEAAH
 https://aovivo.doozytv.com.br/31025556/10160540/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
 https://aovivo.doozytv.com.br/31025556/10161901/chunks.m3u8
