@@ -191,14 +191,14 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w267753801.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JAPI
 https://stmv1.paineltv.net/tvjapi/tvjapi/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE RECON
-https://acesso.ecast.site:3862/stream/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HOMEFULL
 https://cc-9flatd4lam6vc.akamaized.net/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
 https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SUPERFLIX TV
+https://stream.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
