@@ -399,6 +399,8 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", REDE MOSAICO
+https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
@@ -513,6 +515,10 @@ http://supersonictv.live:8080/871310/907399/85354
 http://supersonictv.live:8080/871310/907399/85286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 https://anonstream.live/amc/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO FILMES
+https://cdn-1.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
+https://cdn-1.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
