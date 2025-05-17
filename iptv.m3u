@@ -401,6 +401,10 @@ http://listen.181fm.com:7080/181-energy98_128k.mp3
 http://sc.powerhitz.com:5040/;stream/1.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", UNIQUE SUPERCAST
+https://pop.uniquetv.com.br/supercast/video.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", UNIQUE SUPERGEEK
+https://pop.uniquetv.com.br/supergeek/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDE MOSAICO
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
@@ -469,8 +473,8 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 https://anonstream.live/sonychannel/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://super-cdn.link/sonymovies/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", SONY ONE
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CRIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE FAMÍLIA
@@ -625,8 +629,8 @@ http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 http://15.235.9.200:14844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
 http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
-http://45.134.141.161:2200/BRX/24HS_Thundercats/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DOM DRACULA
 http://15.235.9.200:14873
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
