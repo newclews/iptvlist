@@ -234,11 +234,13 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
 http://168.205.87.198:8555/live/1313/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://45.134.141.161:2200/BRX/24HS_Chaves/index.m3u8
+http://15.235.9.200:14845
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES (MULTISHOW)
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN
-http://45.134.141.161:2200/BRX/24HS_Chapolin_Colorado/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 1
+http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 2
+http://15.235.9.200:14844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.tcdn.com.br/img/img_prod/1062325/1633554045_logo-completa-e1633393215363-1024x323.png", RONI FICHER
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -608,25 +610,13 @@ http://zutufo.in:80/live/781487031/K788a6763d/467_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT 2)
 https://aovivo.doozytv.com.br/31025556/10160454/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
-https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/cb7c3e167b766f8f9e9e356383f214aadf0263805d31d53567a000967c93150b86bea7c9e41fbb3c7eff62812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa0505926359238ab15458cc7d927c0618e7463c0663dded58ad7742b3d948de2976c3b2dc6231635a4d8b5d5ee4f25bf1abe54046da3ea8ac1d49c32f58efd61498c91aea85d0099c15d320f11595f051bae931ba5c7c80987d80163b1a445f8b81639ac52fceb0f85a18ecbfacdb7c2f8b909ceb5a34c6664e59eaf6c8be1f8a7b183b97e012598909970f8035ca41ab07a2e85cafefc2b797f38bc5b639530dda8b9283f47537b826d1a3e7d87a6e96bc7312229b3d88727b6ad795aa656de2151306b1d31410962b15e4de50b812c99e91804f8e2cc9c6bbab3c4d715305178a52986a0cb119f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f5e2cde22362db675b7ca752cae23098e3a72a90864d012ade87db581d2f7033dbac68813ac37a1e578a79c689e64325d0da4e16c0e153e1afeda265c6037933fa1b9adcc781309e0fbcc84b17531153c115d14cbafa7479280c4260a0583340265671b039914dc0b8b58a961b713e172cac3d70883205daaac8ba2989cad6145d7/48/1920x1080_7479778/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
 http://185.246.208.74:14810
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT)
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/537
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
-http://supersonictv.live:8080/871310/907399/85012
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORDTV RJ 2
-http://zutufo.in:80/live/781487031/K788a6763d/528662_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO (ALT)
 https://aovivo.doozytv.com.br/31025556/10160520/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 4
-http://15.235.9.200:14845
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 2
-http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN 3
-http://15.235.9.200:14844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPEED RACER
 http://45.134.141.161:2200/BRX/24HS_Speed_Racer/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
