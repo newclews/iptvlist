@@ -302,7 +302,7 @@ http://supersonictv.live:8080/871310/907399/84981
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 https://anonstream.live/espn3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://supersonictv.live:8080/871310/907399/84991
+http://15.235.50.115:14056
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://supersonictv.live:8080/871310/907399/84992
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
@@ -550,19 +550,19 @@ https://anonstream.live/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 https://anonstream.live/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://supersonictv.live:8080/871310/907399/85301
+http://15.235.50.115:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://supersonictv.live:8080/871310/907399/85290
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
 http://185.246.208.74:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+http://15.235.50.115:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://supersonictv.live:8080/871310/907399/85299
+http://15.235.50.115:14011
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://187.120.222.12:8000/play/TCCultLEG/index.m3u8
+http://15.235.50.115:14014
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 https://anonstream.live/hbo/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
