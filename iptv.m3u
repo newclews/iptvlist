@@ -454,11 +454,11 @@ http://supersonictv.live:8080/871310/907399/84936
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://supersonictv.live:8080/871310/907399/84966
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-https://anonstream.live/discoveryscience/index.m3u8
+http://15.235.50.112:14106
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
 https://anonstream.live/discoveryid/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://79.127.238.228:14367
+http://15.235.50.112:14097
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HTO NITRO
@@ -564,11 +564,11 @@ http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://15.235.50.115:14014
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-https://anonstream.live/hbo/index.m3u8
+http://15.235.50.112:14186
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-https://anonstream.live/hbo2/index.m3u8
+http://15.235.50.112:14189
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://supersonictv.live:8080/871310/907399/85035
+http://15.235.50.112:14192
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 https://anonstream.live/hboplus/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
