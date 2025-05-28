@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://201.48.76.75:2226/play/a06k/index.m3u8
+http://185.236.183.117:14214
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -218,7 +218,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://185.236.183.118:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://supersonictv.live:8080/871310/907399/85030
+http://185.236.183.117:14379
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -313,8 +313,8 @@ https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 http://185.236.183.118:14059
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-http://supersonictv.live:8080/871310/907399/84953
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
+http://185.236.183.117:14123
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
@@ -458,7 +458,7 @@ http://185.236.183.118:14143
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
 http://15.235.50.112:14106
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
-https://anonstream.live/discoveryid/index.m3u8
+http://185.236.183.117:14439
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://15.235.50.112:14097
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -468,7 +468,7 @@ https://cdn-1.nxplay.com.br/HTO_NITRO/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
 http://79.127.238.228:14433
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://supersonictv.live:8080/871310/907399/84954
+http://185.236.183.117:14127
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
@@ -504,7 +504,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://201.48.76.75:2226/play/a06q/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://supersonictv.live:8080/871310/907399/84948
+http://185.236.183.117:14113
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
