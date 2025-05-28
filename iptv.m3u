@@ -312,7 +312,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO (ALT)
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+http://185.236.183.118:14059
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
 http://supersonictv.live:8080/871310/907399/84953
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
@@ -583,8 +583,24 @@ https://anonstream.live/hbosignature/index.m3u8
 https://anonstream.live/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 https://anonstream.live/tntnovelas/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 1
+http://185.236.183.118:14103
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 2
 http://185.236.183.118:14104
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 3
+http://185.236.183.118:14105
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 4
+http://185.236.183.118:14106
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 5
+http://185.236.183.118:14107
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 6
+http://185.236.183.118:14108
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 7
+http://185.236.183.118:14109
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 8
+http://185.236.183.118:14110
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 9
+http://185.236.183.118:14111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
