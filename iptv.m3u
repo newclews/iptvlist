@@ -296,7 +296,7 @@ http://168.205.87.198:8555/live/1313/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://185.236.183.118:14491
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://185.236.183.118:14038
+http://185.236.183.118:14177
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
 http://185.236.183.118:14181
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
