@@ -522,7 +522,7 @@ http://185.236.183.118:14749
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://supersonictv.live:8080/871310/907399/85286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-https://anonstream.live/amc/index.m3u8
+http://185.236.183.118:142
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO FILMES
 https://cdn-1.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
@@ -566,11 +566,11 @@ http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://185.236.183.118:14694
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://15.235.50.112:14186
+http://185.236.183.118:14395
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://15.235.50.112:14189
+http://185.236.183.118:14399
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://15.235.50.112:14192
+http://185.236.183.118:14403
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://185.236.183.118:14407
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
