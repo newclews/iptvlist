@@ -367,8 +367,8 @@ https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 http://168.205.87.198:8555/live/1313/123456/169.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
-#EXTINF:0 type="stream" group-title="Radios" logo="https://redehits.fm/wp-content/uploads/2022/10/toplogo-HITSFM_2022.webp", HITS FM (MACAÉ)
-https://paineldj.com.br:20028/stream.mp3
+#EXTINF:0 type="stream" group-title="Radios" logo="", 107 FM (RJ)
+https://servidor25.brlogic.com:7024/live
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", Radio Planeta do Vinil 
 https://stm5.conectastreaming.com:15276/;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
