@@ -286,9 +286,9 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://supersonictv.live:8080/871310/907399/85283
+http://185.236.183.117:14643
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-https://anonstream.live/sportv2/index.m3u8
+http://185.236.183.117:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://anonstream.live/sportv3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -476,7 +476,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-https://anonstream.live/sonychannel/index.m3u8
+http://185.236.183.117:14635
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CRIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE FAMÍLIA
@@ -512,7 +512,7 @@ http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-https://anonstream.live/usa/index.m3u8
+http://185.236.183.117:14663
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
@@ -520,7 +520,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://185.236.183.118:14749
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://supersonictv.live:8080/871310/907399/85286
+http://185.236.183.117:14658
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://185.236.183.117:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO FILMES
@@ -548,7 +548,7 @@ http://79.127.238.228:14629
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://anonstream.live/space/index.m3u8
+http://185.236.183.117:14639
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 https://anonstream.live/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
@@ -582,7 +582,7 @@ https://anonstream.live/hbosignature/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://anonstream.live/hboxtreme/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-https://anonstream.live/tntnovelas/index.m3u8
+http://185.236.183.117:14667
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 1
 http://185.236.183.118:14103
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 2
