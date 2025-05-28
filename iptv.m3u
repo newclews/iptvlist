@@ -550,13 +550,11 @@ http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://185.236.183.117:14639
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-https://anonstream.live/tcm/index.m3u8
+http://185.236.183.117:14671
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://15.235.50.115:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://supersonictv.live:8080/871310/907399/85290
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
-http://185.246.208.74:14900
+http://185.236.183.117:14674
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://15.235.50.115:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
