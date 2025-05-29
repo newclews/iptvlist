@@ -411,6 +411,8 @@ https://pop.uniquetv.com.br/supergeek/video.m3u8
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL
 http://185.236.183.118:14720
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL PLUS
+https://fast-channels-t2.b-cdn.net/travel/aovivo_abr/travel/aovivo_720p/chunks.m3u8?token=5d2abf43a9d05deb5fd3f780a4e9a3d75bad2ce7-17612dcf9c72c93b89d4051c861f298e-1748569290-1748526090
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", FILM & ARTS
 http://185.236.183.118:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
