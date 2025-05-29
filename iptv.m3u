@@ -601,6 +601,8 @@ http://185.236.183.118:14110
 http://185.236.183.118:14111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PEGADINHAS REDETV
 https://origin-nxtv.b-cdn.net/REDETV_PEGADINHAS/tracks-v1a1/mono.m3u8?token=fb781c07f3af8a0159633be9877ad2d67bab9faf-4d6da4b2c59df4930bfcc554939f5d8d-1748569290-1748526090
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAFERNALHA
+https://cdn-3.nxplay.com.br/parafernaria/tracks-v2a1/mono.m3u8?token=5088c0898f24eafcf37a9c41073190d0c20296e2-b8f3a39006840e476e2b15f1229d529c-1748569290-1748526090
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
