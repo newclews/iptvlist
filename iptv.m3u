@@ -210,7 +210,7 @@ http://168.205.87.198:8555/live/1313/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://185.236.183.118:14092
+http://185.236.183.118:14094
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://185.236.183.118:14096
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
