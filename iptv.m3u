@@ -613,6 +613,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/1080p-vtt
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ADULT SWIM (ALT)
 http://185.236.183.117:14721
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
+http://185.236.183.117:14712
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
