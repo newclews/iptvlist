@@ -502,7 +502,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://201.48.76.75:2226/play/a06q/index.m3u8
+http://185.236.183.116:17497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://185.236.183.117:14113
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
@@ -510,7 +510,7 @@ http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/162
+http://185.236.183.116:17446
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://185.236.183.117:14663
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
@@ -576,9 +576,9 @@ http://185.236.183.118:14415
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://185.236.183.118:14411
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-https://anonstream.live/hbosignature/index.m3u8
+http://185.236.183.116:17419
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-https://anonstream.live/hboxtreme/index.m3u8
+http://185.236.183.116:17423
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 1
 http://185.236.183.118:14103
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 2
