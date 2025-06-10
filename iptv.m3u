@@ -579,8 +579,6 @@ http://185.236.183.118:14411
 https://anonstream.live/hbosignature/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://anonstream.live/hboxtreme/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-http://185.236.183.117:14667
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 1
 http://185.236.183.118:14103
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 2
@@ -599,6 +597,10 @@ http://185.236.183.118:14109
 http://185.236.183.118:14110
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 9
 http://185.236.183.118:14111
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
+http://15.235.15.230:14177
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
+http://185.236.183.117:14667
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A TERRA PROMETIDA
