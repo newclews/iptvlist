@@ -226,9 +226,9 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
 https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-https://anonstream.live/nickelodeon/index.m3u8
+http://185.236.183.116:17483
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
-https://anonstream.live/nickjr/index.m3u8
+http://185.236.183.116:17479
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
@@ -359,6 +359,10 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MTV 00s
+http://185.236.183.116:17458
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MTV LIVE
+http://185.236.183.116:17461
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MUSIC
 https://cdn-1.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
@@ -409,6 +413,8 @@ https://pop.uniquetv.com.br/supergeek/video.m3u8
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME BOX
+http://185.236.183.116:17536
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL
 http://185.236.183.118:14720
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL PLUS
@@ -418,7 +424,7 @@ http://185.236.183.118:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://15.235.11.7:14146
+http://185.236.183.116:17466
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://185.236.183.118:14069
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BOX BRASIL
