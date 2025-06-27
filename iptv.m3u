@@ -524,7 +524,7 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://185.236.183.118:14749
+http://metalgear.bemtv.cn:80/STREAM/8289/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://185.236.183.117:14658
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -554,13 +554,13 @@ http://79.127.238.228:14629
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-http://185.236.183.117:14639
+http://metalgear.bemtv.cn:80/STREAM/8293/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://185.236.183.117:14671
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://15.235.50.115:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://185.236.183.117:14674
+http://metalgear.bemtv.cn:80/STREAM/8278/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://15.235.50.115:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
@@ -666,17 +666,17 @@ http://15.235.9.200:14904
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://metalgear.bemtv.cn:80/STREAM/8307/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://185.236.183.118:14512
+http://metalgear.bemtv.cn:80/STREAM/8297/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://185.236.183.118:14516
+http://metalgear.bemtv.cn:80/STREAM/8298/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://185.236.183.118:14520
+http://metalgear.bemtv.cn:80/STREAM/8300/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://185.236.183.118:14524
+http://metalgear.bemtv.cn:80/STREAM/8302/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://185.236.183.118:14527
+http://metalgear.bemtv.cn:80/STREAM/8304/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://185.236.183.118:14528
+http://metalgear.bemtv.cn:80/STREAM/8306/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/160
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
