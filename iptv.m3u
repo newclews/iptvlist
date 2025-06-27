@@ -510,7 +510,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://185.236.183.117:14496
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://185.236.183.117:14113
+http://185.236.183.118:14113
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://185.236.183.118:14021
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
