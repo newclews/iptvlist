@@ -196,7 +196,7 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV HISTÓRIA
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
-https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SUPERFLIX TV
 https://stream.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
