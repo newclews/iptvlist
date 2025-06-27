@@ -639,6 +639,8 @@ http://79.127.238.228:14093
 http://metalgear.bemtv.cn:80/STREAM/8397/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/af2e80dd-b360-4c41-855d-3740b87ba21c/0.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/74
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL (ALT)
 https://video01.soultv.com.br/timesbrasil/timesbrasil/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NEW BRASIL (ALT)
