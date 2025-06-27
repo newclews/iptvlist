@@ -286,27 +286,27 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://185.236.183.117:14643
+http://metalgear.bemtv.cn:80/STREAM/8316/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://185.236.183.117:14647
+http://metalgear.bemtv.cn:80/STREAM/8314/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://185.236.183.117:14651
+http://metalgear.bemtv.cn:80/STREAM/8312/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://168.205.87.198:8555/live/1315/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://185.236.183.118:14491
+http://metalgear.bemtv.cn:80/STREAM/8330/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://185.236.183.118:14177
+http://metalgear.bemtv.cn:80/STREAM/8322/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://185.236.183.118:14181
+http://metalgear.bemtv.cn:80/STREAM/8324/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
 http://185.236.183.118:14186
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://15.235.50.115:14056
+http://metalgear.bemtv.cn:80/STREAM/8328/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://185.236.183.118:14213
+http://metalgear.bemtv.cn:80/STREAM/8326/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-http://185.236.183.118:14195
+http://metalgear.bemtv.cn:80/STREAM/8320/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
@@ -426,7 +426,7 @@ http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 http://185.236.183.116:17466
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://185.236.183.118:14069
+http://metalgear.bemtv.cn:80/STREAM/8280/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BOX BRASIL
 http://168.205.87.198:8555/live/1315/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKET TV
@@ -570,9 +570,9 @@ http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://185.236.183.118:14694
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://185.236.183.118:14395
+http://metalgear.bemtv.cn:80/STREAM/8267/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://185.236.183.118:14399
+http://metalgear.bemtv.cn:80/STREAM/8265/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
 http://185.236.183.118:14403
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
@@ -582,7 +582,7 @@ http://185.236.183.118:14415
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://185.236.183.118:14411
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-http://185.236.183.116:17419
+http://metalgear.bemtv.cn:80/STREAM/8258/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 http://185.236.183.116:17423
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMES 1
@@ -664,7 +664,7 @@ http://15.235.9.200:14912
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOVA ESCOLINHA
 http://15.235.9.200:14904
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://185.236.183.118:14508
+http://metalgear.bemtv.cn:80/STREAM/8307/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
 http://185.236.183.118:14512
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
