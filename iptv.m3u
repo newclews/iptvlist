@@ -657,6 +657,8 @@ http://15.235.9.200:14870
 http://15.235.9.200:14027
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
 http://15.235.9.200:14853
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 101 DALMATAS
+http://185.236.183.116:17794
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
 http://15.235.9.200:14040
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
