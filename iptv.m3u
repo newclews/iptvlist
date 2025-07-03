@@ -437,8 +437,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p
 https://metalgear.bemtv.cn/STREAM/8225/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
-https://video01.logicahost.com.br/canalcurta/canalcurta/chunklist_w2086697979.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
@@ -585,8 +583,6 @@ http://metalgear.bemtv.cn:80/STREAM/8363/chunks.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A TERRA PROMETIDA
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/720p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAFERNALHA
-https://cdn-3.nxplay.com.br/parafernaria/tracks-v2a1/mono.m3u8?token=5088c0898f24eafcf37a9c41073190d0c20296e2-b8f3a39006840e476e2b15f1229d529c-1748569290-1748526090
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESIMPEDIDOS
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
@@ -625,6 +621,8 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 http://45.134.141.162:3366/stream/globo/rj/master720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ FHD 4
 http://45.134.141.162:3366/stream/globo/rj/master1080.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
+http://45.134.141.162:3366/stream/recordtv/rio/master720.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO (ALT)
 https://aovivo.doozytv.com.br/31025556/10160520/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
