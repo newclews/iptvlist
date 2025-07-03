@@ -242,7 +242,7 @@ http://24hrs.homelinux.com:8080/24H-chapolin1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 2
 http://15.235.9.200:14844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KANADE BRASIL
-https://xui-backend.energeek.cl/live/deM0kanADeweB/iSfVDKDo2bn4/14.m3u8
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
