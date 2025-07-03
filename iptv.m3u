@@ -450,7 +450,7 @@ http://metalgear.bemtv.cn:80/STREAM/8352/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://metalgear.bemtv.cn:80/STREAM/8350/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://185.236.183.118:14013
+https://metalgear.bemtv.cn/STREAM/8332/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://metalgear.bemtv.cn:80/STREAM/8342/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
@@ -498,11 +498,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://185.236.183.117:14496
+https://metalgear.bemtv.cn/STREAM/8291/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 https://metalgear.bemtv.cn/STREAM/8453/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://185.236.183.118:14021
+https://metalgear.bemtv.cn/STREAM/8383/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -564,9 +564,9 @@ http://metalgear.bemtv.cn:80/STREAM/8267/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://metalgear.bemtv.cn:80/STREAM/8265/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://185.236.183.117:14403
+https://metalgear.bemtv.cn/STREAM/8263/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://185.236.183.117:14407
+https://metalgear.bemtv.cn/STREAM/8261/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 https://metalgear.bemtv.cn/STREAM/8442/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
