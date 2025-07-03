@@ -226,7 +226,7 @@ https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
 https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
-http://185.236.183.117:14483
+https://metalgear.bemtv.cn/STREAM/8440/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://185.236.183.117:14479
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
@@ -462,7 +462,7 @@ http://15.235.50.112:14097
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-http://79.127.238.228:14433
+https://metalgear.bemtv.cn/STREAM/8436/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/116
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
@@ -508,7 +508,7 @@ http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 https://metalgear.bemtv.cn/STREAM/8446/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://185.236.183.117:14663
+https://metalgear.bemtv.cn/STREAM/8438/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
@@ -516,7 +516,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://metalgear.bemtv.cn:80/STREAM/8289/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://185.236.183.117:14658
+https://metalgear.bemtv.cn/STREAM/8439/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://185.236.183.118:14009
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO FILMES
@@ -558,7 +558,7 @@ http://15.235.50.115:14011
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://185.236.183.117:14694
+https://metalgear.bemtv.cn/STREAM/8437/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://metalgear.bemtv.cn:80/STREAM/8267/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
