@@ -645,6 +645,8 @@ http://15.235.9.200:14040
 http://15.235.9.200:14912
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOVA ESCOLINHA
 http://15.235.9.200:14904
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
+http://24hrs.homelinux.com:8080/24H-escolinhaold/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://metalgear.bemtv.cn:80/STREAM/8307/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
