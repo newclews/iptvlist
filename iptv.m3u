@@ -604,7 +604,7 @@ https://starlite.best/api/stream/suva420@hotmail.com/628375/livetv.epg/caracol.c
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
 http://79.127.238.228:14093
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-http://metalgear.bemtv.cn:80/STREAM/8397/chunks.m3u8
+https://o5uftzrqlf.o5uftzrqlf.workers.dev/bandnews/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/af2e80dd-b360-4c41-855d-3740b87ba21c/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
