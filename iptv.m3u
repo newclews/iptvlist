@@ -631,6 +631,8 @@ http://15.235.9.200:14015
 http://15.235.9.200:14870
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SUPER AMIGOS
 http://15.235.9.200:14027
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
+http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
 http://15.235.9.200:14853
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
