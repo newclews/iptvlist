@@ -414,7 +414,9 @@ https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aoviv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL PLUS
-https://fast-channels-t2.b-cdn.net/travel/aovivo_abr/travel/aovivo_720p/chunks.m3u8?token=5d2abf43a9d05deb5fd3f780a4e9a3d75bad2ce7-17612dcf9c72c93b89d4051c861f298e-1748569290-1748526090
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/1080p-hevc/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE VIAGEM
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/filmarts/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
