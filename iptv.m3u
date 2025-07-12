@@ -683,4 +683,33 @@ https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO R&B
+https://jmp2.uk/sam-USBC3900009K5.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO HIP-HOP
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO POP
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO ROCK
+https://jmp2.uk/sam-USBD3000145P.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE 80s
+https://jmp2.uk/sam-USBB320000647.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE 90s
+https://jmp2.uk/sam-USBB3200007AK.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE HITS
+https://jmp2.uk/sam-USBD3300004RH.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE JUST CHILL
+https://jmp2.uk/sam-USBB2300003JZ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE R&B CLASSIC JAMS
+https://jmp2.uk/sam-USBD330000948.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE ROCK METAL
+https://jmp2.uk/sam-USBB2300004KV.m3u8
