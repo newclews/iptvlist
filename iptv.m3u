@@ -185,6 +185,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ACESSO CHANNEL
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
@@ -197,38 +199,36 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ACESSO CHANNEL
-https://streaming.cloudecast.com/hls/superflix/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FASHION TV
+http://168.205.87.198:8555/live/1315/123456/260.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO KIDS
-https://cdn-3.nxplay.com.br/HTO_KIDS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
 http://168.205.87.198:8555/live/1315/123456/143.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", KIDS MAIS
-https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/cartoonnetwork/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://metalgear.bemtv.cn:80/STREAM/8389/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/discoverykids/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/gloob/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
-https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/nickelodeon/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/nickjr/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
+http://168.205.87.198:8555/live/1315/123456/259.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
+https://o5uftzrqlf.o5uftzrqlf.workers.dev/discoverykids/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
+https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
@@ -413,6 +413,8 @@ https://pop.uniquetv.com.br/supergeek/video.m3u8
 https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
+http://168.205.87.198:8555/live/1315/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL PLUS
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/1080p-hevc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE VIAGEM
