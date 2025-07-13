@@ -210,7 +210,7 @@ http://168.205.87.198:8555/live/1315/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/cartoonnetwork/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://metalgear.bemtv.cn:80/STREAM/8389/chunks.m3u8
+http://185.236.183.117:14096
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -434,7 +434,7 @@ https://aovivo.doozytv.com.br/31025556/10160543/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE CASA
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-https://metalgear.bemtv.cn/STREAM/8225/chunks.m3u8
+http://185.236.183.117:14079
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
