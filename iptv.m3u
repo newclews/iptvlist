@@ -464,7 +464,7 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
 https://metalgear.bemtv.cn/STREAM/8436/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/116
+http://185.236.183.118:14130
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
@@ -500,7 +500,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 https://metalgear.bemtv.cn/STREAM/8291/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/cinemax/index.m3u8
+http://185.236.183.118:14115
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/axn/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
