@@ -228,7 +228,7 @@ http://168.205.87.198:8555/live/1315/123456/259.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/discoverykids/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
-https://aovivo.doozytv.com.br/31025556/10160406/chunks.m3u8
+http://185.236.183.118:14767
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
