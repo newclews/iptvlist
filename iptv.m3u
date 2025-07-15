@@ -461,6 +461,8 @@ http://185.236.183.117:14439
 http://15.235.50.112:14097
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
 https://metalgear.bemtv.cn/STREAM/8436/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
