@@ -113,10 +113,10 @@ https://pop.uniquetv.com.br/uniquetv/index.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YEEAAH
-https://aovivo.doozytv.com.br/31025556/10160540/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVEST TV
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/22
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
-https://aovivo.doozytv.com.br/31025556/10161901/chunks.m3u8
+http://168.205.87.198:8555/live/1315/123456/138.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
 http://168.205.87.198:8555/live/1315/123456/243.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://studioauto.co.uk/images/mondenew.png?crc=3870239523", CINE MONDE
@@ -259,10 +259,10 @@ https://amg01391-sbtinfast-amg01391c6-lg-br-6100.playouts.now.amagi.tv/playlist/
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
-https://d1r94zrwa3gnlo.cloudfront.net/livestore105/stream/hls/291/291.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
+http://168.205.87.198:8555/live/1315/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
-https://cdn-1.nxplay.com.br/TERRAVIVA_FAST/tracks-v1a1/mono.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
 https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
@@ -441,7 +441,7 @@ https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
 https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOC
+#EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
 https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
@@ -525,8 +525,8 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/amc/index.m3u8
 https://cdn-1.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
 https://cdn-1.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
-https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VRT CHANNEL
+http://168.205.87.198:8555/live/1315/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
