@@ -185,14 +185,14 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ACESSO CHANNEL
-https://streaming.cloudecast.com/hls/superflix/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMELIER TV
+https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/1080p-VTT/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMELIER TV
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/1080p-VTT/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTERCHEF BRASIL
+https://streaming.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV HISTÓRIA
