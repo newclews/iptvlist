@@ -95,8 +95,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
 https://isaocorp.cloudecast.com/nbt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV MON HD
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOSSA TV
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png", TV MAX
@@ -315,6 +315,8 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 89 FM
+http://168.205.87.198:8555/live/1315/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -355,14 +357,12 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MTV 00s
-http://185.236.183.117:14458
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MTV
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/mtv/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MUSIC
-https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
 http://168.205.87.198:8555/live/1315/123456/169.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", VINTAGE TV RADIO
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", 107 FM (RJ)
@@ -525,18 +525,8 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/amc/index.m3u8
 https://cdn-1.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
 https://cdn-1.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VRT CHANNEL
-http://168.205.87.198:8555/live/1315/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://aovivo.doozytv.com.br/31025556/10162077/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
-https://aovivo.doozytv.com.br/31025556/10162080/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
-https://aovivo.doozytv.com.br/31025556/10162214/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO DORAMA
-https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
 https://aovivo.doozytv.com.br/31025556/10162721/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN RETRO
