@@ -5,8 +5,8 @@ http://168.205.87.198:8555/live/1315/123456/101.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
 http://168.205.87.198:8555/live/1315/123456/139.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BDC TV (ACRITICA)
-https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
+http://168.205.87.198:8555/live/1315/123456/138.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1315/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -28,7 +28,7 @@ https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
+https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LIDER TV
