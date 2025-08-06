@@ -212,7 +212,7 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/cartoonnetwork/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://185.236.183.117:14096
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
-https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w1484761011.m3u8
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/gloob/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
@@ -230,7 +230,7 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/discoverykids/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/AgEEd5n.png", ZOOMOO KIDS
 http://185.236.183.118:14767
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1497276238.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
 http://168.205.87.198:8555/live/1315/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
@@ -249,8 +249,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO ANIME
-https://aovivo.doozytv.com.br/31025556/10162072/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SABOR & ARTE 2
@@ -405,8 +403,6 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 https://pop.uniquetv.com.br/supercast/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", UNIQUE SUPERGEEK
 https://pop.uniquetv.com.br/supergeek/video.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", REDE MOSAICO
-https://cdn-fast.nxtv.com.br/9978b7063e297d843bf98e85bf4e65ea/rede_mosaico/aovivo_abr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/j07CKz7.png", RECEITAS FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
@@ -435,12 +431,8 @@ https://aovivo.doozytv.com.br/31025556/10160543/chunks.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://185.236.183.117:14079
-#EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/292/292.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://aovivo.doozytv.com.br/31025556/10162730/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
@@ -521,10 +513,6 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/universaltv/index.m3u8
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/studiouniversal/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/amc/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO FILMES
-https://cdn-1.nxplay.com.br/ENTRETENDO_FAST/tracks-v2a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
-https://cdn-1.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -585,14 +573,16 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/1080p-vtt/inde
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/adultswim/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/tooncast/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
+http://cord-cutter.net:8080/23290078/13941299/78701
+#EXTINF:0 type="stream" group-title="TV AO VIVO", EL TRECE (ALT)
+http://104.238.222.251:8989/278760_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
 https://live-hls-web-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SKY NEWS
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
-http://cord-cutter.net:8080/23290078/13941299/78701
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS INTERNACIONAL
 http://104.238.222.251:8989/278942_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
