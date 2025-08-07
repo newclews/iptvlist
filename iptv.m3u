@@ -132,7 +132,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/off.br.m3u8
+http://cdn.bomberstream.xyz/huan/modoviagemhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BM&C NEWS
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -210,7 +210,7 @@ http://168.205.87.198:8555/live/1315/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/cartoonnetwork/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://185.236.183.117:14096
+http://cdn.bomberstream.xyz/huan/cartoonitohd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -418,7 +418,7 @@ http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/multishow/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
-http://metalgear.bemtv.cn:80/STREAM/8280/chunks.m3u8
+http://cdn.bomberstream.xyz/huan/bishd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC BOX BRASIL
 http://168.205.87.198:8555/live/1315/123456/257.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKKET TV
@@ -456,9 +456,9 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-https://metalgear.bemtv.cn/STREAM/8436/chunks.m3u8
+http://cdn.bomberstream.xyz/huan/tlchd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", COMEDY CENTRAL
-http://185.236.183.118:14130
+http://cdn.bomberstream.xyz/huan/comedycentralhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
@@ -492,7 +492,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-https://metalgear.bemtv.cn/STREAM/8291/chunks.m3u8
+http://cdn.bomberstream.xyz/huan/paramounthd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://185.236.183.118:14115
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
@@ -500,13 +500,13 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/axn/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
-https://metalgear.bemtv.cn/STREAM/8446/chunks.m3u8
+http://cdn.bomberstream.xyz/huan/lifetimehd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://185.236.183.118:14663
+http://cdn.bomberstream.xyz/huan/usahd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+http://cdn.bomberstream.xyz/huan/aehd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/universaltv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
@@ -586,7 +586,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS INTERNACIONAL
 http://104.238.222.251:8989/278942_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
-http://79.127.238.228:14093
+http://cdn.bomberstream.xyz/huan/globonewshd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/bandnews/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
