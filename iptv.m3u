@@ -234,7 +234,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
 http://168.205.87.198:8555/live/1315/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://15.235.9.200:14845
+http://cdn.bomberstream.xyz/huan/chaves/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES (MULTISHOW)
 http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 1
