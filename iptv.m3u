@@ -277,8 +277,8 @@ https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GP TV
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-https://aovivo.doozytv.com.br/31025556/10151114/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/sportv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
