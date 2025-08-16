@@ -430,7 +430,7 @@ https://aovivo.doozytv.com.br/31025556/10160543/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE CASA
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-http://185.236.183.117:14079
+http://cdn.bomberstream.xyz/huan/canalbrasil/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
@@ -450,7 +450,7 @@ http://15.235.50.112:14106
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
 http://185.236.183.117:14439
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://15.235.50.112:14097
+http://cdn.bomberstream.xyz/huan/discoveryturbohd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
@@ -466,7 +466,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/sonychannel/index.m3u8
+http://cdn.bomberstream.xyz/huan/sony/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CRIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE FAMÍLIA
@@ -496,7 +496,7 @@ http://cdn.bomberstream.xyz/huan/paramounthd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://185.236.183.118:14115
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/axn/index.m3u8
+http://cdn.bomberstream.xyz/huan/axnhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -510,9 +510,9 @@ http://cdn.bomberstream.xyz/huan/aehd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/universaltv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/studiouniversal/index.m3u8
+http://cdn.bomberstream.xyz/huan/studiouniversalhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/amc/index.m3u8
+http://cdn.bomberstream.xyz/huan/amchd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -526,7 +526,7 @@ http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/space/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-http://metalgear.bemtv.cn:80/STREAM/8358/chunks.m3u8
+http://cdn.bomberstream.xyz/huan/tcm/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://15.235.50.115:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
@@ -540,21 +540,21 @@ http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/tccult/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbo/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbohd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbo2/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbo2hd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbofamily/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbofamilyhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hboplus/index.m3u8
+http://cdn.bomberstream.xyz/huan/hboplushd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbopop/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbopophd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbomundi/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbomundihd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hbosignature/index.m3u8
+http://cdn.bomberstream.xyz/huan/hbosignaturehd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-https://o5uftzrqlf.o5uftzrqlf.workers.dev/hboxtreme/index.m3u8
+http://cdn.bomberstream.xyz/huan/hboxtremehd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
 http://79.127.238.228:14455
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
