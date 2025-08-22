@@ -280,9 +280,9 @@ https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-https://nipah21950.nipah21950.workers.dev/sportv/index.m3u8
+http://45.93.9.150/sportv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-https://nipah21950.nipah21950.workers.dev/sportv-2/index.m3u8
+http://45.93.9.150/sportv2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://104.238.222.251:8989/278944_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -290,13 +290,13 @@ http://168.205.87.198:8555/live/1315/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://cdn.bomberstream.xyz/huan/offhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://cdn.bomberstream.xyz/huan/espn1hd/chunks.m3u8
+http://45.93.9.150/espn/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://cdn.bomberstream.xyz/huan/espn2hd/chunks.m3u8
+http://45.93.9.150/espn2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://cdn.bomberstream.xyz/huan/espn3hd/chunks.m3u8
+http://45.93.9.150/espn3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://cdn.bomberstream.xyz/huan/espn4hd/chunks.m3u8
+http://45.93.9.150/espn4/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
 http://cdn.bomberstream.xyz/huan/espn5hd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
@@ -630,7 +630,7 @@ http://15.235.9.200:14912
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA PROF RAIMUNDO
 http://24hrs.homelinux.com/24H-escolinhaold/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-https://nipah21950.nipah21950.workers.dev/band-sports/index.m3u8
+http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://104.238.222.251:8989/278939_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
