@@ -298,7 +298,7 @@ http://45.93.9.150/espn3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
 http://45.93.9.150/espn4/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://cdn.bomberstream.xyz/huan/espn5hd/chunks.m3u8
+http://46.151.196.223:14456
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
 http://cdn.bomberstream.xyz/huan/espn6hd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
@@ -446,13 +446,15 @@ http://cdn.bomberstream.xyz/huan/h2hd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://cdn.bomberstream.xyz/huan/animalplanethd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://148.113.160.48:14162
+http://148.113.160.48:14142
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
+http://148.113.160.48:14146
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
 http://15.235.50.112:14106
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
 http://185.236.183.117:14439
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://nipah21950.nipah21950.workers.dev/discovery-turbo/index.m3u8
+http://148.113.160.48:14162
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
@@ -532,7 +534,7 @@ https://nipah21950.nipah21950.workers.dev/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://15.235.50.115:14008
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://148.113.160.49:14161
+http://46.151.196.223:14326
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://15.235.50.115:14005
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
