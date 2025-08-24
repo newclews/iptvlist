@@ -22,7 +22,7 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/23
+http://168.205.87.198:8555/live/1331/123456/150.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
@@ -225,6 +225,8 @@ http://cdn.bomberstream.xyz/huan/nickjrhd/chunks.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DUM DUM
+http://168.205.87.198:8555/live/1331/123456/162.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
 http://168.205.87.198:8555/live/1331/123456/259.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -234,7 +236,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
 http://168.205.87.198:8555/live/1331/123456/159.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-http://cdn.bomberstream.xyz/huan/chaves/chunks.m3u8
+http://15.235.9.200:14845
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES (MULTISHOW)
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 1
@@ -313,8 +315,6 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/chunklist_w1262335719.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", 89 FM
-http://168.205.87.198:8555/live/1331/123456/146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CLUBBING TV
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
