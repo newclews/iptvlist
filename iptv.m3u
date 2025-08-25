@@ -442,7 +442,7 @@ https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://15.235.11.7:14132
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://cdn.bomberstream.xyz/huan/h2hd/chunks.m3u8
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337851
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://cdn.bomberstream.xyz/huan/animalplanethd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
@@ -613,8 +613,8 @@ http://cdn.bomberstream.xyz/huan/bandhd/chunks.m3u8
 http://cdn.bomberstream.xyz/huan/recordtvrjhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO (ALT)
-https://aovivo.doozytv.com.br/31025556/10160520/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT)
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337849
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
