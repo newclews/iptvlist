@@ -518,7 +518,7 @@ http://148.113.160.49:14136
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://148.113.160.49:14163
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://148.113.160.49:14208
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/454450
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -576,7 +576,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/1080p-vtt
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ADULT SWIM (ALT)
-https://nipah21950.nipah21950.workers.dev/adult-swim/index.m3u8
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337848
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 https://o5uftzrqlf.o5uftzrqlf.workers.dev/tooncast/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST (ALT)
