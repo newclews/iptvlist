@@ -284,7 +284,7 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://45.93.9.150/sportv2/index.m3u8
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62236
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://104.238.222.251:8989/278944_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -444,7 +444,7 @@ http://15.235.11.7:14132
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337851
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://cdn.bomberstream.xyz/huan/animalplanethd/chunks.m3u8
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62240
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://148.113.160.48:14142
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
@@ -592,7 +592,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS INTERNACIONAL
 http://104.238.222.251:8989/278942_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
-http://cdn.bomberstream.xyz/huan/globonewshd/chunks.m3u8
+http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62248
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
 https://nipah21950.nipah21950.workers.dev/band-news/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
