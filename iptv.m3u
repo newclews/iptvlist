@@ -214,7 +214,7 @@ http://148.113.160.48:14092
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://148.113.160.48:14096
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
-https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62224
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", NICKELODEON
@@ -225,8 +225,8 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DUM DUM
-http://168.205.87.198:8555/live/1330/123456/162.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESENHOS CLASSICOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
 http://168.205.87.198:8555/live/1330/123456/259.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -281,6 +281,8 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
+http://168.205.87.198:8555/live/1330/123456/162.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62206
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
