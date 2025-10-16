@@ -158,7 +158,7 @@ https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
 https://f593663c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/aafd6215-72f5-4f85-ab16-5aa9ebdf831b/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVD NEWS
-http://201.159.95.230:8000/play/a001/index.m3u8
+http://201.159.95.110:25461/live/site/site/666.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
@@ -617,6 +617,8 @@ http://cdn.bomberstream.xyz/huan/recordtvrjhd/chunks.m3u8
 http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT)
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337849
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
