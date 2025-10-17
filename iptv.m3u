@@ -499,6 +499,8 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
+https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://cdn.bomberstream.xyz/huan/paramounthd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
