@@ -498,7 +498,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
-http://cdn.bomberstream.xyz/huan/paramounthd/chunks.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/737.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://148.113.160.49:14200
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
@@ -534,11 +534,11 @@ http://148.113.160.49:14169
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 https://nipah21950.nipah21950.workers.dev/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://200.4.96.59:8825/play/a03i/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/740.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://46.151.196.223:14326
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://200.4.96.59:8825/play/a03k/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/738.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://200.4.96.59:8825/play/a03j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
@@ -550,7 +550,7 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/274.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://cdn.bomberstream.xyz/huan/hbo2hd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://148.113.160.49:14191
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/739.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://148.113.160.49:14194
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
