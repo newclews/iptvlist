@@ -230,7 +230,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a5
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
 http://168.205.87.198:8555/live/1330/123456/259.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-http://15.235.50.112:14561
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/919.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
@@ -452,7 +452,7 @@ http://148.113.160.48:14146
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
 http://15.235.50.112:14106
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
-http://185.236.183.117:14439
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/967.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
 http://148.113.160.48:14162
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
@@ -497,6 +497,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", JOY FLIX
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/928.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/737.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
@@ -594,7 +596,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD NEWS INTERNACIONAL
 http://104.238.222.251:8989/278942_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62248
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/968.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62205
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
