@@ -286,7 +286,7 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62236
+http://200.4.96.59:8825/play/a050/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://104.238.222.251:8989/278944_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
@@ -534,13 +534,13 @@ http://148.113.160.49:14169
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 https://nipah21950.nipah21950.workers.dev/tcm/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://15.235.50.115:14008
+http://200.4.96.59:8825/play/a03i/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://46.151.196.223:14326
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://15.235.50.115:14005
+http://200.4.96.59:8825/play/a03k/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62212
+http://200.4.96.59:8825/play/a03j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
@@ -610,13 +610,15 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 http://cdn.bomberstream.xyz/huan/globorjhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
-http://cdn.bomberstream.xyz/huan/bandhd/chunks.m3u8
+http://200.4.96.59:8825/play/a039/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://cdn.bomberstream.xyz/huan/recordtvrjhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD SP 2
 http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/280.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
+http://200.4.96.59:8825/play/a021/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
@@ -675,41 +677,5 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/161
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
-#EXTINF:0 type="stream" group-title="TV AO VIVO", AFV FAMILY
-https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", FAIL ARMY
-https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PET COLLECTIVE
-https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 70s
-https://jmp2.uk/sam-USBD300011KQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 80s
-https://jmp2.uk/sam-USBD300012YC.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 90s
-https://jmp2.uk/sam-USBD3000133M.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 2010s
-https://jmp2.uk/sam-USBD120002431.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO 2K
-https://jmp2.uk/sam-USBB4400015F5.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO R&B
-https://jmp2.uk/sam-USBC3900009K5.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO HIP-HOP
-https://jmp2.uk/sam-USBC3600002EK.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO POP
-https://jmp2.uk/sam-USBC3600008WY.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", VEVO ROCK
-https://jmp2.uk/sam-USBD3000145P.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE 80s
-https://jmp2.uk/sam-USBB320000647.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE 90s
-https://jmp2.uk/sam-USBB3200007AK.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE HITS
-https://jmp2.uk/sam-USBD3300004RH.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE JUST CHILL
-https://jmp2.uk/sam-USBB2300003JZ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE R&B CLASSIC JAMS
-https://jmp2.uk/sam-USBD330000948.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", XITE ROCK METAL
-https://jmp2.uk/sam-USBB2300004KV.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://youtube.com/playlist?list=UCLHIUIBIid6qpljFBWEOHSw
