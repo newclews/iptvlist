@@ -430,9 +430,9 @@ https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE CASA
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
-http://15.235.11.7:14172
+http://148.113.160.48:14078
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
-http://15.235.11.7:14171
+http://148.113.160.48:14137
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
@@ -450,7 +450,7 @@ http://148.113.160.48:14142
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
 http://148.113.160.48:14146
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-http://15.235.50.112:14106
+http://148.113.160.48:14154
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/967.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
@@ -533,8 +533,8 @@ http://79.127.238.228:14629
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://148.113.160.49:14169
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
-https://nipah21950.nipah21950.workers.dev/tcm/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
+http://148.113.160.48:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/740.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
@@ -621,6 +621,22 @@ http://cdn.bomberstream.xyz/huan/recordtvhd/chunks.m3u8
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
 http://200.4.96.59:8825/play/a021/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 1
+http://148.113.160.48:14104
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 2
+http://148.113.160.48:14105
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 3
+http://148.113.160.48:14106
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 4
+http://148.113.160.48:14107
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 5
+http://148.113.160.48:14108
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 6
+http://148.113.160.48:14109
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 7
+http://148.113.160.48:14110
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 8
+http://148.113.160.48:14111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
