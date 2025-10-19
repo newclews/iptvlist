@@ -225,8 +225,8 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/283.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESENHOS CLASSICOS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS TV SHOW
+https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
 http://168.205.87.198:8555/live/1330/123456/259.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
