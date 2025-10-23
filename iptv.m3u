@@ -446,7 +446,7 @@ http://15.235.11.7:14132
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337851
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62240
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a05h/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://148.113.160.48:14142
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
@@ -512,17 +512,17 @@ http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 https://nipah21950.nipah21950.workers.dev/lifetime/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-http://148.113.160.49:14133
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06c/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://79.127.238.228:14551
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://148.113.160.49:14136
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06p/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://148.113.160.49:14163
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06e/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/454450
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a05k/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -548,7 +548,7 @@ http://200.4.96.59:8825/play/a03j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62208
+http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06l/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/274.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
