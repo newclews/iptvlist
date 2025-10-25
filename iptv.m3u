@@ -587,8 +587,8 @@ https://o5uftzrqlf.o5uftzrqlf.workers.dev/tooncast/index.m3u8
 https://nipah21950.nipah21950.workers.dev/tooncast/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
 http://cord-cutter.net:8080/23290078/13941299/78701
-#EXTINF:0 type="stream" group-title="TV AO VIVO", EL TRECE (ALT)
-http://104.238.222.251:8989/278760_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TODO NOTICIAS
+https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
