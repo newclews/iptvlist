@@ -309,6 +309,8 @@ http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oF
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
+https://cn.newclews.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
 http://79.127.238.233:14408
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
@@ -663,6 +665,8 @@ https://cn.newclews.workers.dev/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
 https://cn.newclews.workers.dev/@RevistaOeste.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AURIVERDE BRASIL (NOT 24/7)
 https://cn.newclews.workers.dev/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
+https://cn.newclews.workers.dev/c/Gazeta-do-Povo.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
