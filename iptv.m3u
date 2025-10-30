@@ -357,12 +357,14 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOW 90S
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MTV
-http://15.235.11.7:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
 http://168.205.87.198:8555/live/1330/123456/169.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", VINTAGE TV RADIO
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENERGIA 97 FM (NOT 24/7)
+https://cn.newclews.workers.dev/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", BAND NEWS FM SP (NOT 24/7)
+https://cn.newclews.workers.dev/@RadioBandNewsFM.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CBN BRASIL (NOT 24/7)
+https://cn.newclews.workers.dev/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", 107 FM (RJ)
