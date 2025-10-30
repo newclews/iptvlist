@@ -164,7 +164,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
-https://isgo.newclews.workers.dev/stream/UC2Xq2PK-got3Rtz9ZJ32hLQ/master.m3u8
+https://cn.newclews.workers.dev/live/kCuiBI19HuM.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/2560px-Logo_RTVE.svg.png", CITY TV
 https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RT ESPANHOL
@@ -588,7 +588,7 @@ https://nipah21950.nipah21950.workers.dev/tooncast/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
 http://cord-cutter.net:8080/23290078/13941299/78701
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TODO NOTICIAS
-https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
+https://cn.newclews.workers.dev/@todonoticias.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
@@ -611,6 +611,8 @@ https://video01.soultv.com.br/timesbrasil/timesbrasil/chunks.m3u8
 https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/amg01391-addigital-newbrasil-lgbr/cb7c3e167b766f8f9e9e356383f214aadf0263805d63d5646da0519273c6155fd1e9a7c9e542be617eff62812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa0505926359238ab15458cc7d927c0618e7463c0663dded58ad7742b3d948de2976c3b2dc6231635a4d8b550cb4a05af2fbb54047893ea3ac1d49c32f58b68117cdc91aea888158984ad773f4409df051bae931ba5c7c80987d80163b1a445f8b81639ac52fceb0f85a18ecbfacdb7c2f8b909ceb5a34c6664e59eaf6c8be1f8a7b183b97e012598909970f8035ca41ab07a2e85cafefc2b797f38bc5b639530dda8b9283f47537b826d1a3e7d87a6e96bc7312229b3d88727b6ad795aa656de2151306b1d31410962b15e4de50b812c99e91804f8e2cc9c6bbab3c4d715305178a52986a0cb119f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f5e2cde22362db675b7ca752cae23098e3a72a90864d012ade87db581d2f7033dbac68813ac37a1e578a79c689e64325d0da4e16c0e153e1afeda265c6037933fa1b9adcc781309e0fbcc84b17531153c115d14cbafa7479280c4260a0583340265671b039914dc0a8e5519e04f0db35a0c6f17859f143a2c54547c2ee15d1b4e839f/150/1920x1080_5358012/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 2
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT)
+https://cn.newclews.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 http://200.4.96.59:8825/play/a039/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT)
@@ -654,7 +656,9 @@ http://15.235.9.200:14040
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
 http://15.235.9.200:14912
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCpJ3jHK9lTA7tElmldAGOGA/master.m3u8
+https://cn.newclews.workers.dev/@DIDIREDPILL.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REVISTA OESTE (NOT 24/7)
+https://cn.newclews.workers.dev/@RevistaOeste.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
