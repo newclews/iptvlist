@@ -660,7 +660,7 @@ http://15.235.9.200:14040
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
 http://15.235.9.200:14912
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DIDI RED PILL (NOT 24/7)
-https://cn.newclews.workers.dev/channel/UCpJ3jHK9lTA7tElmldAGOGA.m3u8
+https://cn.newclews.workers.dev/c/DIDI-RED-PILL.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REVISTA OESTE (NOT 24/7)
 https://cn.newclews.workers.dev/@RevistaOeste.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AURIVERDE BRASIL (NOT 24/7)
