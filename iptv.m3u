@@ -667,6 +667,8 @@ https://cn.newclews.workers.dev/@RevistaOeste.m3u8
 https://cn.newclews.workers.dev/channel/UCLHIUIBIid6qpljFBWEOHSw.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
 https://cn.newclews.workers.dev/c/Gazeta-do-Povo.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE FANINI (NOT 24/7)
+https://cn.newclews.workers.dev/@institutofanini.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
