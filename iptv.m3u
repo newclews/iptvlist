@@ -310,7 +310,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
-https://cn.newclews.workers.dev/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+https://isgo.newclews.workers.dev/stream/UC_oToDrJ6uca7d1dFVBmLtg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
 http://79.127.238.233:14408
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
@@ -362,11 +362,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
 http://168.205.87.198:8555/live/1330/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENERGIA 97 FM (NOT 24/7)
-https://cn.newclews.workers.dev/channel/UCIkAO7iHS6R9AtcABE9MdRQ.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", BAND NEWS FM SP (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCIkAO7iHS6R9AtcABE9MdRQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM RJ (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM SP (NOT 24/7)
 https://cn.newclews.workers.dev/@RadioBandNewsFM.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CBN BRASIL (NOT 24/7)
-https://cn.newclews.workers.dev/channel/UCbiGwU0-W1XCDUrt3BTVrag.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png", CBN BRASIL (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", 107 FM (RJ)
