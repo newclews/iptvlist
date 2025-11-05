@@ -327,10 +327,10 @@ https://isgo.newclews.workers.dev/video/h2PtKeomBEE/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCVE-ybBDg3UHSUylEVdPAsw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOOM BAP RADIO (HIP-HOP URBAN)
 https://isgo.newclews.workers.dev/stream/UCWV2Z94VZ610Z-J1949J5Mg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
-https://cmc-ono.amagi.tv/amRdirect/device[did]=[AD_IDFA[&us_privacy={US_PRIVACY}&coppa={COPPA}&uid=1h68ra4rh-7fll-ffo-kaod-czsiam4kd5v/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
+https://cmc-ono.amagi.tv/amRdirect/device[did]=[AD_IDFA[&us_privacy={US_PRIVACY}&coppa={COPPA}&uid=1h68ra4rh-7fll-ffo-kaod-czsiam4kd5v/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
