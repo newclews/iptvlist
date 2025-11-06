@@ -675,10 +675,10 @@ https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
 https://cn.newclews.workers.dev/c/Gazeta-do-Povo.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PAULO MATHIAS (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCARu6TU-jEPZISboI3TEYZw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE FANINI (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZnoYJ6IwPbV9A7RS4kmf4g/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-http://45.93.9.150/bandsport/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
 http://104.238.222.251:8989/278939_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
