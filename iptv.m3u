@@ -235,8 +235,8 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/919.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="Original", CHESPIRITO
 http://168.205.87.198:8555/live/1330/123456/159.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES
-https://dvqu.short.gy/dCzjV5
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/chaves-logo-A0E0A6F56E-seeklogo.com.png" aspect-ratio="Original", CHAVES (MULTISHOW)
 http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAPOLIN 1
@@ -647,8 +647,6 @@ http://148.113.160.48:14109
 http://148.113.160.48:14110
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 8
 http://148.113.160.48:14111
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
@@ -659,10 +657,6 @@ http://15.235.9.200:14870
 http://15.235.9.200:14027
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS HERCULÓIDES
 http://15.235.9.200:14945
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", THUNDERCATS
-http://24hrs.homelinux.com/24H-thundercats/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
-http://15.235.9.200:14853
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
 http://15.235.9.200:14040
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMILIA DINOSAURO
@@ -675,8 +669,14 @@ https://isgo.newclews.workers.dev/stream/UCBQAI1ZhurW3nbtJR-gBBZg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCLHIUIBIid6qpljFBWEOHSw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GAZETA DO POVO (NOT 24/7)
 https://cn.newclews.workers.dev/c/Gazeta-do-Povo.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLAUDIO DANTAS (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCFKKzThiteu1WkrJIlVQEWg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PAULO MATHIAS (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCARu6TU-jEPZISboI3TEYZw/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARDINOT (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCC0w8oVV8PceYNRggh7QNBg/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HOMES IN RIO (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UChWGYkK0I8U83C0FxAxWy4w/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE FANINI (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCZnoYJ6IwPbV9A7RS4kmf4g/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
