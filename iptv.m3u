@@ -164,7 +164,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/1200px-Noticias_Caracol_imagotype.svg.png", NOTICIAS CARACOL
-https://cn.newclews.workers.dev/live/VzJInFFP52U.m3u8
+https://cn.newclews.workers.dev/@noticiascaracol.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png", CITY TV
 https://cn.newclews.workers.dev/@canalcitytv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RT ESPANHOL
@@ -367,6 +367,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 http://168.205.87.198:8555/live/1330/123456/169.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENERGIA 97 FM (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UCIkAO7iHS6R9AtcABE9MdRQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO TUPI RJ (ESTUDIO)
+https://cn.newclews.workers.dev/@radiotupirio.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM RJ (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM SP (NOT 24/7)
