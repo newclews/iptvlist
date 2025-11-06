@@ -379,6 +379,8 @@ https://isgo.newclews.workers.dev/stream/UCbiGwU0-W1XCDUrt3BTVrag/master.m3u8
 http://shout35.crossradio.com.br:8086/live.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="", 107 FM (RJ)
 https://servidor25.brlogic.com:7024/live
+#EXTINF:0 type="stream" group-title="Radios" logo="", TRIBUNA FM (RJ)
+https://servidor22-2.brlogic.com:7076/live?source=8542
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/BQDyY0o.png", Radio Planeta do Vinil 
 https://stm5.conectastreaming.com:15276/;stream.mp3
 #EXTINF:0 type="stream" group-title="Radios" logo="https://i.imgur.com/uXas5JK.png", Eternamente Funk Melody
