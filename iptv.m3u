@@ -313,10 +313,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC_oToDrJ6uca7d1dFVBmLtg/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
-https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOMORROWLAND 1
 https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOMORROWLAND 2
@@ -365,10 +361,16 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ONDA OESTE
 http://168.205.87.198:8555/live/1330/123456/169.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENERGIA 97 FM (NOT 24/7)
-https://isgo.newclews.workers.dev/stream/UCIkAO7iHS6R9AtcABE9MdRQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CLUBE FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
+https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO TUPI RJ (ESTUDIO)
 https://isgo.newclews.workers.dev/stream/UCkkqXUQYUT0pC8RjZpfTZCQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENERGIA 97 FM (ESTUDIO)(NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCIkAO7iHS6R9AtcABE9MdRQ/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO GAUCHA GZH (NOT 24/7)
+https://isgo.newclews.workers.dev/stream/UCRC3upGcj_decdPi7JXT7Bg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM RJ (NOT 24/7)
 https://isgo.newclews.workers.dev/stream/UC5oRxjbY3HHrP5Acsu2vtkQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1f/Logotipo_da_BandNews_FM.png", BAND NEWS FM SP (NOT 24/7)
