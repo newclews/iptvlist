@@ -447,6 +447,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p
 http://148.113.160.48:14078
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
 http://148.113.160.48:14137
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CURTA HUMANIDADE
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CURTA MUSICA
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
