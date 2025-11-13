@@ -6,7 +6,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
 http://168.205.87.198:8555/live/1330/123456/139.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
-http://168.205.87.198:8555/live/1330/123456/138.m3u8
+https://hplay.tv/augetv/12396547488/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://168.205.87.198:8555/live/1330/123456/67.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
@@ -14,7 +14,7 @@ http://168.205.87.198:8555/live/1330/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 http://168.205.87.198:8555/live/1330/123456/151.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-https://isgo.newclews.workers.dev/stream/UCVrKQMmA2ew9LFzeIDaOFgw/master.m3u8
+https://hplay.tv/augetv/12396547488/43.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
@@ -447,12 +447,6 @@ https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265_1080p.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://148.113.160.48:14078
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
-http://148.113.160.48:14137
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CURTA HUMANIDADE
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e611c326d64d282fb509ae/bunnycontent_main.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CURTA MUSICA
-https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/67e6138226d64d282fb509af/bunnycontent_main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
