@@ -321,8 +321,6 @@ https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 https://isgo.newclews.workers.dev/video/h2PtKeomBEE/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", AJUNABEATS RADIO
 https://isgo.newclews.workers.dev/stream/UCVE-ybBDg3UHSUylEVdPAsw/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOOM BAP RADIO (HIP-HOP URBAN)
-https://isgo.newclews.workers.dev/stream/UCWV2Z94VZ610Z-J1949J5Mg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
