@@ -633,6 +633,8 @@ https://02.arlivre.online/globosp/index.m3u8
 https://cn.newclews.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 http://200.4.96.59:8825/play/a039/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD INTERNACIONAL
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/280.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
