@@ -94,7 +94,7 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
-https://isaocorp.cloudecast.com/nbt/index.m3u8
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8?hls_ctx=5k87946h
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOSSA TV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.wixstatic.com/media/9b4759_4a494773a5914945af097227232a39d4~mv2.png/v1/fill/w_349,h_281,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/vivaxtv%20original%20branco.png", VIVAX TV
@@ -113,8 +113,8 @@ https://pop.uniquetv.com.br/uniquetv/index.m3u8
 https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVEST TV
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/22
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIFUSÃO
+https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://loga.net.br/wp-content/uploads/2020/03/196_Cinebrasil-TV-SD.png", CINE BRASIL TV
@@ -243,8 +243,8 @@ http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
 http://24hrs.homelinux.com/24H-chapolin1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KANADE BRASIL
-https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
