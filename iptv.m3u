@@ -110,7 +110,7 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://uniquetv.com.br/img/logo-uniquetv.png", UNIQUE TV
 https://pop.uniquetv.com.br/uniquetv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
-https://srv1.zcast.com.br/tvflorida/tvflorida/playlist.m3u8
+https://srv6.zcast.com.br/tvfloridausa/tvfloridausa/playlist.m3u8
 #EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIFUSÃO
