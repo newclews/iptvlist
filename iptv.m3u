@@ -72,7 +72,7 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
 http://168.205.87.198:8555/live/1330/123456/69.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
-https://streaming.cloudecast.com/hls/40graus/index.m3u8
+https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO (RN)
