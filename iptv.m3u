@@ -175,8 +175,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ELTRECE
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LATINO
+http://168.205.87.198:8555/live/1330/123456/141.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SIC NOTICIAS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png", SIC
@@ -195,8 +195,8 @@ https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 https://streaming.cloudecast.com/hls/superflix/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", TV HISTÓRIA
-https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF BRASIL
+http://iptv.vivatele.com:80/live/viva_padrao/viva2384/115.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FASHION TV
@@ -224,7 +224,7 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/275.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", Nick JR
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/283.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-http://168.205.87.198:8555/live/1330/123456/84.m3u8
+http://iptv.vivatele.com:80/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BOX KIDS tv
@@ -256,7 +256,7 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc/index
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
 https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/82
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
 https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
@@ -294,7 +294,7 @@ http://200.4.96.59:8825/play/a050/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://104.238.222.251:8989/278944_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://168.205.87.198:8555/live/1330/123456/141.m3u8
+http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/off.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
@@ -612,7 +612,7 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/968.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a04/index.m3u8
+http://iptv.vivatele.com:80/live/viva_padrao/viva2384/21.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/af2e80dd-b360-4c41-855d-3740b87ba21c/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL (ALT)
