@@ -459,9 +459,9 @@ https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://46.151.196.223:14410
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/337851
+http://45.235.0.78/History_2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a05h/index.m3u8
+http://45.235.0.78/Animal_Planet_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://148.113.160.48:14142
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
