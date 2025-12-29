@@ -533,11 +533,11 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://79.127.238.228:14551
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://148.113.160.49:14136
+http://45.235.0.78/Universal_TV/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06e/index.m3u8
+http://45.235.0.78/Studio_Universal_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a05k/index.m3u8
+http://45.235.0.78/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -547,43 +547,55 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://200.4.96.59:8825/play/a069/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
+http://45.235.0.78/Warner_Channel_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL 2
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
+http://45.235.0.78/Space_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE 2
 http://148.113.160.49:14169
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
 http://148.113.160.48:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/740.m3u8
+http://45.235.0.78/Telecine_Premium_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://46.151.196.223:14326
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION 2
+http://45.235.0.78/Telecine_Action/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/738.m3u8
+http://45.235.0.78/Telecine_Pipoca_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://200.4.96.59:8825/play/a03j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://15.235.50.115:14017
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
+http://45.235.0.78/Telecine_Fun_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://144.217.165.133:5000/gaby/1234/Brasil_Premium/a06l/index.m3u8
+http://45.235.0.78/Telecine_Cult_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/274.m3u8
+http://45.235.0.78/HBO_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://domainforxc.cfd:80/live/186320718/c348w1911c/21246.m3u8
+http://45.235.0.78/HBO_Family_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/739.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 http://domainforxc.cfd:80/live/186320718/c348w1911c/18765.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://ns2.gmaplay.xyz:8080/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62231
+http://45.235.0.78/HBO_POP_HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
 http://148.113.160.49:14185
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
+http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 http://domainforxc.cfd:80/live/186320718/c348w1911c/21250.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-http://domainforxc.cfd:80/live/186320718/c348w1911c/18777.m3u8
+http://45.235.0.78/HBO_XTREME_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
 http://79.127.238.228:14455
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS 2
+http://45.235.0.78/Viva_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/290.m3u8
+http://45.235.0.78/TNT_Novelas/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS DEZ MANDAMENTOS
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A TERRA PROMETIDA
