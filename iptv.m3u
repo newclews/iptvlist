@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png", REDE MINAS
-http://168.205.87.198:8555/live/1330/123456/101.m3u8
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
@@ -8,11 +8,11 @@ http://168.205.87.198:8555/live/1330/123456/139.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
 https://hplay.tv/augetv/12396547488/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
-http://168.205.87.198:8555/live/1330/123456/67.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
 http://168.205.87.198:8555/live/1330/123456/152.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-http://168.205.87.198:8555/live/1330/123456/151.m3u8
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
 https://hplay.tv/augetv/12396547488/43.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
@@ -64,7 +64,7 @@ http://79.127.238.228:14211
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://79.127.238.228:14217
 #EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
-http://168.205.87.198:8555/live/1330/123456/102.m3u8
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
 https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w2033478351.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", RF TV
@@ -195,7 +195,7 @@ https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTERCHEF BRASIL
-https://streaming.cloudecast.com/hls/superflix/index.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/115
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF BRASIL
@@ -203,7 +203,7 @@ http://iptv.vivatele.com:80/live/viva_padrao/viva2384/115.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FASHION TV
-http://168.205.87.198:8555/live/1330/123456/260.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/63
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESATIVADO
@@ -602,6 +602,8 @@ http://45.235.0.78/TNT_Novelas/tracks-v1a1/mono.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Samsung/Os_Dez_Mandamentos_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A TERRA PROMETIDA
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Samsung/ATerraPrometida_BR/720p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NOVELA JESUS
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/693bd7bc2df9f443e2855c2d/bunnycontent_main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESIMPEDIDOS
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
