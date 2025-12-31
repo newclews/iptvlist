@@ -206,8 +206,8 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/63
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DESATIVADO
-http://168.205.87.198:8555/live/1330/12345
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SERIES
+https://sae13.playlist.ttvnw.net/v1/playlist/CtoGHrOYlST1u-T21qw2BPNmTC5PdnIOUnUePkjuroD2T1TcX3tRrcvy1LsMEThiW6Geu-BN2r3een2LMPyuvNBk_C_aYbBsuWT3G5sCTwocKe0YWIPQynsaGogDJXFQOoULZ59OvlqarY4TInySOkb8_mT7o_bfMLAN__93qrqmmf7qAEL8L0DxWZsn0Tm4hEgzzZOXtSlzQWpq4gkX5dEwYT5l5NAKzZq2XMh8KqZbvUVssBHEYT_MOXbjFwFiSPQim9wc7XK5C_4InlmcVPUp9XekAJlJFs4UcBe6FU0v-lTmo6BmSKs1h8dQUZ5ES2QhR3ZU5mFNbR_PpVh12bHe-GYU8yqJlqF-VHP7MGtqgKx00vvDIuoTUMN-7JQNjvTINr_mu21sieFnRo2QqvRoTB0dQQHqOHQZwq4tE4k_AbYXNG5p0jVeP3k3ZWWRaFx13-dWg0FrnPTb3DFYdT5SUdPY22jZ2HC-Pj22So0I8TBdi66oH0HstWpeLQR-LIq3Ceqh3Adb4i4LyKZu74Phjagth-qCGzM8CiHIQ3gZhgoG0O8VCULK-eFsQaDLkch-o5wYg7xXqjR9E3SICjjJ3m5gDKQFFkhJNdUqr-l0RqpCPW36q4CCr2090SH2WZJ4ZjnpTXBAQDr2cr8icQk3Nz_iX8jm9gHW_H9EPtFZWe0zzo2qZY5iZtczr1xd1FVgKPgraoEU_j4OFq6M1y6l4nt3SaJ0QjfXRBpXJmZb7pWNrgxzR5o0GtHclS9whXcNjYHgif7aeB-4XFlrZnPiRx6hys8uuN9uhKkvWa7Sm8XlN-VRDgN8AouXPyzIqB8F4FN-0jRyuLFU1lVpglRu9HPDfz6WkBt01gNXaymLdle2J1p10teh9B9lRCK7FcPtYJsX8k3Oq0wyREtl1pw_dajPogZmlSAO4999J03jTInE0uFxQwS9OaXqHUvkhJ4SnFLvQH739r9TZBpaFd82Owe1bozJOybAagEMUx3mpXzZPnroWomObIT26Rbb2l4gqiroSdWAtM2DzomF_FawJDL9-h7AnQiq5hn8T9YP9JXd3QXjuNP_DMqvBvfDXkQoMs-gjWRPuZcpgVuqSLDkGItrFPa4udxxSKIQpEDx141ZOfhG_eGZNzMQGgyY4yb5X8uVX3OPmY4gASoJdXMtZWFzdC0yMIkO.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/x33MwPN.png" aspect-ratio="4:3", RETRÔ CARTOON 1
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS TV SHOW
