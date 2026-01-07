@@ -47,8 +47,8 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
-http://168.205.87.198:8555/live/1330/123456/19.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
+https://hplay.tv/augetv/12396547488/229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTRmMjExLTQyMjktNzQ5Zi1hNDdlLTU4ZjgxOTQ3MTAyNC8iLCJ1aWQiOiJiMTQ2NmM3Yi1jN2E3LTRkMDgtYmZkMy00MzFjM2I1NWQyZDEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2NzU2NTIzMiwiaWF0IjoxNzY3NTY1MjMyLCJleHAiOjE3OTkxMDEyMzIsImp0aSI6ImIxNDY2YzdiLWM3YTctNGQwOC1iZmQzLTQzMWMzYjU1ZDJkMSIsImlzcyI6IlNwYWxsYSJ9.rvFi_pGVU1qDfeuLnmM9GKu7oYtfSPkLZSF3ak0cuG8&uid=b1466c7b-c7a7-4d08-bfd3-431c3b55d2d1&magica=sim
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
@@ -79,7 +79,7 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1330/123456/70.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV MG
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV BA
 http://168.205.87.198:8555/live/1330/123456/96.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALTEROSA 
 http://168.205.87.198:8555/live/1330/123456/104.m3u8
