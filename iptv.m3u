@@ -50,7 +50,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND MG
 http://168.205.87.198:8555/live/1330/123456/19.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTRmMjExLTQyMjktNzQ5Zi1hNDdlLTU4ZjgxOTQ3MTAyNC8iLCJ1aWQiOiJiMTQ2NmM3Yi1jN2E3LTRkMDgtYmZkMy00MzFjM2I1NWQyZDEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2NzU2NTIzMiwiaWF0IjoxNzY3NTY1MjMyLCJleHAiOjE3OTkxMDEyMzIsImp0aSI6ImIxNDY2YzdiLWM3YTctNGQwOC1iZmQzLTQzMWMzYjU1ZDJkMSIsImlzcyI6IlNwYWxsYSJ9.rvFi_pGVU1qDfeuLnmM9GKu7oYtfSPkLZSF3ak0cuG8&uid=b1466c7b-c7a7-4d08-bfd3-431c3b55d2d1&magica=sim
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
@@ -193,7 +193,7 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/108
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
-https://stmv8.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTERCHEF BRASIL
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/115
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
@@ -212,7 +212,7 @@ https://sae13.playlist.ttvnw.net/v1/playlist/CtoGHrOYlST1u-T21qw2BPNmTC5PdnIOUnU
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS TV SHOW
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://3.bp.blogspot.com/-Z6yTZ5Cgxn0/V8Zo7aw9mlI/AAAAAAAAAe4/Z0bzJOnAFXkj0gnrRWUiiXiod0GcMPXkgCLcB/s400/A78.png" aspect-ratio="4:3", KIDS CHANNEL
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="" aspect-ratio="4:3", A
 http://168.205.87.198:8555/live/1330/123456/143.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://148.113.160.48:14092
