@@ -80,13 +80,13 @@ https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO MG
 http://168.205.87.198:8555/live/1330/123456/70.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV BA
-http://168.205.87.198:8555/live/1330/123456/96.m3u8
+https://hplay.tv/augetv/12396547488/174.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALTEROSA 
 http://168.205.87.198:8555/live/1330/123456/104.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tv.faster.net.br/logos/brsupertv.png", BR SUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png", ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
 https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
