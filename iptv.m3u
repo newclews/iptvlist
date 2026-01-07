@@ -72,7 +72,7 @@ https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
 https://cdndirector.dailymotion.com/cdn/live/video/x8ttlxm.m3u8?sec=BQrXKgGXDLcLoKp8SYfILADhCcUbbRUm7_e7uKMLEjjO13KMwJYczI8wEAFywpX8i7tRDRZTh7WDezaqSFfe1T8NWDrh7Msjo1LdO_l7xLE&dmTs=4004&dmV1st=95835a8b-8e08-4ad7-8494-027584445c51
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
-https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO (RN)
