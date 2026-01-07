@@ -3,14 +3,14 @@
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
-http://168.205.87.198:8555/live/1330/123456/139.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
 https://hplay.tv/augetv/12396547488/24.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
-#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV TURFE
-http://168.205.87.198:8555/live/1330/123456/152.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE MAIS FAMÍLIA
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV SECULO 21
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
@@ -194,14 +194,14 @@ https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/108
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
 https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTERCHEF BRASIL
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/115
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV FLOW
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16364
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL LIKE
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MASTERCHEF BRASIL
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/115.m3u8
+https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MANUAL DO MUNDO
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Offgrid/Manual_do_Mundo_BR/1080p-hevc/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15883
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FASHION TV
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/63
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN KIDS
@@ -255,13 +255,13 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SATO PLUS
 https://sto-sat-samsung.otteravision.com/sto/sat/sat_720p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADRENALINA PURA TV
-https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc/index.m3u8
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezoneportuguese-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
-https://brn-br-samsung.otteravision.com/brn/bt/bt_h265_720p_high.m3u8
+https://amg26188-amg26188c1-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c1-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/82
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
-https://brn-crbr-samsungtvplus-br.otteravision.com/brn/crbr/crbr.m3u8
+https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
 http://168.205.87.198:8555/live/1330/123456/62.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
