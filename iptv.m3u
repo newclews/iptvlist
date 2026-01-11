@@ -577,9 +577,9 @@ http://200.4.96.59:8825/play/a04u/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://200.4.96.59:8825/play/a04v/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/739.m3u8
+http://200.4.96.59:8825/play/a0ko/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-http://domainforxc.cfd:80/live/186320718/c348w1911c/18765.m3u8
+http://200.4.96.59:8825/play/a04w/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 http://200.4.96.59:8825/play/a04z/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
