@@ -634,6 +634,8 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist/
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 https://d1muf25xa12so8hp11.s27-usa-cloudfront-net.online/token/4dc222bdae423dde7b5f92256a0188b1/globorj.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO sp 2
+https://d1muf25xa12so8hp11.s27-usa-cloudfront-net.online/token/84dc5cfece3ed69cfce6042691647be9/globosp.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT)
 https://cn.newclews.workers.dev/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT 2)
