@@ -75,8 +75,8 @@ https://video08.logicahost.com.br/tvc21/tvc21/chunks.m3u8
 https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UNIÃO (RN)
-https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV BA
@@ -254,8 +254,6 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/82
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
 http://168.205.87.198:8555/live/1330/123456/62.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ACRITICA
-https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
