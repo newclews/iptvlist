@@ -38,7 +38,7 @@ https://hplay.tv/augetv/12396547488/211.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", PORTO ALEGRE TV
-https://rtisoluctions.com.br/hls/test_hd720.m3u8
+https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTER TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
