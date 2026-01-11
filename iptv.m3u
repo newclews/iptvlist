@@ -583,7 +583,7 @@ http://45.235.0.78/HBO_XTREME_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
 http://79.127.238.228:14455
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS 2
-http://45.235.0.78/Viva_HD/tracks-v1a2/mono.m3u8
+http://45.235.0.78/Viva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://200.4.96.59:8825/play/a04f/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REIS
