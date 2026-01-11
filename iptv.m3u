@@ -525,7 +525,7 @@ http://45.235.0.78/Universal_TV/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://45.235.0.78/Studio_Universal/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://45.235.0.78/AMC/tracks-v1a1/mono.m3u8
+http://45.235.0.78/AMC/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
