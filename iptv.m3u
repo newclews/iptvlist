@@ -230,6 +230,12 @@ http://iptv.vivatele.com:80/live/viva_padrao/viva2384/15.m3u8
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1243526
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 2
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1243527
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 3
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1243528
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
