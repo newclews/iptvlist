@@ -54,7 +54,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/908290
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
@@ -215,19 +215,19 @@ http://168.205.87.198:8555/live/1347/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS TV SHOW
 https://stmv3.voxtvhd.com.br/kidstvshow/kidstvshow/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://200.4.96.59:8825/play/a02g/index.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1815
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 http://148.113.160.48:14096
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://45.235.0.78/Gloob/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1889
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOBINHO
-http://45.235.0.78/Gloobinho/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1836
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-http://45.235.0.78/Discovery_Kids/index.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1821
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/15.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
@@ -247,7 +247,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBe
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://45.235.0.78/TruTV/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/933257
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WORDING TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -295,11 +295,11 @@ http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://200.4.96.59:8825/play/a050/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://104.238.222.251:8989/278944_.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1918
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/off.br.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/2183
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://46.151.196.223:14432
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
