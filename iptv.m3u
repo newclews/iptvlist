@@ -533,7 +533,7 @@ http://200.4.96.59:8825/play/a02t/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://79.127.238.228:14592
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
-http://45.235.0.78/Lifetime/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
 http://148.113.160.49:14133
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIFUSÃO
@@ -543,11 +543,11 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://79.127.238.228:14551
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://45.235.0.78/Universal_TV/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1872
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://45.235.0.78/Studio_Universal/playlist.m3u8
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://7smartvplayers.top:8080/nerdvisions/oki15032/22637
+http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1807
 http://45.235.0.78/AMC/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
