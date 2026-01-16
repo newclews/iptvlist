@@ -325,8 +325,8 @@ https://isgo.newclews.workers.dev/stream/UC_oToDrJ6uca7d1dFVBmLtg/master.m3u8
 https://isgo.newclews.workers.dev/stream/UCsN8M73DMWa8SPp5o_0IAQQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOMORROWLAND 2
 https://isgo.newclews.workers.dev/video/h2PtKeomBEE/master.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", AJUNABEATS RADIO
-https://isgo.newclews.workers.dev/stream/UCVE-ybBDg3UHSUylEVdPAsw/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MUSIC
+https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
@@ -535,6 +535,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logosmarcas.net/wp-content/uploads/2022/02/Paramount-Pictures-Logo.png", PARAMOUNT
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/737.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
