@@ -261,7 +261,7 @@ https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://brintv.com.br/wp-content/uploads/2020/08/LOGO-BR-IN-TV-02-135x300.png", BR IN TV
 https://amg26188-amg26188c1-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c1-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TERRAVIVA
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/82
+https://cdn-3.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL
 https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-amg26188c2-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL (ALT)
