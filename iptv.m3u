@@ -413,8 +413,6 @@ https://pop.uniquetv.com.br/supergeek/video.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MARKKET
 http://168.205.87.198:8555/live/1347/123456/345.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PRIME
-http://168.205.87.198:8555/live/1347/123456/256.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TRAVEL PLUS
 https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/TravelPlus/Travel_Plus_BR/1080p-hevc/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TASTEMADE VIAGEM
