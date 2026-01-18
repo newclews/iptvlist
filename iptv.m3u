@@ -167,8 +167,6 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png", CITY TV
-https://isgo.newclews.workers.dev/stream/UCv5Oy_TJFvGKXjeNzzJE_PQ/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO NOTICIAS
 https://isgo.newclews.workers.dev/stream/UCj6PcyLvpnIRT_2W_mwa9Aw/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RT ESPANHOL
@@ -179,6 +177,8 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DEUTSCHE WELLE ESPANHOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHILEVISION
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGA
 http://45.232.210.1:18000/play/a086/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LATINA (PE)
@@ -733,4 +733,4 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?uid=eoxE2hhRMRzXvzO6CZlH7ey02s47Ckci&sid=oiI8TPev8nOaV0CuKxJlJcwAnESWO0GV&pid=Z4iOJgBRSyxBZ4K6d6rMRQpaaPBAUAID&pid_dvr=GQIXQkpuyRV1EyoUp7426iqZ0XtJP2XY&an=mdstrm-player&at=web-app&av=v6.0.251&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=1920x&without_cookies=false&listenerid=&dnt=true&access_token=EsFcEaM51xlLS4ZPGs8MWzOGsWfApoEBVhhtM9ldIHANSV6LBSWRjOrivynO3mV8Rm7faYUiI54&CMCD=cid%3D%226491ced935a5833c47dd7f41%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Z4iOJgBRSyxBZ4K6d6rMRQpaaPBAUAID%22%2Csu
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/6491ced935a5833c47dd7f41/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&pid=epyHMPccvyq1udUYguMeltoWHXAc3nWT&sid=gXCQFUykAG5LcGCTUuMgxbqLY1a7fd9P&uid=HcOESPwZv9UkYkIwLBm0EweDsqUEbkra&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1768822877568&ot=xGkKPJ_by-CHBYDkfqxGxw&proto=https&pz=us
