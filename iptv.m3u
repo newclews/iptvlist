@@ -529,6 +529,8 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
 https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
+https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
 https://cdn-3.nxplay.com.br/ENTRETENDO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
@@ -736,4 +738,4 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream/6491ced935a5833c47dd7f41/publish/media_2500.m3u8?aid=598861d8cc3c169b2236f987&pid=epyHMPccvyq1udUYguMeltoWHXAc3nWT&sid=gXCQFUykAG5LcGCTUuMgxbqLY1a7fd9P&uid=HcOESPwZv9UkYkIwLBm0EweDsqUEbkra&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1768822877568&ot=xGkKPJ_by-CHBYDkfqxGxw&proto=https&pz=us
+https://d1muf25xa01so8hp15.s27-usa-cloudfront-net.online/token/9f6b07baa97a17cc84c18769846456a4/axn.m3u8
