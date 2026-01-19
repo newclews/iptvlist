@@ -213,9 +213,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS CARTOON
 http://168.205.87.198:8555/live/1347/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1815
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://148.113.160.48:14096
+https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -232,8 +232,8 @@ http://iptv.vivatele.com:80/live/viva_padrao/viva2384/15.m3u8
 http://168.205.87.198:8555/live/1347/123456/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1347/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHAVES 1
