@@ -221,7 +221,7 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://xui.brfontes.fun:80/411630587/258982082/13950048.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOBINHO
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1836
+http://xui.brfontes.fun:80/411630587/258982082/13950384.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -298,7 +298,7 @@ http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://200.4.96.59:8825/play/a050/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1918
+http://xui.brfontes.fun:80/411630587/258982082/13950490.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
