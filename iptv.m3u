@@ -405,6 +405,8 @@ https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZIMBO TV
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", UNIQUE SUPERCAST
 https://pop.uniquetv.com.br/supercast/video.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", UNIQUE SUPERGEEK
@@ -425,8 +427,6 @@ https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 http://168.205.87.198:8555/live/1347/123456/344.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PRIME
 https://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", INSPIRE
-https://cdn-3.nxplay.com.br/INSPIRE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UP CHANNEL
 https://cdn-3.nxplay.com.br/UPCHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YES LIFE
