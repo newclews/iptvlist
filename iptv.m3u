@@ -413,6 +413,8 @@ https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
 http://listen.181fm.com:7080/181-energy98_128k.mp3
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HTO
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZIMBO TV
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVI AFRICA
@@ -541,6 +543,8 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
+https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_filmes/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
