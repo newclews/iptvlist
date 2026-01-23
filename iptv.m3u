@@ -3,13 +3,13 @@
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV JUSTIÇA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://assets.midiasimples.com.br/1603/tv_justica.png", TV JUSTIÇA
 https://hplay.tv/augetv/12396547488/24.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL FUTURA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png", CANAL FUTURA
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE MAIS FAMÍLIA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ricardocostadigital.com.br/wp-content/uploads/2022/04/logo.png", REDE MAIS FAMÍLIA
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="Original", TV SECULO 21
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://back.ww-cdn.com/superstatic/version/1821384/iphone/1021/photo/navBar_titleImage@2x.png", TV SECULO 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
@@ -19,11 +19,11 @@ https://hplay.tv/augetv/12396547488/43.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RIT
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png", RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNT
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT
 http://168.205.87.198:8555/live/1347/123456/303.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV CIDADE 9
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://m.media-amazon.com/images/I/61VyTMEJkpL.png", TV CIDADE 9
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
@@ -37,7 +37,7 @@ http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/ch
 https://hplay.tv/augetv/12396547488/211.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", PORTO ALEGRE TV
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/pDJRGVJQ8yP-CMeARU3FeARr874n_EafWZV1XIytPg6ugWKgtZdORvadlMeMYZfhNSY=w600-h300-pc0xffffff-pd", PORTO ALEGRE TV
 https://rtisoluctions.com.br/hls/test_src.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTER TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
@@ -63,7 +63,7 @@ https://hplay.tv/augetv/12396547488/227.m3u8
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://79.127.238.228:14217
-#EXTINF:0 type="stream" group-title="TV AO VIVO", REDETV
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1350/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
 https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w2033478351.m3u8
