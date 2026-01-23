@@ -301,6 +301,8 @@ http://200.4.96.59:8825/play/a050/index.m3u8
 http://xui.brfontes.fun:80/411630587/258982082/13950490.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/2183
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
@@ -323,8 +325,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png", CMC
-https://cmc-ono.amagi.tv/amRdirect/device[did]=[AD_IDFA[&us_privacy={US_PRIVACY}&coppa={COPPA}&uid=1h68ra4rh-7fll-ffo-kaod-czsiam4kd5v/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIKTOK BRASIL
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0fabf47f68dc4f97932c5a04c5a2ae09/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="TV AO VIVO" logo="https://i.imgur.com/uFbyigf.png", M20
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png", TV 538
@@ -365,6 +367,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images-na.ssl-images-amazon.com/images/I/61V8tK87rYS.png", FM O DIA
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBN RJ
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8d/main.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBN SP
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ONDA OESTE
 http://168.205.87.198:8555/live/1347/123456/314.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Radios" logo="http://i.imgur.com/x3j3rYJ.png", Radio Mania FM RJ
