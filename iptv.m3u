@@ -608,9 +608,9 @@ http://200.4.96.59:8825/play/a03j/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://15.235.50.115:14017
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
-http://45.235.0.78/Telecine_Fun/playlist.m3u8
+http://89.187.190.167:14107
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://45.235.0.78/Telecine_Cult_HD/tracks-v1a1/mono.m3u8
+http://89.187.190.167:14104
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://200.4.96.59:8825/play/a04u/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
