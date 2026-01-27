@@ -244,7 +244,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBe
 http://79.127.243.211:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIN
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 https://cdn-3.nxplay.com.br/ADULT_SWIN/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://146.19.49.197:81/live/loco_hi/index.m3u8
