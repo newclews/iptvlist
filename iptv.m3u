@@ -56,7 +56,7 @@ https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://iptv.vivatele.com:80/live/viva_padrao/viva2384/2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/13.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -229,7 +229,7 @@ http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1821
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
-http://79.127.243.211:14018
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM 2
 http://168.205.87.198:8555/live/1347/123456/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
