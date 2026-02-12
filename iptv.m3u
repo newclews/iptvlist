@@ -62,7 +62,7 @@ https://hplay.tv/augetv/12396547488/227.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://79.127.243.211:14011
+http://79.127.238.228:14217
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1350/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
