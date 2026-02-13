@@ -244,7 +244,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBe
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DOG TV
 http://79.127.243.211:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
-https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 https://cdn-3.nxplay.com.br/ADULT_SWIN/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
@@ -461,7 +461,7 @@ https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://cdn-1.nxplay.com.br/HALLODOC/index.m3u8
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
@@ -543,7 +543,7 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_filmes/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://cdn-1.nxplay.com.br/HALLOMOVIES/index.m3u8
+https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
 https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
