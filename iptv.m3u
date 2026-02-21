@@ -289,7 +289,6 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 http://168.205.87.198:8555/live/1347/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 https://cdn-3.nxplay.com.br/BAND_SPORTS_NX/index.m3u8
-http://200.4.96.59:8825/play/a06c/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
