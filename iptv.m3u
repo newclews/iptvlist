@@ -501,22 +501,26 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", FILMES AVENTURA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AÇÃO
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AVENTURA
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE COMEDIA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE SUCESSOS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE SUSPENSE
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE TERROR
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CRIME
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE CLASSICOS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE FAMÍLIA
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME FILMES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png", RUNTIME AÇÃO
@@ -717,9 +721,9 @@ http://148.113.160.48:14110
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PLUS 8
 http://148.113.160.48:14111
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/677d93f37bffa600080795e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SMURFS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68b88ae1943f6fb1fb2ad749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-8a68-49ad-930f-b677f16e3147&userId=&serverSideAds=true
+https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
 http://15.235.9.200:14015
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DINO BOY
