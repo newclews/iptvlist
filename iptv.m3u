@@ -214,7 +214,7 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS CARTOON
 http://168.205.87.198:8555/live/1347/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
@@ -442,7 +442,7 @@ http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
 http://200.4.96.59:8825/play/a020/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://200.4.96.59:8825/play/a021/index.m3u8
+http://s2.micineovs.com/Multishow/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://79.127.243.211:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEJA PLUS
