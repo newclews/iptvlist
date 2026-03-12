@@ -146,7 +146,7 @@ http://79.127.243.211:14254
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/1200px-Jovem_Pan_logo_2018.svg.png", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png", BAND NEWS
-https://cdn-3.nxplay.com.br/BAND_NEWS/index.m3u8
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://canalnewbrasil.com.br/img/logo_preview.png", NEW BRASIL
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasilp1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png", CNN BRASIL
@@ -216,7 +216,7 @@ http://168.205.87.198:8555/live/1347/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
+https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -226,13 +226,13 @@ http://xui.brfontes.fun:80/411630587/258982082/13950384.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1347/123456/346.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
-https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://168.205.87.198:8555/live/1347/123456/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MINISTÉRIO INFANTIL
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1347/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
@@ -240,9 +240,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBe
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DOG TV
 http://79.127.243.211:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
-https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-https://cdn-3.nxplay.com.br/ADULT_SWIN/tracks-v1a1/index.m3u8
+https://cdn-5.nxplay.com.br/ADULT_SWIN/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOCOMOTION
 http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -262,9 +262,9 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL (ALT)
 http://168.205.87.198:8555/live/1347/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
-https://cdn-3.nxplay.com.br/AGROMAIS_HD/index.m3u8
+https://cdn-5.nxplay.com.br/AGROMAIS_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
-https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+https://cdn-5.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
@@ -286,7 +286,7 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
 http://168.205.87.198:8555/live/1347/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-https://cdn-3.nxplay.com.br/BAND_SPORTS_NX/index.m3u8
+https://cdn-5.nxplay.com.br/BAND_SPORTS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
@@ -316,7 +316,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MUSIC
-https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOMUSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIKTOK BRASIL
@@ -428,15 +428,15 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeTravel_BR/108
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE EXPLORE
 https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_explorer/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
-https://cdn-3.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MUSIC BOX
 http://168.205.87.198:8555/live/1347/123456/344.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PRIME
-https://cdn-3.nxplay.com.br/PRIME_HD/index.m3u8
+https://cdn-5.nxplay.com.br/PRIME_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UP CHANNEL
-https://cdn-3.nxplay.com.br/UPCHANNEL/index.m3u8
+https://cdn-5.nxplay.com.br/UPCHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YES LIFE
-https://cdn-3.nxplay.com.br/LIFE/index.m3u8
+https://cdn-5.nxplay.com.br/LIFE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
@@ -452,45 +452,45 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://148.113.160.48:14078
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
-https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
-https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+https://cdn-5.nxplay.com.br/ARTE1_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
-https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
 http://46.151.196.223:14410
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1 (ALT)
-https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
+https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
+https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-https://cdn-3.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://148.113.160.48:14142
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL (ALT)
-https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY THEATER
-https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
-https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
-https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY WORLD
-https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-https://cdn-3.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-https://cdn-3.nxplay.com.br/TLC/index.m3u8
+https://cdn-5.nxplay.com.br/TLC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
@@ -498,9 +498,9 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AÇÃO
@@ -542,13 +542,13 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO FILMES
 https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/hto_filmes/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
-https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
+https://cdn-5.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
-https://cdn-3.nxplay.com.br/ENTRETENDO/index.m3u8
+https://cdn-5.nxplay.com.br/ENTRETENDO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE TV CINE
 https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cine/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE TV CULT
@@ -556,7 +556,7 @@ https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cult/index.m3u8?token=h
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://148.113.160.49:14200
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
+https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
 http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
@@ -568,13 +568,13 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+https://cdn-5.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://79.127.243.211:14623
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -584,13 +584,13 @@ http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
 http://79.127.243.211:14615
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT 2
-https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
+https://cdn-5.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
 http://200.4.96.59:8825/play/a02r/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL 2
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-https://cdn-3.nxplay.com.br/SPACE_TK/index.m3u8
+https://cdn-5.nxplay.com.br/SPACE_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE 2
 http://200.4.96.59:8825/play/a02k/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
@@ -695,7 +695,7 @@ http://168.205.87.198:8555/live/1347/123456/285.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD
 http://200.4.96.59:8825/play/a03d/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEBRASIL
-https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
+https://cdn-5.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
 http://168.205.87.198:8555/live/1347/123456/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
