@@ -216,7 +216,7 @@ http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://cdn-5.nxplay.com.br/CARTOONITO_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
