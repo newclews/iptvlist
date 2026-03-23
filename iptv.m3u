@@ -129,8 +129,8 @@ http://168.205.87.198:8555/live/1347/123456/326.m3u8
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV INFORBAHIA
-https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
