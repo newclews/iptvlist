@@ -365,7 +365,6 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
 https://cdn.livespanel.com/live/fmodia/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBN RJ
 https://live-cm-ah-15-17.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMTUtMTcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzc1NjcyMzc3LCJpYXQiOjE3NzU2NTA3NzcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0zMTM5ODQsZHZyPTEyMCkvY2JucmoyNGhhL3BsYXlsaXN0Lm0zdTgifQ.MHiushUka0-MRR_j5JdBHGMvz4Awr4w4DBrk4X1Gk4Sh7n_w5TiIY8eJ2HoTWBDXVkibReA3VyariQM0Ag7M55aZC8APtF96WngXdU1SQZn3oiLDy1fif-2JYQxvtqGoh-72M6XZ1MxSA_8Z5z5rUxOrEDobsqfsN9Xcld2UzfmA90WhZYKP2FDxTh2l6O6SlEk0YL6n6md-AdsT8FppOzwAuBmkwbe6pWHweCy9LbpDqNpX3NHwWyq7_b2KamTTsE9dOLXeC567ZlOpBAOuDKUwXPQJYaDHbAW_V7zocYzkqYGPbqoO2alz-fc19DqCn2h3NxUkHm0Z5OUJZKIULw/live/f(bMin=313984,dvr=120)/cbnrj24ha/playlist.m3u8
-https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8d/main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CBN SP
 https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/main.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ONDA OESTE
@@ -669,7 +668,6 @@ https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
 http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
-http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
 http://79.127.238.228:14093
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT 2)
@@ -705,7 +703,7 @@ https://cdn-5.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
 http://168.205.87.198:8555/live/1350/123456/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
-http://200.4.96.59:8825/play/a021/index.m3u8
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/2006cf3b-83f2-4604-996e-1a39cf650123.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOOB 2
 http://79.127.243.211:14436
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT 2
