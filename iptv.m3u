@@ -222,7 +222,7 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
 http://79.127.243.211:14436
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
-http://x1co.com.br:8080/hls/0/stream.m3u8
+https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
