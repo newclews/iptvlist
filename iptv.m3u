@@ -220,9 +220,11 @@ http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-https://stm.sinalmycn.com/24015/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+http://79.127.243.211:14436
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK TOONS
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOB ESPONJA
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
@@ -231,8 +233,6 @@ http://168.205.87.198:8555/live/1350/123456/346.m3u8
 https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://168.205.87.198:8555/live/1350/123456/284.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOOBINHO
-https://stm.sinalmycn.com/24018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
@@ -608,7 +608,7 @@ http://79.127.243.211:14644
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://79.127.243.211:14652
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://15.235.50.115:14017
+http://79.127.243.211:14699
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
 http://89.187.190.167:14107
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
