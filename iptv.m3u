@@ -294,7 +294,7 @@ https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 http://79.127.243.211:14473
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/73.m3u8
+https://hplay.tv/augetv/12396547488/6577.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -539,6 +539,8 @@ https://run-ro-br-plex.otteravision.com/run/ro_br/ro_br_720.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN RETRÔ
+https://hplay.tv/augetv/12396547488/6742.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
 https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
@@ -667,8 +669,10 @@ http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
 http://79.127.238.228:14093
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT 2)
 http://79.127.243.211:14254
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS (ALT)
+https://hplay.tv/augetv/12396547488/6563.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-https://stm.sinalmycn.com/25000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://hplay.tv/augetv/12396547488/1300.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/af2e80dd-b360-4c41-855d-3740b87ba21c/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL (ALT)
