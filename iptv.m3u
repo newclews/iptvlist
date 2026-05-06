@@ -263,12 +263,12 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 http://168.205.87.198:8555/live/1350/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
 https://cdn-3.nxplay.com.br/AGROMAIS_HD/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROPLUS
+https://hplay.tv/augetv/12396547488/115.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
 https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORT CLUB
-https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
@@ -286,7 +286,7 @@ https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
 http://168.205.87.198:8555/live/1350/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-http://79.127.243.211:14445/_.m3u8
+https://hplay.tv/augetv/12396547488/6733.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
