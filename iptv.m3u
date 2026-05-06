@@ -239,8 +239,6 @@ https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 http://168.205.87.198:8555/live/1350/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DOG TV
-http://79.127.243.211:14149
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
@@ -267,6 +265,8 @@ https://cdn-3.nxplay.com.br/AGROMAIS_HD/index.m3u8
 https://hplay.tv/augetv/12396547488/115.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
 https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALPHA CHANNEL
+https://hplay.tv/augetv/12396547488/205.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
