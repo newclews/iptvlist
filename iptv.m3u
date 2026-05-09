@@ -290,9 +290,9 @@ https://hplay.tv/augetv/12396547488/6733.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-https://stm.sinalmycn.com/21003/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://megaflix.cloudfronte.lat/zzzstream/sportv2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://79.127.243.211:14473
+https://megaflix.cloudfronte.lat/zzzstream/sportv3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 https://hplay.tv/augetv/12396547488/6577.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
@@ -616,13 +616,13 @@ http://79.127.243.211:14668
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
 http://79.127.243.211:14660
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://stm.sinalmycn.com/14006/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://megaflix.cloudfronte.lat/zzzstream/hbofamily.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-https://stm.sinalmycn.com/14012/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://megaflix.cloudfronte.lat/zzzstream/hboplus.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://200.4.96.59:8825/play/a04z/index.m3u8
+https://megaflix.cloudfronte.lat/zzzstream/hbopop.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-https://stm.sinalmycn.com/14009/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://megaflix.cloudfronte.lat/zzzstream/hbomundi.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
 http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
