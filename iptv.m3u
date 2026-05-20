@@ -237,8 +237,10 @@ http://168.205.87.198:8555/live/1350/123456/284.m3u8
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1350/123456/306.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MR BEAN
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Banijay/MrBeanLiveAction_BR/MrBeanLiveAction1080p.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
+http://15.235.42.84:8088/rj-live/rj-live/600336.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
+http://15.235.42.84:8088/rj-live/rj-live/600335.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
@@ -267,8 +269,6 @@ https://hplay.tv/augetv/12396547488/115.m3u8
 https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ALPHA CHANNEL
 https://hplay.tv/augetv/12396547488/205.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
-https://video01.soultv.com.br/uoltv/uoltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
@@ -554,7 +554,7 @@ https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cine/index.m3u8?token=h
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE TV CULT
 https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cult/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-http://148.113.160.49:14200
+http://15.235.42.84:8088/rj-live/rj-live/600044.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
@@ -562,7 +562,7 @@ http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
-https://stm.sinalmycn.com/13034/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+http://15.235.42.84:8088/rj-live/rj-live/600285.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIFUSÃO
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
@@ -570,7 +570,7 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://79.127.243.211:14623
+http://15.235.42.84:8088/rj-live/rj-live/600283.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1863
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
@@ -586,7 +586,7 @@ http://79.127.243.211:14615/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT 2
 https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
-http://200.4.96.59:8825/play/a02r/index.m3u8
+http://15.235.42.84:8088/rj-live/rj-live/600287.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL 2
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
@@ -733,8 +733,26 @@ http://148.113.160.48:14111
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SMURFS
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHAZAM
-http://15.235.9.200:14015
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS FLISTONES
+http://15.235.42.84:8088/rj-live/rj-live/600344.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
+http://15.235.42.84:8088/rj-live/rj-live/600317.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PINK E CEREBRO
+http://15.235.42.84:8088/rj-live/rj-live/600361.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AS AVENTURAS DE TINTIN
+http://15.235.42.84:8088/rj-live/rj-live/600324.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BATMAN BAT MIRIM
+http://15.235.42.84:8088/rj-live/rj-live/600332.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
+http://15.235.42.84:8088/rj-live/rj-live/600334.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A CORRIDA MALUCA
+http://15.235.42.84:8088/rj-live/rj-live/600338.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMÍLIA DINOSSAURO
+http://15.235.42.84:8088/rj-live/rj-live/600343.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
+http://15.235.42.84:8088/rj-live/rj-live/600346.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE-RA
+http://15.235.42.84:8088/rj-live/rj-live/600363.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS (ALT)
 http://200.4.96.59:8825/play/a06s/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
