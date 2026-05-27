@@ -405,6 +405,8 @@ https://streaming.inweb.com.br/energia
 https://24283.live.streamtheworld.com/RADIOCIDADEAAC.aac
 #EXTINF:0 type="stream" group-title="Radios" logo="https://cdn-radiotime-logos.tunein.com/s90459g.png", 181.FM (USA)
 http://listen.181fm.com:7080/181-energy98_128k.mp3
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RADIO ONDA BEAT
+https://lbgo.bozztv.com/ssh101/ssh101/maropon12/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", MUSIC
