@@ -699,6 +699,8 @@ https://megaflix.cloudfronte.lat/zzzstream/sbtrj.m3u8
 http://200.4.96.59:8825/play/a039/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND MG
 http://168.205.87.198:8555/live/1350/123456/276.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RAIZ
+https://d38s7rrdbnh4oy.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/2da4705c-0ce0-4631-bdb6-1266347c4bd4/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
 http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
