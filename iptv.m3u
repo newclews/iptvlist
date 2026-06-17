@@ -788,7 +788,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/multishow.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
-https://isgo.newclews.workers.dev/stream/UCsRfBAspa72ExrsN347W2xg/master.m3u8
+https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=753497971&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI2IDE6MjM6NDcgUE0maGFzaF92YWx1ZT0yMkM3L1dCYUtXdEdzc2hKUTE1L0lRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFkYzQ0NDctOWQyMS00ZmFhLWI3ZmMtZWQ4NDFmN2RjYTc2
 #EXTINF:-1 tvg-id="PLUTO TV",A Caçadora de Relíquias
 https://jmp2.uk/plu-67e59a6557487a8b7fe73e23.m3u8
 #EXTINF:-1 tvg-id="PLUTO TV",A Feiticeira
