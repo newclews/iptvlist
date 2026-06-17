@@ -79,8 +79,8 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV BA
-https://hplay.tv/augetv/12396547488/174.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV MG
+http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV ALTEROSA 
 http://168.205.87.198:8555/live/1350/123456/291.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tv.faster.net.br/logos/brsupertv.png", BR SUPER TV
@@ -701,8 +701,6 @@ http://200.4.96.59:8825/play/a039/index.m3u8
 http://168.205.87.198:8555/live/1350/123456/276.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RAIZ
 https://d38s7rrdbnh4oy.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/2da4705c-0ce0-4631-bdb6-1266347c4bd4/0.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD MG
-http://168.205.87.198:8555/live/1350/123456/285.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 https://megaflix.cloudfronte.lat/zzzstream/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEBRASIL
