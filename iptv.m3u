@@ -279,10 +279,12 @@ https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_
 http://79.127.243.211:14449
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GP TV
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS 1
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS 2
-https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GOAT
+http://46.151.196.223:14146
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GOAT 2
+http://46.151.196.223:14148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
 http://168.205.87.198:8555/live/1350/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
@@ -704,7 +706,7 @@ http://168.205.87.198:8555/live/1350/123456/276.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ISTV 2
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
-https://megaflix.cloudfronte.lat/zzzstream/recordrj.m3u8
+http://46.151.196.223:14202
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEBRASIL
 https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
