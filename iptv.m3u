@@ -600,21 +600,21 @@ https://stm.sinalmycn.com/13027/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
 http://148.113.160.48:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://79.127.243.211:14648
+http://143.14.178.40:7777/Telecine_Premium_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://89.187.190.167:14101
+http://143.14.178.40:7777/Telecine_Action_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION 2
 http://79.127.243.211:14632
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://79.127.243.211:14644
+http://143.14.178.40:7777/Telecine_Pipoca_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 http://79.127.243.211:14652
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://79.127.243.211:14492
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
-http://89.187.190.167:14107
+http://143.14.178.40:7777/Telecine_Fun_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://89.187.190.167:14104
+http://143.14.178.40:7777/Telecine_Cult_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 http://79.127.243.211:14668
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
