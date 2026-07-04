@@ -553,10 +553,10 @@ https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
 https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
 https://cdn-3.nxplay.com.br/ENTRETENDO/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE TV CINE
-https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cine/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MOOVE TV CULT
-https://cdn-tiva-cdn-lincemedia-com-br.smartbit.co/moove_cult/index.m3u8?token=hefesto_5efe998fde61ce8ve9ehvev56
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMEDY CLUB
+https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GOITACÁ
+https://video01.brascast.com/david7639/david7639/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 http://15.235.42.84:8088/rj-live/rj-live/600044.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
