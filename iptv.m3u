@@ -134,7 +134,7 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN TRAVEL
 http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1200px-Logotipo_do_Modo_Viagem.svg.png", MODO VIAGEM
-http://148.113.160.49:14213
+http://143.14.178.40:7777/Modo_Viagem_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SENADO
 http://168.205.87.198:8555/live/1350/123456/297.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/zoom.png", TV ZOOM
@@ -214,13 +214,13 @@ http://168.205.87.198:8555/live/1350/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-https://cdn-3.nxplay.com.br/CARTOONITO_TK/index.m3u8
+http://143.14.178.40:7777/Cartoonito_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://79.127.243.211:14436
+http://143.14.178.40:7777/Gloob_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK ONLINE SPONGEBOB
@@ -296,7 +296,7 @@ http://79.127.243.211:14473
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
 https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
-https://hplay.tv/augetv/12396547488/6577.m3u8
+http://143.14.178.40:7777/Woohoo_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
@@ -676,7 +676,7 @@ http://79.127.243.211:14254
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS (ALT)
 http://46.151.196.223:14077
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-https://hplay.tv/augetv/12396547488/1300.m3u8
+http://143.14.178.40:7777/Band_News_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y4riz7eo92zpm/af2e80dd-b360-4c41-855d-3740b87ba21c/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL (ALT)
