@@ -262,11 +262,11 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL (ALT)
 http://168.205.87.198:8555/live/1350/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
-http://46.151.196.223:14077
+http://streamer.sattvacabo.com.br/AGROMAIS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROPLUS
 https://hplay.tv/augetv/12396547488/115.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
-https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+http://streamer.sattvacabo.com.br/FISH_TV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
