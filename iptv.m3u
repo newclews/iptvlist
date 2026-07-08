@@ -470,7 +470,7 @@ http://177.52.24.163/HISTORY-HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1 (ALT)
 https://megaflix.mgfiles.lat/cc13c1734b1bb80b512e88ed402d1af8/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
+http://185.152.67.187:14392
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 http://79.127.243.211:14370/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
