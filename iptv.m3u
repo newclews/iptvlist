@@ -446,7 +446,7 @@ http://79.127.243.211:14312/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
 http://200.4.96.59:8825/play/a020/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-http://46.151.196.223:14821
+https://megaflix.mgfiles.lat/967dc441704ce68263139f1f50b6b530/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://79.127.243.211:14286/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEJA PLUS
@@ -458,9 +458,9 @@ http://79.127.243.211:14573/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
-https://cdn-3.nxplay.com.br/ARTE1_TK/index.m3u8
+http://streamer.sattvacabo.com.br/ARTE_1/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8
+http://streamer.sattvacabo.com.br/HALLO_DOC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
@@ -546,9 +546,11 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN RETRÔ
 https://hplay.tv/augetv/12396547488/6742.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-https://cdn-3.nxplay.com.br/HALLOMOVIES/index.m3u8
+http://streamer.sattvacabo.com.br/HALLO_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/index.m3u8
+http://streamer.sattvacabo.com.br/HALLO_CLASSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
+http://streamer.sattvacabo.com.br/HALLO_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
 https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
@@ -624,9 +626,9 @@ https://megaflix.mgfiles.lat/8ea50dc6ffce55fe09cf2468ab78d9c7/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 https://megaflix.mgfiles.lat/d821613ce0d5a46d2cc4d0c322096fba/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-https://megaflix.cloudfronte.lat/zzzstream/hbopop.m3u8
+http://streamer.sattvacabo.com.br/HBO_POP_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-https://megaflix.cloudfronte.lat/zzzstream/hbomundi.m3u8
+http://streamer.sattvacabo.com.br/HBO_MUNDI_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
 http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
