@@ -234,7 +234,7 @@ http://45.162.64.114/DISCOVERYKIDS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://168.205.87.198:8555/live/1350/123456/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
-https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+http://streamer.sattvacabo.com.br/TOONCAST/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1350/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
@@ -572,7 +572,7 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://79.127.243.211:14623
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
