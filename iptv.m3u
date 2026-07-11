@@ -220,7 +220,7 @@ http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://143.14.178.40:7777/Gloob_HD/index.m3u8
+http://45.162.231.38:7779/Gloob/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK ONLINE SPONGEBOB
@@ -242,7 +242,7 @@ http://15.235.42.84:8088/rj-live/rj-live/600336.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
 http://15.235.42.84:8088/rj-live/rj-live/600335.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
-https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8
+http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 http://45.162.231.38:7779/TruTV/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -318,7 +318,7 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MUSIC
-https://cdn-3.nxplay.com.br/HALLOMUSIC/index.m3u8
+http://streamer.sattvacabo.com.br/HALLO_MUSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIKTOK BRASIL
@@ -504,7 +504,7 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 http://46.151.196.223:14603
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
+http://streamer.sattvacabo.com.br/SONY_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AÇÃO
