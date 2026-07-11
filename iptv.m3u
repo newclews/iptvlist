@@ -480,7 +480,7 @@ https://megaflix.mgfiles.lat/b79220c0a11a0b150dbebd0eee4238e0/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY THEATER
 https://megaflix.mgfiles.lat/24161214808fec7d4e71d683bc18cf2d/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
-https://cdn-3.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
 https://megaflix.mgfiles.lat/4f9b45a8d9320c4f545c1b19f30a5037/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
@@ -494,7 +494,7 @@ http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TLC
-https://cdn-3.nxplay.com.br/TLC/index.m3u8
+http://200.229.190.189:8001/play/a01g
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Samsung-Sony-One-Shark-Tank-BrasilType-B_-1x1-Circles-1000x1000.png", SONY ONE SHARK TANK
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SONY ONE CLASSICS
