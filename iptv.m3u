@@ -103,6 +103,8 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png", AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV SHOW
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/adesso.png", ADESSO TV
 https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE UTV
@@ -125,8 +127,6 @@ https://psix79kagi.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/
 http://168.205.87.198:8555/live/1350/123456/327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/I4TE7hb.png", PLAYPOCA FILMES
 http://168.205.87.198:8555/live/1350/123456/326.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static21.minhalojanouol.com.br/1films/selos/22082019170714.png", DARK FLIX
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV GOSPEL MOVIE
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV UFOP
@@ -263,16 +263,12 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 http://168.205.87.198:8555/live/1350/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
 http://streamer.sattvacabo.com.br/AGROMAIS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROPLUS
-https://hplay.tv/augetv/12396547488/115.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO CANAL
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
 http://streamer.sattvacabo.com.br/FISH_TV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://pbs.twimg.com/profile_images/788518824/logo_400x400.png", PON TV
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ZORELLO KICKBOXING
-https://video01.soultv.com.br/paulozorello/paulozorello/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SFT COMBAT
 https://hrm-sftc-samsungtvplus-br.otteravision.com/hrm/sftc_h265/sftc_h265_720p_high.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE
@@ -653,8 +649,6 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_720p.m3u8
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/DPA_Fast_BR/1080p-vtt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
-http://cord-cutter.net:8080/23290078/13941299/78701
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AL JAZEERA ENGLISH
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", Al JAZEERA ARABIC
