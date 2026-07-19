@@ -214,13 +214,13 @@ http://168.205.87.198:8555/live/1354/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
 http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://143.14.178.40:7777/Cartoonito_HD/index.m3u8
+http://45.190.156.152/CARTOONITO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
-http://45.162.231.38:7779/Gloob/index.m3u8
+http://45.190.156.152/GLOOB/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK ONLINE SPONGEBOB
@@ -238,9 +238,9 @@ http://streamer.sattvacabo.com.br/TOONCAST/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
-http://15.235.42.84:8088/rj-live/rj-live/600336.ts
+http://45.190.156.152/CHAVES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
-http://15.235.42.84:8088/rj-live/rj-live/600335.ts
+http://45.190.156.152/CHAPOLIN/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
@@ -296,7 +296,7 @@ http://143.14.178.40:7777/Woohoo_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://143.14.178.40:7777/OFF_HD/index.m3u8
+http://45.190.156.152/OFF/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://46.151.196.223:14432
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
