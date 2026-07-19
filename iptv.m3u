@@ -244,7 +244,7 @@ http://45.190.156.152/CHAPOLIN/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://45.162.231.38:7779/TruTV/index.m3u8
+http://45.190.156.152/ADULT_SWIM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
@@ -710,9 +710,9 @@ http://168.205.87.198:8555/live/1354/123456/310.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
 http://168.205.87.198:8555/live/1354/123456/278.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW (ALT 2)
-http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/2006cf3b-83f2-4604-996e-1a39cf650123.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESCOLINHA
-http://46.151.196.223:14796
+http://45.190.156.152/MULTISHOW/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM (ALT)
+http://45.162.231.38:7779/TruTV/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOOB 2
 http://79.127.243.211:14436
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT 2
