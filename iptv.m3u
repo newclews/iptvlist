@@ -68,7 +68,7 @@ http://168.205.87.198:8555/live/1354/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
 https://video05.logicahost.com.br/comunitariario/comunitariario/chunklist_w2033478351.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png", RF TV
-https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+https://tv03.zas.media:1936/rftv/rftv/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://static.tvgazeta.com.br/uploads/2021/10/logo-tv-gazeta.png", TV Gazeta
 http://168.205.87.198:8555/live/1354/123456/281.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", 40 GRAUS TV
