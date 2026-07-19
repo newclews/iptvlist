@@ -284,7 +284,7 @@ http://46.151.196.223:14148
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
 http://168.205.87.198:8555/live/1354/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
-http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
+http://45.190.156.152/BAND_SPORTS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
 http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
