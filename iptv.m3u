@@ -684,7 +684,7 @@ http://168.205.87.198:8555/live/1354/123456/308.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 2
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
-http://iptv.vivatele.com:80/live/viva_padrao/viva2384/1.m3u8
+http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/globo.rj.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
