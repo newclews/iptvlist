@@ -244,7 +244,7 @@ http://45.190.156.152/CHAPOLIN/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://45.190.156.152/ADULT_SWIM/index.m3u8
+http://168.197.104.22:80/ADULT_SWIM/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
@@ -703,6 +703,8 @@ http://200.4.96.59:8825/play/a039/index.m3u8
 http://168.205.87.198:8555/live/1354/123456/276.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ISTV 2
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV3
+https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://46.151.196.223:14202
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE SUPER
@@ -721,26 +723,6 @@ http://79.127.243.211:14312
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SMURFS
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS FLISTONES
-http://15.235.42.84:8088/rj-live/rj-live/600344.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CORAGEM O CÃO COVARDE
-http://15.235.42.84:8088/rj-live/rj-live/600317.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PINK E CEREBRO
-http://15.235.42.84:8088/rj-live/rj-live/600361.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AS AVENTURAS DE TINTIN
-http://15.235.42.84:8088/rj-live/rj-live/600324.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BATMAN BAT MIRIM
-http://15.235.42.84:8088/rj-live/rj-live/600332.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAVERNA DO DRAGÃO
-http://15.235.42.84:8088/rj-live/rj-live/600334.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", A CORRIDA MALUCA
-http://15.235.42.84:8088/rj-live/rj-live/600338.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FAMÍLIA DINOSSAURO
-http://15.235.42.84:8088/rj-live/rj-live/600343.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HE-MAN
-http://15.235.42.84:8088/rj-live/rj-live/600346.ts
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SHE-RA
-http://15.235.42.84:8088/rj-live/rj-live/600363.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS (ALT)
 http://200.4.96.59:8825/play/a06s/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
