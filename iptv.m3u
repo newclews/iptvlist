@@ -266,7 +266,7 @@ http://streamer.sattvacabo.com.br/AGROMAIS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
-http://streamer.sattvacabo.com.br/FISH_TV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SFT COMBAT
