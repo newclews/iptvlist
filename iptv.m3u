@@ -62,7 +62,7 @@ https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://megaflix.mgfiles.lat/2db28a8006379b00ea3eec4872d9d449/file.m3u8
+http://138.255.2.6:8084/GLOBOHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1354/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
@@ -684,11 +684,11 @@ http://168.205.87.198:8555/live/1354/123456/308.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 2
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
-http://45.190.28.50/GLOBO_HD/index.m3u8
+https://megaflix.mgfiles.lat/2db28a8006379b00ea3eec4872d9d449/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/globo.rj.br.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 5
-http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36968.ts
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP
+http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIARIO
 http://play.biturl.vip/live/meta12345/56u0pd1ppds/63723.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO MG
