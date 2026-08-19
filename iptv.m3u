@@ -56,7 +56,7 @@ https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://gerenciar.vivatele.com/viva_padrao/viva2384/2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-https://megaflix.mgfiles.lat/ed292e568d16f4b7fa94ca35f9825f9e/file.m3u8
+http://138.255.2.6:8084/RECORD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
