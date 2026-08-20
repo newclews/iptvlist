@@ -279,9 +279,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17183
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GOAT 2
-http://46.151.196.223:14148
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS 1
+http://168.205.87.198:8555/live/1354/123456/309.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS 2
 https://pb-r54iiecsw1gj5.akamaized.net/Video1_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
