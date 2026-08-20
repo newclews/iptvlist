@@ -696,6 +696,8 @@ http://168.205.87.198:8555/live/1354/123456/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT 2)
 http://gerenciar.vivatele.com/viva_padrao/viva2384/2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT SP
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/5f1597c7-144a-47aa-bf36-584cb3a06d25:SCL2/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT SP 2
 http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
 http://200.4.96.59:8825/play/a039/index.m3u8
