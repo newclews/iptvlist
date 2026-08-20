@@ -54,7 +54,7 @@ http://138.255.2.6:8084/BAND/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-http://gerenciar.vivatele.com/viva_padrao/viva2384/2
+http://138.255.2.6:8084/SBT/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://138.255.2.6:8084/RECORD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
@@ -694,7 +694,7 @@ http://play.biturl.vip/live/meta12345/56u0pd1ppds/63723.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO MG
 http://168.205.87.198:8555/live/1354/123456/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT 2)
-https://megaflix.cloudfronte.lat/zzzstream/sbtrj.m3u8
+http://gerenciar.vivatele.com/viva_padrao/viva2384/2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT SP
 http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SP
