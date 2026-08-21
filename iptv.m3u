@@ -772,7 +772,7 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
-http://138.255.2.6:8084/SBT/index.m3u8
+https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/22b0995f-a8a7-4b9c-99b3-710bf1d04c4d:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
 http://138.255.2.6:8084/BAND/index.m3u8
 #EXTINF:-1 tvg-id="PLUTO TV",",A Caçadora de Relíquias
