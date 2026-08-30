@@ -4,9 +4,9 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://assets.midiasimples.com.br/1603/tv_justica.png", TV JUSTIÇA
-https://hplay.tv/augetv/12396547488/24.m3u8
+http://45.190.28.50/TV_JUSTICA/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png", CANAL FUTURA
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
+http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ricardocostadigital.com.br/wp-content/uploads/2022/04/logo.png", REDE MAIS FAMÍLIA
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://back.ww-cdn.com/superstatic/version/1821384/iphone/1021/photo/navBar_titleImage@2x.png", TV SECULO 21
@@ -14,7 +14,7 @@ https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-http://gerenciar.vivatele.com/viva_padrao/viva2384/5
+http://45.162.64.114/CANCAO_NOVA/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap1080.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
