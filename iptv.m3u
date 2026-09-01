@@ -262,7 +262,7 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL (ALT)
 http://168.205.87.198:8555/live/1354/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
-http://138.255.2.6:8084/AGROMAIS/index.m3u8
+http://184.154.244.75:14098
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
