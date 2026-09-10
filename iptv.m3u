@@ -212,9 +212,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS CARTOON
 http://168.205.87.198:8555/live/1354/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://s2.micineovs.com/CARTOONNETWORK/index.m3u8?token=16FOTt9Ae2m8
+http://170.83.49.66:8083/CARTOONHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://143.14.178.40:7777/Cartoonito_HD/index.m3u8
+http://170.83.49.66:8083/CARTOONITOHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
@@ -223,10 +223,12 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 http://143.14.178.40:7777/Gloob_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK ONLINE SPONGEBOB
-https://pc.x1co.com.br/hls/stream.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICKELODEON
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK TOONS
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK BOB ESPONJA
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1354/123456/346.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
@@ -237,8 +239,6 @@ http://168.205.87.198:8555/live/1354/123456/284.m3u8
 http://45.190.28.50/TOONCAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
-http://45.190.156.152/CHAVES/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
 http://45.190.156.152/CHAPOLIN/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
@@ -290,7 +290,7 @@ http://46.151.196.223:14286
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
 http://79.127.243.211:14473
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-https://cr7v.short.gy/FuncionaSoquandoTemF1/ManoTVfree.m3u8
+http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
@@ -578,7 +578,7 @@ http://79.127.243.211:14623
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
 http://46.151.196.223:14613
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
-http://79.127.243.211:14565/_.m3u8
+http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
 https://origin-nxtv.b-cdn.net/SOPLAY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN SÉRIES
@@ -594,7 +594,7 @@ http://15.235.42.84:8088/rj-live/rj-live/600287.ts
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL 2
 http://79.127.238.228:14647
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
-http://46.151.196.223:14610
+http://170.83.49.66:8083/SPACEHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE 2
 https://stm.sinalmycn.com/13027/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
