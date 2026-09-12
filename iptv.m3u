@@ -239,8 +239,8 @@ http://168.205.87.198:8555/live/1354/123456/284.m3u8
 http://45.190.28.50/TOONCAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAPOLIN
-http://45.190.156.152/CHAPOLIN/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
+http://up.kiwi/351921603109/34939156/1257451
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 http://streamer.sattvacabo.com.br/HALLO_ANIME/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
