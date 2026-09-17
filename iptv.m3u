@@ -236,7 +236,7 @@ http://45.162.64.114/DISCOVERYKIDS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
 http://168.205.87.198:8555/live/1354/123456/284.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TOONCAST
-http://45.190.28.50/TOONCAST/index.m3u8
+http://138.204.86.4:8080/TOONCAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
