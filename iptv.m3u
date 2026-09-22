@@ -708,7 +708,7 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV3
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
-http://46.151.196.223:14202
+http://138.204.86.4:8080/RECORD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE SUPER
 http://168.205.87.198:8555/live/1354/123456/310.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
