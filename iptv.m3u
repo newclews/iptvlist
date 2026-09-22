@@ -160,7 +160,7 @@ https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT NEWS (FHD)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17316
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", METRÓPOLES 
 https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg30834-amg30834c1-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TELESUR
