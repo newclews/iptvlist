@@ -54,13 +54,13 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-http://streamer.sattvacabo.com.br/SBT_RIO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 http://play.biturl.vip/live/meta12345/56u0pd1ppds/63721.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
-https://a2cc63e065705fe938a4dda49092966f.s21-cloudfront-net.lat/embedtv/35f2a29883058c9d7a8ea75b14fe8c9c/file.txt
+https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
 http://138.204.86.4:8080/GLOBO_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
@@ -470,11 +470,11 @@ https://megaflix.mgfiles.lat/cc13c1734b1bb80b512e88ed402d1af8/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
 http://185.152.67.187:14392
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
-http://79.127.243.211:14370/_.m3u8
+https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
 http://79.127.243.211:14619/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL (ALT)
-https://megaflix.mgfiles.lat/b79220c0a11a0b150dbebd0eee4238e0/file.m3u8
+https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY THEATER
 https://megaflix.mgfiles.lat/24161214808fec7d4e71d683bc18cf2d/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
@@ -616,21 +616,21 @@ http://143.14.178.40:7777/Telecine_Fun_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 http://143.14.178.40:7777/Telecine_Cult_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-http://79.127.243.211:14668
+https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-http://79.127.243.211:14660
+https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://megaflix.mgfiles.lat/8ea50dc6ffce55fe09cf2468ab78d9c7/file.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-https://megaflix.mgfiles.lat/d821613ce0d5a46d2cc4d0c322096fba/file.m3u8
+https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-http://streamer.sattvacabo.com.br/HBO_POP_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-http://streamer.sattvacabo.com.br/HBO_MUNDI_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
 http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-https://stm.sinalmycn.com/14018/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
