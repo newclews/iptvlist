@@ -168,7 +168,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logos-world.net/wp-content/uploads/2024/01/Telemundo-Symbol.png", TELEMUNDO FLORIDA
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO NOTICIAS
-http://15.204.246.24:8080/TNHD/index.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RT ESPANHOL
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/2560px-Milenio_%282018-10-27%29.svg.png", MILENIO TELEVISION
@@ -780,6 +780,8 @@ http://181.78.211.244:8005/play/a09z/index.m3u8
 http://181.78.211.244:8005/play/a09s/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICKELODEON (AR)
 http://190.108.83.69:8000/play/a03l/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LAS ESTRELLAS
+http://190.108.83.69:8000/play/a09l/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/22b0995f-a8a7-4b9c-99b3-710bf1d04c4d:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
