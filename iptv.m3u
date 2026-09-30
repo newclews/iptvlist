@@ -662,9 +662,10 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV BRASIL INTERNACIONAL
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CABLE NOTICIAS
+http://181.78.211.244:8005/play/a09u/index.m3u8
 http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CITY TV
-http://138.121.15.230:9002/CITY-TV/index.m3u8
+http://181.78.211.244:8005/play/a08e/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARACOL TV
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO NEWS (ALT)
@@ -773,6 +774,10 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/161
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARTOON NETWORK ESPANHOL
+http://181.78.211.244:8005/play/a09z/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY JR ESPANHOL
+http://181.78.211.244:8005/play/a09s/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/22b0995f-a8a7-4b9c-99b3-710bf1d04c4d:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
