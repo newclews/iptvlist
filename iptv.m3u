@@ -286,11 +286,11 @@ https://pb-r54iiecsw1gj5.akamaized.net/Video1_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://46.151.196.223:14286
+http://195.178.110.110/sportv/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://79.127.243.211:14473
+http://195.178.110.110/sportv2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://170.83.49.66:8083/SPORTV3HD/index.m3u8
+http://195.178.110.110/sportv3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
@@ -741,19 +741,19 @@ http://79.127.243.211:14657
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 4
 http://79.127.243.211:14658
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://104.238.222.251:8989/278939_.m3u8
+http://195.178.110.110/premiere1/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://79.127.243.211:14485
+http://195.178.110.110/premiere2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://79.127.243.211:14489
+http://195.178.110.110/premiere3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://79.127.243.211:14481
+http://195.178.110.110/premiere4/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://79.127.243.211:14493
+http://195.178.110.110/premiere5/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://79.127.243.211:14497
+http://195.178.110.110/premiere6/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://79.127.243.211:14501
+http://195.178.110.110/premiere7/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
 http://79.127.243.211:14497
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
