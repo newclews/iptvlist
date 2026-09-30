@@ -778,6 +778,8 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
 http://181.78.211.244:8005/play/a09z/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY JR ESPANHOL
 http://181.78.211.244:8005/play/a09s/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICKELODEON (AR)
+http://190.108.83.69:8000/play/a03l/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE
 https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/22b0995f-a8a7-4b9c-99b3-710bf1d04c4d:SCL2/variant/0ded2e802add945e46654b5b8226ed9d/bandwidth/3860587.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TESTE 2
