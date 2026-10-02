@@ -440,7 +440,7 @@ https://cdn-3.nxplay.com.br/UPCHANNEL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YES LIFE
 https://cdn-3.nxplay.com.br/LIFE/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
-http://79.127.243.211:14312/_.m3u8
+http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
 http://200.4.96.59:8825/play/a020/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
@@ -560,9 +560,9 @@ https://video01.brascast.com/david7639/david7639/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
 https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
-http://45.190.28.50/AXN_HD/index.m3u8
+http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+http://79.127.238.228:14417
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 http://d.plmv.site:8080/Zezo2No3/9533gptrxzz/1844
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
@@ -572,7 +572,7 @@ https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV J SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
-http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://79.127.238.228:14551
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
 http://79.127.243.211:14623
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
@@ -586,7 +586,7 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN RETRO
 http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://79.127.243.211:14615/_.m3u8
+http://79.127.238.228:14629
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT 2
 https://cdn-3.nxplay.com.br/TNT_TK/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
