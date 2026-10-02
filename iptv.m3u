@@ -56,13 +56,13 @@ https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://play.biturl.vip/live/meta12345/56u0pd1ppds/63721.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-http://138.204.86.4:8080/GLOBO_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/globorj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1354/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
@@ -212,9 +212,9 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", KIDS CARTOON
 http://168.205.87.198:8555/live/1354/123456/299.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOON NETWORK
-http://170.83.49.66:8083/CARTOONHD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonnetwork.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
-http://170.83.49.66:8083/CARTOONITOHD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
@@ -296,7 +296,7 @@ http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OFF
-http://143.14.178.40:7777/OFF_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/off.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
 http://45.162.64.114/ESPN_BRASIL/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
@@ -444,7 +444,7 @@ http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
 http://200.4.96.59:8825/play/a020/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTISHOW
-https://megaflix.mgfiles.lat/967dc441704ce68263139f1f50b6b530/file.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", BIS
 http://79.127.243.211:14286/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", VEJA PLUS
@@ -464,15 +464,15 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
 https://cdn-3.nxplay.com.br/SOPLAY_POLICIAL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
-http://45.190.28.50/HISTORY_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/history.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1 (ALT)
 https://megaflix.mgfiles.lat/cc13c1734b1bb80b512e88ed402d1af8/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
-http://185.152.67.187:14392
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
 https://cdn-sp2.satlabscloud.com.br/ANIMAL_PLANET_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
-http://79.127.243.211:14619/_.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverychannel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL (ALT)
 https://cdn-sp2.satlabscloud.com.br/DISCOVERY_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY THEATER
@@ -480,13 +480,13 @@ https://megaflix.mgfiles.lat/24161214808fec7d4e71d683bc18cf2d/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY H&H
 http://hls1.sua.tv:80/live/discoveryhehfhd/s.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
-https://megaflix.mgfiles.lat/4f9b45a8d9320c4f545c1b19f30a5037/file.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryscience.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
-http://45.162.64.114/DISCOVERY_ID/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryid.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY WORLD
-http://45.162.64.114/DISCOVERY_WORLD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryworld.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY TURBO
-http://45.162.64.114/DISCOVERY_TURBO/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryturbo.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DRIVE
 http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", RACER BRASIL
@@ -500,7 +500,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/SONYEMOCOESType-B_-1x1-Circles-476x476AngelaSuarez.png", SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
-http://45.190.28.50/SONY_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 http://streamer.sattvacabo.com.br/SONY_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
@@ -558,7 +558,7 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GOITACÁ
 https://video01.brascast.com/david7639/david7639/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
@@ -574,9 +574,9 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/chunklist_w25182327.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png", A&E
 http://79.127.238.228:14551
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UNIVERSAL TV
-http://79.127.243.211:14623
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STUDIO UNIVERSAL
-http://46.151.196.223:14613
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AMC
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SÓPLAY MOVIES
@@ -600,21 +600,21 @@ https://stm.sinalmycn.com/13027/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZy
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
 http://148.113.160.48:14201
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-http://143.14.178.40:7777/Telecine_Premium_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
-http://143.14.178.40:7777/Telecine_Action_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION 2
 http://79.127.243.211:14632
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-http://143.14.178.40:7777/Telecine_Pipoca_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-http://79.127.243.211:14652
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-http://79.127.243.211:14492
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
 http://143.14.178.40:7777/Telecine_Fun_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-http://143.14.178.40:7777/Telecine_Cult_HD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
@@ -710,6 +710,8 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 http://138.204.86.4:8080/RECORD/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
+http://play.biturl.vip/live/meta12345/56u0pd1ppds/63721.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE SUPER
 http://168.205.87.198:8555/live/1354/123456/310.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
