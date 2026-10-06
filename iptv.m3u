@@ -183,14 +183,12 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CABLE NOTICIAS
 https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGA
-http://45.232.210.1:18000/play/a086/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LATINA (PE)
 https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMELIER TV
-https://dfr80qz435crc.cloudfront.net/ABCD/Amagi/Sofa_Digital/Filmelier_TV_BR/1080p-VTT/index.m3u8
+https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierportuguese-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/combrasil.png", TV COM BRASIL
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist_w496684833.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/8jQ9FXU.png", REDE CLOUDING
@@ -276,7 +274,7 @@ http://46.151.196.223:14468
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GP TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", N SPORTS
-https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL GOAT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17183
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS 1
