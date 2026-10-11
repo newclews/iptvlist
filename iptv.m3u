@@ -223,11 +223,11 @@ https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 http://up.kiwi/351921603109/34939156/545
 #EXTINF:0 type="stream" group-title="TV AO VIVO", NICK ONLINE
 https://x1co.com.br:8443/hls/stream.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICKELODEON
-https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK TOONS
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK ONLINE 2
+https://x1colegal.com/hls/stream.m3u8?cachebust=f7526c
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK BOB ESPONJA
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NICK BOB ESPONJA (NOT 24/7)
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1354/123456/346.m3u8
@@ -553,8 +553,8 @@ http://streamer.sattvacabo.com.br/HALLO_CLASSIC/index.m3u8?token=TLGacFXd0gIXIuo
 http://streamer.sattvacabo.com.br/HALLO_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
 https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
-https://cdn-3.nxplay.com.br/ENTRETENDO/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMEDY CENTRAL
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMEDY CLUB
 https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GOITACÁ
