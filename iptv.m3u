@@ -311,6 +311,8 @@ http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b78b33e42744cf69addf997b9cd4d2e/manifest_abr/d9138e94-636d-4941-b8da-6c299d3727a0/946cafd578f628eba5b742ec27dd1e98/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CAZE TV
 https://cc-gilgbjhgo02wm.akamaized.net/Caze_TV.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTY NET
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/manifest_abr/6dd3e5d0-e868-4001-b8fa-d11515276636/946cafd578f628eba5b742ec27dd1e98/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MUSIC
 https://cdn-sp2.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
