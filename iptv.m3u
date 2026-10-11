@@ -185,6 +185,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV LATINA (PE)
 https://origin.dpsgo.com/ssai/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SIC REPLAY
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://awtv.com.br/wp-content/uploads/2021/10/cropped-Design_sem_nome-removebg-preview.png", AW TV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILMELIER TV
@@ -730,6 +732,8 @@ http://79.127.243.211:14312
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SMURFS
 https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", EL CHAVO
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES 2
 http://up.kiwi/351921603109/34939156/1293418
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", X SPORTS (ALT)
