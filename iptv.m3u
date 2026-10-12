@@ -681,7 +681,7 @@ https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS (ALT)
 http://46.151.196.223:14077
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BANDNEWS (ALT)
-http://143.14.178.40:7777/Band_News_HD/index.m3u8
+https://cdn-5.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT)
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN BRASIL (ALT 2)
