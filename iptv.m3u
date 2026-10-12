@@ -505,6 +505,8 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
 https://cdn-5.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HTO FILMES
+https://cdn-5.nxplay.com.br/HTO_FILMES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AÇÃO
