@@ -262,7 +262,7 @@ https://amg26188-amg26188c2-amgplt0026.playout.now3.amagi.tv/playlist/amg26188-a
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL RURAL (ALT)
 http://168.205.87.198:8555/live/1354/123456/312.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGROMAIS
-http://184.154.244.75:14098
+https://cdn-5.nxplay.com.br/AGRO_MAIS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AGRO CANAL
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FISH TV
@@ -504,7 +504,7 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY CHANNEL
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sonychannel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SONY MOVIES
-http://streamer.sattvacabo.com.br/SONY_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE NACIONAIS
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CINE AÇÃO
