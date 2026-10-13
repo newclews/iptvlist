@@ -438,9 +438,9 @@ http://168.205.87.198:8555/live/1354/123456/344.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PRIME
 http://46.151.196.223:14057
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", UP CHANNEL
-https://cdn-3.nxplay.com.br/UPCHANNEL/index.m3u8
+https://cdn-5.nxplay.com.br/UPCHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", YES LIFE
-https://cdn-3.nxplay.com.br/LIFE/index.m3u8
+https://cdn-5.nxplay.com.br/LIFE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT
 http://79.127.238.228:14402
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT (ALT)
@@ -456,7 +456,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Tastemade/TastemadeHome_BR/1080p
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
 http://79.127.243.211:14573/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
-https://cdn-3.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
+https://cdn-5.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
 http://streamer.sattvacabo.com.br/ARTE_1/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
@@ -546,15 +546,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN MOVIES
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", URBAN RETRÔ
-https://hplay.tv/augetv/12396547488/6742.m3u8
+https://cdn-5.nxplay.com.br/URBAN_RETRO/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ENTRETENDO
+https://cdn-5.nxplay.com.br/ENTRETENDO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO MOVIES
-http://streamer.sattvacabo.com.br/HALLO_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO CLASSIC
-http://streamer.sattvacabo.com.br/HALLO_CLASSIC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HALLO SÉRIES
-http://streamer.sattvacabo.com.br/HALLO_SERIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BORA FILMES
-https://cdn-3.nxplay.com.br/BORAFILMES_FAST/tracks-v1a1/mono.ts.m3u8?token=fr0nt-t3st
+https://cdn-5.nxplay.com.br/BORAFILMES/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMEDY CENTRAL
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMEDY CLUB
