@@ -58,7 +58,7 @@ https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kA
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordsp.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-sp2.satlabscloud.com.br/GLOBO_SP/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
@@ -695,7 +695,7 @@ http://168.205.87.198:8555/live/1354/123456/308.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 2
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
-https://megaflix.mgfiles.lat/2db28a8006379b00ea3eec4872d9d449/file.m3u8
+https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/globo.rj.br.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP
