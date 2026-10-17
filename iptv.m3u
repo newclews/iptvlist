@@ -54,7 +54,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
@@ -706,6 +706,8 @@ http://play.biturl.vip/live/meta12345/56u0pd1ppds/63723.m3u8
 http://168.205.87.198:8555/live/1354/123456/282.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT 2)
 http://gerenciar.vivatele.com/viva_padrao/viva2384/2
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT RJ (ALT 3)
+https://cdn-sp2.satlabscloud.com.br/SBT_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT SP
 https://dai.google.com/linear/hls/pa/event/Gmgmn9icSMOL6TAePageWQ/stream/5f1597c7-144a-47aa-bf36-584cb3a06d25:SCL2/master.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT SP 2
