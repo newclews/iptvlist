@@ -50,7 +50,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhYzJhNmU3LWNlZWMtNDhiMS1iYWFlLWMzNmZhYzc0MDAyOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4OTY4NjA3NiwibmJmIjoxNzg5Njg2MDc2LCJleHAiOjE3OTIyNzgwNzYsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjRhYzJhNmU3LWNlZWMtNDhiMS1iYWFlLWMzNmZhYzc0MDAyOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.3Rb9TFg5rmkOok4e3S6goHEUOTr5Tg5_SpfXxaxef3A&uid=4ac2a6e7-ceec-48b1-baae-c36fac740029
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRhYzJhNmU3LWNlZWMtNDhiMS1iYWFlLWMzNmZhYzc0MDAyOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4OTY4NTg2NywibmJmIjoxNzg5Njg1ODY3LCJleHAiOjE3OTIyNzc4NjcsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjRhYzJhNmU3LWNlZWMtNDhiMS1iYWFlLWMzNmZhYzc0MDAyOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.ktyzINe8yvHRa9m-XIrA67K-akc3EsCOYrKS1H5fTC8&uid=4ac2a6e7-ceec-48b1-baae-c36fac740029
+https://cdn-5.nxplay.com.br/BAND_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
@@ -231,6 +231,8 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BOX KIDS
 http://168.205.87.198:8555/live/1354/123456/346.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HTO KIDS
+https://cdn-5.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY KIDS
 http://45.162.64.114/DISCOVERYKIDS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png", TV RA TIM BUM
@@ -239,8 +241,6 @@ http://168.205.87.198:8555/live/1354/123456/284.m3u8
 http://138.204.86.4:8080/TOONCAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CHAVES
-http://auth.urltech.gy/live/jorge1922/p69d7znhv9m/985933.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-sp2.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
