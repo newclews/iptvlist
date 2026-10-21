@@ -54,9 +54,9 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/sbtrj.m3u8
+https://cdn-5.nxplay.com.br/SBT_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
+https://cdn-5.nxplay.com.br/RECORD_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordsp.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -244,7 +244,7 @@ http://auth.urltech.gy/live/jorge1922/p69d7znhv9m/985933.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
 https://cdn-sp2.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
-http://168.197.104.22:80/ADULT_SWIM/index.m3u8
+https://cdn-5.nxplay.com.br/ADULT_SWIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LOADING
@@ -697,7 +697,7 @@ http://gerenciar.vivatele.com/viva_padrao/viva2384/1
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 3
 https://cdn-sp2.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO RJ 4
-https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/globo.rj.br.m3u8
+https://cdn-5.nxplay.com.br/GLOBO_RIO/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBO SP
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV DIARIO
@@ -721,9 +721,9 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV3
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
-http://138.204.86.4:8080/RECORD/index.m3u8
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
-http://play.biturl.vip/live/meta12345/56u0pd1ppds/63721.m3u8
+http://138.204.86.4:8080/RECORD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE SUPER
 http://168.205.87.198:8555/live/1354/123456/310.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
