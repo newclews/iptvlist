@@ -156,12 +156,14 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portuga
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN MONEY
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OESTE TV
-https://cdn-5.nxplay.com.br/OESTE_TV/tracks-v1a1/mono.m3u8
+https://cc-ugbqi59nx461h.akamaized.net/ENC_STENNA/OESTE_H265_1080p/chunks.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT NEWS (FHD)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=17316
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", METRÓPOLES 
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BM&C NEWS
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", METRÓPOLES
 https://amg30834-amg30834c1-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg30834-amg30834c1-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RÁDIO BANDEIRANTES
 https://amg29547-amg29547c3-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c3-amgplt0026/playlist.m3u8
@@ -215,8 +217,6 @@ http://168.205.87.198:8555/live/1354/123456/299.m3u8
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonnetwork.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CARTOONITO
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO", DISNEY CHANNEL
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", FOX KIDS
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", GLOOB
@@ -242,7 +242,7 @@ http://138.204.86.4:8080/TOONCAST/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", CHESPIRITO
 http://168.205.87.198:8555/live/1354/123456/306.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO ANIME
-https://cdn-sp2.satlabscloud.com.br/HALLO_ANIME/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ADULT SWIM
 https://cdn-5.nxplay.com.br/ADULT_SWIN/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://geekdot.live/wp-content/uploads/2022/10/logogkd22branca.png", GEEKDOT TV
@@ -316,7 +316,7 @@ https://cc-gilgbjhgo02wm.akamaized.net/Caze_TV.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTY NET
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/manifest_abr/6dd3e5d0-e868-4001-b8fa-d11515276636/946cafd578f628eba5b742ec27dd1e98/0.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO MUSIC
-https://cdn-sp2.satlabscloud.com.br/HALLO_MUSIC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://cdn-5.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" aspect-ratio="original", AFROBEATS
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIKTOK BRASIL
@@ -458,9 +458,9 @@ http://79.127.243.211:14573/_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", INSPIRE
 https://cdn-5.nxplay.com.br/INSPIRE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
-http://streamer.sattvacabo.com.br/ARTE_1/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/ARTE1/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", HALLO DOC
-http://streamer.sattvacabo.com.br/HALLO_DOC/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+https://cdn-5.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", URBAN DOCS
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO", SÓPLAY POLICIAL
