@@ -56,7 +56,7 @@ https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
 http://gerenciar.vivatele.com/viva_padrao/viva2384/2
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-https://cdn-5.nxplay.com.br/RECORD_RJ/tracks-v1a1/mono.m3u8
+http://138.204.86.4:8080/RECORD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
 https://cdn-5.nxplay.com.br/RECORD_SP/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
@@ -113,8 +113,8 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunks.m3u8
 https://pop2.uniquetv.com.br/hls/uniquetv.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tvfloridausa.com/wp-content/uploads/2022/05/LOGO-SITE-NEW-BRANCA.png", TV FLORIDA
 https://srv6.zcast.com.br/tvfloridausa/tvfloridausa/playlist.m3u8
-#EXTINF:0 type="stream" group="TV AO VIVO" logo="https://assets.iptv2022.com/uploads/channel/12846/thumb_image_2022-02-03_16-12-51.png" aspect-ratio="16:9", GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0 type="stream" group="TV AO VIVO" logo="" aspect-ratio="16:9", VRT CHANNEL
+https://cdn-origin.smartplay.pe/soultv-vrtchannel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVT
 https://pb-k6qlbl6pc1xqh.akamaized.net/TVTNews.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANAL EDUCAÇÃO
@@ -723,7 +723,7 @@ https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 2
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordrj.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RECORD RJ 3
-http://138.204.86.4:8080/RECORD/index.m3u8
+https://cdn-5.nxplay.com.br/RECORD_RJ/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", REDE SUPER
 http://168.205.87.198:8555/live/1354/123456/310.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CANÇÃO NOVA 2
