@@ -628,9 +628,9 @@ https://grupoa.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur6
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
 https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
-https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://gvtelecom.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
-https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://gvtelecom.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
 http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
