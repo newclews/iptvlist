@@ -54,15 +54,15 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
 https://aovivo.maissbt.com/channel.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT RJ
-http://gerenciar.vivatele.com/viva_padrao/viva2384/2
+https://grupoa.satlabscloud.com.br/SBT_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV RJ
-http://138.204.86.4:8080/RECORD/index.m3u8
+https://grupoa.satlabscloud.com.br/RECORD_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/recordtv.png", RecordTV SP
-https://cdn-5.nxplay.com.br/RECORD_SP/playlist.m3u8
+https://grupoa.satlabscloud.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://cdn-5.nxplay.com.br/GLOBO_RIO/tracks-v1a1/mono.m3u8
+https://grupoa.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1354/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
@@ -620,13 +620,13 @@ http://143.14.178.40:7777/Telecine_Fun_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
-https://cdn-sp2.satlabscloud.com.br/HBO/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://grupoa.satlabscloud.com.br/HBO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
-https://cdn-sp2.satlabscloud.com.br/HBO2/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://grupoa.satlabscloud.com.br/HBO2/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO FAMILY
-https://cdn-sp2.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://grupoa.satlabscloud.com.br/HBO_FAMILY/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO PLUS
-https://cdn-sp2.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://grupoa.satlabscloud.com.br/HBO_PLUS/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO POP
 https://cdn-sp2.satlabscloud.com.br/HBO_POP_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI
@@ -634,7 +634,7 @@ https://cdn-sp2.satlabscloud.com.br/HBO_MUNDI_HD/index.m3u8?token=Mw3YKkujzIi9hY
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO MUNDI 2
 http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
-https://cdn-sp2.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+https://grupoa.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
 https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
