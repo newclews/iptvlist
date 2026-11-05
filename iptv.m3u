@@ -157,6 +157,8 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portuga
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OESTE TV
 https://cc-ugbqi59nx461h.akamaized.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AURIVERDE BRASIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17395
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT NEWS (FHD)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
@@ -173,8 +175,6 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO NOTICIAS
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MULTIVISION
-https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", RT ESPANHOL
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Milenio_%282018-10-27%29.svg/2560px-Milenio_%282018-10-27%29.svg.png", MILENIO TELEVISION
