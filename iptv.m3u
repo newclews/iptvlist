@@ -62,7 +62,7 @@ https://grupoa.satlabscloud.com.br/RECORD_SP/index.m3u8?token=RGnYBgq1dxRk5Eur69
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO SP
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO RJ
-https://grupoa.satlabscloud.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+https://net11.sattvgo.com.br/GLOBO_RIO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/1/11/RedeTV%21_2019_logo.png", REDETV
 http://168.205.87.198:8555/live/1354/123456/289.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TVC RIO
@@ -745,47 +745,27 @@ http://168.205.87.198:8555/live/1354/123456/309.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
 http://79.127.243.211:14615
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS
-http://79.127.243.211:14649
+http://45.134.141.161:2200/BRX/Paramount_Plus_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 2
-http://79.127.243.211:14653
+http://45.134.141.161:2200/BRX/Paramount2_Plus_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 3
-http://79.127.243.211:14657
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PARAMOUNT PLUS 4
-http://79.127.243.211:14658
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-http://195.178.110.110/premiere1/index.m3u8
+http://45.134.141.161:2200/BRX/Premiere_Clubes_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-http://195.178.110.110/premiere2/index.m3u8
+https://manotv.s.gy/Pr2/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-http://195.178.110.110/premiere3/index.m3u8
+https://manotv.s.gy/Pr3/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
-http://195.178.110.110/premiere4/index.m3u8
+https://manotv.s.gy/Pr4/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
-http://195.178.110.110/premiere5/index.m3u8
+https://manotv.s.gy/Pr5/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 6
-http://195.178.110.110/premiere6/index.m3u8
+https://manotv.s.gy/Pr6/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 7
-http://195.178.110.110/premiere7/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 8
-http://79.127.243.211:14497
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE B
-http://79.127.238.228:14157
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE C
-http://79.127.243.211:14501
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE D
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/152
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE E
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/153
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE F
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/159
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE G
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/160
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE H
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/161
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE I
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/162
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE J
-http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/163
+https://manotv.s.gy/Pr7/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CARTOON NETWORK ESPANHOL
 http://181.78.211.244:8005/play/a09z/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DISNEY JR ESPANHOL
