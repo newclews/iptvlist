@@ -604,13 +604,13 @@ https://cdn-5.nxplay.com.br/SPACE/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FILM & ARTS
 https://cdn-5.nxplay.com.br/FILM_ARTS/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.m3u8
+https://stream.mgfiles.lat/stream/014b319eb7a5c33c530874492f9fc32e/error.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
 http://46.151.196.223:14326
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION 2
 http://79.127.243.211:14632
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepipoca.m3u8
+https://stream.mgfiles.lat/stream/1d6d7a1409b6aa4ad61a6200a28ae2e6/error.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
 https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
