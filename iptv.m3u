@@ -284,11 +284,11 @@ https://pb-r54iiecsw1gj5.akamaized.net/Video1_4.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 1
-http://195.178.110.110/sportv/index.m3u8
+http://45.185.15.154:9080/stream/15/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 2
-http://195.178.110.110/sportv2/index.m3u8
+http://45.185.15.154:9080/stream/14/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPORTV 3
-http://195.178.110.110/sportv3/index.m3u8
+http://45.185.15.154:9080/stream/31/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Woohoo.png", WOOHOO
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WOOHOO SURF
@@ -560,11 +560,11 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TV GOITACÁ
 https://video01.brascast.com/david7639/david7639/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CINEMAX
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/cinemax.m3u8
+http://45.185.15.154:9080/stream/24/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AXN
 http://79.127.238.228:14563
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MEGAPIX
-http://79.127.238.228:14417
+http://45.185.15.154:9080/stream/61/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png", LIFETIME
 https://cdn-5.nxplay.com.br/LIFE_TIME/tracks-v2a1/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", USA
@@ -610,13 +610,13 @@ http://79.127.243.211:14632
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 https://stream.mgfiles.lat/stream/1d6d7a1409b6aa4ad61a6200a28ae2e6/error.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.m3u8
+http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.m3u8
+http://45.185.15.154:9080/stream/63/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN 2
 http://143.14.178.40:7777/Telecine_Fun_HD/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.m3u8
+http://45.185.15.154:9080/stream/64/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 1
 https://grupoa.satlabscloud.com.br/HBO/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO 2
@@ -634,7 +634,7 @@ http://45.235.0.78/HBO_MUNDI_HD/tracks-v1a2/mono.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO SIGNATURE
 https://grupoa.satlabscloud.com.br/HBO_SIGNATURE/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", HBO XTREME
-https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
+http://45.185.15.154:9080/stream/26/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS
 http://79.127.238.228:14455
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GLOBOPLAY NOVELAS 2
