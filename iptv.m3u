@@ -730,6 +730,8 @@ http://45.162.231.38:7779/TruTV/index.m3u8
 http://79.127.243.211:14436
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GNT 2
 http://79.127.243.211:14312
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TODO MUNDO ODEIA O CHRIS
+https://pb-dye7eyvknqixr.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dye7eyvknqixr/out/v1/03dc45ef82b746f88cd79b48ea3fd8e7/HLS_CMAF_DRM/index.m3u8?ads.ads_cdn=ak&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=ak&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=BR3100001V1&ads.ssai_vendor=SSSLIVE&pb_type=pb-dye7eyvknqixr_akamai
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", POPEYE
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OS SMURFS
