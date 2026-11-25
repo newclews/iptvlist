@@ -155,10 +155,10 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", CNN MONEY
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", AURIVERDE BRASIL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=17395&avod=1&coppa=0&td=6
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", OESTE TV
 https://cc-ugbqi59nx461h.akamaized.net/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://lge-static.ottera.tv/prod/avb/linear_channel/anamorphic-logo/400x200/logo_auri_400x200.png", AURIVERDE BRASIL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17395&avod=1&coppa=0&td=6
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SBT NEWS (FHD)
 https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TIMES BRASIL
